@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文化 on 开源之道</title>
+    <link>http://www.ocselected.org/tags/%E6%96%87%E5%8C%96/</link>
+    <description>Recent content in 文化 on 开源之道</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 20 May 2016 08:36:54 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.ocselected.org/tags/%E6%96%87%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>为雷鸟寻找新的东家</title>
+      <link>http://www.ocselected.org/posts/opensource/finding_a_home_for_thunderbird/</link>
+      <pubDate>Fri, 20 May 2016 08:36:54 -0700</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/finding_a_home_for_thunderbird/</guid>
+      <description>Thunderbird 寻找、选择社区的分析报告 译者的话 在为 InfoQ 中国寻找新闻线索的过程中，找到了这篇文章：Mozilla 在为雷鸟寻找下一个主人 ，而我自己和雷鸟的渊源，大约要从2005年左右算起，那时是 Firefox 进军中国之前，由国内的爱好者们组成的论坛，那时候社交媒体还没有这么的多和发达，而我第一次为社区做贡献，就是那个时候在论坛里做“Linux下的雷鸟客户端”版块的版主。差不多是10年过去了！雷鸟的发展似乎渐渐的淡出了我的视野，我自己的邮件客户端基本就是Gmail的web版。Mozilla 在捐献 Thunderbird，其背后的意义我可能暂时还没有时间去探究，但是由Simon Phipps所提交的报告引发了我的兴趣。于是就将此文翻译了。
+至于我要学习的东西，可能就是文章所列出的捐献给谁的好处、坏处列举吧！
+PDF 原版 请自行下载阅读。 应 Mozilla 基金会的要求，Simon Phipps所准备的报告 2016.4.7 版本1.0
+概要介绍及背景阐述 Mozilla 雷鸟（Thunderbird）是一款跨平台的邮件、新闻组、日历、以及在线聊天的桌面客户端。
+历史 雷鸟项目和火狐项目拥有一样的根－不仅是公司，还有技术上。在成为产品分离之前，它俩还是 Mozilla 套件，那是2004年。在很长一段时间，雷鸟和火狐都共享着很多的代码－－主要是 Gecko HTML 渲染引擎。
+在2012年的时候，Mozilla 做了一个决定，认为雷鸟这款卓越的电子邮件程序，不再可能有更好的发展，而且也影响到了 Mozilla 的使命，所以最终 Mozilla 对于雷鸟的预算大大的减少，此后，雷鸟的开发全靠来自社区志愿者们积极的努力。
+这个变化主要是来自行政上的，而并非是技术问题。从那以后，雷鸟就一直在基于和 Firefox 分道扬镳之前最后的 Gecko 代码库苦苦支撑着，就这样，在2016年，来自行政和技术的双重压力继续榨干雷鸟本来就有限的资源，而且也有点拖累 Firefox。问题在于 Firefox 要准备作出重大变化的短期内会更加突出。
+尽管 Mozilla 想要确保雷鸟的稳定发展，不仅是行政上，还有技术上，但是 Mozilla 更加倾向于积极的推进并专注于保存和保护开放的 web 的能力，因此，Mozilla不再为雷鸟投入更多的资源了，也因此开发雷鸟相比过去会有更少的开发者。
+未来 基于上述的这些原因，Mozilla 决定启动让雷鸟更加的独立的进程，不仅是行政上的，也包括技术上的真正意义的独立。意料中的结果是雷鸟在技术上彻底和Firefox 分离，且要独立治理和Mozilla 公司再无半分瓜葛。Mozilla 基金会已经声明在未来仍然会为雷鸟继续贡献，且会提供任何可能让雷鸟走向成功的开放的解决方案。
+Mozilla 告诉我，他们会预计会提供一部分基金来帮助完全过渡到接手的组织，也会考虑一些持续的支持。但在那之后，无论选择哪种 Mozilla 的立场就是将雷鸟视为其外部的项目，在某个恰当的时刻，Mozilla 的直接的技术干涉也会停止。且 Mozilla 基金会同意为雷鸟的未来技术路线提供一名合适的、有经验的架构师，从而帮助其在新的地方能够评估一些技术上的抉择。
+在此报告中，我作为文档基金会的总监，我并不会对结果有任何推荐的倾向，从而避免一些潜在的利益冲突。我的任务是为 Mozilla 的领导层和雷鸟的委员会提供每个可能的社区／基金会的优缺点以及我的观察，我也会描述被他们提名过但并不可行的社区／基金会。</description>
+    </item>
+    
+  </channel>
+</rss>

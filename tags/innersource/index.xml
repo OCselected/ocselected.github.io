@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>InnerSource on 开源之道</title>
+    <link>http://www.ocselected.org/tags/innersource/</link>
+    <description>Recent content in InnerSource on 开源之道</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 12 Jun 2017 21:12:39 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.ocselected.org/tags/innersource/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>内部开源系列之二 —— 经典案例</title>
+      <link>http://www.ocselected.org/posts/innersource/use_case_of_innersource/</link>
+      <pubDate>Mon, 12 Jun 2017 21:12:39 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/innersource/use_case_of_innersource/</guid>
+      <description>引子 InnerSource 的介绍，我似乎陷入了一种不知该从何讲起的尴尬局面，也就是所谓的破局，理论？历史？案例？实践？文化？曾几何时，脑子灵光一闪，希望通过某个假想中的案例来阐述，从管理、文化、开发、协作、产品、生态、人才等多个角度来逐步细致将一个InnerSource贯彻到底。但是想法总归是想法，需要时间来慢慢的完善。难道是我的每周一篇文章时间定错了？还是应该将InnerSource单独拿出来，独立成系列？我陷入了思考和停滞状态。
+但是，国人的思维是喜欢案例的！尤其是你出身于某个案例，因为保守，不愿冒险！好吧，思考归思考，材料还的积累。于是有了此文，尝试将现有的InnerSource案例整理出来。
+InnerSource 案例 在一个普遍推崇模仿、山寨的文化中，谈案例是最受欢迎的，我也顺着这个思路来写一篇试试水，以实际行动来验证下。
+InnerSource 正如我在上一篇文章中所提到的，不是什么新的概念和实践，而是有很多学界和厂商都在研究、运行，下面笔者就列出一些业界公开的案例。
+PayPal PayPal 是在2013年施行的InnerSource，主要是内部的开发效率遇到了严重的问题，由于PayPal是一家跨国公司，各个国家的清算情况又不尽相同，于是牵扯到沟通、协调、覆盖代码等问题，在施行InnerSource之前，PayPal施行过两种办法：自顶向下的强制和驻场。最终证明这都不可行。
+PayPal从开放源代码软件中汲取了灵感，尤其是来自Apache软件基金会的实践。他们发现了开源软件的组织原则，即每个项目都有各个金字塔的层：用户，在最底层；贡献者；可信任的提交者；最上层是架构师／开发者的领导者。PayPal评估了这些个情况后，作出最大的变化是引入“可信任的提交者”角色。
+从2015 年开始，PayPal 在InnerSource施行成功之后，开始了他们的积极推广之旅，成立了InnerSource corporate-vs-community-better-open-source 社区，每年做一次InnerSource的调查，并组织面向全世界的InnerSource峰会。
+PayPal 自身是InnerSource的积极受益者。这点是毋庸置疑的。当然这也得感谢PayPal的技术带头人：Cedric Williams。
+沃尔玛 沃尔玛给人的感觉，和领先的IT技术似乎无关，但是，沃尔玛一直在电商方面努力着。技术方面从eBay挖来了Jeremy King，Jeremy King上任以来就在推行InnerSource，在一篇报道中指出： &amp;gt; 沃尔玛的研发团队有一千多人，他们每个月要做约30000次代码部署，但是King仍认为他们只是“世界上最大的创业团队”而已，因为有的公司做一个项目可能就会要上千人了。沃尔玛的一千多名研发工程师分布在约100个小组中，每个小组有10-20人，开发、构建、测试和部署等全部由小组自行负责，以DevOps模式工作。尽管大家的工作模式都是持续集成、迭代开发，不可避免地有时候某些团队会由于任务过多而成为瓶颈，这样在小组之间可以共享、开发和贡献代码就非常重要，可以在某种程度上避免这样的“单点故障”了。King举例道，比如某个工程师需要能连接到支付网关上，但负责支付网关的团队手上已经堆积了5个更重要的项目了，没时间做这个。在这种情况下这个工程师可以自己把相关功能实现了，然后再请支付网关团队的人审核通过，就可以了。或者比如说一个支付团队的工程师对于购物车等功能忽然有了什么新想法，那他就直接简单的作出原型来，然后通过GitHub提交给对应团队就好了。
+InnerSource除了让沃尔玛的基础设施及时的赶上时代，还为这个传统的零售业巨头吸引人才提供了很大的契机：
+ 沃尔玛推行开源的开发方式之后，对开源社区成果的使用和回馈行为还帮助他们吸引了许多技术人才。在他们准备录用的候选人中，50%手中还握有Google、Apple、Facebook、LindedIn或其他硅谷著名公司的Offer，可是最终这些人中有70%还是选择了沃尔玛。King把争夺人才胜利的原因归功于两点：一是小而专的团队，二是开源。“大家都对我们已经取得的成就非常赞赏，同时也希望如同在创业公司工作一样。”
+ 当然，沃尔玛也在积极的参与到开源中来，不仅鼓励工程师积极的参与到上游的开发中，还将内部的项目开源出来，如云管平台OneOps、Electrode移动开发平台。
+AutoDesk AutoDesk 是一家专有软件公司，他们并没有任何开源方面的消息，但是设立了开源战略总监这样一个职位。我们的InnerSource也是从这里了解到的。
+AutoDesk 的开源战略总监Guy Martin，Guy Martin的经历很有意思，早期在Sun工作，通过JavaCar项目认识了开源，之后在Motorola从事InnerSource的工作，为PHP和Scuttle等开源项目做过贡献。
+GM在Autodesk的另外一部分工作就是负责企业内部开源。他表示，对于一个拥有超过150个产品的公司，合作开发在产品研发的各个阶段都起着非常重要的作用。同时，随着Autodesk的很多产品开始与云相关。可重用组件对保证用户体验变得十分重要。内部开源很好的保证了这些组件的开发进度和质量。
+Google Google 向来是支持开源的，是少有的对开源有着执着情怀的公司。在开源界享有盛誉的GSoC，以及将开源放在战略地位的“开源项目办公室”。一个和开源有着如此渊源的公司，是如何实施InnerSource的呢？
+其实，这是笔者照着InnerSource的理念为Google强加的，Google本身可能对这个概念并不感冒，至少没有过公开的表态。理由有2:
+ 众所周知，Google 全公司采用的是一个代码仓库！Google的所有员工都可以查看修改源代码。 在《SRE运维揭秘》一书中，作者谈到gRPC等项目的高效性，得益于不同部门的透明协作。  就凭两篇论文，就可以说明，Google内部对于开源方法论运用之娴熟！当然，这也和Google的文化有关，他们本身受益于开源，始终是开源的支持者。
+其它 在IEEE的一篇论文：InnerSource —— 企业内部采用开源方法实践 中，谈到采用InnerSource的有飞利浦医疗保健、阿尔卡特朗讯、飞利浦研究院、惠普、IBM、SAP等，当然InnerSource本身的方法论也在不断的变化着，其实现在PayPal所倡导的，和当年Tim O’Reilly首次提出的概念已经相差很远了。
+现在是云计算、大数据、人工智能的时代，这些曾经走上浪潮之巅的公司的案例相信很多人已经不怎么感兴趣。所以InnerSource也得与时俱进，增加新的内容，但是笔者更加的倾向于InnerSource的外延性更多了，更加的强调企业参与到社区上游项目的重要性，以及人才的管理上。
+后续 InnerSource 已经发展为一个庞大的课题，开源之道会慢慢、逐步为大家介绍、引进，并分享业界的经验。下期我们聊聊InnerSource Common刚刚发布的《企业搞内部开源必须弄明白的几件事》。欢迎留言反馈。</description>
+    </item>
+    
+    <item>
+      <title>InnerSource 介绍</title>
+      <link>http://www.ocselected.org/posts/innersource/introduction_of_innersource/</link>
+      <pubDate>Fri, 06 Jan 2017 22:35:15 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/innersource/introduction_of_innersource/</guid>
+      <description>&amp;ldquo;no matter who you are, most of the smartest people work for someone else,” —— Bill Joy 太阳微系统公司联合创始人
+ 引子 开源是如此的成功，以至于现在用一句时髦的话来形容：“开源软件正在吞噬世界”，一点都不为过。这从侧面反映出，开源的开发方法是有效的，而且可以开发出Linux 内核这样既能在超级运算中应用也能在智能手机上运行的卓越的项目。开源项目的工作流程解释了为何来自世界各地的志愿者们可以如此高效的完成如此巨大的项目。这样就给那些大型的跨国公司带来许多的灵感，和成功的开源项目的社区一样，大型公司的软件工程师们亦是分布在全球各地，而且不在同一个部门，他们并不能够频繁的见面，报告的老板也不一样。为了在企业内部能够增强合作，一些公司开始采用开源项目的工作流程。Tim O’Reilly 首次使用了术语“InnerSource”这个词汇，我们翻译它为”内部开源”。（华为的同仁称之为内源，我以为损失了一些意义，四个字就四个字吧，大家更容易理解一些。）
+开源界著名的程序员、Hacker——Eric Raymond，在对比了开源项目和传统软件的开发方法和流程之后，写了经典的著作《大教堂与集市》，将自顶向下的过去的开发方法称之为“大教堂”，将开源的扁平式的、分布式的开发称之为“集市”。那么我们今天谈到的InnerSource，可以概括为“大教堂”下的“集市”。也就是在企业内部实行开源软件的开发方法。
+开源项目的开发特点举例 开源的方法论，至今并没有像学术界那样有软件工程这样的周密严谨的理论著作出现，几乎每个项目的形式都不相同，（Linux、apache Httpd、perl、Debian各有千秋）但是，还是可以总结出一些共同的因素的：
+ 项目对所有人都是开放的，包括代码、文档，任何都可以去提交贡献。 在开发者社区，代码的审核者的身份都非常的关键。（比如Linux、Apache、FreeBSD等都有相应的晋级规则，尽管各有千秋，但有一点是相同的，那就是以实力说话。） 沟通工具是邮件列表和IRC，（Apache尤其重视邮件列表，所有的决策必须在邮件列表决定，否则无效。） 任务都是自己认领的，没有分配这一说法。 尽早发布、尽早反馈。  采用 InnerSource 的益处 若是企业内部采用这些方法，至少能获得如下一些好处：
+ 大大加强软件组件的重用。（这方面最著名的例子就是互联网巨头Google了，内部只有一个代码仓库，将重用利用到极点。） 改进软件的最终质量——即Linus法则：“足够多的眼球，Bug就无处藏身。” 加速开发流程，这在加速发展的现在显得尤其重要。 开放式的创新，目前为止证明是颇为有效的。能够吸纳来自世界各地的人的意见和建议，甚至是代码、设计和创意。 避免人才的单一化。  InnerSource 适合哪些团队？ 好处是如此的显而易见，但是对于企业来讲，尤其是有历史包袱的企业，想采用InnerSource还会遇到一些挑战，是的，对于已经实施了多年，而且还蛮有效的开发方法，要改变的话，还是有很多挑战和困难的。更何况InnerSource也不是适合所有的企业和团队的。笔者经整理目前的研究成功，总结出适合InnerSource的企业的特征：
+ 跨地域的团队（这点在国内现在蛮高的，如为降低日渐增长的开发成本，逃离北上广，在二线城市建立研发中心。） 部门多，涉及到的重用的组件、模块。重复开发造成极大的浪费。 大型团队，超过200人。 自顶向下瓶颈过于明显，尤其是基础设施软件，自顶向下的方式过于缓慢。 沟通困难  InnerSource 的案例 从InnerSource这个概念提出，发展到现在，已经走过了15个年头，其中各大企业采用的先例有很多，比如传统的大企业Alcatel- Lucent、Philips Healthcare、 IBM、以及 SAP，也有新兴的互联网公司如Google。但是重新提起来，注入新的活力，还是来自PayPal发起的InnerSource Common 社区，随着开源的成功，开源已经成为企业中不可或缺的部分，甚至是占有极高的使用率。InnerSource的意义也被扩展了，那就是本地和社区的关系处理，InnerSource 的同时，也要借鉴外部上游开源社区的代码和项目，也是颇具挑战的工作，在这方面沃尔玛的基础设施团队有着很不错的经验分享，（注：沃尔玛的IT技术主管Jeremy King是PayPal跳槽过去的。）比如对OpenStack的贡献和自己开源项目OneOps。并在巴塞罗那OpenStack峰会上有过干货十足的分享。</description>
+    </item>
+    
+  </channel>
+</rss>

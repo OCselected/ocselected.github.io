@@ -1,0 +1,2018 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>每日阅读 on 开源之道</title>
+    <link>http://www.ocselected.org/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/</link>
+    <description>Recent content in 每日阅读 on 开源之道</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 07:05:38 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>开源之道(bye 2016 hello 2017)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93bye-2016-hello-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 07:05:38 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93bye-2016-hello-2017/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 web开发的未来：GitLab CEO 专访 原文链接：The Future Of Web Development With GitLab CEO Sid Sijbrandij
+适兕点评：
+ GitLab 作为 GitHub在私有公司的开源替代，大有可为的趋势。犹如政治观点、自由选择一样。有的公司就是不想全部放在公网上，保持私有，但是又想获得Git和开源协作的好处。GitLab就是为此而生的。以下是我看到本文的三个亮点：
+  Sijbrandij的方法论：小步走，小的目标更加的容易实现。 Inner-Source，也是GitLab的主要宣传理论！而这也恰好是我要宣传的。看来GitLab在某种程度上也是我需要重点关注的对象。 现在技术上有所突破非常的困难，得下苦功夫！是的，我多次强调过，要想看到别人看不到的风景，就得比别人走更远的路，爬更高的山。  2016: 开源仍在野蛮生长，但是也有令人担忧的地方 原文链接：2016: Open source grows, but conflict remains
+适兕点评：
+ 一位业内人士的观察，基本覆盖了2016年开源上的一些“事故”，如糟糕的DirtyCOW漏洞、Node.js仓库删除事件等等。而关于社区治理方面的两个消息，颇耐人寻味：
+  Apache Cassandra项目的Jonathan Ellis 黯然离职 自由软件基金会的 Eben Moglen 的离开，Richard Stallman 认为他远离了革命的主旨   当然，还有一些令人兴奋的事情，比如总是被提起的微软的转变。
+ 以开源创业的公司如何盈利 原文链接：How viral open-source startups can build themselves into enterprise-IT powerhouses
+适兕点评：
+ 相信这是很多人都在思考的问题，本土的人们也在纠结，信息不对称的时代已经过去，愚民的方法不再管用。唯有突破创新方可。
+“open source is eating Goldman Sachs.</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2016 12 25)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892016-12-25/</link>
+      <pubDate>Sun, 25 Dec 2016 18:47:22 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892016-12-25/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 2017年值得关注的技术 原文链接：Top tech to watch for partners in 2017
+适兕点评：
+ 是啊，又是一年过去了，自从创业之后，我开始对一些事物有了全新的认识，比如时间，以及所谓的节日。其实，我更加的喜欢将这篇文章的题目变更为：“接下来的4个季度的技术趋势。” 诡异的地方在于季度仍然是一个节点。
+人工智能、虚拟现实、安全、以及开源！ 你没有眼花，确实是开源，百分百正确！开源是一种技术？如果你将其提高到人类协作的角度、政治的视野、以及企业的高瞻远瞩的话，没错，开源是一种技术。此技术非具体到某个计算机领域，如操作系统。但是确实是这些具体的技术先占领了企业，然后从内部生根发芽、茁壮成长。已经是没法忽视的力量。怎么办？识时务者为俊杰，顺势而为！
+ FaceBook 递交了其过去一年的开源成绩单 原文链接：Facebook delivers its state of the open source union
+适兕点评：
+ 和Google一样，FaceBook也递交了自己在2016年在开源社区所做的成绩，排在前五的分别是编程工具、移动开发框架、PHP 虚拟机、编译工具。相比于Google，技术依然差了很多。
+本文并非看上FaceBook的总结，而是后面作者解释的FaceBook为何参与开源，其中有两个亮点：
+  HHVM 在维基百科的应用，以及维基百科和HHVM的互动。说明了社区的创新力量！ 开源是有效吸引优秀人才的战略！这是个知识经济时代，人选择公司，所以公司必须尽可能的去迎合人才。人会自行选择哪里的编程、工程工作更加适合自己。  铃木加入汽车制造联盟 原文链接：Suzuki Joins Carmaker Consortium That Wants To Lock Google Out Of Their Vehicles
+适兕点评：
+ 本文重点介绍的是本田在使用Alhpabet 的无人驾驶，铃木成为Automotive Grade Linux的铂金会员。 关注开源，走进开源，拥抱开源！世界正在形成认知盈余，Open的协作是唯一的出路。
+ 为什么红帽利用Docker赚到钱比Docker公司要多？ 原文链接：Why Red Hat makes more money on Docker than Docker does</description>
+    </item>
+    
+    <item>
+      <title>开源之道变更为每周精选</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/weekly_reading_about_open_source_articles/</link>
+      <pubDate>Wed, 21 Dec 2016 22:27:55 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/weekly_reading_about_open_source_articles/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+如果你能看到这篇文章，说明你一直在关注着我的“开源之道”，首先我要做的一件事，就是郑重的感谢你！感谢你一路的陪伴！
+现在回过头来看，从第一篇开源之道算起，已经整整坚持了半年的时间了。半年说长不算长，但坚持一件事情总归是值得庆贺的！
+现在看来，说什么成果之类的，有点操之过急。只是说根据自己的实际情况，需要稍加做一些调整。英语不知道有多少长进，但是对于开源的认识则是更加的系统。
+虽然世界并没有多少的变化，但是我对待它的方式变了，变得更加的有耐心。这也是我越来越觉得布道的重要性！
+开源仍然需要布道！人们对它有太多的误解。这点是我非常坚定的认识。
+其实更改为每周精选，也就是这半年来我将一些重量级的论文、文章、开源书籍，已经介绍的差不多了，如果每天来报道的话，其实难免沦为报道各大公司开源具体的软件项目了。除了瞻望前沿的开源技术之外，我更加在乎的是文化、方法论、科学理念方面的内容。但是，由技术产生的文化，就得从文化中去提炼，所以以周为单位是合适的，甚至变成双周都可以。重点在有话说，不能无病呻吟，也不能照本宣科，为了完成而完成。
+科学本身就是不断的学习，那么我们的开源之道就是不断的完善和变化。</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 18)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-18/</link>
+      <pubDate>Sun, 18 Dec 2016 06:44:00 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-18/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 众包成功的动力是什么? 原文链接：What Drives Successful Crowdsourcing?
+适兕点评：
+ 将问题定义清楚，有奖赏，嗯，就是这么简单！需要很好的治理！
+文中的精髓其实就是一句话：Asking people to cure cancer is too broad. Asking them to look at how a particular enzyme might work in a biomedical process is better.
+ 这些创业公司会是食物技术的未来吗？ 原文链接：Are these startups the future of food tech?
+适兕点评：
+ 室内LED农场？人是不是就可以不用去见什么太阳了？或者毋需出室外？
+其实，我选这篇文章，虽然和开源有点关系，但是重要的还是想到整个华北境内的雾霾！室内农场是一种什么样的解决方案？科幻片。
+ Google 成为 Cloud Foundry 黄金会员 原文链接：Google throws its weight behind open-source Cloud Foundry
+适兕点评：
+ 其实我想将题目更改为“Google会是Cloud Foundry 的救命稻草吗？”
+从事件看战略，Cloud Foundry 在Docker、Kubernetes崛起的同时，在急速的衰退！Open Shift 似乎又占尽了先机。这一点不得不佩服红帽，技术可以翻天覆地，品牌绝对不变，不就是一个版本号的事情吗？相反Google和cloudy Fourdry都不够理智和清晰。和IBM的Bluemix一样找不到北！忘记了商业的本质，人性的本质。单纯的追求技术。</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 16)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-16/</link>
+      <pubDate>Fri, 16 Dec 2016 08:29:57 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-16/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 GitHub 正在构建码农们的天堂，付出也是蛮昂贵的 原文链接：GitHub Is Building a Coder’s Paradise. It’s Not Coming Cheap
+适兕点评：
+ 注意一下此文的第一段，是值得软文或科普文章学习的。GitHub 可能不被绝大多数人知道，但是在软件开发领域那绝对是响当当的公司！然后，以Google Doc为比喻，介绍了GitHub是干嘛的，托管代码的同时，让码农们开始协作。
+本文其实探讨的是GitHub 的盈利问题，GitHub的财务报告出来了，今天的前三个季度，花了 6600万美元，可谓是创业公司的大手笔！为了应对GitHub从特斯拉挖来了首席财务官，花销太大，扩张太快，只做自己认为是有用的产品，客户不买账，被GitLab追赶等等。不一而足。
+VC 的钱不好花。但是目前为之看起来GitHub还是可以扛得住，毕竟用户那么多！虽然零星有点小危机，但都不是啥大问题。
+在GitHub公司的文化中，码农的地位是最高的。 这样的公司一定会成功的，我是这么看的。
+ 为什么我对开源仍心有余悸 原文链接：Why My Heart Bleeds for Open Source
+适兕点评：
+ Heartbleed, Goto Fail, Shellshock, 以及 Poodle ，最近一两年开源软件的安全问题暴露的越来越多，最近京东的用户信息泄露问题，京东一股脑的往Apache Struts 2的漏洞，似乎给开源扣个屎盆子，京东就能洗清自己的安全意识了似的。京东在这件事情处理上，可谓是人渣中的人渣，比360过之而无不及。
+本文虽然是想说明，开源软件有开源软件的问题，在DevOps中，应该使用一些商业软件。但是立论显然自己显得信心也不足。首先，DevOps，或者更直白，CI／CD，使用商用软件就不存在持续这个概念上，发现问题能修改吗？开玩笑。
+软件是人开发的，是人就可能犯错，既然有可能，那么它一定会发生。所以提高安全意识，才是王道！Google 做主导的Linux 基金会的CII项目：关于安全漏洞扫描的也是应时而生！！
+ 开源软件的隐形成本 原文链接：Open Source Software Carries Hidden Costs
+适兕点评：
+ 开源并没有你想象中的那么美好，正如你在微博或照片app上看到的宠物一样，它一开始是可以获取，但是需要照顾，需要定制，需要维护。而这些都是成本。
+“You make that business process fit the software rather than the other way around, because software generally is going to follow industry best practices,”</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 15)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-15/</link>
+      <pubDate>Thu, 15 Dec 2016 09:01:19 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-15/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 拥抱开源之前请先了解它 原文链接：Open Source: Know It Before You Embrace It
+适兕点评：
+ 开源应该理性的对待，或者说科学的对待。在积极的拥抱它之前，应该去做深度的了解！犹如人生的重大选择一样，比如婚姻，比如职业。
+这里摘抄两句文中精彩的论断：Open source is not rocket science, but you need to know the science behind it to get things right. If businesses learn to not just embrace open source but also support and contribute back, they will be able to unleash the true power of open source.
+ 从Linux 内核开发25年所学到的9堂课 原文链接：9 lessons from 25 years of Linux kernel development</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 14)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-14/</link>
+      <pubDate>Wed, 14 Dec 2016 08:49:12 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-14/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 开源助力云计算的采用 —— 2016未来云计算调查 原文链接：Open Source Helps Drive Cloud Adoption Says 2016 Future of Cloud Survey
+适兕点评：
+ 来自North Bridge Venture Partners 和 Wikibon analysts 的最新调查结果。
+“From container technologies to high-velocity projects such as Kubernetes and Cloud Foundry, open source and open development are further accelerating the move to the cloud for businesses of all sizes across all industries,&amp;rdquo; 来自Linux基金会执行主席的论断。
+你还在犹豫吗？Kubernetes似乎要颠覆世界的样子。
+ KeyBank 开启云原生应用和构建 DevOps 实践，且选择了红帽 OpenShift 容器平台 原文链接：KeyBank Goes Cloud-Native, Builds a DevOps Practice and Chooses Red Hat OpenShift Container Platform</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 13)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-13/</link>
+      <pubDate>Tue, 13 Dec 2016 08:40:37 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-13/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 计算当如1989 原文链接：Compute like it&amp;rsquo;s 1989
+适兕点评：
+ 1989 对于整个世界都是转折点，尽管那时候的中国，在几乎整个上半年都在反腐！然而，远在天边的美国，却在计算机上有了里程碑式的普及。
+那个时候的工程师在绞尽脑汁的压榨芯片的性能，不敢有丝毫的浪费。所有的应用都在追求极致！
+是的，这个世界是变化飞快，但是有些东西是永恒的！走的太快的时候，不妨回过头来看看初衷！
+ 为什么你和你的公司应该采用开源？ 原文链接：Why should you and your organisation adopt open source?
+适兕点评：
+ 你的眼睛没有看错，微软和Forrester联合发布了一个报告。告诉世人，开源乃大势所趋，你应该使用开源。
+我竟然想到的是龙应台在《野火集》中所表达的，开源真正的被商业利用起来的时候，人们该如何分辨？微软有着巨大的财力和物力，华为也一样。正如当年遇到的，代码应该像数学、医学知识一样，对所有人开放，现在看起来这些语言是多么的精准。商业绑架其不应该提开源，开源是默认。
+作为开源的受益者，还是读读报告吧！想想信息技术究竟对你个人有什么好处？
+ CoreOS 发布具备自动驾驶的Kubernetes 原文链接：CoreOS Delivers Self-Driving Kubernetes with Next Generation of CoreOS Tectonic
+适兕点评：
+ 注意一下，CoreOS的口号变了，CoreOS: Experts in open source and Kubernetes ，一如Mirantis一样，CoreOS最初是提供具备etcd的最轻量级的Linux。
+嗯，这里面的商业模式值得思考，技术不可为不先进，趋势不可为不明朗，但是总是叫好不叫座。其中是为什么？目标市场错误？对于开源的定位错误？
+我们总是希望找到本质！但是它似乎就藏在某处，绝大多数人对它视而不见！比如红帽抓住Linux的本质：Control，干掉了Unix和Windows。商业重在本质！并能够将本质经营好，且能传播出去。
+开源的价值就是让每个人成为工业时代的流水线工人？这是否是一种驳论？
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 12)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-12/</link>
+      <pubDate>Mon, 12 Dec 2016 08:28:08 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-12/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 2017年最赚钱的5个技术 原文链接：5 Technologies that Should Make You Money in 2017
+适兕点评：
+ 这个和开源有关系吗？有，那就是所有的技术，都是保持开放的。
+不过我本人对这篇文章也觉得是无聊的，但是无聊的东西能够吸引到人们的眼球！至少大家在年底了，可能又会感慨一年这么快就又过去了，来年搞点什么能够赚到钱？比如看看技术趋势？前沿？区块链？IoT？人工智能？
+我渐渐的发现批判的态度是最无力的！应该去忘记鲁迅，将胡适请进来！
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 11)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-11/</link>
+      <pubDate>Sun, 11 Dec 2016 06:31:06 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-11/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 印度本土公司Amrut软件与GitHub成了合作伙伴 原文链接：This Indian software company just partnered with the world’s biggest open source community
+适兕点评：
+ 文中提到这么几句话：has become a GitHub distributor for India region. “Amrut customises products like Jira, GitHub, confluence, Nagios etc to integrate with DevOps requirements.” 也就是说，Amrut是这些优秀的商业软件在印度的代理。
+然后会想到本土：Jira,Confluence 会使用盗版或替代，GitHub 有 Coding 替代，Nagios是开源，但并没有人专门做定制，都是大家各玩各的。《二十年目睹之怪现状》
+得先从文化层面抓起，思想意识不解放。永远都是洪秀全的思路。150多年过去了，还是义和团。。。
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 10)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-10/</link>
+      <pubDate>Sat, 10 Dec 2016 07:12:32 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-10/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 企业若想发展，就得正视开源，并让开源回归自由 原文链接：Open source needs social freedoms for business to thrive
+适兕点评：
+ 嗯，没错，是VMware的首席开源官（我无法掩饰的对这个职位的羡慕。）的一次采访！VMware 因为是站在开源的肩膀之上，一直以来对于开源都有着独特的理解。比如这次采访，也说明了对于业界有着深刻的洞见：
+“开源甚至已经超越了软件开发的方法论，开源某种程度上已经成了如何组织人与人之间的交互以及如何创建让人惊异的软件！” Dirk Hohndel 如此说到。
+开源：再也不仅仅是技术的事情了。 A big component of open source is for developers to be participants in a community and contribute back, understanding how these communities, made up of people from all kinds of backgrounds and from different regions of the world, can work together to create great software. 能做此事的人，绝对是人类史上大师级的人物。
+本文更加的坚定了我对这个职位的追求！
+ 贝尔成为首个开源电信基础设施项目的加拿大成员 原文链接：Bell becomes first Canadian carrier in open-source telecom infrastructure project</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 09)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-09/</link>
+      <pubDate>Fri, 09 Dec 2016 08:58:15 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-09/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Google开源数据可视化工具 Embedding Projector 原文链接：Google open sources Embedding Projector to make high-dimensional data more manageable
+适兕点评：
+ 我选择这篇文章，竟然是因为它的配图。一部让我哭了两次的《星际穿越》，在5维空间为解救自己女儿所经历的穿越。
+Google 在面临AWS的巨大压力面前，很多技术人员不服，我们的技术这么先进，为什么屡次三番的被干了呢？好吧，我们开源，从Tensorflow到DeepMind，再到Embedding Projector。开源真的能解救Google吗？Google显然没有找到古老企业级的痛点在哪里。
+总而言之，Google 又对开源界注入一股清流！ 高冷、牛逼的技术！
+ Linux 基金会的开源网络团队又增一名顶级专家 原文链接：Linux Foundation adds an open source networking specialist to the team
+适兕点评：
+ 选这些文章，是对于我个人职业的一个激励。我总是觉得现在很多公司／企业都在开始重视起了开源，开源应该如何经济的去考量，是很多和IT相关的决策者思考的问题。也是很多基金会考量的问题。
+算上这篇，我的开源之道，应该有好多篇关于大公司任命开源高管，基金会吸纳了某高级人才的文章。
+算是对自己，和很多的开源从业人员的一个激励。只要你去努力的理解人，理解人性。一定有你的用武之地。
+ 这个CTO有点怪，为什么他坚信开源应该是所有软件的新常态 原文链接：Why this CTO believes open source should be the new norm for all software companies
+适兕点评：
+ 新常态这个词，我还是从AWS14年峰会上学到的，当时的AWS CTO 说：“云计算已是新常态。” 明白这个意思了吧！
+开源已经是未来软件的一种主要的分发方式。不应该再使用许可证来收取费用了。这是很多人们都反感的事情。
+开源不仅仅是代码而已： I recommend other companies consider open-sourcing their client code to not only increase transparency, but to contribute to other industries’ success.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 08)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-08/</link>
+      <pubDate>Thu, 08 Dec 2016 09:02:19 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-08/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 开源治理所带来的价值 原文链接：Open governance enhances the value of land use policy software
+适兕点评：
+ 开放的治理，日渐成为世界的主流。是的，技术的发展，导致的知识增值，将人的尊严中奴隶中解放出来，甚至不再受制于某些组织的束缚。
+本文阐述就是开放治理从政府的角度，能够从Linux模式中学到什么？该如何处理，更为高效。
+非常值得借鉴的主题。可惜，身边发生的却是在寻租！比如中空协！比如开源云计算联盟。
+ 与世界对话：为什么开源会有助于小型企业 原文链接：Communicating To The World: Why Open-Source Could Help Your Small Business
+适兕点评：
+ 知识就是力量！这是谁说的？但它同样也可以成为暴政。因为它有力量，而又缺乏自制力的话。
+正是开源降低了互联网的入门门槛，使得很多优秀的公司涌现出来，比如Google、FaceBook。
+ 为什么说2017年操作系统更加的重要 原文链接：Why the operating system matters even more in 2017
+适兕点评：
+ 前几日我在微信群里面给人上“课”，一位叫嚣着Docker无用，PaaS有用的功利主义者，是的，我们每个人都在坐井观天，重点在于井口的大小。是的，国人从来是不看好立马带不来经济效益的技术的。骨子里是轻技术的，因为除了技术，他们什么也不敢讨论。技术是唯一的“鸵鸟”之地。
+操作系统的地方不会降低，反而会越发的上升。不变的使其管理硬件，为上层提供支持。变的是更加的 become much more adaptable, much more mobile, much more distributed, much more robust, and much more lightweight
+YunOS 究竟能走多远？ 还得看其所建立起来的生态。</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 07)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-07/</link>
+      <pubDate>Wed, 07 Dec 2016 08:49:28 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-07/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 红帽将 JBoss 套件全部移植到了 OpenShift 原文链接：Red Hat brings full JBoss software stack to OpenShift
+适兕点评：
+ 这绝对是个大新闻，这也意味着炒了整整一年的容器化，终于有了里程碑式的意义。
+当然，对于应用来说，仍然不是无缝就可以迁移上来直接运行的。仍然还有很多的问题存在，这其中就有商机的存在。嗯，看来我现在也稍稍有了一点商业上的思维了。
+容器化乃大势所趋，Kubernetes要战胜所有的其他编排工具吗？
+ Google开源了其人工智能研究 DeepMind Lab 原文链接：Google Open Sources DeepMind Lab for AI Research
+适兕点评：
+ 人工智能进入了白热化的竞争阶段，Google又发一大招！这个世界越发的好玩了，OpenAI、Geometric Intelligence （Uber收购的团队）。
+但是，仔细的思考一下，开源为什么会是人工智能竞争的手段了呢？这个地盘很多大厂都在竞争：Amazon、微软、IBM等等。归根结底，是抢夺人才的战略高地。世界大势乃是知识经济膨胀，分工趋于精细化，其实，能够从事人工智能这块的人相对于整个真的不算什么，但是这个领域的应用前景非常的广泛，无人驾驶汽车、飞机、各种机器人等等，而开源是最好的降低门槛，吸引人们的方式，要知道这是非常艰难的一个领域，犹如数学知识一样，同样是开源，问津者寥寥&amp;hellip;&amp;hellip;
+再说深一点就是伦理问题了，人最终会被机器所替代！人类的精英将人类给毁灭。
+ 为什么说开始是标准测试的未来 原文链接：Pencils down: Why open source is the future of standardized testing
+适兕点评：
+ 开源的黄金时代，测试也来凑热闹！我自己无法认同更多。但是，本土的环境恐怕不得不说可惜！
+这是一篇毫不起眼的商业软文，但是道出了一个道理：&amp;ldquo;Open source was not that popular, frankly, as a term, ten or twelve years ago, but now we have organizations and entire governments who are saying they want 100 percent of their federal IT projects in open source,&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 06)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-06/</link>
+      <pubDate>Tue, 06 Dec 2016 09:07:47 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-06/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 技术可以将人从被工资所奴役的状态下解放出来 原文链接：“TECHNOLOGY CAN FREE PEOPLE FROM WAGE SLAVERY” 
+适兕点评：
+ 一家非常有想法的创业公司！对于开源有着独特的理解！围绕开源协作的方式而创造的工具，诸如开发代码、举办meetup、研讨会等等都可以。
+此人细分开源，以将人从工资中解放出来，这是对于开源的深刻理解，虽然没有Stallman那么的自由，但是如果能够将自己从工资中解放出来，按照自己的方式去工作。工作只有一个目的，创造更加美好的世界。那么似乎看起来世界是蛮有希望的。
+now I think the biggest opportunities are applying all the things we learned to auto industries in addition to applying the philosophy of open source to those industries. 开源之道，将成为社会高效的解决途径之一。
+ OpenAI, DeepMind 开源的人工智能训练平台 原文链接：OpenAI, DeepMind open source AI training platforms
+适兕点评：
+ OpenAI 的背后是埃隆马斯克、Amazon，DeepMind就是大名鼎鼎的Google的产品了。对于这篇稿子我只想说，人工智能似乎就要来临。该如何判断？
+ 这个假期支持开源项目 原文链接：Support open-source projects this giving season
+适兕点评：
+ 抱着感恩的心态去看待这个世界，是的，我们现在所运行的世界，是离不开开源软件的。所以请暂时放下商业的，来帮助这些支撑我们世界的人，给予他们更多的支持、鼓励和金钱：自由软件基金会、Mozilla基金会、维基百科基金会、FreeBSD基金会、Software in the Public Interest, Inc.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 05)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-05/</link>
+      <pubDate>Mon, 05 Dec 2016 08:36:39 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-05/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 永远不要从Google市场之外的地方下载Android应用 原文链接：Never Ever (Ever) Download Android Apps Outside of Google Play
+适兕点评：
+ 这个又回到了休克疗法上了，安全、信任这些社会保障，是必须有一个值得托付的团体去做的，不能是一锅粥，乱炖！
+上周六在采访做app分发的朋友，就提到了移动互联网的app红利时代已经过去，绝大多数的应用也趋于稳定，是的，一统天下的值得托付的市场应时而生。。。挺扯的一句话，Google Play 原汁原味。
+可惜上述说的是中国之外的事情，本土的话，可能还要经历很长的混乱期。
+ 开源的Malaria帮助学生验证toxoplasmosis药物 原文链接：Open Source Malaria helps students with proof of concept toxoplasmosis pill
+适兕点评：
+ 这是开源的概念扩展到其他领域的典型案例。制药这种暴利的行业必须被颠覆，必须将配方全部公开，必须将灰色的地带给透明化了。这涉及到人类基本的尊严！
+因为是非软件领域，所以很多东西不能完全读懂。但是还是硬着头皮上。
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 04)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-04/</link>
+      <pubDate>Sun, 04 Dec 2016 08:57:37 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-04/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 拥抱开源还是拒绝，是个问题！ 原文链接：To Go Open or Not To Go Open ,that is the question
+适兕点评：
+ 谁可以拒绝得了免费和廉价？开源是如此的流行，突然之间冒出了很多的专家。
+拥抱还是拒绝？程序员们也在成长和思考，也在试图在主流的声音中发出自己的波段。用代码说话，犹如Archsummit经常看到的标题：移动互联网时代，如何扛住瞬间1亿次的请求。而背后使用的都是开源软件。
+细思恐极，本土那么多公司和企业都在基于开源项目做开发，然后贡献到上游的却只是凤毛麟角。这是个不得不思考的问题的。秘方文化？
+ 追求创新 原文链接：Striving for Innovation
+适兕点评：
+ 这是来自 Hortonworks 创始人的一个分享。开放所带来的创新究竟有令人惊奇？在开源成为事实上的标准后。
+后开源时代，我们该如何对待？嗯，应该在其他地方挖掘价值。
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 03)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-03/</link>
+      <pubDate>Sat, 03 Dec 2016 21:04:00 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-03/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 所有的公司都是技术公司：看开源和 Inner Source 是如何改变IT领域的 原文链接：All companies Are Tech Companies：How Open Source and Inner Source are changing the IT Landscape
+适兕点评：
+ 毋需赘言，开源已经用实际行动证明其是如何成功的了。那么保守的企业该如何处理？该如何处理自身日渐臃肿的机构和无法满足的业务需求？成本巨高不下？
+InnerSource 是个不错的解决之道，既然知识产权左顾右盼，不如暂时放下争执，先在内部实施开源的方法论和流程。用事实来证明现有的员工可以胜任日渐增长的需求变革。
+本文最牛的一句话是：Capital One 认为自己是一家技术公司，不过恰好是在一家银行罢了！
+ 亚马逊招募了一位开源的大拿 原文链接：Amazon Brings On a New Open Source Guru
+适兕点评：
+ Zaheda Bhorat 一度在 Salesforce，Google工作过的开源战略官。AWS不久前还招募了Adrian cockroft。
+正如文中所言，AWS也要在开源方面发力了，虽然AWS一直以来都是开源的最大受益者，比如其EC2服务使用的就是Xen虚拟化开源技术，其对社区的态度一直保持冷淡。直到AI服务落后。现在才开始发力了。
+AWS 这个时候开始玩开源战略，一点也不晚！其实也就是争取更多的开发者，占领更高的高地，打时间差，赚取更多的利润。
+ 如何处理好代码之外的社区 原文链接：How to care for the community over the code
+适兕点评：
+ Joe Brockmeier 在 all things open 2016 的会上回答了一个问题：企业如何高效的社区一起工作。</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 02)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-02/</link>
+      <pubDate>Fri, 02 Dec 2016 22:06:38 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-02/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 让开发者保持挑战技术的5条建议 原文链接：5 tips to help developers keep up with changing technologies
+适兕点评：
+ 无论说什么，先说工资、薪资待遇的事。人们都希望学到新东西，然后加薪是间接的事情。然后才是其它：
+  Use social media to stay on top of trends Stay skeptical Go to events Consider certifications Participate in open source communities  开源对企业真的好处多多吗？ 原文链接：Is Open Source Good for Business?
+适兕点评：
+ 相信这是很多人的思路。依旧犹豫不决，尝试从各种案例中寻找到失败。然后说开源不行。像本文这样，列个提纲，好处、坏处对比一下。
+ AWS 发布 Blox，用于其 EC2 容器服务的开源工具集 原文链接：AWS launches Blox, a collection of open source tools for the EC2 Container Service</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 12 01)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-01/</link>
+      <pubDate>Thu, 01 Dec 2016 08:27:44 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-01/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 SUSE 收购了 HPE 的 OpenStack 和CloudFoundry团队 原文链接：SUSE acquires HPE OpenStack and Cloud Foundry assets
+适兕点评：
+ 这是昨天晚上和今天早上，圈子内所有人都在转发的消息，似乎是证明大家向罗一笑小朋友同情一样，然后又急着证明自己有脑子，唱衰 OpenStack 的心不死。对于这些事情，可以联系起来一起看，比如微信圈里疯传的向父母传播虚假信息的诅咒，我想可以用下面一段话来概括：
+王小波在《生命科学与骗术》一文中说：&amp;rdquo;身为一个中国人，由于有独特的历史背景，很难理解科学是什么。我在匹兹堡大学的老师许倬云教授曾说，中国人先把科学当作洪水猛兽，后把它当作呼风唤雨的巫术，直到现在，多数学习科学的人还把它看成宗教来顶礼膜拜，而他自己终于体会到，科学是个不断学习的过程。&amp;rdquo;
+就像秦王嬴政一样，一生都在寻找长生不老的药，身边很多的人都在妄图找到一劳永逸，也就是说朱元璋的做法，在人们心目中留下了不灭的印象。而且还非常擅长于偷换概念，举两个伪科学：人从一出生就决定了自己能够活多久，人的一生的运动量是定额的&amp;hellip;&amp;hellip;
+OpenStack 圈内的人大可不必惊慌，SUSE 不想在Linux做万年的老二，更何况老大赚的盆满钵满，妄图竞争！HPE尾大不掉，机构臃肿，决策缓慢，丧失了很多机会。二者都不想死，求变！Mirantis 其实也一样，但是公司未经一定的量，最忌裁员。人性这东西，对于创业来说，不得不慎重的考虑。违背人性的东西，很难得人心。
+ 开源赢了，微软投降了！ 原文链接：Open source has won, and Microsoft has surrendered
+适兕点评：
+ 阅读人类历史的人，会慢慢明白一个道理，历史是往大众化、民主的方向走的。即使是经济也一样，几乎任何事物，一旦获得平民化，让人们能够很容易的获取，就叫做进步。
+软件收取许可费用的这种模式彻底的进入历史舞台，从bill gates 最初收取费用的时候，早期的Hacker们就叫骂声不断，一直存在抵抗者。ok，在微软赚到脚软、手软的2、30年后，开源胜利了，这个代价是否很高？是的，就财务本身来说，会让很多人振腕不已。
+接下来的路，作为软件从业人员，从高冷的圣殿退下，比如IBM、Oracle等那些诅咒开源的曾经辉煌的人们。将比较难以接受。放下你高贵的心态，迎接下一个时代到来。正如本文中结尾处所言：
+This isn’t Bill Gates’ or Steve Ballmer’s Microsoft. They were all about total market domination. This is Nadella’s Microsoft, and he wants to work with others.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 11 30)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-30/</link>
+      <pubDate>Wed, 30 Nov 2016 08:44:40 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-30/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 如何深刻理解开源的8条潜规则 原文链接：How to play by the eight (unwritten) rules of open source
+适兕点评：
+ 是的，开源已经成为主流了，研究它的人是越来越多了。本土的开源之路都还是非常肤浅的利用信息不对称、欺诈、谎言来支撑的。然而不妨看看产生开源的源头文化是如何谈论的：
+  要去花心思了解所在的社区以及都有什么参与其中。 要将技术的优先级高于业务目标。 社区放在首位的首位。 警惕只是为了玩。 保持开放 要想着去开发衍生产品，而不是简单的复制。 用尽心思的去做贡献。 Lastly, but most importantly, there’s no crying in open source.   看完这篇文章，我的心思久久不能平息。总结我一直以来想做而没有做成的事情！
+ 为什么说Apple开源MacOSX不是那么的十分令人兴奋 原文链接：Why Apple open sourcing Mac OS X isn&amp;rsquo;t terribly exciting
+适兕点评：
+ 是的，Apple 号称开源依旧是雷声大雨点小。何必呢？看看就可以了。Darwin一直都是开源的。但是没什么用。
+本文提到一个非常具备歧视性但是却千真万确的事实：中国人仿冒！ 你怎么看？
+ 我们真的进入了开源的黄金时期？还是被炒作的假象？ 原文链接：Are we in a golden age of open source or just openwashing?</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016 11 29)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-29/</link>
+      <pubDate>Tue, 29 Nov 2016 08:34:28 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-29/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 开源所解决和支持的当今业务需求 原文链接：Open source Solves and Supports Today&amp;rsquo;s Business Needs
+适兕点评：
+ 开源大行其道，企业该如何处置？相信本文是比较理性的思考。
+相比本土的技术选型，就显得谨慎慎微多了，政治正确、毋需担负责任、个人利益、寻租空间等等要多于技术选型。而且，不知道什么时候，给开源打了一个标签“质量差、不稳定”，所以，开源至今仍然需要布道。
+ 开源的黄金时代已经来临 原文链接：The Golden Age Of Open Source Has Arrived
+适兕点评：
+ 嗯，时代与个人的关系，该如何处置，恐怕是我接下来要深刻思考的问题，开源的黄金时代是来临了，对于我自身来说能够做点什么？
+当一切已成默认，你的布道还有何意义？你的所谓的参与到社区又有何存在的价值！但是，可以肯定的是，一定不可以做“叶公好龙”式的样子，开源的黄金时代来临，要把握住这一机遇，寻找能够体现自己价值的地方。
+ 金融服务的发展，越发的和开源关系密切 原文链接：The Financial Services Industry Has Evolved - and Open-Source Is More Relevant Than Ever
+适兕点评：
+ 时代变了，现在的金融服务和20年前比较已经变得是天翻地覆，即使5年前也没有像现在这样。The flow of information has grown exponentially 上线了开源软件： the IT team can now go directly into the code to better understand the issue more quickly, or better still, make changes to it, in order to ensure that the technical challenge doesn’t slow down the business in pursuit of its goal: to provide a frictionless financial services journey to the consumer.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.28)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-28/</link>
+      <pubDate>Mon, 28 Nov 2016 08:39:13 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-28/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 如果机器会写代码了，人类怎么办？ 原文链接：What happens when bots start writing code instead of humans
+适兕点评：
+ 我这么翻译题目是不是表示我是人类？我非常的害怕？是的，面对未知，而且挑战自己十多年的学习和经验，这看起来似乎是非常难以接受的。但是，世界在发展，人总是从一座高山翻到另外一座高山，每次翻阅的时候，都会先从山脚下开始。即使是台阶式的，只有更高。因为有太多的未知需要我们去探索。
+尽管这是一篇广告，但绝不是危言耸听。如果你是外围式的浅层技能者，下一次就会被淘汰。喜欢文中的一些话：
+  The infrastructure and open-source packages are very powerful, allowing developers to not just solve their own problems, but also to build in a way that solves problems for the entire community. We need more engineers, not more stitchers.   你唯一能做的就是不断的去学习，但是这样也有可能被时代所淘汰，这就是现实！一点都不残酷。残酷的是你的心理。
+ 你的老爷车也可以拥有人工智能； 原文链接：Become Michael Knight with Dashbot, an AI for your car</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.27)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-27/</link>
+      <pubDate>Sun, 27 Nov 2016 06:31:21 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-27/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Unix整个历史代码现在托管到了GitHub上 原文链接：Unix history repository, now on GitHub
+适兕点评：
+ Unix 历史上具有重大意义里程碑的版本现在有了统一管理的仓库，涵盖了从1970年的第一版开始到现在所有主要的版本，更多详情可以到它的GitHub站点，或者是干脆下载下来直接开始研究。
+是的，Unix对于计算机的整个发展起到了非常重大的作用，1983年图灵奖颁发给Unix的两位创始人： Ken Thompson 和 Dennis Ritchie 就是最好的证明，包括后来发展如日中天的Linux，其实也是照着Unix的写的。彻底的改写了人类的历史。
+托管到GitHub，并非像其他绝大多数项目接受PR，静态的，用于研究之用。这无疑是学生们和操作系统爱好者的福音。历史代码是值得研究的事物！
+ 企业中使用开源 原文链接：Using open source in the enterprise
+适兕点评：
+ 这是CIO 英国组织的一次蛮有意义的活动，即找了19家典型的企业的CIO，其中有Ministry of Defence and Goldman Sachs to the Daily Telegraph and NHS,共同讨论了业务中使用开源的益处。
+在正式的谈论这些CIO的观点以前，我想引用下作者开篇时对于红帽CEO在2015年说的一段话：“It was seen as a lower cost alternative around commoditisation, but open source is now seen as very innovative and CIOs don&amp;rsquo;t want to be seen to fall behind on innovation,” 如果简单的认为开源仅仅是为了省钱的话，那么还是不建议进入开源的阵营。创新才是王道！在惨烈的竞争中，唯有不断创新方可增加活下去的几率。</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.26)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-26/</link>
+      <pubDate>Sat, 26 Nov 2016 07:02:03 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-26/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 开源领导者峰会 原文链接：Open Source Leadership Summit
+适兕点评：
+ 会议，举办各式各样的会议。大家似乎也找到了相应的方法和技能，这是人类获取信息和交流的重要方式之一，通过聆听他人的演讲，与他人的交谈来获得信息，或者是表达自我、展示自我。更多的是背后支撑是商家的广告。商家需要告诉世人。
+说实话，开源领导力峰会，我是第一次听到，也是第一次知道是Linux基金会搞的这个项目。这对于我蛮有吸引力！
+this is where open source business leaders and technologists can advance their company’s open source strategy. 相信慢慢国内会慢慢认可这样一个职位的。
+ 开源硬件是如何定义数据中心创新的 原文链接：How open source hardware is defining data centre innovation
+适兕点评：
+ 开放硬件项目：OCP 的功劳究竟有多大？ 这会革了很多硬件厂商的命！FaceBook发起这个项目的5年之后，Google发布了几款服务器的设计，紧跟着微软也发布了Azure的几款服务器。FaceBook还发布了BackPack的交换机设计。尤其是软件定义数据中心，需要大量的符合标准（开源）的白牌设备。
+嗯，开放硬件项目也是必然的趋势，设计、生产、上架几乎都是自己可以控制的。什么超融合的模式一直都不成立。
+另外我想说的一点就是人类喜欢有现成的案例可以模仿，失败的概率会低一点。这是我所见到的客户的起码的保守的思维方式。
+ Apple 开源了MacOS 10.12 原文链接：Apple Releases Open Source Darwin Code For macOS 10.12 Sierra
+适兕点评：
+ Apple 说了要加大开源的力度，人才不是难找，而是培养的成本过高。以及影响未来的趋势，成为事实上标准的可能性。微软最近对于开源的战略和策略，显得步骤非常的大。尤其是最近加入Linux基金会。
+Apple 一向以封闭著称，但是从根上，Apple从最开始都是Hacking精神非常浓厚的公司，包括后来Jobs出走开发的NexT，回归之后，新的MacOS采用BSD Darwin内核。以精英的态度漠视这个世界。可能是Swift让他尝到了甜头。
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.25)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-25/</link>
+      <pubDate>Fri, 25 Nov 2016 08:41:56 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-25/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 你是否让你的业务采用开源技术？本文告诉你答案 原文链接：Are you powering your business with open source tech? Here’s why you should
+适兕点评：
+ 开源技术，有时候得去贴近用户的应用方能达到交流的目的。每个人都在坐井观天，井口的大小直接决定了人的格局。这就是为什么政治可以安排教育的核心所在。经济学没有说明如何解决就业问题，而是探讨人性是自利的。受教育的目的是认清这个世界，不是做一颗别人安排好的螺丝钉。
+意识的觉醒，恐怕才是开源的真正意义之所在。每个人都有贪图小利的潜在可能，对于开源软件有很多误解。
+为什么需要布道师，0、没有人愿意学习，更何况是不能吃不能和的文化。1、习俗导致的圈子文化，决断了自我的认知。比如本文就很好的诠释了这一问题。用户使用开源技术的理由很简单：因为强大，用的人多。
+ 在开源社区获得激情的几点技巧 原文链接：Get emotional: Tips for open source communities
+适兕点评：
+ 开篇一句话就说明了问题之所在：Technology is social before it&amp;rsquo;s technical. —Gilles Deleuze
+这点在本土非常的难以做到。我无话可说。
+ Kubernets 创始人出来创业了！ 成立了 Heptio公司，拿到融资 $8.5M 原文链接：Kubernetes founders launch Heptio with $8.5M in funding to help bring containers to the enterprise
+适兕点评：
+ 昨天读到唱衰 OpenStack的文章，认为虚拟化是致命伤。而容器的崛起，也得这些编排工具的功劳。Google号称是十多年的容器编排使用经验而发起了Kubernentes项目。但是它真的那么值钱吗？
+国内如时速云之类的利用Kubernetes来创业的也不在少数，是利用了GFW的信息不对称，妄图在传统的企业市场杀出一条血路。
+文中的一句话：a new pure-play Kubernetes company.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.24)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-24/</link>
+      <pubDate>Thu, 24 Nov 2016 11:01:58 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-24/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 迪斯尼的最佳产品也许是这些开源的工具 原文链接：Disney&amp;rsquo;s best releases may be its open source tools
+适兕点评：
+ 当你和人们谈论迪斯尼的时候，人们的第一反应是什么？猫和老鼠？迪斯尼动画片？主题公园？是的，没错，这是原来的迪斯尼形象。现下的迪斯尼又给人们新增了一个印象：开源软件！
+确实在过去的一年当中迪斯尼开源的项目很多，也很重量级。目的其实只有一个：引起开发者的注意和青睐！
+作为艺术的始作俑者，理解起来创意、协作、公开是否有偏差？技术领导世界，艺术也是技术的跟风者。这样理解起来就没有任何难度了。但是依然禁不起“秘方”文化的侵袭。
+ 企业级采用 OpenStack 仍然在观望中 原文链接：OpenStack enterprise adoption still awaits full embrace
+适兕点评：
+ 是的，容器的出现是革了一回虚拟机的命，VMWare 疲软，OpenStack 强作镇静。正如赵本山的哪个蚁力神的广告：“谁用谁知道。” 唱衰 OpenStack 的不止一天两天了，但是这么有理有据的还真是第一次见。
+开源如此流行，人才辈出，作为OpenStack的发行商究竟有何意义？ 大型企业原先购买许可证书的方式，在开源的潮流下根本就没发达到节省成本的作用。
+Linux 商业发行版，基本仅剩下了三家：红帽、SuSE、Canonical。OpenStack 却依然有很多，不过已经开始有公司撑不住了。
+&amp;ldquo;At the end of the day, if people see VMs as yesterday&amp;rsquo;s technology and containers as tomorrow&amp;rsquo;s technology, and OpenStack is associated with VMs, OpenStack is quickly going to become legacy stuff, rather than future stuff,&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.23)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-23/</link>
+      <pubDate>Wed, 23 Nov 2016 08:12:06 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-23/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 为什么说开放会战胜封闭 原文链接：Why Open Beats Closed
+适兕点评：
+ 一篇高瞻远瞩的文章，除了极为深刻的洞见之外，就是还能够旁征博引，用事理将问题说明白、将观点讲透彻了。本文即是这样的。
+开篇是从历史上伟大的走封闭路线的公司的遍历，随后话锋一转，这样封闭的公司正在走向没落！上个世纪的经典迈克尔 波特的竞争论正在失效。一切兼因为世界向平民化、世俗化行进。开放为何会胜利？聪明的人是不会冒任何风险的，但是希望看到事情的所有元素。开放的标准更加重要，消费者不希望被任何一家公司垄断和捆绑。开放带来的创新更加的靠谱，因为宽松的环境所发明创造的事物才是人真正需要的。
+你有何理由不读本文？有可能需要多读几遍方能更加深入的理解。
+ 好东西永远值钱：Linux和开源公司如何赚钱 原文链接：Nothing good is free: How Linux and open source companies make money
+适兕点评：
+ 这个问题我一直在探索着，在维基百科上文章：16种开源软件的商业模式有着很好的描述，而且我本人也就本土特色补充了一些:适兕的博客，因为我生活在本土，而经济这种行为离不开文化、风俗、环境的因素。
+正如我前几天的文章：为开源和商业正名，一样不会引起本土人们的共鸣，只是认为我过于天真。国人真的很聪明，明明知道自己在撒谎，可是一句“没办法”就搪塞过去了，理由就是整个环境如是。
+所以本文也就是给哪些本土的骗子们做宣传和偷换概念用的。
+ 红帽CEO 对于微软、Google以及前沿软件的观点 原文链接：Red Hat CEO on Microsoft, Google, and Cutting Edge Software
+适兕点评：
+ 作为大型媒体，得照顾到非专业背景的人士，需要打比方、类比等解释性的语句和段落出现。虽然比喻这种修辞会损失语义，不够严谨，但是可以达到沟通的目的。我比较反感比喻这种方式，但是似乎还真找不到更好的方式在短时间内向小白们表达。
+让我们来看看Whitehurst 的一些犀利的观点：
+  红帽是一家有使命感的公司，你可以诟病它虚伪，但是是这么高调宣传和执行的：：“We’re on a mission from God.” Google、FaceBook等互联网公司的崛起，推动了开源，说明了一个问题：Open source basically has become a place where user-driven innovation happens in software.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.22)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-22/</link>
+      <pubDate>Tue, 22 Nov 2016 08:48:46 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-22/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 红帽首席执行官解释为何当下这么多的技术巨头们都转向开源 原文链接：Red Hat CEO explains why tech giants are turning to open source
+适兕点评：
+ 是的，最近几周发生的事情蛮多，主要是微软加入Linux基金会这事让所有人似乎都认为微软加入开源的决心是真的。废话少说，我们来看Jim是如何解释的吧：
+  在软件领域中，创新是由用户来驱动的。 正是因为开源是创新的源泉，而且是由开发者所驱动的，他们是被迫参与的。 并不是说某个开源项目能够带来什么样的价值，而是说因为它是开源的，自由的，它带给你的价值是独一无二的：你拥有它！  微软在云计算和按需付费业务中青睐开源 原文链接：Microsoft embraces open source in the cloud and on-premises
+适兕点评：
+ 微软一而再、再而三的表白自己的决心，热爱开源！并作出实际行动。
+但是，还是难以让人信服，SQL Server 支持Linux和Docker，这个开源没有半毛钱关系，加入Linux基金会只是花了点钱而已，对于那点会费，九牛一毛而已。即使是开放JDBC连接器就能让人信服了？
+微软开源类似于本土的民主制度实行一样，意图通过开源这个话题来打造自己的品牌，制造更多的话题而已。这是现时代开源最大的敌人！犹如OpenStack基金会所加入的那么多的中国公司是一个道理。天下熙熙，兼为利来！
+ 开源项目基础设施构建四步法 原文链接：4 ways to open up your project&amp;rsquo;s infrastructure
+适兕点评：
+ Open source isn&amp;rsquo;t just about opening up your code—it&amp;rsquo;s also about building a supporting infrastructure that invites people to contribute.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.18)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-18/</link>
+      <pubDate>Fri, 18 Nov 2016 07:19:29 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-18/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 图片说明：开源真的能让美国政府节省几十亿美金？
+开源在政府的信息技术：除了省钱之外还有更多 原文链接：Open source in government IT: It is about savings but that&amp;rsquo;s not the whole story
+适兕点评：
+ 荷兰政府在10月份也颁布了政府使用开源软件。似乎民主政府都在想办法省钱。但是真的能省吗？我相信很多人会产生疑问，但是不试试又怎么能知道了呢？考虑一件关于人类集体的事情远远没有那么的简单，更何况是政府这种政治的产物。比如开放的文档格式标准就让人头疼不已。但是，只要为之奋斗，努力前行，认为是做正确的事情，希望就在，就又可能成功。
+&amp;ldquo;It really is amazing when you level the playing field and drop the barriers, the people who come out and want to play, they&amp;rsquo;ve had some amazing ideas,&amp;rdquo;
+ 开源和协作已成常态 原文链接：Open source and coopetition are the new normal
+适兕点评：
+ 这个月过于颠覆世人，一向强硬的微软加入Linux基金会，将真爱进行到底，然后就是高冷的Google加入.NET阵营。这让很多人不得不感慨：Strange days, indeed.
+文中提到的几个观点，适兕颇为赞同：
+  技术变得日益复杂，其快速的增长使得没有任何一家单独的公司能够提供整体的解决方案，（或者说做到面面俱到）。 或许更为重要的是，用户自己的选择！没有人愿意被一家供应商所绑定，他们也期望interoperability。  留给问题，IT该如何创新？一定不是绝境！一定别有洞天，该如何去寻找？</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.17)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-17/</link>
+      <pubDate>Thu, 17 Nov 2016 08:55:50 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-17/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 微软加入Linux基金会 原文链接：Microsoft joins Linux Foundation in another nod to open-source code
+适兕点评：
+ 这个新闻昨晚没朋友圈刷屏，今日头条也找业内人士报道了此事。当然，如此重大的开源事件，我也不例外。
+微软拥抱开源的决心，确实比我们所有人预料的都坚决。但是加入基金会本身也就是贡献一些钱而已。试图掌控一些项目的走向，制定一些兼容性的标准等等。
+微软的官方声明，终究是件好事情。
+ Inner Source 和 软件交付 原文链接：Inner Source and Software Delivery | @DevOpsSummit 
+适兕点评：
+ 我个人以为Inner Source可能是一个开源在现在企业的一个机会，所以我在今年的开源社举办的会议上分享了有关Inner Source 的内容。但是，这么一看，我还是落后，文中的collab.net 连协作软件都做出来了。
+当遇到文化和制度的障碍的时候，工具又可能成为突破的一把利器。应该深度学习之。
+ 现在的开源犹如回到1999年的互联网泡沫 原文链接：Party like it’s 1999
+适兕点评：
+ 熟悉IT历史的人，应该对于.com泡沫记忆犹新，那时候融资是一件非常简单的事情。可是现在情况变了，哪些狂欢的日子变了。哪些开源的人们是不是应该仔细的考虑一下下面几个问题：
+  那部分选择开源？ 打算怎么赚钱？ Are you building an ecosystem around your product, how are you going to nurture that without alienating other players in your ecosystem when you start making money from your open source IP?</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.16)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-16/</link>
+      <pubDate>Wed, 16 Nov 2016 06:55:44 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-16/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 将搜索带回 PageRank 年代的开源项目———通用搜索 原文链接：Common Search: The open source project bringing back PageRank
+适兕点评：
+ 世界的运转是依赖于信息的，然而，是谁掌控着信息？作为普罗大众的你，该如何去应对这些信息？你所处的环境不是信息匮乏，而是泛滥，该如何筛选？这成为了未来人才想要脱颖而出的必备技能。
+那么此文就是带领我们了解搜索：爬虫、数据存放、分析、前端等大的组件。另外就是哪些免费为大众存放数据的地方，比如AWS等，免费的后面总有人买单！！而买单的人的目的，我们无法判定，也不该道德判定？对吗？
+ Linux 基金会双管齐下，预防哪些“捣蛋“软件 原文链接：Linux Foundation doubles down on support for tamper-free software
+适兕点评：
+ 我喜欢这篇文章的配图，让我想起了诺兰的《蝙蝠侠》系列，恐惧对于蝙蝠侠的成长来说可谓是至关重要，从害怕，到无畏，再到敬畏。
+开源界有时候也得照顾下贪玩的人性！总是有些捣蛋鬼喜欢恶作剧，比如前一阵子发生的Linux Mint仓库服务器被攻击吗？以及2003年GNU的服务器被黑吗？以及不计其数的发生的事情。总得有人站出来，既然无法杜绝，不如做好预防准备，可再生构建程序顺势而生！
+ Angular 创始人 Miško Hevery 谈开源语言是如何重新定义企业级软件的 原文链接：Miško Hevery, Inventor of Angular And How Open Source Languages Are Redefining Enterprise Software
+适兕点评：
+ 福布斯出品，必是精品。这是一篇典型的范文！毫无瑕疵！软文就应该这么写。我们不妨分析下结构：
+开始交代了这篇文章的起因，因为在Angular的大会上遇到大神级人物（作简短介绍），然后，在交代采访内容之前，向读者阐述了Angular是个什么东东，有何成就！最后总结开源、技术趋势所成就等。
+对于我而言，我一直在试图尝试寻找开源对于企业的意义，对于某个技术的个体来说的赚钱意义。然后在此寻找自己立足的机会。The days of charging for upgrades and new features went away with the perpetual, on-premise business models of the past.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.15)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-15/</link>
+      <pubDate>Tue, 15 Nov 2016 15:01:30 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-15/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Capital One 是如何拥抱开源的 原文链接：How Capital One is embracing open source
+适兕点评：
+ 现下的开源成为大势所趋，某种程度上解放了程序员，但是，对于企业来说，开源这班顺风车，究竟该怎么搭，很多公司并没有想好，在犹豫，甚至过分的是在开历史的倒车。即使是硅谷也一样。
+对于企业使用开源的好处是显而易见的。 **lower costs, strong community support, better quality, and more reliability. **
+但是天下没有免费的午餐，总是等着公地的不劳而获，最后是自己出局，无法把握趋势。所以，要想法积极的参与！而这也是我布道的原始动力。
+ SUSE 重点推出旗舰产品开源存储系统 原文链接：SUSE advances its open-source storage system
+适兕点评：
+ 将开源项目做成产品来售卖是有很大学问的，因为这么多年看来，成功的企业凤毛麟角，失败的不计其数。SUSE 历经波折，然而，依然能够苟延残喘，也是有道理的。因为它确实对于产品化有独到之处。
+Ceph 软件定义存储开源项目中的翘楚！Mirantis、红帽几乎三分天下。SUSE 能做出什么来呢？让我们看看其中的门道。
+  整合企业的痛点：NFS Ganesha 考虑到上下游的关系：兼容64位 ARM架构 兼容自身已有的市场：重点推出Cepf FS，毕竟文件系统也是有市场的，尤其是使用旧的SUSE Linux 企业版的用户。 重视低端用户体验：收购了OpenATTIC  现如今的企业必须转型到平台战略 原文链接：Today, Every Business Must Transform Itself Into A Platform
+适兕点评：
+ 这是一篇非常重量级的文章。尽管使用的词汇是很商业的，但是符合开源的未来发展！推荐所有对开放的商业模式有兴趣的人阅读。</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.12)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-12/</link>
+      <pubDate>Sat, 12 Nov 2016 06:43:02 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-12/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Java 开源十年，依旧争议不断 原文链接：After a decade, open source Java is still controversial
+适兕点评：
+ 正如前 Java 布道师 Reza Rahman 所总结的，Java 若不是开源，真的无法想象今天是什么样子。开源对于Java 的发展可谓是至关重要的决定。
+但是，Sun当年选择的协议，乃至后来的Oracle，将Java的控制权牢牢的掌握着，去年的Android Google和Oracle的官司，想必还记忆犹新吧。
+Java 已经20多年了，基于它的框架、应用都成了云原生应用的阻力了。该换换口味了。
+ Apache Cassandra 项目发生的“撕逼”事件 原文链接：The battle for Apache Cassandra highlights major problem with open source projects
+适兕点评：
+ 首先，声明以下此文是商业公司Datastax妄图对自己做出辩解！作为一家媒体网站，没有做到中立，客观的进行评价，是件颇为遗憾的事情。
+我很反感说开源赚钱很难，比如文章谈到的：“Selling open source is hard. Really hard. ”，开源的初衷并不是让你去赚钱的，你能够找到商业模式，弥补其中的空隙，那是你自己的事情，和中立组织有何关系？竟然能恬不知耻的说出这事了：“The ASF may be unwittingly making it harder.”
+过分商业化的开源，还是会闹出很多纠纷的，OpenStack 相信也会有那么一天，ASF 已经做的够好的了。可是总是有太多的投机者，打着开源的幌子，然后异想天开的以为开源之后即可财源滚滚，一下子就成了某某界的红帽了。
+ 需要从Netflix及其外包的技术中汲取灵感的5大行业 原文链接：Five industries that should take a cue from Netflix and crowdsource parts of its tech</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.11)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-11/</link>
+      <pubDate>Fri, 11 Nov 2016 08:41:15 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-11/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 昔日采用开源的标杆，近日重投微软的怀抱 原文链接：Open source champion mulls return to Microsoft
+适兕点评：
+ 文首直接点明意思，“After a decade of being the Open Saucy champion of the world, Munich is now considering going back to Vole’s loving arms.”
+这意味着什么了呢？LibreOffice 的全面崩盘！伴随着Google等云计算的在线办公，以及微软的开源战略，Linux 的桌面应用更加的举步维艰。
+在此背后，除了经济学之外，还有甚么能够解释的呢？日益加速的生活节奏所导致的对于时间的珍惜，恐怕是一个难以摆脱的理由。社区的随性质量问题，也企待人们尽快的解决。开源就意味着质量问题？
+ 嘉宾观点：为什么政府会对开源很感冒 原文链接：Guest View: Why open-sourcing software for the government makes sense
+适兕点评：
+ 基于以下几点：
+  更开放 更多的眼睛 更加的透明 更有效 更具创新性   会节省纳税人的钱！更加灵活的IT架构。
+ Google 庆祝机器学习框架 TensorFlow 开源一周年 原文链接：Google celebrates one year of open sourcing machine learning framework TensorFlow</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.10)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-10/</link>
+      <pubDate>Thu, 10 Nov 2016 08:50:45 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-10/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 开源需要更多女性的参与 原文链接：GUEST BLOG: Open source needs to deliver diversity
+适兕点评：
+ 大约是因为开放、自由、共享等理念的倡导，开源界向来是尊重女性的，也一直呼吁女性的更多参与。
+是的，我们需要更多的多样性、多元化。
+ 4个急需帮助的开源项目 原文链接：4 open source initiatives that need your help
+适兕点评：
+ 是的，几乎每隔一阵子都会有开源项目死去，纵观SourceForge、GitHub的历史，死去的开源项目占了绝大多数，不是它不优秀。一个项目的生命周期，有太多的维度来衡量。比如文中提到的PyPi项目，为什么Python基金会没有为它提供帮助？OpenBSD 走到如此地步，怪它不够安全？
+有的时候，无论是撰写《失控》的 KK，还是生物界的达尔文，政治界的福山，都会谈到变化，适应环境。也就是所谓的进化论。
+不是我冷酷，我也受到过同样的冷遇。得认清事实。振腕之余，需要反思的东西太多了。
+ 苹果打算在开源投入更多 原文链接：Apple is doubling down on open source
+适兕点评：
+ doubling down 这个词我不知道怎么翻译合适，希望有识之士帮忙。
+开源乃大势所趋，我认同文中的一句话：“In a world fueled by developers, enterprises must speak their language: open source code.” 从文化的本质来讲，开源是解放了程序员——即人类本身，不在牢牢的被绑死在某个资本主义企业家身上。技术上更多的自由、也拥有更多的创新和空间。
+Apple 即使如此有钱，也难免会底下高贵的头颅。开发者是它的命根子！没有开源，就没有今天Siri后台的架构&amp;hellip;&amp;hellip; 这家全世界最封闭的公司，在后Jobs时代，该如何处理Hacker和自由的关系，确实是一大挑战。光是玩高冷，会出事的。
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.09)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-09/</link>
+      <pubDate>Wed, 09 Nov 2016 08:47:40 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-09/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 阿里巴巴承诺的Java大事件哪里去了？ 原文链接：Open-source Sesame! Alibaba promises super-size magic for Java
+适兕点评：
+ 阿里巴巴在三个月前加入了JCP的执行董事会，为什么了呢？因为这家电商巨头拥有大量的java应用，不想被Oracle牵制？还是有很多特殊的问题，需要得到JCP的帮忙？
+而JCP的成员就更加天真可爱了，他们竟然说哦，终于有中国的团队加入了，相信阿里巴巴的加入也会带动其他厂商的加入的。嗯，好吧，这话背后只有懂的人才能品出它的苦涩。
+终究是件好事，阿里巴巴在章文嵩博士出走之后，对于开源错误的做法，很是让人费解，但是他利用了国人的无知，比如MySQL的哪个，本来是违反协议的，把本该做的事情放大为市场宣传，怪谁？这不加入JCP，就是恬不知耻的为了解决问题。有时候，我也会怀疑布道的意义。
+ Linux 基金会为软件定义存储创建了开放的控制器——OpenSDS 原文链接：The Linux Foundation Creates Open Controller for Software-Defined Storage
+适兕点评：
+ 我模糊的记忆里，试图做虚拟的存储控制层的公司和产品很多。试图像hypervisor那样将计算资源抽象出来，但是，各个存储厂家都在彼此争夺，最后最多也就是做到将自家产品能够统一管理而已。
+红帽的libstorage、IBM的virtualStorage等等不一而足。但是我不知道OpenSDS是什么东西。妄图以网络的方式理解存储？技术上似乎已经超出我的理解范畴。（没见Ceph也像SDN那样区分为控制平面、数据平面。）回来好好调研一番。
+华为自认为掌控了Linux基金会的运转规则？这样宽松的既不Apache也不OpenStack的项目，以基金会的名义托管一个项目。其实，Linux基金会托管的一些伪项目，照样死去的居多。
+ 撰写更好的文档四步法：如何获得用户最需回答的问题 原文链接：4 steps to better documentation: How to get users the exact answer to the problem
+适兕点评：
+ 文档，就是连这么简单的名次，在公司中很多角色都是不同的理解。sales理解为产品介绍、售前工程师理解为案例研究、行业实践，研发理解为代码注释、架构实践，service理解为指南、手册，市场人员理解为软文、宣传页、后勤人员理解为制度解释、规章条例。
+这个世界进化到无比复杂的地步，而科技究竟是让绝大多数人盲目的自信，让眼光永远盯着自己的一小部分。比如，哪些电商网站的推荐系统，它真的能推荐到你需要的东西吗？
+回到本文，写文档也要做到有的放矢！尽量少将自己的基础知识代入。
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.08)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-08/</link>
+      <pubDate>Tue, 08 Nov 2016 09:25:29 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-08/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Linux 基金会发布开放云2016指南 原文链接：Linux Foundation Releases 2016 Guide to the Open Cloud
+适兕点评：
+ 原来叫做《open Cloud profile》，也是开放云精选最初的灵感来源。相比于以往，今年确实有了一些变化，分类也更加的细致了，说明做这件事情的人也进步了不少！
+下载PDF文档，深度阅读之！没有二话。
+ 为什么说开源是软件定义基础设施的未来 原文链接：Why Open Source Is The Future of Software-Defined-Infrastructure
+适兕点评：
+ 标题党，但是是对的，尽管内容说的乏善可陈！
+ 微软开源了 Azure 容器服务 原文链接：Microsoft Open Sources Azure Container Service - Adds Support for Kubernetes
+适兕点评：
+ 如此的话，微软对于主流的容器编排工具：Docker Swarm、Mesospher DC/OS、Kubernetes都进行了支持，而且还要开源其core engine behind ACS，这个项目类似于OpenStack 中的　Magnum，显然作者没有分清楚Hypervisor和容器的差异。对于这个编排工具的理解实属败笔。
+微软开源的决心似乎真的不可阻挡，文中提到其从Google挖了几个人过去。包括Kubernetes的核心。看文章的结尾话，让人慢慢的转变微软对于开源的作秀，看起来就像真的一样。
+The decision of supporting Kubernetes and open sourcing ACS reflects the new culture at Microsoft.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.07)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-07/</link>
+      <pubDate>Mon, 07 Nov 2016 08:25:08 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-07/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 如何为 GitHub 上的开源项目贡献代码 原文链接：How to contribute to an open source project on GitHub
+适兕点评：
+ 方法论是可以反过来影响思维的，这是我坚信的一点，虽然有些勉强。但总比连方法论都没有的好。本文就是为小白特意写的入门教程，深入浅出、简单易懂、化复杂为简易。不可多得的好文。
+之所以选上这篇文章，是因为无论是开放云精选也好，我自己本身也罢，能够让更多的人参与到社区开发、测试、撰写文档、提交issue、交流，都是非常想做的一件事情。
+此文带给我很大的灵感，包括昨天爱人给我的提示，要找对你的受众群体!!! 我想我应该知道自己接下来该做些什么了。开放云精选的野心太大，个人的能力和时间都有限，在没有更多人参与进来的话，不妨先将最重要的开始做起。哪些抽离具体项目进度的方法论！
+ 企业必须知道的有关“容器化”的姿势 原文链接：Containerisation: What businesses need to know
+适兕点评：
+ 这是我读过的最好的关于容器的科普文章。没有之一！三言两语，就将容器的来龙去脉讲得清清楚楚、明明白白，这份功力不一般。甚至还偷空介绍了微软的容器技术跟进，以及和Linux的关系。
+除了学习容器化的知识以外，本文使用浅显易懂的语言，精湛的比喻等方式，而且没有丝毫的夸张，有种科学论文般的冷静。尤其是对于容器化未来的那段描述，没有当下哪些夸张的革命式的颠覆，也没有面对传统应用的改造困难的悲观。客观的叙述了能够做到容器化的好处。
+容器化！简单的包装，就可以做到微妙的隔离，将各种环境分离和共用！ 难得一见的好文！
+ 开源开发者的日常 原文链接：Life as an Open Source Developer
+适兕点评：
+ 文章的作者自称是一名开发的布道师，用事实证明自己是做的到的。他有一段话我非常的喜欢：
+As a developer evangelist, I get to create my own job. That means that I can speak at the conferences I want to, write the code I want to, create the blog posts I want to, and everything else in between.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.06)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-06/</link>
+      <pubDate>Sun, 06 Nov 2016 07:37:26 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-06/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 原 Bitcoin 核心开发者 Jeff Garzik 加入Linux基金董事会 原文链接：Former Bitcoin Core Developer Jeff Garzik Joins Linux Foundation Board
+适兕点评：
+ 有人说昨天流行的技术是云计算，当下是物联网，未来将会是区块链的天下。嗯，说的蛮有道理，但是人不能一味盲目的去追随潮流，要知道，人类自身的局限性，时间是有限的，学习一样东西是要花费很大精力的。要提防一味追新的糟糕的氛围。但是也要应对变化，至少在技术领域不应被淘汰。
+说回Jeff，他是一家叫做Bloq的创始人兼CEO，Bloq就是一家围绕区块链开发的公司，我们知道，加入Linux基金会席位，也就是缴点会费的事情。为公司增加影响力才是根本原因。比如中科创达。
+Jeff的战略是想做区块链的红帽，希望向红帽为企业提供Linux操作系统一样，为企业提供区块链解决方案：应用、网络、协议等。
+红帽的模式非常难以复制，它的成功只是露出水面的冰山一角！
+ 基于OpenStack再铸辉煌 原文链接：Building The Stack Above And Below OpenStack
+适兕点评：
+ 一篇了解OpenStack的前世、今生非常好的文章，虽然没有具体的技术分析，但是就用户而言的数据也是很多人愿意去拿来参考的。当然，有一些人更加的在意未来。比如容器，包括OpenStack服务组件的容器化和基于OpenStack提供的容器服务。
+ Operations Transformation Summit 2016 和华为有关 原文链接：It&amp;rsquo;s Showtime for OPEN-O
+原文链接：Software or Hardware: China Telcos Tell Huawei to Decide
+适兕点评：
+ 这两篇文章，我读出了一些颇有意思的东西，比如移动、电信想甩开华为而又不能，只能抱怨几句，华为为何 不能更加的开放点？然而，关于Open－O的演讲就更有意思了。
+来自华为的 Joe Hou 说到：&amp;rdquo;The code is the de facto standard,It is also a standard but it&amp;rsquo;s not on paper &amp;ndash; it is code.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.05)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-05/</link>
+      <pubDate>Sat, 05 Nov 2016 10:25:24 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-05/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 著名的文本编辑器 Vim 庆祝25岁生日 原文链接：The iconic text editor Vim celebrates 25 years
+适兕点评：
+ 相信在很多人的职业生涯中（开源相关：开发、运维、技术写作），vim是手头必不可少的工具。
+一款开源的编辑器走过了25个年月，当初的创始人依旧是开发的领导者，就是这么的有魅力，这也是让世界更加美好的原因吧。因为它并没有任何的盈利，即使是售卖T恤和相关logo周边的产品，也都捐献给了ICCF。
+Vim 有很多铁杆的粉丝，当然其本身的优秀和卓越也是有目共睹的。没什么好说的，情怀，有时候在技术领域也能前行！与时俱进，积淀式的发展自己，才是最佳的成长模式。
+ Code.gov ，美国政府的开源软件站点正式运行 原文链接：Code.gov is the US government&amp;rsquo;s open-source software hub
+适兕点评：
+ 自从8月份，美国政府颁布了新的政策，要求政府部门要使用至少20%的开源软件，这样有利于部门之间的资源共享，从而达到节省资源，避免重复浪费。然后，陆续的就有一些项目开放了，Data.gov、Facebook的聊天机器人项目等等。
+这个事情好处蛮多，但是遇到本土一样的强政府，某种程度上影响到很多部门的寻租空间。但是，一定有人在研究，也一定有变质的政策实施。
+ 开源和协作的力量 原文链接：The Power of Collaboration and Open Source
+适兕点评：
+ 本文是为何开源如此的流行，以及它为何会是未来的个人佐证。
+IoT 解决方案，我们都见识过某些号称是IoT的公司，但是他们仅仅只能做到庞大架构中的一小部分。而开源却能够做到。当然，这也是开放云精选所看到的未来趋势。
+Eclipse 开始找大厂合作！以及 Apache的各种项目。
+最后作者的感慨，太过于振聋发聩：
+In my spare time, I decided to start sharing my knowledge and improving it developing open source software and, I have to say, it changed my life.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.03)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-03/</link>
+      <pubDate>Thu, 03 Nov 2016 06:55:36 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-03/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Linux 基金会又添一大将，著名开源领导者 Nithya Ruff加盟 原文链接：Open Source leader Nithya Ruff joins the Linux Foundation Board of Directors
+适兕点评：
+ Linux 基金会确实需要一个女性的领导者，看看Ruff的工作内容：
+  为参加研讨会的女性和没有经济能力的团体提供奖学金，而这通常是他们进入开源的入口。 对一些Outreachy和指导机构提供支持，帮助人们进入开源的世界。 为研讨会的运作定义良好的准则，包括照顾儿童、女性在开源的演讲等。 和一些组织结成合作伙伴，聚焦到各个领域，如经济、性别、性取向以及未被充分代表的少数人群。  Ruff 曾经被CIO评选为开源界最具影响力女性之一。在西部数据任首席开源战略官。祝福她在Linux 基金会有好的表现！其他堂而皇之的话，看看就可以了，比如Linux基金会执行主席说的。
+开源技术大会的新目录 原文链接：A new directory of open source technology events
+适兕点评：
+ 这个世界上有心人真的很多，但是能够实际作出行动和成果的人很少，那么这名叫做Gabor Szabo的编辑算是做到了。这份开源会议的清单，会列出接下来的几个月将会举办的开源会议，哪些会议正在召集演讲议题，都会特别标注等等。
+重要的是此项目利用GitHub 来进行协作。嗯，GitHub 不仅仅是程序员的天堂，它的作用应该更广一些。比如莆田系医院列表等等。
+ 微软为开放计算项目贡献了一款开放式设计 原文链接：Microsoft offers open source designs to Open Compute Project
+适兕点评：
+ 微软也是在2014年加入的开放计算项目，FaceBook发起的开源硬件项目。仓库地址：Olympus，注意，它不是代码，it will be hardware and software specifications as well as collateral files like schematics, board files, and mechanical assemblies.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.02)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-02/</link>
+      <pubDate>Wed, 02 Nov 2016 08:09:45 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-02/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 编码是很容易学会的，即使你不是科班出身 原文链接：Learn To Code With Ease, Even If You Are Not A Computer Science Graduate
+适兕点评：
+ 这是一篇标准的忽悠文章，而且我还亲身经历了被这些文章忽悠过的大学生！此文属于典型，可以当做范文来进行警示：
+  计算机人才紧俏，严重的供应不足。 开源只是为了让我们更好的学习，更低的入门门槛。 前端是最容易见效果的。 各大IT公司都在招聘前端JavaScript人才。   你是不是也有点心动了？都是骗人的，不懂编译原理的也可以编码，纯粹是扯淡！我只所以列出此文，是因为其持错误的观点：开源的门槛低，容易学习！ 开源门槛很高！需要你付出大量的时间和精力方能入门！自由的代价一向是高昂的！
+ 在 AllthingsOpen 上对来自Oracle的 Blaine Carter 的采访 原文链接：AllThingsOpen With Blaine Carter of Oracle
+适兕点评：
+ AllThingsOpen 正在进行中，这是红帽对于开源文化输出的又一重要领地，虽然比不上opensource.com，但是越来越多的开源界人士开始参与进来了。
+Oracle 这家公司虽然臃肿、庞大、官僚、精英，但是一直都没有脱离和开源的关系，嗯，比如坚不可摧Linux，比如今年被微软挖走的高管，Blaine Carter是做数据库语言的版本控制的。他的观点和愿望是蛮好的！引用一下：
+being nice to the newbies. Open source needs more people involved, not fewer.
+ HPE,Mirantis裁员 OpenStack人才，基金会称这并不表示开源IaaS陷入危机 原文链接：OpenStack Layoffs at HPE, Mirantis Not Indicative of Open Source Trouble, Foundation Says</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.11.01)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-01/</link>
+      <pubDate>Tue, 01 Nov 2016 08:11:51 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-01/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 微软会真的开源吗？ 原文链接：Does Microsoft Finally Get Open Source?
+适兕点评：
+ 相信很多开源的人，骂了20多年的微软，突然的转向让很多人措手不及。于是开始怀疑，本文就是代表这样的一类人发的声音。
+质疑微软挖开源高官，和红帽联姻，乃至各个开源项目的真实性。其实，很多在开源界混久的人是无法（根本没有兴趣）去检查哪些代码是否是真的开源。
+其实，我也算是质疑者之一。微软尾大不掉，不论是在移动端，还是云计算都失掉了先机，主要是和开源站在了对立面，没有想过开源会发展为这样的局势。现在青睐，确实需要做很多事情，然而还得不能一副媚俗的嘴脸。好吧，我们拭目以待吧。它融入开源需要很长的路。整个技术stack都不一样。一直是自己玩自己的。
+开源绝不仅仅是将代码开放，还有很多的因素需要考虑进来。
+ 开源将改变保健行业 原文链接：How open source can change the face of healthcare
+适兕点评：
+ 软文的前提是一定要提大厂，比如本文就会说IBM、Google、微软是如何支撑开源的了，然后说开放是21世纪最为优秀的创新模式之一。
+红帽，一家优秀的商业公司。确实做的不简单。比如品牌，人家的VP会这么说：“Red Hat is a mission-based company. People come to work at Red Hat because we fundamentally believe in the goodness of open source. It’s not just about code, it’s about transparency and accessibility of information.” 我知道，在本土，你要是这么说一定有人诋毁你、攻击你！这些攻击你的人，恰恰会拿过去30年走过的路来攻击你，而他们号称自己是相信我党的。
+嗯，有的时候，人们似乎需要这些媒体的引导！否则，堕落、腐败、固步自封的他们该如何选择一家厂商，而自己又不会将饭碗丢掉。
+ 哪些搞户外的公司：是时候开源你们的技术了 原文链接：Outdoor Gear Companies: It&amp;rsquo;s Time to Open-Source Your Technology</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.28)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-28/</link>
+      <pubDate>Fri, 28 Oct 2016 06:47:10 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-28/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+ As computing pushes us forward, open source is a positive sum game. Jonathan Bryce (executive director of the OpenStack Foundation)
+ 文章点评 匹兹堡大学合作为癌症基因数据开发开源软件 原文链接：Pitt, partners create open source software for cancer genome data
+适兕点评：
+ 有梦想与情怀，也许是能够让这个世界进步的真正原因。
+GFW 不是障碍，障碍的是若你未自己设限，那真的就永远不可能超越。这篇文章本身并没有什么，但是你会反观自己身边的发生的事情。
+ 开启你作为一名开源开发者的职业生涯 原文链接：Starting a Career as an Open Source Developer
+适兕点评：
+ 人们都喜欢赶潮流，往人多的地方走。随大流，总是没有错的。迪斯尼、约翰迪尔、和沃尔玛有何共同之处？那就是均在GitHub上拥有仓库！并踊跃的参与开发当中。
+文中的演讲者／布道师非常的夸张，他说无论一家公司是属于哪个行业的，都有可能成为一家软件公司。但是他在文末提出的4步法，非常的实在：
+  you have to have a problem. you have to find (OpenSource)software that solves that problem.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.27)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-27/</link>
+      <pubDate>Thu, 27 Oct 2016 08:24:28 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-27/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 红帽 CEO：“万物皆开放” 并非仅仅指技术 原文链接：Red Hat CEO: &amp;lsquo;All things open&amp;rsquo; isn&amp;rsquo;t just about technology
+适兕点评：
+ All things Open 峰会即将举行，作为红帽所倡导的哲学思想，当然会为之摇旗呐喊了。
+是的，开源软件已经用实际行动证明了，开源是可行的，无论是生产模式，还是商业模式。但是，它其实应该在更多的领域发挥它的巨大的创新能力。比如全球变暖问题、治愈癌症等。
+“We know that bureaucracies, hierarchies, are really good at driving efficiency,” he says. “They’re not good at innovating.&amp;rdquo; 所谓的经济奇迹，也不过是放松了对于人的管制而已。
+ 为什么说开源专家对于你的企业很重要 原文链接：Why professional open source management is Critical for your business
+适兕点评：
+ 这是我不知道第几次听说过这个职位了，一家公司专门主管开源方面工作的，微软、Oracle、VMware、华为（开源能力中心）等，这次是Yahoo，主持了Hadoop、Spark、Zookeeper等，以及内部的项目。相信是蛮有说服力的了。
+作者说道，开源不再是一件可有可无的事情了，已经发展成为一种态势，对于企业提高竞争力一个不得不提到的环节：人才的竞争、开发成本的降低、对于趋势的把握和敏感直觉、乃至创新的动力等等。
+结论是：你的企业需要懂开源的人才，即Open Source Program office.
+ 企业开源势不可挡——无论是技术还是其它领域 原文链接：Enterprise Open Source Programs Flourish &amp;ndash; In Tech and Elsewhere</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.26)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-26/</link>
+      <pubDate>Wed, 26 Oct 2016 08:42:12 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-26/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 文化对于鼓励创新作用非常之大 原文链接：Culture matters for encouraging innovative behaviors
+适兕点评：
+ 没错，本篇就是红帽的CEOJim Whitehurst近来的一篇文章，而我们知道的是他的书中文版《开放性组织》刚刚在中国大陆出版。
+自由，很重要！有很大一部分人不理解，为何开源总是和创新挂钩？尤其是国人。因为创新的前提就是自由！尤其是思想的自由！
+本文，如果有机会，我会翻译出来，此处我仅引用一些我认为好的内容。
+**Your organizational culture is actually the relationship between the values your organization espouses and the behaviors of the people who make it up. **
+**Innovation isn&amp;rsquo;t just another outcome of hierarchical machination. In fact, by definition, innovation is something that can&amp;rsquo;t always be predicted or controlled—quite the opposite of what hierarchies are designed to achieve!</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.25)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-25/</link>
+      <pubDate>Tue, 25 Oct 2016 07:32:03 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-25/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 CloudNativeCon 有关开源、容器和云原生应用的盛宴 原文链接：CloudNativeCon Unites Leaders in Open Source, Container and Cloud Native Tech
+适兕点评：
+ 嗯，每次看到如此的会议，我就忍不住想本土为何就没有如此质量高的会议？
+本土是缺乏原创的，这是众所周知的事情。所谓的容器也好，Kubernetes也罢，顶级的专家都在美国。本土的会议，永远是某个厂商的市场活动。Meetup之类的就更无从谈起了。
+最为可恨的是以技术的名义，发起社交者的聚会。一帮拿着别人的理想混饭吃的家伙们，
+ GitHub 开源了其Puppet的跟踪和预览工具 原文链接：GitHub open-sources tool to track and preview Puppet changes
+适兕点评：
+ 嗯，GitHub 是一家闭源的互联网厂商，正在慢慢的开源一些服务器、集群、运维的工具。比如前一阵子的负载均衡，以及本次的Puppet工具。
+GitHub 也是找了一些开源的专业人士过去的，比如Jono Bacon就在担任社区总监。它的开源其实只有一个目的：洗清自己被人诟病的闭源罪名。
+GitHub 做的蛮好，其借鉴了 SourceForge的教训，知道如何做到让人们相信它，而且也很好的找到了商业模式，加上社交（面基）的特性。相比而言，本土的几家代码托管厂商，天生的畸形以及难以做到让人信任的地步。
+ 分布式的加密软件可能是违法的 原文链接：Distributing encryption software may break the law
+适兕点评：
+ 法制国家，出口控制，法律，FOSS。
+好吧，你赢了。我没有看懂这篇文章。
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.24)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-24/</link>
+      <pubDate>Mon, 24 Oct 2016 07:48:29 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-24/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 开源软件质量保证的基本事项 原文链接：The basics of open source quality assurance
+适兕点评：
+ 这又让我想起来 OpenStack 的刷 Commit 事件，我很久一段时间没有关注开发的相关事项了。但是OpenStack 如此则暴露出其 review机制的问题，更深层次的问题是其项目的过渡民主化，或者是core reviewer这样一个角色的失职的惩罚问题。这也就会导致 OpenStack 项目的严重的质量问题。
+抛开机制本身，我们回归到技术。软件的质量保证是测试，而测试会区分为单元测试、功能测试、集成测试等等，唯独不会关心，其版本控制系统提交了多少次，每次Commit是否有意义，是否是每个Commit都应该有对应的单元测试和持续集成和持续开发。
+开源项目的质量保证，确实是个非常大的问题，Fedora、Foreman都还好，毕竟有红帽在后面花钱在让人搞。也唯有靠人类的精英，哪些软件的英雄们去早就牛逼的软件。没有天赋、靠努力、民主，将一事无成。
+ AT&amp;amp;T 购买时代华纳是希望在未来能够和Google较量 原文链接：AT&amp;amp;T Is Buying Time Warner Because the Future is Google
+适兕点评：
+ 连线的文章总是充满洞见，似乎每篇文章都是深度阅读，而不是本土的诸如cnbeta之类的，话说本土有一家像样的媒体吗？InfoQ？脱离了国际的给养，想独立走得更远点？我们拭目以待。
+AT&amp;amp;T 运用的竞争策略，是典型的以进军竞争对手的领域，来继续霸占现有的市场的策略。因为Google、FaceBook、Amazon、乃至Netflix都在妄图进军电信网络提供商这个领域。AT&amp;amp;T不得不做出如此巨大的决策。但是很多人并不看好这样的收购，因为AT&amp;amp;T 尾大不掉，很多公司被他收购之后都垮掉了。
+有时候在想，作为一个个体，讨论一些庞然大物的公司也好，国家也罢，意义何在？在本土最为悲哀的地方，就是标榜自己是某大公司的职工，一如当年自己是国有企业工人一样自豪，螺丝钉精神、抱大腿的态度、缺乏独立精神、拿第二本能当盾牌，我该如何处理这样的人。唯有叹息。
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.23)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-23/</link>
+      <pubDate>Sun, 23 Oct 2016 08:55:44 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-23/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 为开源编写代码可以拯救世界吗？ 原文链接：Could open-source coding ‘save the world’? 
+适兕点评：
+ 是的，可以的。但是开源也能够被反向利用，比如Tor就被污染了。
+这个世界有时候看起来简直糟透了，和我们自己所想的，完全不一样，但是话说回来，为什么要和你的想法一样？你又不是上帝。于是，这个世界变得更加的美好了，因为多元！但是你要防止哪些想独霸天下的，走文明的反面的那些人。比如反人道的！
+开源，准确的说是开源软件，依存于互联网和计算机。如果哪里什么都没有，你又如何拯救世界？
+ COW 对于 Linux 来说是个严重的问题吗？ 原文链接：[](https://technewsinc.com/dirty-cow-serious-concern-linux/)
+适兕点评：
+ 一个隐藏了9年的bug，竟然才刚刚修复。这样是放在微软、Oracle就等着30年之后维基解密吧。
+“Prevention is better than cure”
+ 我们会拥有一个开放硬件的未来吗？ 原文链接：Are we on track to an open hardware future for the DC?
+适兕点评：
+ 开放计算项目（OCP）俨然已经从Facebook的数据中心走出来，成为了一个全球性的庞大项目。成长的如此之快的原因，就是接纳社区、保持开放。
+IDC 预测，未来在2020年，人们将全面采用OCP。服务器、机架、数据中心的设计都将遍地开花。
+如此看来，开放是未来！世界之后中立的、非盈利的组织，然后就是哪些实用开放平台的其它业务的企业。而人才是自由的！本土的实现，可能要等上个50年。
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.22)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-22/</link>
+      <pubDate>Sat, 22 Oct 2016 09:11:45 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-22/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Twitter 该及时悔改了 原文链接：Fixing Twitter
+适兕点评：
+ 在人人都在开源的时候，Twitter却不走寻常路，坚守封闭的道路！这可能令很多人不满他的客户端开始的。其实本土有一家厂商叫做腾讯，也是这么搞的。客户端别指望我开放。服务端为了招点人还有可能开源一些，客户端想都不用想。
+我最近在思考着一个大问题，可能是我人生的颠覆和疑虑。为什么小时候总是有人叫你从一而终，我指的是政治观点、人生看法等，和道德无关。我的脑子被人洗过！我甚至是一个很简单的人
+话说回来，Twitter 一直都是在商业模式盈利上没有什么创新。甚至都开始考虑出售给社会主义国家了。从来不是背负历史使命的公司，一家没有什么文化的公司。只是恰好满足了互联网的撞大运的公司罢了。其实他开不开源，和他走入历史的废墟没有半毛钱关系。
+ OpenStack 巴塞罗纳峰会——值得关注的内容 原文链接：OpenStack Summit Barcelona – your essential guide to the show
+适兕点评：
+ OpenStack 基金会对于每隔半年的峰会是异常的重视，嗯，没有几天就要开始了，这周几乎都在造势，当然OpenStack 和开源的圈子里的人都在翘首期盼，期待有什么重大事情发生。
+关于这篇文章我就不想多说什么了。我想谈谈国内近期刷commit的事情，中兴、99狂刷，刷typo，还可能是原来就是故意的typo的问题。说什么？搅局者？义愤填膺？
+ 开源之路 原文链接：The Open Source Way
+适兕点评：
+ 参与、贡献、分享。这些开源的内在属性是难以学来的。政府，对比下本土的政府。比如工信部。（我为什么会对比？攀比？中外？）
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.21)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-21/</link>
+      <pubDate>Fri, 21 Oct 2016 07:44:23 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-21/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Adtran 为电信业的建议：使用开放平台，或者出局 原文链接：Use Open Platforms or Die, Adtran Tells Telcos
+适兕点评：
+ Adtran，在读这篇文章之前，我从来没有听说过这家公司。嗯，是Nasdaq上市公司（为什么在本土认为上市就是一家牛逼的公司了呢？连我本人都不例外，本土太多的东西需要正本清源了。总是试图想脱离物理、自然规律来搞点伤天害理的事，比如“人定胜天”、“发展有中国特色的社会主义”。），Adtran 是为电信业的服务提供商敲响了警钟。举的几个例子确实能够让很多人闭嘴：
+  诺基亚和黑莓，倒数5年那都是无限风光的好手机制造商。但是，因为错过了强大的平台而被历史所淘汰。 Uber和Airbnb颠覆了汽车共享和房屋共享。 Blockbuster ，拥有1000家门店的DVD租赁公司，被Netflix搞到破产。   嗯，下一代平台是开放平台。该如何抉择？想想本土情形，三大运营商就不会倒闭了？呵呵，那种稳定、守旧、墨守成规是不符合经济规律的，一如前30年的计划经济。他们破产的时候，我们该哭还是该笑？
+ 开源创新驱动着Hadoop的需求 原文链接：Open-Source Innovations Driving Demand for Hadoop
+适兕点评：
+ 对不起，我错了，我也是被标题给骗了。里面是讲一名叫做AtScale的做商业智能的公司，利用Hadoop生态重新构建了分析服务。
+ 红帽——开源的巨无霸 原文链接：Red Hat – the open source conglomerate
+适兕点评：
+ 近来由于工作关系，开始关注、分析了一下红帽的案例。嗯，正如文中所表达的，红帽已经是一家大而全的软件公司了，几乎可以满足一家公司任何方面的对于软件的需求。以操作系统为核心，今年收购了很多的小公司，包括云平台、监控、部署、API、移动互联网后台不一而足。
+  是否会消化不良？彼此打架？ 红帽与开发者的关系接下来该如何处理？ 红帽与开源、用户之间始终存在着矛盾。用户对于红帽产品作出修改之后，红帽将不再提供支持。（该如何评价这样的关系？）  </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.20)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-20/</link>
+      <pubDate>Thu, 20 Oct 2016 06:57:23 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-20/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 爱立信和红帽在开源方面结为合作伙伴 原文链接：Ericsson, Red Hat Partner on Open Source
+适兕点评：
+ NFV，SDN，SDI，OpenStack 然后和ICT（信息和通信技术）扯在一起，纠缠不清。这块地盘竞争日益点激烈，但是无论如何，开源是一个焦点，大家似乎心知肚明，不开源，就得被淘汰。AT&amp;amp;T 要开源ECOMP，华为搞了个开源的ONLAB，以及Linux 基金会的OpenDayLight&amp;hellip;&amp;hellip;.不一而足。本篇文章最大的看点在于，爱立信和红帽结盟的合作项：
+  上游优先。爱立信要借红帽之力，融入社区！这也是很多有人力、钱财的公司颇为尴尬的一点，就是无论如何融入不了社区。于是借一家开源界的知名厂商来做。（笃定失败） 解决方案认证和新的供应 Ericsson is expanding its telco NFV solution to also include Red Hat OpenStack Platform to meet the needs of service providers across the globe who require a fully open and agile infrastructure（不翻译了，太长了。） 容器的创新与采用。 业界领袖的背后 专业的服务。  利用开源来学习编程：一位医生的亲身经历 原文链接：A Doctor Learns How to Code Through Open Source
+适兕点评：
+ 这是一个非常励志的故事！只要你能够将自己的时间利用起来，没有什么不可能。编程并没有想象中的那么难！</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.19)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-19/</link>
+      <pubDate>Wed, 19 Oct 2016 07:28:21 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-19/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 让我们数数迪斯尼的开源项目 原文链接：Disney has its own Open Source Program
+适兕点评：
+ 关于翻译，余光中先生说过：“翻译乃大事，译者独憔悴。” 看下本文的英文标题，直译为“迪斯尼拥有了自己的开源项目”，很别扭，开源、拥有，也不是说不能在一起出现，但是怪怪的。这就是翻译，你自己有很多词汇，有的时候，就是不知道该怎么用。只好意译，按照上下文的含义，很主观的译出。这也是为什么很多人提倡读原文，但是，为什么所有的人都在翻译？而本土原创确实没有什么好的东西。又该论述精英主义了。
+迪士尼是个很大的集团公司，但是是以动画起家的，后来发展到了电影。嗯，动画电影也是人们非常喜爱的形式。目前其开源的项目中，均是和动画电影制作相关的。为什么迪斯尼会选择开源这些对他的业务来说是蛮核心的项目了呢？值得思考，但是我想人才绝对是其中之一。你可能想不到，开源本身也是衡量一名开发者是否具备能力的敲门砖。
+ 为什么现在的企业会采用开源软件 原文链接：Why enterprises are now opting for open source software
+适兕点评：
+ 这是一篇来自印度财富的文章。那么其实是在讲印度的事情。也是在讲红帽的事情。只要是讲企业级，红帽是绕不过的，如今的红帽俨然是一个巨无霸，产品线巨长，无所不包。但是正如其CEO Jim Whitehurst 在今年的红帽峰会上谈到的，亚洲的盈利，尤其是大中华区和东南亚，其实投入产出比是偏低的。但是，印度的情况似乎好一点？
+为什么企业会选择开源？降低成本？人性化管理？笼络创新人才？开源的软件栈全面而卓越？不再需要为昂贵的许可证费用付费，但是还要为订阅服务付费。如果我是一名用户的话，对文中的回答并不满意。
+在本土，没有人在意是否开源，认为开源是理想主义，是情怀。而情怀在本土就是锤子手机，叫好不叫座。但是，本土有一个好处，那就是现在的工程师们都是开源培育出来的一代，爆发之日可待。
+ 开源的历史告诉我们什么是战略优势 原文链接：What the history of open source teaches us about strategic advantage
+适兕点评：
+ 绝对好文！精彩绝伦！作者Bobby Martin思路确实与众不同。红帽不是现在很火吗？20亿了，世界上top50的创新公司了。其成功是一定背后有很多故事的。让我们随同作者进入红帽创始人Bob Yang的感悟世界。
+  control was users&amp;rsquo; hot button, not features. I&amp;rsquo;m a sales guy. I don&amp;rsquo;t sell features. I sell benefits.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.18)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-18/</link>
+      <pubDate>Tue, 18 Oct 2016 11:06:12 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-18/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 如何打造一个强大的开源团队就像是养鸡一样 原文链接：How Building Strong Open Source Teams Is Like Raising Chickens
+适兕点评：
+ 嗯，也许你看到题目，就觉得整个人都不好了。甚至是小编所撰写的内容看了也不怎么好！但是请耐心的将演讲视频看完。
+演讲的题目其实是叫做：《超越量化：协作的真正力量和技能》，关于养鸡的部分，其实是演讲者所分享的一个小故事罢了，旨在说明竞争有时候会形成内耗，将大伙都搞定精疲力尽，过早的将能量耗尽，不如形成一片和谐的景象，大家彼此互助，形成合力。
+IQ 绝非是衡量一个团队的唯一因素，它甚至都不能被列入最为主要的部分。信任，没错，信任这个美好的词汇，可以获得巨大的力量。
+ Google的开源成绩单 原文链接：Google Open Source Report Card
+适兕点评：
+ 没错，Google 总结了一下自己的开源项目，以及使用到的语言Top10，乃至最具前沿的项目。但是我看到的并非是项目本身，而是其文章开始的一段话，让人倍受鼓舞。其实，美好的事物总是能够让你去重拾美好生活，哪怕它是冷冰冰的科技。
+开源软件让Google能够快速而高效的构建一些事成为了可能，且毋需去重复制造轮子，允许我们将精力聚焦在解决新的问题上。我们站在巨人的肩膀上，我们深刻的明白这一点。而这也是我们始终如一的支持开源的原因所在，且这样也能够让Google人在内部开发完成之后，顺利的去将之开源。
+看看成绩单，是否觉得大多数是被GFW屏蔽的。你觉得会和“闭关锁国”的政策一样嘛？
+ 是自行从开源构建？还是购买软件，先回答了这5个问题再说 原文链接：Build or Buy Software
+适兕点评：
+ 嗯，我确实犯过非常主观的错误。自认为如此强大的开源项目，为什么企业会如此的保守？在犹豫！在试探！甚至在拒绝。
+遭遇失败和挫折之后，再看到如这篇文章所表达的内容。是深有体会。任何的决策都不是那么容易、轻松、甚至是草率决定的。必须经过深思熟虑，考虑到自身的处境，然后放可。绝非一腔热血能够保证得了的。看看这5个问题，你怎么回答？
+  谁是最多使用软件的人？ 你所构建的产品是如此的独特，以至于你的所在企业能够做的嘛？ 你所构建的内容，完全能够理解嘛？ 现有的工具确定是你所需要的嘛？ 你拥有足够的资源承担得起吗？（构建＋维护）   这大概就是红帽的赚钱之道！此文颇为经典！道破了开源项目、开源软件、试图利用开源赚取钱财的商业模式真正的区别。
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.17)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-17/</link>
+      <pubDate>Mon, 17 Oct 2016 07:35:13 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-17/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 回顾 LinuxCon 2016 原文链接：LinuxCon 2016 Review
+适兕点评：
+ LinuxCon ，没错，就是哪个从来没有来过中国的Linux内核大会。具体为什么来不了中国，原因不得而知。
+LinuxCon 2016 欧洲区，今年在柏林举行，“大牌“”云集，本篇文章介绍的是Keynote，所以尽是企业高管，不是VP，就是老总。一来阐述业界趋势，二来声称自己处于领先。要么就是Linux基金会下面的托管项目的宣传。比如如火如荼的区块链。
+商业氛围浓烈，但是Linux基金会仍然是一家非营利组织。颇受各个厂家和个人的信任。本土怎么能够出现这么一个组织？为何引不进中国？这大概是每一个布道开源的人的疑惑。
+ 红帽公司：为何 RHT 股票可以上升40% 原文链接：Red Hat Inc: Why RHT Stock Can Pop 40%
+适兕点评：
+ 答案是红帽赢得了用户的信任！其是最具创新力的公司之一。
+红帽的商业模式，是针对开源领域的基础设施，如操作系统、中间件、IaaS云平台、Paas云平台、容器化等等的订阅，几十年始终如一，终于开始突破，连续多年保持盈利、保持增长！
+另外就是其对于开源人才的战略，可谓是高瞻远瞩！独特的文化，吸引了一大批的优秀人才！
+嗯，开源本身并非是商业模式，你必须基于这样一个事物和现象，发展间接的盈利模式。但是请不要像本土的那些个公司，以开源之名，行商业手段，低估国人的智商，他们又能走多远？
+ 快速的数据分析需要快速的治理 原文链接：Fast data analytics requires even faster governance
+适兕点评：
+ 提到数据分析，我们一下子就想到了大数据，想到大数据，就会想到生态系统完善的Hadoop！
+这大概就是开源的力量，尽管Hadoop来自于Google的MapReduce论文，但是由于开源，构建了超越原始出处的完善的生态链。
+但是在实践中，仍然需要进行适当的定制，甚至正如本文所论证的，反过来，要求企业在管理和流畅，乃至人才提出一些个适应大数据分析的要求。IT系统和人类组织相互影响，乃常态也。
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.16)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-16/</link>
+      <pubDate>Sun, 16 Oct 2016 08:12:17 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-16/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 开源架构的特色文化：没有版权、没有专利 原文链接：The culture of open source architecture: No copyrights, no patents
+适兕点评：
+ 不要被文章的标题吓坏了，这个时代就是这样，大家为了标题吸引眼球，各种极端的言辞都有可能暴露出来，比如InfoQ的“雅虎开源其色情图片检测神经网络”，这篇文章也一样，就是个标题党。为了让人们对下去而已。
+作者先是帮助读者回顾了一下开源的历史，然后引出了开放式设计和开源硬件。然后，然后就不知所云了。和你预想的标题有了太大的出入，说好的版权、专利都哪里去了？论据呢？仅仅是介绍下开源硬件？
+读类似的文章会很是不爽，有种被骗的感觉！要将其视为反例。
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.15)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-15/</link>
+      <pubDate>Sat, 15 Oct 2016 07:58:22 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-15/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Apple 将开放其在日本的研发中心 原文链接：Apple will open another R&amp;amp;D center in Japan
+适兕点评：
+ 这样的词汇我们不知道该如何理解。世人对待Apple近乎于痴迷、崇拜。Apple的生意确实仍然火爆！那么其神秘的开发团队又是什么样子？该是什么样子？
+日本、深圳等美国本土之外的研发中心开放究竟是何意思？和开源有多大关系？Apple是构建在开源软件之上的！
+ 对于OpenStack 的面临的挑战，看专家怎么说 原文链接：Expert&amp;rsquo;s insight on overcoming OpenStack challenges
+适兕点评：
+ OpenStack 的峰会再过2周就要开始了，西班牙的巴塞罗纳，人们又开始为OpenStack 造势了，于是各个媒体、社区都在谈论着OpenStack，新版本有何特性？使用者怎么看？开发者是否有多了起来？
+话说 OpenStack面临的最大挑战是什么？就本土来说，我发表一点意见：本土其实开源的生意不好做，大约有几个误区：
+  人力成本偏低。宁愿自己招聘人去研究。 时间成本承受得起。 业务本身没有太多的需求。 对于云计算的多数仍然停留在虚拟化阶段。 对于供应商的商业模式依然停留在兜售光盘阶段，即产品阶段。   在本土，OpenStack 的实施并非是技术问题，而是文化、认识、业务需求的问题。
+ 白宫鼓励本地政府使用聊天机器人 原文链接：White House encourages local governments to embrace chatbots
+适兕点评：
+ 民主国家的沟通渠道，充分的利用了技术。于是社交平台Facebook（被本土封禁的和遗忘的网站）成了其一个有效的通道。甚至将其Facebook 的机器人开源了，让任何人都可以使用它。
+开源！究竟能走多远？对于人类究竟是好还是坏？
+似乎任何关于道德、自由的东西，都有可能被政治利用。利用有两面。本土的只有搅和。
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.14)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-14/</link>
+      <pubDate>Fri, 14 Oct 2016 07:08:59 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-14/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 红帽将举办2016政府研讨会 原文链接：2016 Red Hat Government Symposium to Highlight Open Source&amp;rsquo;s Role in Government Digital Transformation
+适兕点评：
+ 具体安排见Fedscoop，可谓是整容强大，合作伙伴／赞助商也是大佬齐聚。
+如此这般，开源该怎么玩？红帽的商业越成功，似乎其它的开源模式就越被它所笼罩。开源的本质是什么？企业如何从开源中获益？
+另外：数字转换，也就是移动互联网、IoT的发展，会倒逼着企业、政府来完成云计算的基础设施变更。耐心的等待吧，深呼吸！
+ 如何为开源项目找到资金 原文链接：How to Find Funding for an Open Source Project
+适兕点评：
+ 从一开始开源，就找到资金的项目就有很多，比如做VR穿戴的Oculus Rift、或者是作智能手表的Pebble、以及大名鼎鼎的树莓派，均有几百万美元的资金投入。那么作为要做开源项目的你，从哪里可能会拿到资金了呢？如下：
+  Mozilla’s MOSS Program The Linux Foundation （这个是不是有点没有想到？） 众筹和寻求资助   总而言之，不要气馁，只要自己觉得项目有意义，一定是可以找到识“货”的人的。
+ GitHub上为程序员提供的7个高效工具 原文链接：GitHub&amp;rsquo;s 7 top productivity tools for programmers
+适兕点评：
+ By developer,For developer.
+  Oh My Zsh The Silver Search Quick look plugins ShareX (这个也算？截图工具) Homebrew 好项目，我也在用。 Dotjs GitHub changelog generator   看完这7个，发现了什么？我已经是一个老程序员了，我依然停留在Emacs和vim的插件的年代！现在人际都要截图、js化、前段化、移动手机化&amp;hellip;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.13)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-13/</link>
+      <pubDate>Thu, 13 Oct 2016 07:36:56 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-13/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 红帽2017高峰会议开始召集演讲者了 原文链接：Call for Proposals for Red Hat Summit 2017 Now Open
+适兕点评：
+ RedHat Summit 俨然成为了开源者的盛宴，甚至不亚于LinuxCon、OSCON等开源大会，成为了企业级采用开源的风向标。2016年举办的会议，参会人员达到了5500！我个人参加过的大会是东京的OpenStack summit，也不过5000人罢了。
+背景：开源已经是企业选择的主流，开源是业界创新的动力引擎，在企业完成数字转变的过程中拥有举足轻重的作用，Open source methodologies are changing how work gets done and inspiring new forms of collaboration.
+看看2017年的分类：Linux 即RHEL哪里去了？Middleware哪里去了？世界是否变得陌生？要应对变化！
+ 认识一下为OpenStack做出贡献的活跃用户 原文链接：Recognizing active user contributors to OpenStack
+适兕点评：
+ 我自己曾经是OpenStack的活跃用户，即AUC（Active User Contributor.）所以知道这些都是真的。
+一个社区犹如一个虚拟的、完美的、小型的社会，所以需要各种各样的规则，尤其是激励方式，因为社区存在的目的是让要生产的内容（如软件）更加的完满，尤其是在没有任何金钱激励的情况下，公平、透明、清晰明了的规则、可见的晋级制度等等，一个都不能少。
+为开源社区做贡献，绝不仅仅是贡献代码！比如做测试、维护基础设施、撰写文档、组织社区活动、提供反馈等等，完善等生态系统，不仅仅是代码，而是围绕代码这个核心形成完善的闭合的生态！加油吧，少年！永远的AUC！
+ AT&amp;amp;T 将在2017年第一季度开源其软件定义网络的平台ECOMP 原文链接：AT&amp;amp;T (T) to Unveil ECOMP in Open Source Industry in 1Q17
+适兕点评：
+ 为什么要提前说要开源某个项目？AT&amp;amp;T 背后究竟是如何思考的？</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.11)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-11/</link>
+      <pubDate>Tue, 11 Oct 2016 07:33:06 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-11/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 技术内幕：开源的商业模式 原文链接：TECH INSIDER: OPEN SOURCE BUSINESS MODELS
+适兕点评：
+ 本文是写给非开源技术人士看的文章，从传统的经济学来思考开源经济，并探讨了软件的特性，比如开发会花时间和耗费大量的金钱，但是复制却非常的容易。甚至以塑料椅子为例来阐述这些。
+接下来就是我们耳熟能详的，比如Apple的Store模式是如何和开发者分成的，为何Windows10是可以免费下载的，Goolge Chrome为何是开源且免费的，Linux的主要开发者都是有公司为开发者发工资的（占75%）。
+有时候，跳出来看这些事情其实蛮有好处的。开源本身并不能赚钱，红帽靠的是服务和支持，但是正如《营销管理》中所说，没有复制的商业模式是可以成为成功的企业的。所以必须另辟蹊径来做这件事。
+ 开源的力量来自于用户的自由 原文链接：The power of open source is customer freedom
+适兕点评：
+ 本文的作者是鼎鼎大名的Percona的CEO——Peter Zaitsev，多年以来经营开源数据库——MySQL的公司，总结了自己一路走过来，如何赢得用户的心得。
+** If you are going to successfully sell to the open source community, you need to demonstrate that you have the same principles that they do. You need to earn their respect. You don&amp;rsquo;t get that by forcing vendor lock-in. You get that from being a trusted advisor.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.10)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-10/</link>
+      <pubDate>Mon, 10 Oct 2016 08:15:34 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-10/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 在竞争中我们需转向平台的竞争 原文链接：Here&amp;rsquo;s How Platforms Are Transforming How We Need To Compete
+适兕点评：
+ 本文是Mapping Innovation一书的书摘，作者论述了竞争的变化，开放与协作是当前竞争的主要策略，影响过去半个多世纪的 Michael Porter 的理论很难在新世纪站住脚跟。
+关于开放，作者提到的Linux的成功，协作的力量，并以微软为例，对待Linux从敌对到拥抱，从而佐证平台的力量。
+Bill Joy 法则：“no matter who you are, most of the smartest people work for someone else.”
+ 一个去中心化的web将会为人们在线重注力量 原文链接：A decentralized web would give power back to the people online
+适兕点评：
+ Google 发布了Duo，然而对于本文来说也只是一个引子罢了。
+Web的发展超出了当年Tim Berners-Lee等人提出的样子。未来将会如何发展？竞争、重复劳动，那有如何？世界在往前走！
+ 31年前：自由软件基金会成立 原文链接：Thirty-One Years Ago
+适兕点评：
+ 1985年10月4日，自由软件基金会创立！ ** has been one of the driving forces and defining voices in the entire open source movement**</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.10.9)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-9/</link>
+      <pubDate>Sun, 09 Oct 2016 07:13:04 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-9/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Samba 项目损失一名大将 原文链接：Samba project loses senior developer
+适兕点评：
+ 最近听到了几则不好的消息，前两天有ZeroMQ作者安乐死（因为得了癌症）、春雨医生的创始人死于心梗，今天的开源之道则是说Samba项目的贡献者：Lars Muller 不幸身亡，年仅46岁。是SUSE的员工。
+死亡是生命的一部分，这是ZeroMQ作者的豁达与认知。但是，不要因为健康问题而过早的离世，这不仅是令人振腕的事情，无法再继续为这个世界做一些事情，而且会给亲人带来巨大的悲痛和打击。
+生命无价，且行且珍惜！
+ 为什么红帽在9月份股市上升了近11% 原文链接：Why Red Hat, Inc. Gained 11% in September
+适兕点评：
+ 只要记住一句话就可以：&amp;rdquo;Red Hat customers&amp;rsquo; adoption of long-term support subscriptions is pacing ahead of the basic revenue growth.&amp;rdquo;
+在中国，复制红帽是否可能？全球只能有一个红帽？答案是肯定的。红帽独一无二！想在开源方面赚钱，必须另辟蹊径。
+ 透明和独立是企业采用开源的内在驱动力 原文链接：Transparency and Independence Drive Open-Source Adoption
+适兕点评：
+ 如今的年代，开源不仅仅是被企业接受的，而且是有强烈的需求的。那么社区对于企业究竟有何益处了呢？答案就是透明与独立。
+何谓独立？减少被供应商锁定的可能，更加完善的生态系统，可以在社区找到合适的人才，超级随意的可定制化，以及实现持续集成、DevOps、容器化是完全自主掌握的。
+何谓透明？这点得从出现开源之前说起：一家大公司控制着所有的源代码。而开源改变了整个软件产业！开源可以让人们看到社区的所有代码，而且还可以通过论坛、邮件列表、IRC等工具交流，随时都可以自己去测试系统，而无须像传统那样获得供应商的许可。
+开源界是一篇欣欣向荣的景象：Apache 基金会下孵化的成百上千的优秀项目、Linux及其发行版、数据库、WordPress等以及最大的开源托管平台GitHub依然是人们默认的平台。
+但是：Open-Source does, however, come with its own set of challenges.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.29)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-29/</link>
+      <pubDate>Thu, 29 Sep 2016 07:23:03 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-29/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 开源存储正在成为主流 原文链接：Open source storage hits the mainstream
+适兕点评：
+ 这属必然！文中提到了做低端的存储正在下滑，尤其是带有网络文件系统的。但是文中并没有提到软件定义存储，Ceph提的也比较少。引用几句说的比较好的话：
+Switching storage platforms isn’t quite as simple as moving applications or virtual machines to a new server.
+open source storage is not just ready for the mainstream – it is already there.
+ 红帽为何说印度是开源界的亮点 原文链接：Why Red Hat calls India a ‘bright spot’ in Open source
+适兕点评：
+ 先来数数印度政府和企业使用开源的单位：印度铁路、IRCTC、Bombay交所、Essar, TataSky and Mahindra Finance ，其实对比国内，一点也不比印度的差。但是接下来的对比，就会差上好多：“India is a land of developers, not only there’s huge number of open source users but also a strong base of contributors to open source from India.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.28)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-28/</link>
+      <pubDate>Wed, 28 Sep 2016 07:12:16 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-28/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 ![]()
+微软是如何衡量开源的成功的 原文链接：How Microsoft Measures Open Source Success
+适兕点评：
+ 没错，前几天GitHub的贡献量最多的是微软，这个意义大否？但是Wim Coekaerts要不断的给世人洗脑，大家依然不相信微软是家开源的公司。于是babalala，请大家多多的往Azure云平台上运行Linux&amp;hellip;&amp;hellip;
+世人是否有判断力？没有，微软这么做的结果就是：1、成功的说服了一些人。2、为开源再次蒙上一层利益至上的面纱，验证了绝大多数人的看法。微软，永远的搅局者。有时候，我在想，哪些加入到大公司的价值观是否是非我公司的都是没有前途的？
+ Apache Spot （孵化中）旨在利用开源社区来对抗Cyber犯罪 原文链接：Open Source Community Continues Fight Against Cybercrime with Apache Spot (incubating)
+适兕点评：
+ 我选上这篇文章，不仅是因为Apache又在孵化了一个项目，幕后的推手还是Cloudera、Intel等，而是说这个项目本身的意义。或者说Cyber空间的犯罪我不熟悉、不了解。利用Apache Hadoop生态系统来分析、预测罪犯，我一下子就想到了《美国队长2》中的洞察计划，但是仔细想想似乎又不一样。这个涉及到伦理问题，Apache真的是无所不包，它该怎么处理？
+ 开源项目需凝聚在一起方可活下去 原文链接：Open Source Projects Must Work Together to Survive
+适兕点评：
+ 来自RedMonk 的O’Grady的演讲汇总。读过《开源的未来》，也就是在参加完今年OSCON之后，RedMonk发布的文章，都知道，看完之后除了题目之外都没有理解。这个演讲恐怕也一样，记住一句话即可：** You have to make friends. You need to join together, or you might die.**
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.27)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-27/</link>
+      <pubDate>Tue, 27 Sep 2016 07:32:33 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-27/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 为何开放和封闭会打起来 原文链接：Why Open Beats Closed
+适兕点评：
+ 我再次毫不掩饰的称赞一次 Forbes 的文章，将一件事情说明白了，来龙去脉、旁征博引。。。
+在工业时代，商业竞争中采用的封闭的战略，也诞生了伟大的公司，如在彼此的竞争中争相称霸的：GM and Ford, Coke and Pepsi, General Electric and Westinghouse。但是时代变了，**it’s becoming increasingly clear that no one can go it alone and firms must choose where they will cooperate and where they will compete. **
+人才的竞争是这个时代最为悲伤的事情，因为是知识经济时代。而且有论文:人才战争引用。以及沿用Bill Joy的话：这个世界上大多数最聪明的都在为别人工作。既然这样的话，作为老板你该如何利用好这些聪明人了呢？是你该去思考的，而如果利用不好的话：“If you rely solely on your own employees, you’ll never solve all your customers’ needs.”。
+接下来是互联网、信息的时代，其中的支柱——软件，改变了一切，Apache Httpd 开源软件的诞生、Linux的盛行证明了这是事实上的标准。而后就是今年Google开源TensorFlow，特斯拉紧随其后，以及微软宣布拥抱Linux。
+这个世界需要创新，以开放的方式：即新一代的创新者。
+ 说到底OpenStack是个什么东西？来自红帽Rich Bowen的解释 原文链接：Exactly What Is OpenStack?</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.26)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-26/</link>
+      <pubDate>Mon, 26 Sep 2016 07:16:25 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-26/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 ###中国开源社区离成功还有多远？
+适兕点评：
+ 关于“中国“和“开源”这两个非常不搭的词放在一起的事情，我会专门撰文来阐释。本文只论及此文的矛盾之处，或者是作者没法意识的一些观念。首先来回顾一下本文的内容及观点：
+引言部分似乎是想说明作者意图通过写作来捋一下国内开源（没有去区分软件、社区、商业模式等）的状态，然后试图描述“中国开源社区的现状”，但是很明显，中国是没有开源社区的，谁都心知肚明，作者当然也未在此停留，而是直接切入“中国开源社区的问题”
+  中国缺少一个在开源商业化获得巨大成功的企业 。有这样的思维是好事情，大有佛家的舍身取义，但是总是将中国置于世界之外这样的思维太危险，中国真的不是世界的中心。开源需要再商业模式上有更多创新，而开源本身是一种软件的生产模式而已。 开源生态不成熟， 上下游厂商进入门槛高， 利润少。 此处的开源应该更改为桌面操作系统。以偏概全，容易误导读者。要知道开源软件中的Hadoop、Docker、OpenStack的生态是非常完善的。 版权意识薄弱， 开源的技术优势和长期成本优势被盗版持续打压。 这个是有点道理，但没有抓住问题的根本与实质，是国人不尊重知识产权。秘方文化长期困扰着国民。穷不可怕，可怕的是一直穷下去。 开源概念普及不够， 社会对开源的认识和接触度不够。嗯，渐渐的开始有一些霸主思维、西方帝国害我之心不死的国防战略来。 学校教育落后开源社区10年以上， 培养不出开源人才。 这个就更不靠谱了，学校的概念范畴太大，大学没有必要，有通识教育（中国除外），职业技校还差不多，但是开源有很多软的技能如沟通、合作、价值观等。   接下来作者就更加的离谱了，臆想了一个（或者是深度自己的商业社区）和国外社区的对比或差距：
+  生态构建意识薄弱。 构建生态这样的事情，一般是非常有钱的公司，如IBM、Google、Intel会去做的事情，比如IBM的 Open By Design开源战略、Google开源人工智能Tenorflow等等。社区从一开始最重要的是保持中立、做好一些开发上的规则、开发者小群体的政治激励等。 市场化步伐太慢。 这个作者就有点蛮不讲理，中国是以开源为原型搞自主知识产权、拉投资最快的国家，前两年有以OpenStack为产品的形形色色的创业公司，今有各种以Kubernetes／Mesos&amp;amp;DCOS坑蒙拐骗的伪装者。市场化慢，别忘了2000年左右，中国有多少家做Linux发行版的公司，上市的蓝点还有印象？ 核心技术落后国外。 永远在跳出世界之外，妄图作宇宙的中心。既然是开源，关键的算法、代码实现你都可以拿到，恨不能自己重新实现一套，以作比较。青少年时期被洗脑的过程，仍然没有完全蜕变。需要小心。 不遵守开源原则。这个作者以一颗滚烫的爱国之心来衡量的话，确实痛心疾首是可以理解的。但是不要忘记问题的根本所在，极权制度下依附主义、腐败仅仅是其中一个副产品罢了，加上长达2000年的秘方文化。这个确实是个非常大的难题。 开源社区氛围太小，无法靠文化和环境传承。 话说本土有开源社区吗？几个用户组算？ 测试体系不够完善，测试缺乏标准和无用功太多。 典型的技术圈待得太久，想想5年前的我也是这样。   但是作者似乎并没有放弃让深度一统全国的决心，但是理论是极度迂腐可笑：
+  人口多，市场大到足够容纳超大变革。 莫名其妙的搞思维二元对立。其实也不怪作者，百度就是这么诞生的、淘宝也一样。以水土不服为幌子，以政治手段扼杀。哎，小小年纪，不走正途。 中国至古以来都有大国情节， 有全线打通的决心。 明白了吗？这是明白的国家主义，苏联思维。 我们更擅长做产品和交互体验。 这很明显是扯淡了。挂羊头卖狗肉啊这是。你深度关开源屁事？ 中国工程师更勤奋， 工作效率高。 这个一定要闹出点毛病来，才能够明白一天工作8小时，脑力劳动5到6个小时效率最高，延长劳动时间，只能让工作更加的低效。当然，抄袭例外。 资源更集中， 更容易集中火力攻克难点。 这才是最最危险的，也是我一直以来担心的，开源只是被大国梦、强国梦利用的工具罢了，最终会将自由的精神给扼杀！   解决方案，更是将奴隶的思维放大到极致，已经失去任何谈开源的资格：
+  政府做好裁判， 提供市场， 放权给私有企业去竞争。 政府介入，这个事情基本上就黄了，尤其是中国的政府。政府根本和这事没有半毛钱关系，他最多是营造好周边的环境而已。 持续推进生态基础建设， 逼近引爆点。 嗯，走北朝鲜的路线，全国所有政府单位使用深度Linux操作系统。 攻克关键技术难点， 降低开源行业准入门槛， 培育更多上下游厂商。 建立完整的测试体系，　提高产品质量。 像全民创业那样普及开源基本理念 版权处罚从电影音乐延伸到软件领域 在大学里建立开源根据地， 以3年为周期不断为行业输入高端人才  我已经不愿意评价这位小伙子天真而幼稚的想法了。为了“开源”引入国家这个利维坦，到最后的结果可想而知。</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.23)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-23/</link>
+      <pubDate>Fri, 23 Sep 2016 08:20:55 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-23/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 美国国防部的软件考查 原文链接：THE DEPARTMENT OF SOFTWARE?
+适兕点评：
+ 本文一再提到是那篇关于美国国防部的报告。试图从各个角度来考量美国国防部应该去使用开源软件。
+其中一句话，深入我心：Open Source Useful, Not Panacea,But using open source software by itself is no guarantee of innovation or success.
+去除所有的神话，回归本真！
+ 开源并非是非黑即白 原文链接：50 Shades of Open Source: It&amp;rsquo;s No Longer Black or White
+适兕点评：
+ 本文是对GitHub本身不开源的辩护，没错，为了提高竞争力，或者是为了保护自己，要知道哪些有钱的大公司复制起来就是分分钟的事情，如果有了代码的话（？其实我心存疑问）
+GitHub 正在努力塑造自己的品牌形象，不想因为开源与否而被一些人抓着把柄。其中关于开源和闭源的参与的比喻：open-source is like volunteering, right? Closed source is like going to work, right? 关于回报前者是经验与名誉，后者是报酬。这是绝大多数人使用的办法。
+然而文章又以GitHub CEO 的一句话结尾：“Open source isn’t just about libraries. It’s about people making a real difference in the world.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.22)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-22/</link>
+      <pubDate>Thu, 22 Sep 2016 07:02:17 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-22/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Oracle CTO 拉里埃里森直言不讳抨击AWS 原文链接：Oracle&amp;rsquo;s Larry Ellison throws punches at AWS
+适兕点评：
+ 有一句话让人啼笑皆非：Oracle并不像AWS那样，应为Oracle是开源的。就是因为这句话，我将之纳入了我的晨读文章。
+不过看Oracle直接和AWS撕逼也是蛮有意思的。不知道AWS以后会不会放弃支持Oracle DB。这只能说明一个问题AWS所提供的各种DBaaS正在蚕食Oracle的传统市场！也就是说，用户使用AWS，很多原来使用Oracle的地方都替换成为：“Aurora、Redshift、DynamoDB”，
+那么我又开始质疑国内的市场，为什么我接触到的都是将IaaS当虚拟化，没有人将问题聚焦到应用层。
+ InfoWorld 发布2016最佳开源项目奖 原文链接：InfoWorld Announces the 2016 Best of Open Source Software Awards
+适兕点评：
+ 嗯，2016开源项目遍地开花，让人眼花缭乱！InfoWorld这次分了几个类，分别是：
+  应用开发 应用 大数据 数据中心和云计算 网络及安全   尽管绝大多数我不认识，正如我所掌握的知识，在业内根本不算什么。那么我就数数我听说过的得奖的开源项目：Angular、Bootstrap、GitLab、R、Swift、TensorFlow、LibreOffice、Kafka、Kylin、Spark、Ansible、Atomic Host、CoreOS、Docker、Etcd、Kubernetes、Mesos、Nginx、Ubuntu Server。20/72 ，对于网络和安全那部分是一个都没有听说过。还有一个就是开源依然占据基础设施！
+ 为什么说中国是下一个开源软件的试验场 原文链接：Why China is the next proving ground for open source software
+适兕点评：
+ 西方的软件创业公司通常是不会care中国的市场的，因为中国这块市场实在是太烂了。没有人掏钱给你，尤其是你的软件是开源的时候。那么李浩源做到了吗？Techrepublic的这篇文章旨在告诉西方，中国准备好为开源付费了？无异于痴人说梦，你荣归故里可以，戴上MIT博士的光环，以开源的方式创业，但是你想赚到钱，以我对国内情形的了解，不抱任何的希望。不过本文反过来，让我了解一下国内的开源状况，能够得到的信息有：
+  Alluxio这家公司蛮厉害的，看CSDN的一篇报道：Alluxio中国行（一）开源分布式存储系统Alluxio的历史、现状和未来 百度开源的那个机器学习项目，佐证了China is not merely consuming the West&amp;rsquo;s best software: It&amp;rsquo;s open sourcing its own？ （我表示怀疑） 谁在相信China&amp;rsquo;s Ministry of Industry and Information Technology (MIIT) 这些部门的话，那一定是不了解中国。这些部门什么都不做，就是要政绩。 一号专车使用MongoDB这个案例是蛮经典的。但是一号专车绝对是例外。   看完这篇文章，我只能说李浩源不了解中国，回来两天，被一些表面的假象所迷惑。相信假以时日，定会了解真相，希望不要将市场过度的往国内倾斜，否则会死的很难看，那可真叫可惜。</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.20)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-20/</link>
+      <pubDate>Tue, 20 Sep 2016 06:29:52 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-20/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 为什么说你的下一代存储会依赖于区块链 原文链接：Why your next storage solution may depend on blockchain
+适兕点评：
+ 又见对象存储，一项技术和某些热点扯上关系，就会产生话题，大约就能达到某些市场的效应。让我们先记下这家公司：Storj，将P2P的区块链技术整合到对象存储中，解决重要的安全问题。委实是不错的创新。
+来看下文章的结语：“ I suspect we won&amp;rsquo;t see mass adoption, however, until one of the big cloud providers joins the blockchain storage market, perhaps by acquiring Storj.” 收购，Mirantis近日收购了TCP cloud，要么是R&amp;amp;D模式，要么是M&amp;amp;A模式，总之是要在激烈的竞争中脱颖而出，而不是将精力耗在政治权力上。这是一个重要的文化现象。
+ 官方的证实，Linux第一个版本的发布时间是1991年9月17日 原文链接：It’s official, Linux was released on September 17, 1991
+适兕点评：
+ 本文蛮有意思，Linus就是一逗逼，0.01的Linux和相关的email，他给弄丢了。好吧，还是有人按照时间戳找到了（这个不是很容易造假吗？），本文还有几个有意思的故事：
+  Linux这个名称是Linus的室友命名的，因为他不喜欢linus所命名的：FREAKX ，即‘Freaks’ - a mix of ‘free’, ‘ freak’ and UNIX 最开始的版本使用的协议并非是GPLv2 Linus后来坦承，Linux之所以成功的一个关键就是使用了GPLv2 Linux 的成功，吸引了很多后来的企业。   关于最后作者举的例子，正好有OpenStack的一个同行发表了一个感慨，也是一个同行，在即将举办的巴塞罗那 OpenStack Summit会议上，有人利用AI热点成功的申请到了一个演讲的Topic，即使用OpenStack来搭建Google tensor flow。本文有相类似的影子。开源的项目日见增多。AI的战场，Google打响了这场战争，首当其冲的就是开源！</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.19)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-19/</link>
+      <pubDate>Mon, 19 Sep 2016 06:50:42 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-19/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 什么是云原生应用？ 原文链接：What is cloud native computing?
+适兕点评：
+ 云原生计算基金会（CNCF）正在逐渐的成长！这不今年11月份要开始开CNCFCon大会了，联合举办的还有KubeCon和PrometheusDay。很是让人陶醉。相比于Linux基金会下如此的组织，比国内的每个厂商的市场活动强太多了。
+central orchestration processing ，是今年的主题。云原生，Each microservice is packaged into its own container。嗯，如此的话，世界将变得更加美好！
+ 印度对待开源软件的冷淡态度需要转变 原文链接：#SoftwareFreedom: India’s Lukewarm Relationship with FOSS Needs to Change
+适兕点评：
+ 任何以国家为单位的，都会有倾向于将自己强大起来的诉求。这不在自由软件日，印度的布道师开始数论自己的国家应该在教育和政府领域倡导自由软件。作者尝试从各种角度来阐释自由软件对于印度的意义，印度拥有仅次于中国的人口。其实大部分说服力不强，词不达意。我看出来的却是一个拥有国防思维的家伙：
+大部分的软件都是由美国、澳大利亚、西欧开发的。甚至中国都开发自由软件的操作系统NeoKylin。
+大多数时候，这篇文章中的India替换为china，照样成立。
+ 微软和Linux —— 一首愤怒和鼠辈之歌 原文链接：Microsoft And Linux — A Song Of Mice And Ire
+适兕点评：
+ 我喜欢作者的思维方式：In order to understand the history of computing we need to go back to somewhere near the beginning.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.15)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-15/</link>
+      <pubDate>Thu, 15 Sep 2016 07:33:07 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-15/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 TaxBrain: 开源经济预测工具 原文链接：TaxBrain: Open source economic forecasting
+适兕点评：
+ GitHub 上有个项目叫做：Open Source Economics，其实是针对美国纳税人的一些开放的工具。文中的开始说的非常明了：“所谓的经济政策日趋的复杂，它的透明性也变得越来越差。”所以绝大多数的人需要这样一些工具，以开源的模式更加的让人可信！TaxBrain在线程序有很不错的文档。
+TaxBrain uses the open science Anaconda software from Continuum Analytics, and the models are written in Python. 这句话让我莫名其妙，我只知道Anaconda是RHEL系列操作系统的安装程序项目，还真不知道有科学计算的项目。搜索了一下， Anaconda似乎是蛮不错的项目，实际的应用也非常的有意思。值得了解一下。
+ CloudBees 发布Jenkins的第一个商业版 原文链接：CloudBees Announces First Enterprise Distribution of Jenkins
+适兕点评：
+ 其逻辑是这样的：“所有成功的开源平台都是基于开源项目，增加新的功能，集成第三方的工具，通过扩展来整合解决方案。” 也就是开源商业模式中常见的“Open Core”模式，好吧，我知道，本土是绝对不会买他的账的。
+文中还提到了一些成功的开源商业模式：Red Hat (RHEL/Fedora and JBoss/Wildfly), Acquia (Drupal), Mulesoft (Mule ESB) and Hortonworks (Hadoop)，其实这里有混淆视听的嫌疑，只和Hortonworks有点相似，其余的都不是open core模式。
+祝福这家公司好运吧！为什么不走咨询、指导、服务路线？或者是单纯的SaaS模式？
+ 开源运动的颂歌 原文链接：An Ode to the Open Source Movement</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.14)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-14/</link>
+      <pubDate>Wed, 14 Sep 2016 06:24:36 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-14/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 这家创业公司意图简化企业的软件开发 原文链接：This Startup Wants to Simplify Corporate Software Development
+适兕点评：
+ 做GitLab的这家公司进行了B轮融资，拿到2千万美金。从本文可以获得的信息：
+  这是一家毕业于YC的创业公司，在创业之前，两位联合创始人从来都不认识。 GitLab的客户有alibaba、IBM、CERN等拥有众多开发者的公司 GitLab 的目标客户就是超过100个开发者的公司 GitLab 的商业模式是 open core ＋ add value的模式？ GitHub 的私有版，这么认为的话，GitHub 作为主流的影响还是很大的。   这就是Inner Source 的意义所在，无论再怎么宣扬，最后终归是要落实的。
+ 公司开设开源能力中心的四大好处 原文链接：4 big ways companies benefit from having open source program offices
+适兕点评：
+ 这个世界需要鼓吹者、布道师嘛？非常、非常的需要，尽管这些都是经验而不是创新，这是世界创新者少、而随大流者多。有好的经验当然要学习了。想想本土，确实是需要很多布道师去多讲、多写的。比如乐视这样的公司，其实对于开源来说，利用的多，浪费的多，而贡献的少。对公司的资源本身来说，是一种巨大的浪费，虽然中国号称是不缺人，但是谁都知道，知识经济，人海战术那套东西不管用了。（话说，人海战术什么时候管用过？全是负面的。）但是，这些信息怎么能到他们的决策层了呢？
+ 四大好处：
+ 雇佣人才 技术影响力 市场力量 改进内部流程   知识经济，就是对人才的高地占领！无他！
+ 在开源软件中每位都是赢家 原文链接：Everyone Wins With Open Source Software</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.13)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-13/</link>
+      <pubDate>Tue, 13 Sep 2016 07:09:54 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-13/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 区块链和 Hyperledger 项目：只有干货 原文链接：Blockchain and Hyperledger Project: beyond the hype
+适兕点评：
+ 区块链很是火了一把，但是毕竟是超出了绝大多数人的理解范围。那么你是不是应该硬着头皮去学习下什么是区块链？什么是 Hyperledger？还不明白为何IBM和微软在抢夺这个市场？那么就深度阅读下此文吧。
+很多银行都是PoC阶段，比如这个探索者的话：“Creating common code will allow organizations to focus on creating industry-specific applications that enhance the value of this technology.”
+IBM 真是将它的开源策略进行到底，利用Linux基金会的影响力，希望以开源形成事实上的标准，前期的代码贡献将会有效的夺回控制权。思考：商业对于开源的参与究竟是好事还是坏事？它是否在推动开源的发展？还是在毁灭开源？
+ 如何在开源网络中消除基金会疲劳 原文链接：How to Eliminate Foundation Fatigue in Open Source Networking
+适兕点评：
+ 终于有人站出来说事了，开源已是默认的时代，动不动就今天搞个这开源宣传，明天某个项目贡献给了某基金会。其实，从多数人的角度而言，很多公司的开源是不被信任的，无非是为了吸引大家的眼球，以搞市场的活动来看待开源本身，加入开源组织，也不过是为了争取开发者罢了。所以思科的这位技术高管说了实话：“people working in open source networking are now experiencing “foundation fatigue.””
+但是说的还是不够透彻，没有深刻的洞见。还是那样，思科也在考虑开源的模式，在社区占更多的主导权，而不是和社区进行对抗。
+ 华为开始有条不紊的参与到开源组织 原文链接：Huawei Begins Methodically Tapping Open Source Groups</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.11)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-11/</link>
+      <pubDate>Sun, 11 Sep 2016 12:23:25 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-11/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 从Google 到联合国，Perth 到 Moodle正在撼动世界 原文链接：From Google to the UN, Perth’s Moodle is making waves
+适兕点评：
+ Moodle，它是一个非常计算机的几个单词的首字母，即“modular, object-orientated, dynamic learning environment”，意即“模块化、面向对象的，动态的学习环境”，是一款开源的平台，也是商业模式非常成功的典范，尽管他的初衷并非是商业化：
+  现在已经有232个国家在使用Moodle了。我相信本土一定有，只是又在走“中国特色”，不理世界秩序，搞自娱自乐式的“独角兽”游戏罢了。
+看看发起者的情怀吧，这才是我们应该有的：“The business supports the mission,It’s about education and it’s about openess and supporting humanity —the business is to just drive that.In this life if you aren’t doing something that you really believe in well you’re wasting your time. If you don’t have a really good reason for working, you should probably find another job, so for me that’s what drives us, we’re here to empower teachers to do what they want to teach, to pass on that knowledge and improve humanity.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.10)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-10/</link>
+      <pubDate>Sat, 10 Sep 2016 06:19:12 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-10/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 新的研发模式－开源项目 原文链接：The New Research and Development (R&amp;amp;D) Model - Open Source Projects
+适兕点评：
+ 你永远会发现这个世界有爬行很慢、进化很慢的人，但是这就是人类，也是整个历史的真实情况。你究竟该如何适应这个世界？仔细想想你的道德感是哪里来的？为什么会觉得丢人？社会性这些东西从什么时候将你洗成现在这个样子？
+此人虽然后知后觉，但是总算是明白了。以Linux为例，以及现在整个的基础设施圈，网络、云平台等等几乎都以开源为模式了。有个问题我没有明白：“The new R&amp;amp;D model is simple: use open source for 80% of the functionality needed for a product or service and then add 20% secret sauce that differentiate it from the other competitors. ” 如果这20%是自己维护都话，代价是多大？这个人究竟是实践过来的？还是常见的思维方式。
+ 开源分支的简短历史 原文链接：May the Fork Be with You: A Short History of Open Source Forks
+适兕点评：
+ 原来Linus还说过这样的一段话：翻译出来：</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.9)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-9/</link>
+      <pubDate>Fri, 09 Sep 2016 06:34:32 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-9/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 开源是否已成主流？ 原文链接：Has open source gone mainstream?
+适兕点评：
+ 开源是一种常态！ GitHub的基础设施工程部的高级总监如此说！
+文中开始的时候，列举了现在目前有很多传统的公司都开始开发一些开源项目，也会主动参与到已有的开源项目，比如Apple这家封闭的公司。接下来则说明了一些开源的好处，连白宫都在开源中获益。
+乐高的比喻是亮点：&amp;ldquo;Put a child in front of a Lego set, they build something amazing,If you focus on what they&amp;rsquo;re going to build&amp;hellip; you limit the outcome.&amp;rdquo;
+以及乐观的对于人类的态度：If you empower your developers and they care about the project,they will build and dream bigger than you can imagine.
+ 破坏性创新：一个CEO是如何做到在对象存储盒开源中创新的 原文链接：Destroy to create: How one CEO innovates in object storage, open source</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.8)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-8/</link>
+      <pubDate>Thu, 08 Sep 2016 06:55:35 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-8/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 加利福尼亚州启动了开源数据门户 原文链接：California launches open source data portal
+适兕点评：
+ 公民和研究者所关心的经济、运输、水等等的数据。域名：data.ca.gov。
+无需赘言，你一定会想到本土的政府什么时候能有如此的服务。过去的我不看好大数据，是因为你无法拿到数据，除非你为GFW之类的网络分析、舆情等服务。但是，我忽略了诸如银行、企业自己所累积的数据和BI。大概这些都不是我所关心的。
+顺便多扯几句最近的思考，由于职业的变化，也开始了自己低调做人之旅，于是了解了一些和销售相关的事情，也了解了销售工程师这个职位。也就是说，当一个人没有去考虑整个事情的合理性的时候，只在别人预设的条件下达成目标，不去反思整件事情的合理性的时候，做尽让步、阿谀奉承、扭曲事实之事之后，只为达到一个目标：“从那些掌握了某些社会资源的堕落者们手上乞讨点什么”。但这些都是不需要考虑，若这么考虑则无法将产品卖给寻租者。
+ 华为拥抱开源的目的——招揽人才 原文链接：Open source powers the cloud
+适兕点评：
+ 华为这次在上海举办的峰会，请了Linux基金会的主席过来作演讲，算是钱没有白花，终于有了成果。本文的 Jim Zemlin 没有什么特别出彩的地方，都是些过去一直谈的观点，比如Linux是目前世界上最牛逼的项目，没有任何一家公司能够做到这些等等，我就不重复说他了。
+重点在于华为的Ken Hu说的话：&amp;ldquo;Talent is in short supply in the cloud space – it&amp;rsquo;s extremely scarce,Companies need to plan for this and on-board top talent as soon as they can. At Huawei we are actively doing that and we want to bring more of the world&amp;rsquo;s best skills to us.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.7)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-7/</link>
+      <pubDate>Wed, 07 Sep 2016 06:59:35 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-7/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 开源的 NFV 项目将在2017年在北京举办峰会 原文链接：Open Source NFV Project to Host 2017 Summit in Beijing
+适兕点评：
+ 果不其然，是华为，作为Linux 基金会重量级的成员，将OPNFV带入中国也算是名正言顺。当然，这并不是一个社区的活动，注册是要收费的，而且还非常的昂贵。
+NFV 将会是未来电信级运营商主要的技术路线，因为AT&amp;amp;T这么开始搞了，国内的必然跟风。
+总而言之，能在北京举办峰会是件非常好的事情！为此，我将之选入每日阅读。
+ 皮克斯为什么要开源其3D渲染技术 原文链接：Why Pixar open sourced its 3D graphics technology
+适兕点评：
+ 皮克斯开源了Universal Scene Description，能够让电影制作者实时的解读、撰写、编辑和快速的预览 3D 实时场景。是非常先进的技术。他为什么会选择开源了呢？答案是：
+协作和贡献！
+开源正在成为开发模式的主流！这一点毋庸置疑。皮克斯的东家迪斯尼非常的明确此点，注意：迪斯尼也是OpenStack的用户。
+ Google 是如何打造出新型的开源程序工作室的 原文链接：How Google created a new kind of open source program office
+适兕点评：
+ 嗯，重点是开源程序工作室的理解，对应的英文是：Open Source Program Office。作者也是开源的鼓吹者，并分析了这个世界顶级的IT公司的开源方法论和策略。如IBM、Intel、乃至Oracle、微软。但是，深入分析了Google作为一家不以软件盈利的互联网公司，如何去为开源作出专门的贡献，作者提到，Google在Kubernetes之前的开源项目大多很小，或者是并是很开源的项目如Android，但是开源的趋势不可阻挡，Google为此专门的设置了OSPO。
+我喜欢的一句话：In the end, however, technology vendors have no choice—collaborate or die.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.6)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-6/</link>
+      <pubDate>Tue, 06 Sep 2016 07:04:01 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-6/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 做技术演讲时所学到的7点心得 原文链接：7 tips for learning how to give a technical talk
+适兕点评：
+ 分享故事的历程，这是人类历史之所以能够继续往前发展的根本动力。本文除却7点心得之外有两点非常的让人印象深刻：
+  作者介绍中的座右铭：我不会将这个世界区分为弱者和强者、也不会将之区分为成功或失败&amp;hellip;&amp;hellip;我将这个世界划分为学习的人和不学习的人。 真是太经典了。 作为讲故事的人，作者开始的时候，介绍的却是自己团队每年都搞得 Hack-A-Week，并举了一些例子，在开源社区或任何自己想做的事情，然后讲到今年选择了Docker，于是想分享一下自己学习的历程，然后申请了演讲，还获得了通过，最后在准备、预习、演讲的过程中学到了7点心得。我喜欢这样的故事，我也是如此的实践者。   至于7点心得本身，这里就不再重复，但是要声明的一点是：非常可贵的经验！！
+ 如何使用开源的研究来揭露Corruption 原文链接：How to Uncover Corruption Using Open Source Research
+适兕点评：
+ 开源这个概念，似乎在俄罗斯有着不同的理解，前几天下载到一本书，叫做《开源手册》，其实和我每天谈到的开源软件／思想半毛钱关系没有。
+看完这个你就知道，为何本土会禁止社交媒体，或者是说做严格的审查的原因了。注意以后分辨就是了。
+ 如何从开源的平台赚到钱 原文链接：How to Make Money from Open Source Platforms
+适兕点评：
+ 这是我一直以来思考的问题，并亲自以身作则的试水了一把。红帽开源产品经理的话很有借鉴意义，但是仍然要考虑本土特殊的情况。文化、政治环境、习俗等等均是经济必须要考虑到的。
+比如本土收购这样的事情非常的难以寻找：&amp;ldquo;The most visibly “successful” open source startups from the last ten years are companies that were acquired by larger ones.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.5)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-5/</link>
+      <pubDate>Mon, 05 Sep 2016 07:14:52 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-5/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 OpenOffice 严重缺人 原文链接：OpenOffice Contemplates Shutdown Amid Volunteer Drought
+适兕点评：
+ Dennis E. Hamilton, OpenOffice的志愿者VP？呼吁OpenOffice再没有人来参与开发的话，可能项目就很快死掉。而OpenOffice最近的一次版本更新是2015年10月份。具体的故事我这里就不多讲了，诸如OpenOffice什么时候被Sun开源，Sun何时被Oracle收购，Oracle又是何时将它扔到Apache基金会等等。
+我这里想说的是，Oracle这个开源杀手真的不是盖的，我们数一下原来Sun的开源项目，现在Fork出来的：MariDB、Jenkins、LibreOffice&amp;hellip;&amp;hellip;我想，Oracle也开源，但是干了两件事：more restrictive 和 project’s public relations has been inadequate.
+ OpenStack 失败的6个原因（声明：并非技术） 原文链接：Six reasons OpenStack fails (Hint: it’s not the technology)
+适兕点评：
+ Mirantis 到底是想要证明什么？继基础设施软件已死文章之后，又来一篇对他人演讲的总结，同样是说明OpenStack这个项目异常的艰难。不过我还是非常认同的，并非技术本身，非技术方面的原因更多。
+  思维过于教条。（这是最最难以改变的，尤其是哪些不愿意学习和改变的系统管理员们。） 恐惧、怀疑、不确定、毁坏（FUDD）带来太多问题 找到正确的发行版 你不可能成为一个全栈工程师 只是认为OpenStack是一匹更快的马而已，不是汽车（经典的福特语录，暗示用户的想象力有限） 你没有一个万能的团队   在本土，可能还得加上官僚体制、糟糕的市场环境、多如牛毛的OpenStack小厂的破坏力。
+ 什么是开源产品？ 原文链接：What Are Open Source Products?
+适兕点评：
+ 本文其实是对Mirantis的CMO哪篇文章：基础设施软件已死作出的回应，意思是红帽才是企业级唯一的老大，你这样的意识太差了，难道你们才意识到？已经晚了！！另外再次重点声明：开源只是一种开发模式，并非商业模式。
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.4)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-4/</link>
+      <pubDate>Sun, 04 Sep 2016 07:30:19 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-4/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Linux 25周年了，你需要知道的6件事 原文链接：6 things you should know from Linux&amp;rsquo;s first 25 years
+适兕点评：
+ 本文是开源企业级市场最大的赢家红帽的CEO —— Jim Whitehurst在北美LinuxCon上的演讲整理：
+  围绕开源所建立的商业模式（订阅） Linux在企业级的部署是自上而下的（这可能有违于我们的直觉） Linux已成为企业级部署默认的选择。 协作的模式。 Linux是真正能够解决问题的。 除了技术之外，在其它领域也颇有影响力。  欧洲自由软件基金会将在柏林举办其第一届峰会 原文链接：The Free Software Foundation Europe Organizes its First ever Summit in Berlin
+适兕点评：
+ 注意，非盈利性组织，旨在促进自由软件和开源软件在欧洲的发展和使用。三天的会议是满满当当的。不知不觉都坚持了15年了。涉及到的项目有KDE, Linux, SUSE Linux, systemd, Nextcloud等。
+每到这个时候，我就会对比身边的组织机构。哎&amp;hellip;&amp;hellip;
+ 开放式的讲解公司发展的三个关键 原文链接：3 keys to developing your organization&amp;rsquo;s story openly
+适兕点评：
+ 翻译的题目蛮拗口的，暂时没有找到更好的词汇。
+NewKind 这样的公司在美国活的很好，那么在中国有没有希望了呢？即如何在咨询中赚钱，或者是在培训中赚钱。这是让我非常头痛的事情，比如敏捷、Scrum等方法论，基本上是大型企业（华为、中兴、中移）等专门招聘领域内的专家，建立一个团队，然后在内部进行推广，小企业基本是买几本书自己搞。咨询基本是不可能的事情。如何将方法论卖出去？难道要开放一个相应的工具？
+回到本文：先回答四个问题：
+  在国内如何建立起来自己的社区？这似乎是一个大问题。有没有成功的社区了呢？除了以一些简单的奖励学生这招？（LinuxFans，Everst）或者是以媒体的方式来勾引？（OSChina，InfoQ，CSDN，ChinaUnix）</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.3)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-3/</link>
+      <pubDate>Sat, 03 Sep 2016 07:05:36 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-3/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 哪个国家正式颁布了支持开源的法律？ 原文链接：Which countries have open-source laws on the books?
+适兕点评：
+ 曾记得twitter上有张图，是将全世界的每个国家的媒体开放程度作了对比。或者是这个世界有哪些国家无法使用Facebook和YouTube，果然，现在也有人开始使用相同的办法将世界的哪些国家对开源的态度比较青睐或排斥做了区分。
+这个和国家的意识形态似乎无多大关系，但是似乎是可以看出互联网或IT业的发达程度。你希望中国成为什么颜色？
+ 新闻集团为何青睐开源？ 原文链接：Why News Corp loves open source
+适兕点评：
+ 开源不再是一些个人偏好的小众的东西了，它已经是主流，承载着这个信息时代很多东西。
+本文其实没有任何新颖的见解，只是人云亦云罢了，开源是如此的流行，作为媒体的巨人新闻集团不应该落后，于是也说是自己热爱开源。相信这就是所谓的滚动效应，大多数人是观察者，往人多的地方走。
+但是，现实就是如此，之所以选择此新闻就是因为新闻集团比较有代表性。
+ 插曲，个人感慨／絮叨  突然意识到，就在今天，尤其是观察了中移，开源对于世界的影响真的很大。其实，很多公司已经将开源成为一种默认的方式。只是出现了一些诸如操控的、有限度开源、团队文化等可能错误的方法论和整体指导思想。但是认同开源。我所谓的布道是不受欢迎的，绝大多数人，不会在意这个，只谈技术，我技术很烂，就没有人愿意和我交谈。我的布道依然有很长的路要走，形成一些理论之后，然后或许能有一些人认同。但是，我要推广和让人信服的话，技术还不能太烂。
+ BBC 是如何利用开源来进行转型的 原文链接：How open source technologies are transforming the BBC
+适兕点评：
+ 归档，新闻总有一天会变成历史的。这是一个资讯爆炸的时代，数据是指数级的增长。BBC这样的媒体公司，也面临着巨大的挑战。自己成立研发团队，利用开源技术比如Elasticsearch。
+ Open vSwitch 的未来 原文链接：Open vSwitch Future Takes Shape
+适兕点评：
+ 嗯，得关心技术。需要向现实妥协，毕竟这是一个饱受苦难的地方，人们依然对意识形态的恐吓和残忍记忆犹新，150多年过去了，只谈技术，无论其他，这是普遍的现象。所以，我必须去掌握一些技术！比如OpenStack这个比较年轻的项目。
+OpenVswitch 是我一直以来都想去掌握的项目之一，可惜过度的贪心或者是团队的原因，失之交臂
+下个版本的OVS，主要的功能是对DPDK的增强和对OVN 覆盖网络的支持。注意这背后有VMWare的推动，以及其对Linux基金会的操控。
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.9.1)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-1/</link>
+      <pubDate>Thu, 01 Sep 2016 06:38:33 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-1/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 几张图说明了开源的崛起还是开发者的青睐有关 原文链接：Infographic Shows Open Source Increasingly Embraced by Developers
+适兕点评：
+ 黑鸭子和北桥的哪个《the future of Open Source》，其实我也一直想总结来着。不知道为何，事情就那样过去了，今天看到 The VAR Guy 将这件事情做了。尽管多数是摘选出来认为有价值，或者是佐证自己观点的。但是重点在于人家做了。
+来张图片说明一切：
+ Linux早期发展的故事 原文链接：Starting with Linux in the early days
+适兕点评：
+ Linux在今天看来是非常成功的了，但是早期的时候，只有很少一部分人愿意采用。发展并不是那么如很多人看来是一帆风顺的。看看早期都有哪些故事，以及一些人的感慨。
+我这里只引用文中两个很有价值的观点：
+  Ted T&amp;rsquo;so 早期的kernel开发者对于Linux能够成功的原因：stone soup approach.每个人都能找到自己感兴趣的地方。 Bottomley对于Linus领导力的评价，大胆的去尝试。   八卦：
+  Dell 也曾经拥有过自己的Unix发行版：Dell SVR4 Unix 。 Caldera Linux, 也是早期的商业探索者。  红帽进入Forbes最具创新公司名单，唯一的一家开源公司 原文链接：Red Hat only open source company in Forbes&amp;rsquo; most innovative companies list</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.31)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-31/</link>
+      <pubDate>Wed, 31 Aug 2016 06:41:42 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-31/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 报告指出：如果美国国防部不鼓励开源，将会落伍 原文链接：REPORT: IF DOD DOESN&amp;rsquo;T EMBRACE OPEN SOURCE, IT&amp;rsquo;LL &amp;lsquo;BE LEFT BEHIND&amp;rsquo;
+适兕点评：
+ 报告等下载地址在这里：开源软件&amp;amp;美国国防部
+看到题目是不是很吓人？我们祖国曾依靠刀枪不入的义和团，让八国联军直接直捣黄龙、我们的祖国曾经有过一只号称当年最先进的海军——北洋舰队，但却没有可以使用的弹药，直接让日本来个辛丑条约、还有苏修，举国饿肚子&amp;hellip;&amp;hellip;按照基辛格之类的理论，不管如何的和平，国防力量必须有。
+精髓之处在于“Using open source licensing does not mean that changes to the source code must be shared publicly; the ability to see source code is not the same as the ability to modify deployed software in production; using open source components is not equivalent to creating an entire system that is itself open sourced,”</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.30)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-30/</link>
+      <pubDate>Tue, 30 Aug 2016 06:32:36 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-30/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Linux25周岁了，25个让你大吃一惊的真相 原文链接：Linux is 25. Yay! Let’s celebrate with 25 stunning facts about Linux.
+适兕点评：
+ 本文我其实没有什么点评的，是我读过的庆祝25周岁最好的，所以推荐给大家。
+ 在Linux和开源软件的历史上，SuSE处于何种角色 原文链接：SUSE&amp;rsquo;s Role in the History of Linux and Open Source
+适兕点评：
+ LinuxCon 正在北美举行，SuSE似乎没有发出什么声音，是的，Linux的光环已经被转了10个亿的红帽占据了。SuSE从如此一个小众的媒体对外庆祝一下Linux的25岁生日，有些观点是蛮好的：
+  和我的观点一致，Linux走进企业界、大众的视野在从1999/2000年开始的。 当年的Linux的几大挑战： &amp;ldquo;missing&amp;rdquo; usability, lack of support, immaturity of products, lack of skills and lack of applications. SuSE对于企业级市场的功劳：第一个支持的项目：XEN, KVM, x86_64, z System, SAP and SAP HANA 文章的最后，被采访犹如我一样放大自己：The only mistake SUSE made was: we didn&amp;rsquo;t talk much about it.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.26)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-26/</link>
+      <pubDate>Fri, 26 Aug 2016 06:22:21 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-26/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 生日快乐！Linux，恭喜你25周岁了！ 原文链接：Happy Birthday Linux! Celebrating 25 years of the open source Linux operating system
+适兕点评：
+ 19991年的8月25号，Linus写下了Linux的第一封开源的邮件。关于此我不想多说什么，引用一张Linux基金会主席的Slide：
+ 爱上Linux的25条理由 原文链接：25 things to love about Linux
+适兕点评：
+ opensource.com 在这么重要的日子，肯定是不会袖手旁观的，从Twitter上发起了一个tag，甄选出了25条最酷的理由：蛮有意思，我这里挑选几条我喜欢的：
+  There&amp;rsquo;s always something new to learn. —Alexander Golubets The power to customize and create my own specific operating system to be used for any purpose. —Rasyid Sahputra There is no limit to what you can do. If you can imagine it, you can make it.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.25)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-25/</link>
+      <pubDate>Thu, 25 Aug 2016 06:24:58 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-25/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Ubuntu 创始人为OpenStack若要成功需要做的几件事 原文链接：Ubuntu Founder Sets the Bar for Successful OpenStack Implementations
+适兕点评：
+ 传奇人物：Mark Shuttleworth，突然发声了。并且是以预测OpenStack的形式出现的。他说OpenStack将会在未来世界的基础设施中占据重要位置。但愿他说的正确。
+为什么我说是突然发声了呢？因为文章的大部分内容都是在介绍 Mark Shuttleworth，比如首位非洲登录太空的人，创了几次业，以及目前在 Canonical的职位等。
+ NGINX 计划以其开源软件打造下一个10亿美元收入的公司 原文链接：NGINX’s Plan to Create a $1 Billion Business from its Open Source Software
+适兕点评：
+ NGINX 现有的web服务市场占有率还不错，在此基础上提供增值服务。软件有Nginx plus，增加了很多新的功能。如负载均衡、Direct Server Return (DSR)等。
+我没有什么多说的，Nginx在市场、品牌方面做得不错。对开源的理解也不错。技术把控也很厉害。尤其是最后一段话：we’re focused on helping customers transition from expensive hardware appliances to using software for application delivery, and then moving to microservices, which helps them build more scalable applications, 把握技术趋势，摸清用户痛点才是王道。</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.24)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-24/</link>
+      <pubDate>Wed, 24 Aug 2016 06:40:01 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-24/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 开源 Windows 这件事，可能希望不大 原文链接：Open Source Windows May Not Be that Big a Long Shot After All
+适兕点评：
+ 这在几年前，Windows 开源这件事本身就像是让可口可乐公开配方一样荒谬。但是在今天，Windows在手机操作系统失利之后，服务器端开不开源倒成了微软的心头大患。　to be or not to be?一直是个问题。
+本文依然一名局外人，媒体写的评论性文章。还未见微软的人有何说明。但是我却在想，开源又如何？你的生态系统建立不起来，开源正如阿里的MySQL之流，沦为一场蹩脚的市场Show而已。
+ 红帽和微软在舞台上拥抱 原文链接：Red Hat and Microsoft Embrace On Stage
+适兕点评：
+ 红帽的CEO Jim Whitehurst，基本没说什么关于合作本身的事情，有两点：0、是说红帽做企业级的开源软件，事实证明非常的成功。1、Now, companies like Nike, Ikea and Toyota have also embraced the “social DNA” of Linux &amp;ndash; the open source mindset &amp;ndash; to drive innovation, 意思是说，Linux 离不开创新，要想在下一个25年依然保持活力的话，就得持续创新。
+微软一再证明自己在开源很努力，而且也有所贡献。这种欲盖弥彰的行为颇令人不耻。微软毕竟是一个商业大国，靠软件的许可证来赚钱的。红帽在某种程度上就是一服务行业，赚得是辛苦钱。好吧，这些把戏骗骗小孩子就可以了。</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.23)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-23/</link>
+      <pubDate>Tue, 23 Aug 2016 06:47:17 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-23/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+每个周一，总是缺少任何点文章。昨天就没有点评。
+文章点评 Linux基金会掌门人谈开源的25年 原文链接：Linux Foundation chief reflects on 25 years of open source
+适兕点评：
+ Linux 在过去的25里可谓是成绩斐然，卓越非凡！正如Jim Zemlin 所言In a nutshell, Linux runs the global economy quite literally.&amp;rdquo;
+Jim所列举的Linux 每天的变更还是很惊人的，那一组数据，已经超出了世界上任何一个组织的工程量。
+Linux 的成功对于我们到底意外着什么？暂时游走于题目之外，十几年前我接触、学习Linux的时候，相信其会成功的，现在看来Linux已经普及了，职业技能中是必修，而不再是加分项了。为何本土对于经验一点都不重视？年轻人真的能够替代老工程师？和拳击手等传统的职业一样？
+Linux, and open-source movement and community have delivered a better way to define the future. 是的，没错，Linux已经超越其本身。
+Linux对于下一代的影响也是蛮深的，13岁的孩子将Linus视为他心目中的英雄！Zachary Dupont这个故事非常的深刻。
+对于未来：Today open source is not emulating the past, it&amp;rsquo;s changing and defining the future, he said. 你无法拒绝，这就是历史的车轮。也是艾未未所说的，某些东西人一旦意识到、见识过，就再也回不去了。开源正在加速壮大，超过你我的想象。
+ 来自LinuxCon的声音：通过代码改变世界 原文链接：Live From LinuxCon: Changing the World with Code</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.21)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-21/</link>
+      <pubDate>Sun, 21 Aug 2016 08:14:16 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-21/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 人才依然是企业中部署开源的最大短板 原文链接：Talent remains the biggest issue for deploying open source in the enterprise
+适兕点评：
+ 首先赞一下会议的标题：开源正在吞噬世界！
+没错，开源软件正在被主流社会所接受，但是作为提供开源软件的厂商，是该思考如何盈利、如何营销等战略或策略。人才是多数公司所头痛的问题，嗯，现代的企业软件越来越复杂，尤其是DevOps之类的新的模式，企业、厂商和社区，三者共同去跟进业务需求，弥补上市时间的缝隙。那么作为厂商，就得投入大量的工程师参与，而不是像过去那样卖一张光盘就可以了，最多后续打个补丁，出现故障了Troubeshooting。
+在物欲横流，成为社会主流价值观，一个人能否被社会尊重，取决于这个人有多少钱。招徕人才只有钱这一招，确实是狠了点，资本至上。人才，确实是一个令所有创业公司头痛的问题。
+ 注：图片来自iStockphoto/Vladimir_Timofeev
+容器、云计算，以及开发者们是如何预测未来的企业技术的 原文链接：Containers, cloud, and how developers predict the future of enterprise tech
+适兕点评：
+ 便捷才是关键。这才是近几年公有云胜出的关键所在。资源租赁才是生财之道。
+容器究竟有没有用？这是大多数过去有才华的人所疑惑的，我本人也不例外。但是亚马逊的CTO： Werner Vogels 在伦敦的Summit上谈到Dev和Test占据非常重要的位置，所以容器非常非常的重要。
+Big data has pushed enterprises to think about their data infrastructure differently.
+最后一段话，才是本文的亮点所在：如果你想知道未来的技术趋势，不是和CIO们一起打高尔夫，而是看看开发者们在讨论什么。另外，现在要想招徕人才，或者是宣传自己有创意的项目，最佳途径是：put it on GitHub and find ways to encourage developers to embrace it.
+ 开源应用是您的最佳之选嘛？ 原文链接：Are Open Source Applications Your Best Option?</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.20)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-20/</link>
+      <pubDate>Sat, 20 Aug 2016 06:30:24 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-20/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 AT&amp;amp;T: 话说什么是“开源”？ 原文链接：AT&amp;amp;T: What Is &amp;lsquo;Open Source,&amp;rsquo; Anyway?
+适兕点评：
+ 企业该如何评估开源？必须小心谨慎的去做方有可能做到利用开源的全部好处。这个确实比较的棘手。我个人也算是开始接触一些企业用户了，对待开源的态度，依然停留在“不靠谱”、观望当中，鲜有尝试者。
+AT&amp;amp;T 是如何看待开源的？这个网络的巨人上个月还开源了一个重量级的项目。使用开源的三原则：
+  许可证是免费的。 由基金会主持的背后有活跃的社区，不是由某个厂商锁定的。 源代码是可以访问、获取到的。   另外，AT&amp;amp;T 还将开源区分为两种：纯粹的和商业的。纯粹的即是满足上述3点要求的，商业的则是哪些付费的。是不会选择后者的：**&amp;ldquo;The nature of vendor control leads to less public documentation such as testing and bugs. It also doesn&amp;rsquo;t include test frameworks to evaluate production readiness. These problems make it clear that the pure open source model is preferred,&amp;rdquo; **
+我相信第二条会让很多商业项目经不起推敲和考验。国内目前号称开源的项目，基本都在这个范畴。所以骗骗本土的或许还能坚持一段时间，在国外可能不好过。
+ 数数Linux基金会托管项目 原文链接：Beyond Linux: 7 Open-Source Projects the Linux Foundation Is Leading</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.19)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-19/</link>
+      <pubDate>Fri, 19 Aug 2016 06:49:34 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-19/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+开始之前，简单聊聊一些想法。有的时候，我会怀疑自己所认为的事情是否是正确的、有意义的。尤其是处于大多数人的时候。比如最近在读本土云计算布道师刘黎明先生的书《云计算时代》，他提到很多和云计算相关的厂商和产品，但是和开源几无关系。以及哪个炒作的市场理论。我是在炒作开源吗？
+文章点评 在Oracle搞了21年Linux的老兵，现在跑去微软主持微软的开源工作 原文链接：This 21-year Oracle veteran is now in charge of Microsoft&amp;rsquo;s most surprising initiative
+适兕点评：
+ 嗯，再提一遍，现在很多公司都专门设立开源的高层官员。但是前提条件是你在社区要混的风声水起，有一定的个人影响力。
+微软最近开源了其服务器操作系统的命令行管理工具——powershell，能够在Linux下运行了。借势正名一下开源的决心。题目所言的人叫做：Wim Coekaerts ，也未必见他为Kernel贡献过什么，但是长期执掌Oracle的开源部门，大家知道Oracle就是开源的蛀虫。相信微软也即将好不了哪里去。
+引用几段话，这个Wim说：We want to show the world that we&amp;rsquo;re great players in the open source area，&amp;ldquo;We&amp;rsquo;ve started hiring open source developers,&amp;rdquo; Coekaerts says. &amp;ldquo;You don&amp;rsquo;t [have to] spend a lot of time bringing them to Microsoft.&amp;rdquo; 可以看出两个意思来：
+  微软想占据开源的一席之地，将之慢慢吞噬掉。 利用开源，抢夺未来的制高点————人才！  利用 Read the Docs，将文档这事变简单 原文链接：Making documentation easy with Read the Docs</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.18)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-18/</link>
+      <pubDate>Thu, 18 Aug 2016 06:40:37 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-18/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Apple即将开放其在中国的研发部门 原文链接：Apple to open first R&amp;amp;D centre in China
+适兕点评：
+ 本文和开放有半毛钱关系，和开源一点关系也没有，之所以我要点评，是因为某种程度上和开源在中国的发展有着隐隐的关系。虽然我现在还没法使用语言来将之表达。
+以下为本文的一些信息：
+  Apple的CEO会见了国家领导，是开放R&amp;amp;D的重要原因之一 Apple在中国赚了很多钱，还投资了诸如滴滴出行这样的公司 才9000多号员工，绝大多数是Sales   疑问：开放R&amp;amp;D，此处的开放究竟是何涵义？颇为模棱两可。
+ 人们为什么不卖开源的帐？ 原文链接：What People Don&amp;rsquo;t Get About Open Source
+适兕点评：
+ 我无法站在非本土的文化、习俗、环境中去思考。但是我对于现实却是非常的无奈。所以需要更多的布道。
+本文作为开源在企业界的应用科普来说，很不错。重点讲述了人们对于开源的误解：
+  开源不适合企业应用。（作者举的反驳的例子是思科、AT&amp;amp;T、微软） 开源意味着免费或便宜。 将开源项目视为成熟的产品。Opens source is the engine and chassis. It&amp;rsquo;s not the whole jalopy. 开源意味着再也不需要供应商了。 专有软件质量好是因为背后有大公司的支撑。  在没有达成共识的情况下作出社区决定 原文链接：5 steps for making community decisions without consensus
+适兕点评：
+ 本文的开始部分讲的非常的棒，社区是一个各种想法、目标、价值观、视野都不同的甚至有冲突的地方。这个时候该如何作出正确的决定了呢？作者以Xen社区为例，贯穿了一条 XSA-7 的事件主线，分享了5个步骤达到目的的办法。</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.17)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-17/</link>
+      <pubDate>Wed, 17 Aug 2016 06:51:03 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-17/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 开源软件正在吞噬世界吗？ 原文链接：Is open source eating the world?
+适兕点评：
+ 经过研究发现，是哪些开源的专家们影响了企业购买和软件公司兜售软件的方式。没错，最终决定一件事情的发展，是某个个人。开源能够走到今天，是其某些内涵吸引着某些人，让这些人去选择了一种生产方式。互联网是自由的，人在自由的世界渴望得到承认。
+回到本篇文章，文笔略显稚嫩，观点也是似乎刚刚接触了一些相关的现象，乃至有一些业界颇有知名度的人，推波助澜。文中有一个观点，我颇为怀疑，或持不同观点：“Open source is being consumed by cloud in turn,” 某种意义上，我还是赞同开源和公有云是某种对立关系的观点。
+ Colin Charles 以首席布道师的身份加入 Percona 原文链接：Colin Charles Joins Percona as Chief Evangelist
+适兕点评：
+ 个人之所以选择了这篇新闻稿，是和这个职位有很大关系的。目前本土来说，没有任何相关的开源岗位。只有传统的组织架构中的技术岗。不知道什么时候，本土会设置这样的一些岗位。或许永远不会，将此类岗位的一些职能隐藏在一些传统的职位当中，兼职。
+我本人的诉求？本土目前来说，除华为之外，还真没有人意识到开源岗位的重要的性。
+ Linux 基金会宣布针对网络分析的大数据平台－PNDA加入 原文链接：The Linux Foundation Announces Big Data Platform for Network Analytics
+适兕点评：
+ Linux 基金会，正在不断的孵化这些初始的项目。当我第一次看到这个题目的时候，我以为是Linux基金会要搞Apache基金会的大数据生态。仔细一看还不是。
+这个世界上开源的项目越来越多，要想以“开源”博得人们的眼球已经非常的困难了。开源已经是一种默认的软件生产方式了，即使现在不是，不久的将来也是。那么如何赢得人们的注意了呢？其中一条道路就是加入这样的基金会。
+我个人目前尚对Linux基金会孵化或托管项目的规则不甚清楚，但是有必要研究一下。Linux基金会相比来说，商业的氛围更加浓厚一些。
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.16)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-16/</link>
+      <pubDate>Tue, 16 Aug 2016 06:18:32 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-16/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Andreessen Horowitz 依旧在企业级软件掘金 原文链接：Andreessen Horowitz Still Sees Big Money In Enterprise Software
+适兕点评：
+ 文章的内容是我前几日所关注过的。今日由Forbes发表看法，我也就顺势再评价一番。因为对我来说参考意义非凡。
+文中一开始，谈到了：With information technology budgets in falling，但是危机中方能找到机会。
+另外，最重要的表达了三个观点：
+  公有云和软件即服务市场依然巨大，机会多多。 将软件交付为一种服务，成功的例子从amazon web service 到GitHub再到Databricks。 开源的崛起，无论是人本身的角度，还是企业，都在参与这一运动。包括保守的Oracle和微软。 open-source-as-a-service 模式，让我思考了很久。  公路和桥梁：隐藏在我们数字基础设施背后的比喻 原文链接：Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure
+适兕点评：
+ 首先和大家声明，本文是一篇很长的论文式的文章。等于是一个研究课题。不是常规的新闻或技术文章。
+在纲要中作者介绍了开源软件已经成为现代数字基础设施等支柱，一如我们生活中的物理基础设施，如公路、桥梁等。这个比喻非常的明显。开源在基础设施方面的成功，用事实说话。
+然后，作者讲述了OpenSSL的故事，前世今生，以及HeartBleed的事件等。作者的文采很不错，忍不住分享两段：
+ OpenSSL’s story is not unique, and in many ways, Marquess thinks they are the lucky ones. Countless other projects continue to go unheard of and unsupported.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.14)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-14/</link>
+      <pubDate>Sun, 14 Aug 2016 07:49:52 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-14/</guid>
+      <description> 声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 开源学校重新定义了意大利的教育 原文链接：The Open Source School Redefines Education in Italy
+适兕点评：
+ 典型的标题党，意大利人也搞开源？还玩教育？大家数一数国内的IT教育，标榜开源的就知道了。《开源力量》《GIT》等。讲技巧，舍文化。
+正如我正在写的文章《开源之术与开源之道》一样，纯粹的讲技术是不可以的，行不通的。皮毛而已。但是，无论是教育还是文化，在本土民间提这些东西都是禁忌。
+所以，类似文中Its success hinges on cooperative work, co-design, shared skills, and an open source culture.这样的，还是省省吧。回家睡觉。
+ 来自高等教育界的4位高管谈开放教育的未来 原文链接：4 talks from leaders in higher ed on the future of open education
+适兕点评：
+ &amp;ldquo;trust the power of participation.&amp;rdquo; 红帽未来必成大器，往教育领域渗透无疑是非常聪明的市场之举。可能是我想歪了。但是jim提到的how interaction—active, participatory, self-governing—enables the creation of better content and ensures its sustainability. 这完全是启蒙教育，我们的终极理想！
+ </description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.13)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-13/</link>
+      <pubDate>Sat, 13 Aug 2016 06:17:35 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-13/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 Fuchsia: 由Google开发的针对手机、PC新的开源操作系统 原文链接：Fuchsia: a new open source OS by Google for phones, PCs
+适兕点评：
+ 树大招风，说的一点没有错。googlesource.com，有人盯着了。Fuchsia的仓库什么都没有了还，文档之类的都不健全。
+Google 是对熊彼特对理论有多畏惧？市场上已经是那么多的操作系统了。为什么还要有一个Fuchsia？Android情何以堪？
+只能说Google的行为超出了我的理解范围。不过从技术的角度出发，我还是蛮期待代码、文档的。
+ 美国政府采用开源代码更多的考虑是安全因素 原文链接：How Governments Open Sourcing Code Helps Us Be More Secure
+适兕点评：
+ 题目翻译起来有点拗口，但一时半会又找不到更合适的替代。只能将就。
+白宫前两天所颁布的那个指导意见，确实轰动挺大的。本文是WhiteSource的CEO的文章，有几点信息值得斟酌：
+  Bulgaria 颁布法律要求政府采用的软件必须开源，美国要求至少20%是开源的，法国、挪威、巴西等民主国家都在逐渐的采用开源软件（这其中绝非偶然）。 在任何国家政府通常都是代码生产的大鳄。 政府采用开源并非是这届政府有多么的“超前”，他们更多的是在鼓励创新、提高透明度，加强安全、以及哪些每个政府都极力去追求的益处。   通篇读下来，我稍有些失望，威权社会主义国家应该不会采用开源软件。上述所有的目的都是自由民主制度的良方。说不定过几天这样的消息还会被封锁。
+ SourceClear 开发了”代码提交守望者” 原文链接：SourceClear&amp;rsquo;s Commit Watcher
+适兕点评：
+ 还记得有人将自己的AWS凭证提交到了GitHub上了吗？随着开源日益成为软件生产方式的主流形式，代码提交敏感信息就成为了一个安全隐患。SourceClear 似乎顺应了这样的一个形势。
+我自己又在反思了，能够看到一个开源时代的到来，但是为何找不到商业机会？
+ 开源在企业中的趋势 原文链接：Trends in corporate open source engagement
+适兕点评：
+ 我也以作者原文所划分的主题，逐一的进行感慨：
+  开源已经不是备选。开源已经是主流的生产方式，当前你很难找到哪家公司没有采用任何的开源软件。尤其是今年黑鸭子和Northbridge搞得调查，更证明了这一点。 开源作为创新的平台。那个Gartner的报告，Hype Cycle for Open-Source Software, 2016 作为个人购买，有点承受不起。据说，这份报告解释了IT部门采用开源并非是简单的节省支出，而更多的是为了创新。目前，不论是云计算、大数据、机器学习，还是DevOps等，开源都处于创新等领先地位。 开源改变了一些商业模式。注意除了红帽之外，很多公司都在利用开源赚钱，不过可能是间接的收入。 开源的管理岗位！这点在国内的公司近乎绝迹，华为稍微粘点边，其它公司未见任何点动作。manage all aspects of the open source process, compliance, education, communication, and strategy for their companies.</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.12)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-12/</link>
+      <pubDate>Fri, 12 Aug 2016 06:48:45 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-12/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 开源已经赢了，那么，接下来做什么？ 原文链接：Open Source Won. So, Now What?
+适兕点评：
+ 《连线》的文章，大手笔，总是能够以足够宏观的视野来看待一件事情。进来美国白宫政府颁布了政府采购开源软件的指导，《连线》也有感而发。在一开始，交代了历史上大家对待开源的态度——担心，但是现在开源已经是无处不在了。接下来的论述比较有意思，列觉了一些传统企业开源的时间，如沃尔玛、ExxonMobil、以及金融界的巨头London Stock Exchange Group, JP Morgan, 和 Wells Fargo 等都在开源一些项目。结论是：
+ open source is now a core part of how software is created not just by software companies, but by every kind of company.
+ 开源好处多多，开源是最好的开发软件的方式。当然，事情还远远不够完美，尚有未解决的问题：安全、基金会的经营等。
+开源是人们最好的简历！这一段的论述相当的精彩。
+ 微软内部是如何看待开源的 原文链接：Inside How Microsoft Views Open Source
+适兕点评：
+ 嗯，微软从打击开源到拥抱开源的态度，一直是大家所质疑的，虽然从外界看来，微软近来一系列的动作表明自己是真心想在开源方面出力的，如FreeBSD、Ubuntu for windows10、收购Xamarin、和Linux基金会的合作等。但是大家仍然持怀疑态度。本文是对前不久从Oracle跳槽过去的Wim Coekaerts 的一个采访，看看内部有何想法。
+这里列举一些问题得了，有兴趣的还是去读原文吧。
+  在Oracle主持开源工作21年，为何突发兴趣跳槽到另外一家软件巨头？ 有什么项目是让您感到惊奇的。 看来Wim加入微软是蛮兴奋的，也对微软开源的项目蛮有兴趣的，那么在wim的领导下，微软又有何新的想法？ Is Microsoft setting its sights on becoming a full-fledged open source company?</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.11)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-11/</link>
+      <pubDate>Thu, 11 Aug 2016 06:18:46 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-11/</guid>
+      <description>声明：本博客言论，仅代表我自己，不管任何其它！
+文章点评 如果你开源了自己的项目，但是却没有人来参与：为什么你的项目需要好的营销 原文链接：If you build it, they won&amp;rsquo;t come: Why your project needs better marketing
+适兕点评：
+ 嗯，这个世界上太多的开源项目了，正如信息的泛滥一样，假如你习惯于使用特别烂的搜索引擎，那么想找到一个自己想要的项目是非常困难的。
+我们转换一下视角，现在的情况是你自己有项目想开源，或者是自己在GitHub上创建的有项目，但是就是无人问津，是怎么一回事了呢？本文一语道破玄机：They don&amp;rsquo;t know you exist.
+这是一个需要人们参与协作的经济时代，已经难以找出孤胆英雄了。如果你不去招徕更多的人加入进来，贡献他们的想法与实践，那么就走不远。这也就是为何开源被哄抬到了主流上来的原因。
+ 企业将爆发式的采购开源 原文链接：Open Source Explodes Enterprise Procurement
+适兕点评：
+ 这是对Martin Casado的采访整理而成的文稿，Casado 就是被VMWare 收购的网络公司Nicira的联合创始人。现在转做风险投资人（VC），他对开源有一些自己的理解和认识，毕竟OpenvSwitch依然是事实上的标准。以下是我认为很好的观点：
+  开发者不再需要采购流程了，他们只需要刷信用卡，按照自己的需求来决定自己的基础设施。（听起来似乎很美好，但是执行起来有些悲观，尤其是传统的企业。） 开源很难赚钱，Casado quoted an estimate that $7 billion has gone into open source investment, but only $1 billion has returned. 这个回报率似乎不是资本家们喜欢的。 他还认为红帽的模式已经过时，即提供 on-premises的开源软件产品，兜售订阅和服务。（但是很多本土的公司，连红帽的模式都还没有达到。） The new model, which companies are succeeding with, is open-source-as-a-service.</description>
+    </item>
+    
+  </channel>
+</rss>

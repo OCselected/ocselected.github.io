@@ -1,0 +1,2102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>开源之道</title>
+    <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/</link>
+    <description>Recent content on 开源之道</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 26 May 2019 11:38:05 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>中国的开发者非常惧怕毛衣战会让他们失去开源；Kubernetes 5周年，总结下其五大成就；Google 投资开源硬件lowRISC；GitHub 推出赞助商计划，可以让用户以现金的方式回馈开源项目；Linux基金会组织了城市计算基金会以支持智慧城市；Google 暂停与华为的一切业务往来；Juniper 是如何拥抱开源的；无处不在的开源，你的维护策略是什么？企业开源的优势背后是什么？在数据库领域，开源改变甚大，但是云计算对其的影响更大；卡内基梅隆大规模开源计划背后的领导者的采访；</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-26/</link>
+      <pubDate>Sun, 26 May 2019 11:38:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-26/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 中国的开发者非常惧怕毛衣战会让他们失去开源 原文链接：Chinese developers fear losing open source tech to trade war
+适兕点评：
+ 来自 Abacus 的驻香港记者Masha Borak报道了近日发生在国内的开发者集体恐惧事件。一叶落而知天下秋，可知道当今的开发者对于开源项目的依赖程度是有多么的严重。但是从另外一个角度来讲，中国的开发者严重的自信不足！ 要知道参与开源，具备Fork的能力才是立足之本、谈判之本，这个时候我想引用极真空手道的创始人大山倍达总裁的话：Without power，Justice is just word。
+身为亲身经历者，我能感受到开发者们那种发自内心的恐惧！！ 这篇文章基本上是中肯的，尽管它错误的引用了一些根本不懂开源的人的话。
+ GitHub 推出赞助商计划，可以让用户以现金的方式回馈开源项目 原文链接：GITHUB ‘SPONSORS’ NOW LETS USERS BACK OPEN SOURCE PROJECTS
+原文链接：GitHub Sponsors wants to see open source developers get paid, but there&amp;rsquo;s a better way
+适兕点评：
+ 来自《连线》的社论，文章结构非常的精彩，开源之道向来推崇。 该文从GitHub CEO的宣讲讲起，并引用了RedMonk分析师James Governor 和 著名Vim开发者Fatih Arslan的评价，进而评述整个事件。这个赞助很关键，也许铜臭味道重了些，但是是可持续性的不错的尝试。正如文中所言，它不仅仅是个道德的问题：Making sure open source developers get paid isn&amp;rsquo;t just a moral issue.</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 05 19)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-19/</link>
+      <pubDate>Sun, 19 May 2019 11:48:36 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-19/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 开源基金会能否修复持续交付 Pipline？ 原文链接：Can an Open Source Foundation Fix Continuous Delivery Pipelines?
+适兕点评：
+ 持续交付是个技术问题吗？还是哲学的问题，那么那么多的软件，选择的时候就会产生很多的困惑。那么为什么还需要一个专门的基金会来搞定这件事了呢？ 当一件事情发展到社会中很多地方都需要的时候，那么标准的需要就来了。
+ 微软回归其讨厌的根源对开发者来说是个好消息 原文链接：Microsoft&amp;rsquo;s return to its nerdy roots is good news for developers
+适兕点评：
+ 得开发者得天下。
+ 微软 CEO Satya Nadella 保护民主化进程 原文链接：Microsoft CEO Satya Nadella on Protecting the Democratic Process
+适兕点评：
+ 选举系统，这个对于现实的政治体制是非常大的冲击。从来没有想到微软还能担当起如此巨大的责任。
+ NPM 公司新上任CTO，旨在巩固企业和开源的能力 原文链接：New CTO Solidifies npm, Inc.’s Enterprise and Open Source Capabilities
+适兕点评：
+ 这个新闻要对比着GitHub近期发布的包管理器来看待，无论是CDF、JFrog、还是NPM，都是极大的挑战，那么NPM添加如此的生力军。我的问题来了，技术能够解决的问题，为何还要出现官员？
+ Adobe 是如何以及为什么将开源作为战略优先考虑的 原文链接：How and Why Adobe is Making Open Source A Strategic Priority</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 05 12)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-12/</link>
+      <pubDate>Sun, 12 May 2019 11:19:06 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-12/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 微软开源量子计算开发工具 原文链接：Microsoft open-sources its quantum computing development tools
+适兕点评：
+ 量子计算是炫头还是未来？ 谁能说清楚？不过可以确定的是，大家都在玩开源。其实，仅仅代码开放了是无妨的，比如这周的那个终端，整个开发过程没有透明化，开源不过是个幻象罢了。
+ Build 2019：微软、红帽的合作项Serveless 原文链接：适兕点评：
+ 同理心文明的典范，如此的紧密合作，而且是持续多年的结果。纳德拉真的对这个理解的太深刻了。
+ 开源 ———— 基因亦如此 原文链接：Open Source&amp;ndash;It&amp;rsquo;s in the Genes
+适兕点评：
+ Glyn Moody 的由一篇文章，这位老将（曾写作Rebel Code: Linux And The Open Source Revolution 一书）继续探索开源在人类社会中的作用。甚至开始有点生搬硬套。万物皆开源，即使是这样，人类仍然需要花费很久才能破解生命的奥秘。Moody能走多远？我又能跟多久？
+ Guido van Rossum 之于Python 以及开源的多样性 原文链接：Guido van Rossum On Python and Diversity in Open Source
+适兕点评：
+ Guido van Rossum 先生的采访，关于如何创建的Python项目、如何认为BDFL，以及去年推出Python委员会的决策层等等。好吧，这就是人类的进步。
+ ![(https://www.redhat.com/cms/managed-files/styles/wysiwyg_full_width/s3/Saloni_BG-0_silo.jpg?itok=yP8GufYO)
+2019年度女性开源大奖 原文链接：Announcing the winners of the 2019 Women in Open Source Awards</description>
+    </item>
+    
+    <item>
+      <title>现代开源项目如何实现贡献者增长（译文）</title>
+      <link>http://www.ocselected.org/posts/community_management/growing-contributor-base-modern-open-source/</link>
+      <pubDate>Sat, 11 May 2019 14:02:23 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/community_management/growing-contributor-base-modern-open-source/</guid>
+      <description>引言 很荣幸，你我都经历了一个开源的黄金时代！如今的互联网公司也好，传统企业也罢，甚至是电信运营商、好莱坞制片厂、国家电网等等，都在拥抱和贡献开源，那么也有很多公司开源里自己的主导和发起的项目，如近来的GitHub 开源公司/组织整理，那么问题来了，这些项目仅仅只是展示吗？这些商业公司显然不是在做慈善活动，那么其中最大的可能就是想利用公司外部的开发者帮助项目成长和发展，那么这些开发者会闻讯赶来？还是避之唯恐不及？
+如果你是一名开源项目的社区管理者，该如何实现吸引开发者、留住贡献者、赢得用户喜爱？让我们来看看Node.js的社区经理分享的经验。
+背景介绍 Node.js 在过去的一年（2015）里的重点工作就是吸引更多的贡献者参与进来，Node.js从创建以来，一直都保持着100%的势头增长着，但是实际上贡献者并灭有在增长。
+经过这么几年的苦心经营和社区建设，Node.js社区是非常之健康发展的。项目经过了重组，分了多个组成的部分，而且现在有400多名成员。从大多数的仓库来说，我们可以看到约过半的贡献者都是新手，这意味着我们将用户转换为贡献者的数量比用户社区的增长高了六倍。众所周知，开源项目的健康度、生命力，贡献者的活跃度和增长是重要的指标。
+在这其中我们学习、总结了许多，而且也准备好和大家一起分享，其中包括帮助扩展基础设施的工具、以及文化和核心价值观，即 透明度、参与度、效率，我们坚信这些想法和实践也是未来塑造开源的重要力量。
+首先要和大家澄清一些概念和词汇，包括我们是如何定义组成社区的人们的。
+社区中人  使用软件的人们: 用户 为项目做出贡献的人们：贡献者 做出决策的人们：领导者  路人如何成为用户，贡献者和领导者？  那些试图使用你的软件、并希望获得更多资源以帮助他们了解更多信息的路人，就可能转化为你的用户。 那些需求做出变更、了解项目的工作流程，并尝试贡献的用户，就有可能转为贡献者。 那些为项目投入很多（知识、代码、金钱等）的贡献者，并使他们作为决策者受到重视并给予这些决策的共同所有权。就是领导者了  如何将路人转化为用户、将用户转化为贡献者、以及将贡献者转化为领导者的？  通过教育来将路人转化为用户 通过自由的贡献政策，激励用户成为贡献者 通过参与者治理来获得更多的领导者  为了能够使得上述计划实现自我运行和持续发展，我们还需要平衡好以下事项:
+ 高度的透明 鼓励参与 高效率  教育 对待教育和对待技术问题是有着本质上的不同的。我们无法像解决代码问题那样来解决这个问题。人们一般都会有一个思维上的误区，那就是经常自以为是的认为他人的学习路径会和我们采取完全一样的。然而，现实中仍然有很多人采用这种糟糕的方式。人们来自不同的背景，各自处于生活和事业的不同阶段。为了能够让这些人选择学习如何使用你的软件，并且要留住他们、激励他们，那么就要做到能以他们感到舒适的方式去学习，最好是产生一些共鸣。这就要求社区去了解人们如何学习，并尽可能为他们提供有利的资源，而不是试图将他们引导到我们过去学习的路径上。这意味着你要释放所有的教育资源：从API文档、博客、到研讨会，乃至传统意义上的培训。
+这些资源之间并不存在竞争的情况，只要统统都是开放、以社区为导向的方式完成，都是非常受欢迎的。这依然是我们在努力做的事情，因为它实际上永远也不会结束，但你可以看到NodeSchool对Node.js社区的影响。在 NodeSchool 的支持下可以将WorkShop下载下来，然后在家里就可以完成，而且还有一个代码仓库，学员遇到难题可以在此求助。同时，NodeSchool社区在全球范围内有数百个地方分会，这些分会在当地举办小型实践研讨会。对于很大一部分人来说，编程活动开始的时候还是蛮难得，有了NodeSchool的帮助，可以有效解决这个问题。每次的线下活动同时也会录制下来，如果有什么问题的话，在将来可以继续提问。NodeSchool最终以这样的方式吸引了两种截然不同的入门级用户，更重要的是这些用户已成为发展我们社区的巨大资源。
+转化 一定数量的用户成为贡献者，然后是一定数量的贡献者成为项目的领导者，这取决于将它们从一个级别转换为另外一个级别。虽然大多数项目认为之所以缺乏贡献者或领导者，是因为流程的问题，但是我以为他们是错的，其实是一个转换的问题。在开源的世界中，用户往往就是开发者，这些用户或者本身就具备了能够以某种方式作出贡献的能力，或者是稍加点拨学习点东西就可以实现，要完成这些转换，我们需要做的仅仅是降低这些进入的门槛。贡献、审核、发布等这些重要的鼓励和留住开发者的的流程是应该有相应的学习工具和程序的。
+GitHub  在这方面做的相当出色，其设计的单个工具链，从修改软件、到修改后发送补丁到项目、再到补丁被接受，优雅而简单，被所有的开源项目所接受。这要感谢GitHub，它是的开发者从一个项目无缝切换到另外的项目，尽管如此，但是项目之间还是有着许多微妙的差异的，例如如何合并代码、需要何种元数据、获得提交权限、以及在提交之后的整个项目的发布过程等等，当涉及到用户转换为贡献者时，这些策略就会导致项目存在很大的差异。
+在 Node.js 项目中，新贡献者占每月所有贡献者的量约为50％。考虑到Node.js用户每月增长率约为8％，这是令人难以置信的。我们的贡献率不仅仅是Node.js总体增长的产物，而实际上是我们所谓的自由贡献政策的胜利。
+自由贡献政策 Rod Vagg（现任Node.js的技术委员会主席）几年前实验了一个针对新晋贡献者的政策，他称该政策为：开放的开源项目，并从本质上强调：
+ 每一位贡献者，哪怕ta已经是一位颇有资历的提交者了，都应该在提交贡献是使用Pull Request的方式，并且要有足够的耐心来等待其他Committer的审核。 每个贡献者都应该在成功的贡献之后赋予committer称号，哪怕只有很少的几行代码。  在这一点上Node.js和很多传统的开源项目的做法是完全不一样的，传统上习惯于保护只有少数人才能是Committer。他们之所以这么做是因为过去的版本控制系统容忍错误的程度太小，这和现在使用的Git分布式版本控制系统是不可同日而语的。在Git当中，几乎不可能存在一个人犯了错，而其它人完全无法修复或失去控制。这也就是说，新时代的GitHub，赋予了Commiter更大的自由度。当然，赋予committer权限也意味着一份承诺，尤其是对于新晋的贡献者而言。因为它为参与者提供了明确的证据，证明他们拥有项目的共同所有权。
+增加更多的Committer也就意味着增加了更多的代码审核人员，这反过来又简化了处理更过贡献者的过程。当然，每个项目都是不一样的。某个运行良好的项目流程未必适合其它的项目，事实上，Node.js 核心是非常特别的，然而这也导致了各个工作组和仓库创建了多个不同的自由贡献策略。在设计这些流程当中，我们总结出来一个不成文的规则，即所有成功的政策都是在如下三个价值观之间的平衡：参与度、透明度、以及效率，这些值都不是绝对的，比如说不可能做到拥有100%的参与，同时还100%的高效，但是只用用心，总能找到三者之间的平衡，从而获得较高的转化率，反过来对项目有促进作用，保持更加健康的发展。
+我们以实际的例子来阐述一番，Node.js 站点和Node.js 核心的贡献策略绝对是天壤之别，在Node.js核心社区是工作在主干上的，即未来Node.js发布的基础版本，而其它的版本，如当前发布、长期支持LTS、维护版本等从主干Cherry pick即可，这就要求代码提交必须是拥有清晰精炼的提交以及明确的提交消息，方能使得工作有效完成，因此，提交者无法使用 GitHub 站点提供的合并按钮，并且通常需要手动执行其他工作。虽然这么做某种程度上是有参与上的障碍的，但是这是项目有效发展的必要条件，但是，Node.js 网站项目就没有这些技术上的要求，也就是说，Node.js 网站的代码是可以使用 GitHub 提供的合并按钮的，而且代码提交也毋须做到拥有清晰精炼的提交以及明确的提交消息，这样对于贡献者的要求是相当低的。开源的开发流程，往往让新入门的生手望而却步，我们采取了一些必要的措施，希望这些政策能够有效鼓励大家的积极贡献，而不是让开发者敬而远之。</description>
+    </item>
+    
+    <item>
+      <title>关于适兕的简历</title>
+      <link>http://www.ocselected.org/all_about_kuosi/</link>
+      <pubDate>Sat, 11 May 2019 11:01:51 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/all_about_kuosi/</guid>
+      <description>基本信息   中文姓名：李建盛 网络标识： 适兕 GitHub: lijiangsheng1  当前所做的事情  X-lab 开放实验室首席开源导师 开源社教育工作组负责人 ”开源之道” 作者 “开源之道图书共读” 活动发起者 “开源之道企业培训” 主讲师 InfoQ 社区编辑 大学开源教程项目发起者、主笔  个人描述 简要描述一下自己的见解、性格：
+ 开源信徒 &amp;amp; 布道师 技术作家、译者 每日至少阅读两小时 戒烟者，亦是戒酒者 尝试对自我时间进行苛刻的管理 极真空手道修行者 Google 重度依赖者 坚持撰写博客 热爱计算机技术，感谢它改变了世界，改变了我。 自认为是一个Linux、云计算领域的窥视者  职业生涯 2016 ~ 现在 职场经历：自由职业、社区贡献、UMCloud咨询顾问、QingCloud产品经理等
+思想上的转变：开源不止于技术，更深的背后的思想、文化以及方法论，并以大无畏的精神，进行了风险极高的职业转变，身体力行。撰写博客、四处演讲、参与开源组织、企业培训等，赶上了开源的黄金时代。
+2010 ~ 2015 理想主义的Team Leader 职场经历：普华基础软件、云端时代、易云捷迅等公司。
+基于开源项目的商业化路程，无论是国产化还是创业公司，理想主义、上游优先的理念的实施，经历了CloudStack、oVirt、OpenStack、KVM、Linux等项目的锤炼，自以为是的打造了一支Geek团队。
+2005~ 2010 内向的工程师 职场经历：河南日报报业集团、中科红旗技术有限公司。
+从系统管理、到技术支持、再到系统开发工程师，Linux、Shell、Python、anaconda、peacemaker等等技术的专研，让我受益匪浅。
+2002 ~ 2005 愉快的大学生涯 偶遇Linux，巧逢开源文化，自学围绕Linux的各项技术，并贪婪的阅读一切关于开源的思想和文化内容。
+出版书籍  《云落谁家？OpenStack基于场景的架构设计实践》 ISBN: 9787121276491 出版社：电子工业出版社</description>
+    </item>
+    
+    <item>
+      <title>开源之道需要深度的聊一聊了！</title>
+      <link>http://www.ocselected.org/posts/opensource_talking/we_need_to_talk/</link>
+      <pubDate>Wed, 08 May 2019 21:50:41 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_talking/we_need_to_talk/</guid>
+      <description>引言 大家都知道，我加入了X-lab开放实验室，以开源导师的身份，试图帮助实验室的研究生/博士拥抱开源，在未来赢得更多的主动，并帮助实验室进行日常的管理。随着和大家的相处时间增多，越发觉得需要学习和沟通的地方很多，实验室是完全不同于企业的，学生对于企业的生存、竞争之道是无感知的，那么节奏感相对来说就差了很多，除了上课之外，更多的是熵增的情况。国内的学术情况，似乎并没有给大家有多大的压力，研究方向也是迟迟难以决定。
+这就给我带来很大的难题，看到团队成员不够努力，做事情不够认真，对于我近乎一种精神上的折磨，那么怎么办了呢？教育是件大事，还绝非一日之功，那么只能慢慢的去影响改变了。于是想出各种方法，来增进团队成员的素养、团队的归属感、凝聚力。
+话分两头，最近几年写开源之道，一直有个想法，那就是做一个开源的播客座谈，每期请一些开源界的同仁们，畅聊个人成长、企业、开源相关的所有话题，但是由于各种无厘头的理由，只好作罢。不过上一期的X-lab开放实验室走进华东师大，说实话，聊的非常的嗨，也有很多意想不到的问题，当然还有更多的答案，讨论到激烈之处，往往是交换想法、彼此成长的过程。收获颇丰、受益匪浅。
+我们知道古希腊的大哲学家苏格拉底的教学方式就是谈话，他甚至主张书面的表达是有害的，不利于理解真理。尽管柏拉图后来持相反的主张，但是历史的吊诡之处就是苏格拉底的思想是通过柏拉图的记录来让后世人所知道的。当然亚里士多德的教学方式就是大家围在一起，老师在中央主持，大家发表意见甚至辩论。这是我特别喜欢的一种教育（教与学）的方式。
+5.8日这天，恰逢在团队中推广Google日历的使用，就顺势为同学们做个分享，有关时间管理的来龙去脉。又恰好晚上和几位同学聊的很尽兴。于是突发奇想，要不要干脆做成一个固定的”栏目”好了，就是随意、随性的聊，脑洞打开的聊，聊产品、历史、技术、哲学、读书、健身、交友、文化、地域、旅行、电影、瑜伽、空手道&amp;hellip;&amp;hellip;哦，当然了，实在没有聊的时候，就聊开源！反正开源这个话题对于大家来说，仅仅是了解而已，我总是可以聊个没完没了的。
+开源之道谈话 日期可以选择在周末，或者是某个非办公的时间段，地点是任意的了，不过大多时候会在X-lab开放实验室。偶尔会跑到华东师范大学、开源下午茬、郑州某个茶馆、北京某个星巴克。那么参加的人就更随意了，只要愿意参与，倾听或分享均可，实在没有人，我就自己静静的读会书，或者是思考。
+具体规则  每周一次活动 活动主题由上一次来定 第一次的主题就是&amp;rdquo;时间管理与Google Calendar&amp;rdquo; 尽量去做更多的探讨 如果可能，条件允许，留下录音甚至是录像 remote 链接：开源之道谈话  所谈话题 不限，除非是被相关部门命令禁止的内容，遵守中华人民共和国法律及相关规定。
+最终分享 视实际情况而定。如果条件允许，就会做成播客，如喜马拉雅之类的平台上定期发布。</description>
+    </item>
+    
+    <item>
+      <title>为什么说下一个红帽永远不会出现：开源经济学的启示</title>
+      <link>http://www.ocselected.org/posts/open-source-economic/why-there-will-never-be-another-redhat-the-economics-of-open-source/</link>
+      <pubDate>Tue, 07 May 2019 14:31:32 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/open-source-economic/why-there-will-never-be-another-redhat-the-economics-of-open-source/</guid>
+      <description>引言 红帽从2018年底被IBM以高达340亿美金的价格收购，热度就一直没有衰减，甚至是成为了开源胜利的证据，被各种引用。（开源之道亦不能例外）近期又由于其一年一度的全球峰会而被社交媒体刷屏，当然，还有刚刚切换logo的消息，也是被人们议论纷纷。
+面对开源的新的形势，笔者不由得想起了一篇旧文，即著名的Peter Levine 在2014年所撰写的这篇文章，开源确实在面临着巨大的变化，比如微软的强势拥抱。是的，5年过去了，很多试图模仿红帽的公司都倒下了，当然更加的不用提及本土那些不入流的开源的搭便车者了。
+开篇语 开放源代码软件为我们的世界提供着源源不断的动力。在过去的十多年，有非常多的计算任务都避无可避的采用了开源，我们可以稍微想一下，如果没有开源，Google、Facebook、Amazon以及其它所有的现代的技术公司都将不复存在。开源，有着令人叹为观止的社区创新、顶级的开发者，它已经成为云计算、软件即服务、下一代数据库、移动设备、消费的互联网、乃至Bit币的基石。
+然而，即使是这样，在软件从业中还是有一部分人会担心开源会被专有软件厂商给打败，关于开源的未来，他们指出，会降级为利基项目，那些专有软件供应商将掌控真正关键的业务。
+那么究竟是谁说的对了呢？那些采用开源技术的公司获得的成绩是有目共睹的，然而也有很多开源的商业公司步履维艰，生存都成了问题。以上的两种说法都没有错，但是其中真正的缘由则需要我们来指出。开源的成功或失败并非是软件本身的问题，———当然这是一个必要的条件————，但更为重要的是商业模式的问题。
+始于红帽、终于红帽 红帽，一家基于Linux操作系统的公司，早期开源商业模式的探索者。红帽免费提供开源软件，但向那些依赖于红帽的客户收取费用，并提供维护、支持和安装等服务。随着红帽的成功，收入是水涨船高，很多公司就开始效仿红帽，例如初创公司为自己的专有软件开发一款对应的产品，然后围绕它来进行“红帽”式的服务。像 MySQL、XenSource、SugarCRM、Ubuntu 和 Revolution Analytics 这样的公司诞生于这种对开源的热潮中。
+红帽是一家神奇的公司，而且是成功的将开源商业化的先驱。但是，反过头来再看其他家类似的公司，除了红帽之外，从业务的角度来看，这些公司在很大程度上都是失败的。要知道“支持”的模式已经良好的运行了20年，除了红帽之外，还没有任何一家公开的独立公司能够做到如此这般。但是，如果将红帽的市值、收入与传统的软件公司：微软、Oracle、Amazon进行比较时，红帽显得是那么的弱小。Linux的巨大成功与Red Hat的表现明显成比例。开源是如此的伟大，然而红帽也不过仅取了其中一小部分利而已。
+红帽模式没有赚到更多的钱，是有很多原因可以追究的，但是其中最为关键的失败之处在于，这样的商业模式根本无法为持续的投资提供足够的资金。该模式的结果就是所生产的产品差异化极小，导致定价能力不足，那么相应的收入也就不足以支撑公司的营运。正如下图所示，开源的支持模式和其它的基于许可的授权模式相比，简直是九牛一毛。因此，以微软，甲骨文或亚马逊等公司的方式投资产品开发，支持或销售几乎是不可能的。
+如果你觉得上述的证据还不够残酷的话，我们再来看看纯粹的开源公司还会面临哪些问题。产品的路线和需求是严重依赖于分布式的来自全球各地的开发者们的，除非是公司的雇员对于开源项目占据绝对的主力，那么公司永远也不可能对项目的走向有啥影响力，也对其它公司去创建分支的无能为力。定义和控制稳定的路线图与快速创新以防止分支的复杂性对于小型组织来说是颇具挑战，也有些过于的复杂。
+请淡定，这还不算跟糟糕的情形，让人最为揪心的是，如果开源项目取得了不俗的成绩，那么大的巨头公司就会参与进来，作为过来人，我曾经以 XenSource CEO 的身份亲历了这一切，几乎市面上所有的软硬件供应商都利用了Xen的代码，但是他们的贡献和反馈极少。我们让产品变得更加易用、也让其在现实世界起了很大的作用，我们将之尽善尽美。但是对于开源社区来说这是非常好的事情，但是对于公司来讲，却未必。
+有看官可能会在此提出质疑，认为我不过是在纠结过去的历史，现在情况变了。但是，我并不这么看，因为我观察到OpenStack同样存在这样的情况，而且OpenStack也并非是孤立的，还同时有同样成功的开源项目都有类似的问题，作为一家开源公司，你不仅需要与专有软件公司进行竞争，还要与开源社区的其它同类公司竞争，这是千真万确的实情。
+如果你非常的走运，而且所开源的项目也是超级的成功，那么很可能会有大公司给你一笔钱，又或者是要求你添加点这功能、支持下那个平台等，如果你运气足够的好，（一如XenSource），你可能会被战略性的收购，但是，大多数开源公司都没有那种运气，成功上市或者是创建大型的独立公司，机会均相当渺茫。
+即使是以上所有的好事都降临了，我们仍然看到这些企业家会描述自己的公司为”xxx领域的下一个红帽”，这就是一个愿景上的问题了，从来就不可能出”xxx领域的下一个红帽”，这并不是说我们不希望它出现，而是说让人期盼的时间会过长，因为在这条支持模式的道路上有太多的公司倒下了。
+但是还有其它模式是可行的。
+售卖开源即服务 已经赢得市场的开源模式让开源1.0（我们姑且这么称呼支持模式）成为了事实。那么开源的2.0则是将开源打包为服务（在云计算平台或是开源即服务），或者是和硬件打包在一起，这样的开源营利模式，更为的强大、灵活，同时也鼓励创新，也能够让投资持续。
+如今那些最为成功的新型公司均严重依赖于标准化的开源组件的生态系统，这些组件通常由整个行业重复使用和更新。而反过来讲，使用这些开源项目来构建自身业务的公司，会非常乐意为相应的开源项目做出贡献，这些开源项目是所有现代云计算和SaaS产品的基础，而且它们在很多情形下都是赢利套现的典范。
+取决于不同的公司和产品，一家组织或许会开发更多针对自身业务的开源项目，也或许会构建一定量的专有软件来完善自身的需要。Amazon、Facebook、GitHub等新型公司会将开源的组件和他们自身的专有代码混在一起，然后组合为服务，为用户提供相应的服务。
+如此的搭配，也就是上面所说的：将开源以服务或模型的方式相结合，使得其再整个软件领域产生了惊人的结果。云计算和SaaS服务的成熟，相比于过去的内部使用方式，上市的速度快了不止一个数量级，而开源在其中的推动作用，无疑是举足轻重的。
+除了 SaaS 模式之外，我预计未来会有更多的基于开源的商业化探索的模式出现，这对于整个行业来说是良性发展的。
+结语 那么你还在等待什么了？
+通过添加自己实质性和差异性的创新，在成功的平台、并基于该平台构建出自身的业务。举例来讲，以国道和高速公路为例，如果我们将之视为一个交通的平台，那么就可以看到一系列高度差异化的业务，从联邦快递到特斯拉，都是基于这个平台来构建自身强大的创新业务的。而Lyft这家公司更是，不仅利用这个交通的平台，还利用了AWS这个平台。
+如果读者你的世界观拓展到了平台视野，再来理解一下红帽的支持模式，红帽不过是提供了更好的”公路”罢了，当然这里的“公路”对于红帽来说，就是Linux操作系统，而这个史上最成功的开源项目之一，对于绝大多数人，是足够好的了。
+当然，当你首次使用开源组件来构建自身的业务时，重要的是增加平台的大小，以迎合早期的采用者，进而取得初期的成功。这个时候，你看起来有点像红帽的样子，但如果一切顺利的话，就会产生一些变化，你将开始更像Facebook、GitHub、亚马逊或Cu​​mulus Networks等公司，因为在你的平台上逐步叠加出自己的特殊到内容并将其作为服务提供，又或者是将其打包为一揽子应用。
+成为下一个红帽，是一个让人非常钦佩的目标，但是当你看到今天的趋势时，或许会有些动摇，因为即使是红帽也在考虑成为下一个亚马逊。
+关于作者 Peter Levine，现在是风险投资公司 Andreessen Horowitz （a16z)的合伙人，聚焦于企业方面。他在a16z已经干了9年了，其中最著名的投资莫过于在GitHub A轮的时候就对该公司进行了投资，GitHub去年被微软以75亿美金收购。Peter 在加入a16z之前在Citrix担任云计算部门的副总裁，其之所以加入Citrix，是因为2007年，Citrix收购了其担任CEO的公司——XenSource，一家基于开源的企业级虚拟化软件公司。更多关于Peter Levine的介绍可以参考其在a16z的主页：https://a16z.com/author/peter-levine/。
+原文链接 Why There Will Never Be Another Red Hat: The Economics of Open Source</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 05 05)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-05/</link>
+      <pubDate>Mon, 06 May 2019 07:46:25 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-05/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 Linux 基金会和ETSI 合作，让开源和标准更加的紧密 原文链接：The Linux Foundation and ETSI to bring open source and standards closer
+适兕点评：
+ 这是一个让人沮丧的利好消息，ICT 服务的标准，和开源走的如此之近。到底是谁找谁？我们还需观望中，但是确凿无疑的是二者之间有着很大的交集，可能是由于时间上的差异而有所差别。
+ 创建一个成功的开源战略 原文链接：Creating a winning open-source strategy
+适兕点评：
+ 这决定于一家公司的认知问题，比如QingCloud的黄大骗子，讲情怀，吹牛逼，都是一套一套的，然而实际上不过想以开源为幌子走捷径罢了。像黄这样的试图走FreeRider的路的人有很多。大师将开源提升到战略高度的公司没有几家，对于人性的理解、技术的本质、社会学视野、管理者的高度、企业家的精神，能够达到如此高度的人也真是没有多少。
+ Apache基金会将GitHub整合作为其基础设施的扩展 原文链接：The Apache Software Foundation Expands Infrastructure with GitHub Integration
+原文链接：Apache hooks up with GitHub
+适兕点评：
+ 我一直以来都在惊叹Apache的成绩：As the world&amp;rsquo;s largest Open Source foundation, the ASF&amp;rsquo;s 200M+ lines of code are overseen by an all-volunteer community of 730 individual ASF Members and 7,000 Apache code committers.</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 04 28)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-28/</link>
+      <pubDate>Mon, 29 Apr 2019 10:39:50 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-28/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 我们应该让中国的间谍来 原文链接：We Should Let China Spy on Us
+适兕点评：
+ 请君入瓮！
+ 开源或许拥有未来，但是只是少数人在撰写代码 原文链接：Open source may be the future, but very few are writing it
+适兕点评：
+ No lock-in, but plenty of lock-out ，这话说的是蛮有意思。
+ Google 将利用Anthos 统一开源云技术 原文链接：With Anthos, Google seeks to unify open source cloud technologies
+适兕点评：
+ With this open source layer plus Anthos, you only have one skills target. It’s no longer HP-UX vs Solaris – it is Linux and you get more ROI [return on investment] for your training because you’re training to remain relevant for a longer time.</description>
+    </item>
+    
+    <item>
+      <title>得开发者得天下 ———— 开发者是如何征服世界的</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/the_new_kingmaker_review/</link>
+      <pubDate>Tue, 23 Apr 2019 18:05:37 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/the_new_kingmaker_review/</guid>
+      <description>引言 目前市值最高的软件公司——微软，其上一任CEO，Steve Ballmer 曾经在一次大会的演讲中“表演”了一段个人“show”，Ballmer先生几乎是失态的、声歇力竭的大呼“开发者、开发者、开发者、开发者、开发者、开发者、开发者、开发者&amp;hellip;&amp;hellip;”
+而在2018年，微软公司以高达75亿美元的价格收购了著名代码托管平台——GitHub，一家重要的开发者免费托管开源代码的平台。这也在某种程度上，佐证了当年(1999)微软的创始人 Bill Gates的“忏悔”：微软在开发者中间的影响力确实不如Linux（开源）。
+无独有偶，2018年另外一起软件史上最大的收购案—— 红帽被IBM 以高达340亿美元收购。而其中最为重要的原因，就是坦诚红帽在开源的人才和影响力。
+不妨在回顾一下去年开源界的收购案：
+是否拥有开发者已经是企业战略级思考的内容。
+名人及开源之道共读群书友短评集萃  二十年前，甚至十年前，不会想到今天对开发者有如此的便利。开源可以找到各种基础软件，云让使用基础硬件不再成为障碍，互联网使沟通交流学习面向全世界。剩下的就是，作为开发者怎么利用好这一切，怎么快速成长为优秀开发者。而作为企业，以往依赖资本、信息不对称等带来的竞争优势不再那么有用，优秀的开发者成为关键。虽然Apple、AWS、Android的成功方式各异，但是都离不开重视开发者。微软对开源（或者说开发者）的态度转变，迎来开发者的拥抱，重新走向成功。从一开始定位就是科技公司的Netflix，是今天讲DevOps时几乎都会提到的企业案例。 开发者成为关键，开发者成就企业。然后，企业给开发者创造更多的便利，正向循环。
+ 一本论证开发者真的很重要的书。 -- 开源之道图书共读书友：@慈  整本书是围绕着开发者 ——不是经理也不是高管———— IT 行业真正拥有权力的角色而谈的，当然也提及了IT在这个世界上的重要性，对于我们身处转型时代的人而言，仔细想想，回顾一下经历的一切，这似乎又是一个非常明显的事实。要知道作者在2010年提出这个观点的时候———类似于Tim O’Reilly在2002年对阿尔法极客的强大力量的观察———是有着预见性的，现在看来似乎一切都被大家见惯不怪了。开源、互联网、以及它们二者的产物——云计算，以近乎魔术般的神奇组合，已经重新塑造了这个世界，无论你是否意识到。
+就当是帮自己一个小忙，腾出几个小时的时间读一读这本小书，它一定会让你陷入深思，开发者对于这个世界究竟意味着什么？
+ ———— [Christopher Petrilli,](http://blog.amber.org/)  《The New Kingmaker》列举了很多开发者地位反转的地方，首先作为作为IT采购的决策权的转换， 开发者在扮演越来越重要的角色。 这也是之前我们看到的软件技术营销的重要性的一个重要例证。接着作者继续论证是作为软件的重要资产，开发者扮演着越来越重要的角色。
+这不由让我联想到了去年IBM花费350亿美元收购红帽软件的事件，红帽销售的软件基本都是构建在开源项目基础之上的，理论上用户不需要为他们购买的红帽软件支付版权费用， 那这笔收购支付的是红帽的那一部分价值呢？以我的理解应该是IBM为开发人员以及这个开源商业体系支付的费用，因为这些开源项目之所以能够给红帽带来收益，是因为这些开发人员对这些项目开发维护，同时基于这些项目构建的有机的生态系统将客户，贡献者以及合作伙伴聚集在一起不断地探索更好的解决方案。（这个可以通过红帽的企业使命“成为广大客户、贡献者及合作伙伴社区的核心推动力量，以开源方式创造更优质的技术产品。”来印证）通过这个生态系统，项目使用者可以提交自己的需求，补丁，甚至是培养自己的开发人员深入参与影响项目的发展的方向满足自己的需要。今年6月IBM收购红帽软件的交易将会完成，红帽软件将会作为一个独立的商业实体继续运行，红帽是否会被洗蓝还是IBM会染红，让我们拭目以待。
+这是一个伟大的时代，软件开始吞噬世界， 开发者开始觉醒，借助开源，云，Internet，以及种子阶段基金，开发者将征服整个世界。
+ ———— Apache Member，华为开源专家， 姜宁  这是一本信息量巨大的”小“书， 深刻理解这本书需要具备众多的知识: 商业、人力资源、管理、云计算、开源、IT、软件开发以及颇为经典的商业案例。如果读者想要证明作者是否如书名那样言过其实，就需要潜心去专研更多的内容，再返回头来看，那么就会收获更多的知识，从而对未来做出更多的准备。
+ ———— 开源之道作者，X-lab 开放实验室开源导师 李建盛   作者及图书内容介绍 作者介绍 Stephen O&amp;rsquo;Grady 是知名专注于开发者行业的分析公司RedMonk 的联合创始人，在RedMonk， Stephen 和诸如 IBM、DELL、VMWare、RedHat 等IT公司合作解决各种问题。有超过十多年的丰富经验，他还有另外一本很著名的书籍《王者归来（the new kingmaker)》（开源之道暂译），文章经常被各大财经媒体引用，如纽约时报、NPR、波士顿全球、华尔街日报等，他也是各种会议的主持人和受欢迎的演讲者。</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 04 21)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-21/</link>
+      <pubDate>Sun, 21 Apr 2019 11:48:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-21/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 学习更多编程语言，哪怕是用不到它们 原文链接：Learn more programming languages, even if you won&amp;rsquo;t use them
+适兕点评：
+ 技术控必备，工匠之必备。语言会重塑你的思维方式！这点才是最为重要的。
+ 开源如何在云中存活 原文链接：How open source can survive the cloud
+适兕点评：
+ As Bradley M. Kuhn, president of the Software Freedom Conservancy, has said, software freedom should be “equal for everyone, whether they’re a commercial actor or not.”
+There’s no easy solution to this challenge, but it’s one we need to take seriously. The open source model is not fragile and won’t be broken overnight.</description>
+    </item>
+    
+    <item>
+      <title>开源之道解读红帽企业开源调查报告2019</title>
+      <link>http://www.ocselected.org/posts/event_analysis/redhat_enterprise_open_source_survey/</link>
+      <pubDate>Fri, 19 Apr 2019 16:37:15 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/event_analysis/redhat_enterprise_open_source_survey/</guid>
+      <description>导读概念 关于企业开源，红帽博客首席编辑Joe Brockmeier撰写过一篇文章：什么是企业开源？，就企业开源的几个特性做了细细的处理：
+ 经过测试和加固的，针对企业使用的 企业级特性 产品可预见，而且有时间较长的周期 经过认证的 服务水平协议和支持力度 培训、集成 项目和产品之间的异同  可以简单的理解，是传统意义上使用诸如Unix、关系型数据库等软件授权时代的交付方式和开源形态的方式的一个平衡，Linux kernel 和 RHEL 就是最好的、经过事实验证的绝佳例证。
+关于报告的背景 该报告对来自世界各地 950 位 IT 领导者进行访谈后的成果，调查区域包括美国、英国、拉丁美洲及亚太地区，旨在了解不同地理区域的企业开源概况。其中来自美国的有400位，来自英国的有150位，拉丁美洲的（Argentina、 Brazil、 Chile、 Colombia、 Mexico）有250位，以及说英语的亚太区（澳大利亚、新西兰、香港和新加坡）的150位。
+至于都询问了那些问题，该报告中并没有透露，不过访谈者是Gordon Haff，说起这位作者我们可不陌生，他是开源之道图书共读2019年第九期的图书《How Open Source Ate Software》一书的作者，目前是红帽的技术布道师。
+红帽CEO的寄语  开源之道注：为什么要翻译Jim的寄语？因为从这位CEO的字里行间可以才可以真正看出调查的实际意义。
+ 毫无疑问，今天最令人激动人心的技术创新均由开源社区来打磨，在大数据、自动化、机器学习、以及人工智能领域中，绝大多数的开发均是由来自分布在全球各地的团队通过共享资源、建立非常规的联系、以及相互挑战，从而推进最先进的技术的结果。
+那么，最直观的结果就是，这些创新以惊人的速度发展，而企业是想将这些创新整合到自己的业务当中的，并愿意去探索各种可能性，但是想利用它们为客户创造价值时，可能会有点茫然 ———— 尤其是企业需要平衡创新的愿望和稳定、一致性的时候显得尤其明显。
+红帽非常理解企业的这种张力，作为一家开放式组织，红帽身处两种情形的交集：一方面是快速前进的开源上游，另一方面是稳中求胜且希望转换创新模式的企业。25年以来，红帽创造了强大的、改变规则的开源技术，并让企业就绪。红帽不仅仅是开源的专家，还是企业开源的专家。
+这就是我非常激动的和大家分享 “企业开源现状” 报告，（由红帽赞助），该报告详细介绍了开源解决方案如何以及为什么能以如此强劲的势头进入企业。也解释了客户转向使用开源工具实现 IT 现代化的一些方法。
+现在摆着大家面前的问题已经不再是企业是否采用开源技术，而是什么时候、该如何采用的问题了。我们希望这份报告能够为各个行业选择创新开源的方式有所促进作用。
+关于报告本身的内容 开源在企业战略中的地位 该饼图相当的吸引人，绝大多数人认为开源对企业整体的基础架构软件战略具有战略重要性。事实上，超过 69％ 的人表示这非常或极其重要，只有1% 的人认为不重要。如下图所示：
+企业开源使用的技术领域 web开发、大数据和分析、云管理工具、数据库、安全、web服务等六大方向做出细分。具体见下图：
+具体用在哪里（技术类型划分） IT 基础设施现代化、数字化转型、应用集成、应用现代化、应用开发、DevOps等六大块，具体如下图：
+使用企业开源的益处 按具体等级的排名：总体拥有成本低廉、接触最新的创新成果、更好的安全性、更可靠的软件质量、获得企业级的支持、定制化的能力：
+接下来还会继续使用企业开源吗？ 这个问题相当的棒，从侧面反映开源是否具有“上瘾”的特征：
+在未来期望使用容器，以及降低专有软件的使用 是的，最后这条很关键，所有人都在拥抱开源，但是没有那么的快，要慢慢来，这个时间可能比两年更长。
+正如《Crossing The Chasm》书中所言，想赢得大众的采用，还需要做更多事情！也需要更多创新！
+总结 结论是显而易见的，那就是面对数字化转型这个大的经济趋势，传统企业想要灵活的IT，开源避无可避！那么又如何平衡自己保守的性质？类似的”企业开源”恰是解药。调查结果所显露出来的使用Linux、容器、基于Kubernetes的OpenShift等等明显已经是选用的基石。</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 04 14)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-14/</link>
+      <pubDate>Sun, 14 Apr 2019 12:04:18 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-14/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 您应该聘请内部设计师还是承包商？ 原文链接：Should you hire an in-house designer or a contractor?
+适兕点评：
+ 来自红帽的一线设计师，告诉你品牌的重要性，但是这些都有一个重要的前提：文化！ 没有文化啥都白搭。开源需要品牌，需要很高的辨识度！人群中一眼望去，不会忘记。
+ 大众汽车加入 Automotive Grade Linux ，加速开源创新和分享软件开发 原文链接：Volkswagen Joins Automotive Grade Linux and the Linux Foundation to Accelerate Open Source Innovation and Shared Software Development
+适兕点评：
+ 这个其实没有什么，我是想指出大众也设立了开源专家这个职位。
+ Google 在云计算领域继续挑战AWS，这次是通过和开源的厂商结盟 原文链接：Google is challenging Amazon in the cloud by partnering with open-source companies instead of competing with them
+原文链接：Google Cloud makes a big open-source move: Managed databases from Redis Labs, MongoDB, and Elastic coming soon</description>
+    </item>
+    
+    <item>
+      <title>历史上那些在高校里发生的开源项目的故事一二则</title>
+      <link>http://www.ocselected.org/posts/opensource_and_university/the_story_of_opensource_in_high_school/</link>
+      <pubDate>Thu, 11 Apr 2019 15:09:55 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_and_university/the_story_of_opensource_in_high_school/</guid>
+      <description>引言 我去年分别在苏州大学和郑州大学做过演讲分享，试图从就业方向入手来向同学们解释，开源有助于他们的就业。这是我主观的以为现在的学生比较关心未来的就业，因为这是媒体经常称道，也是和同学们打交道的时候，被问的最多的问题。但是演讲之后，并没有同学和我作交流，所以也就没有收集到任何有用的反馈。
+布道这件事，恐慌的莫过于，没人搭理。正负的反馈均有效，最糟糕的情况就是没有人搭理。
+今年索性就驻扎在高校，尽可能的布道开源，让学生们有一个选择的机会。这不，又要开始在高校搞开源相关的活动了，我这次该布道点什么了呢？
+ 「人在教中學習。」—羅馬哲學家 塞尼加
+ 恰好近期读到了关于CROSS的故事，于是灵机一动，不妨就谈下大学里的开源故事。每个人都喜欢好的故事，好的故事不仅容易让人理解，而且可能会引起人们的兴趣。
+既然是故事，不妨一个一个来讲：
+FreeBSD 和 Bill Joy 上世纪60年代，Unix诞生于Bell实验室，在1973年11月，Ken Thompson 和 Dennis Ritchie 在操作系统原理研讨会上发表了关于Unix的第一篇论文，当时也在会场的Bob Fabry 对该系统非常的感兴趣，并将之带回伯克利。并在伯克利开始了Unix的开发，随后，1975年 Ken Thompson决定在他的母校加州大学伯克利分校担任客座教授，为期一年。 Thompson和Jeff Schriebman以及Bob Kridle在新安装的11/70上推出了最新的Unix版本 6。
+同年秋天，伯克利来了两名研究生，即Bill Joy 和 Chuck Haley，开始Unix 6 下工作，如Pascal编译器、ed编辑器等，在1976年，Thompson 离开了伯克利，Bill Joy 也转向了 Unix的内核。之后，他们专门为自己改进的Unix版叫“Berkeley Software Distribution”，即伯克利软件分发版，简称BSD，从此便落地生根了，直到现在，BSD 仍然是很多领域重要的操作系统，如 MacOS、Juniper交换机等。
+这个故事的主人翁便是 Bill Joy，被人们称之为天才的开发者，1971年，Joy 以优异的成绩考取了密西根大学，那时他只有17岁，Joy 在这一年迷上了计算机，在整个大学生涯中，Joy都在学习编程，用他自己的话说就是：
+ I lived in the north campus, and the Computer Center was in the north campus, How much time did I spend there?</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 04 07)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-07/</link>
+      <pubDate>Mon, 08 Apr 2019 15:56:56 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-07/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 为什么聪明的工程师会写一些坏的代码 原文链接：Why smart engineers write bad code
+适兕点评：
+ 微软资深工程师，23+年的工作经历，告诉你学术界与工业界的差异。值得细细阅读吗？
+ 卓越工程师的定义 原文链接：Defining a Distinguished Engineer
+适兕点评：
+ 好吧，这简直是个完人，不过确实值得为之奋斗！值得追求！
+ 平台战略:如何向技术公司一样运营 原文链接：The platform play: How to operate like a tech company
+适兕点评：
+ 来自麦肯锡的分析文章， IT is not a cumbersome estate “that gets in the way,” but an enabler and driver of continuous innovation and adaptation.似乎正在验证那句所有的公司都是软件公司话来着，没有哪家公司对于IT的依赖性有这么强！
+ 开源技术将如何变更政府？ 原文链接：How does open source tech transform Government?
+适兕点评：
+ 这应该是一个愚人节玩笑，The purpose of government should be simple — serve the public — but the manner by which governments deliver services is often a complicated mess。 在本土，政府是一个不可同日而语的东西。政府离开源的倡导还差了十万八千里。即使要动，也要动不少人的利益。</description>
+    </item>
+    
+    <item>
+      <title>开源的黄金时代 —— 《开放与共享》导读与书评</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic/</link>
+      <pubDate>Mon, 01 Apr 2019 15:48:15 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic/</guid>
+      <description>导读 在刚刚举办过的“开源领导力峰会2019”的Keynote当中，Linux 基金会执行总监 Jim Zemlin如此说道：开源的黄金时代已经来临。
+尽管在绝大多数的工程师看来，开源已经胜利了，例如过去以微软为对立面的人而言，自从微软全方位拥抱开源之后，甚至都产生了信仰危机，有种战士胜利之后，踟躇的感觉。但是，其实在商业界、科学界，即使是回到IT产业本身，开源离胜利还差很多。但是毋庸置疑的是，去年在商业上接二连三的事件，直接将开源推至了风口浪尖：
+以开放式的、基于互联网全球式的协作、高度透明化的社区方式进行的软件生产，奠定了现代软件的基石，在不断地吞噬着技术栈， 新型的互联网企业的开源使用率高达80%，而传统的软件巨头也在转型的途中，从商业模式到捐赠项目都在做出应变。那么开源似乎从某种程度上，已经成功了。这势必引起人类社会的关注。不单单是技术本身，而是在协作、管理、经济、社会、心理、创新等诸多领域都注意到了这点。从好莱坞，到电力行业，再到金融，以及新兴的边缘计算，开源正在不断扩大自己的边界，毫无疑问，Jim Zemlin的论断是对的。
+那么你就不得不跳出程序、技术、架构的圈子，从其它视角来看待开源，以及围绕它产生的经济、社会、心理、管理等等内容。《开放与共享》就有可能是你寻找这些的路径必经之路。
+开源之道读者说  从经济学（激励模型，价值回报，博弈论）的角度来看开源，还是非常具有启发意义的。比如本书的第二章，讨论过程性激励，对于开源社区参与者的影响。就揭示了一个重要的成本变化。另外一个敏锐的观察是：随着社区人数的增加，参与者也可能获得更高的过程性激励。其实这就带来了一个“累积效应”。总体而言，这本书在开源的诸多领域，都以经济学模型的方式，为我们打开了一个重要的思考路径。但是，可能是限于篇幅，很多模型都偏理想化。
+ -- 庄表伟， 开源社理事兼执行长，华为云高级产品经理  从经济学的角度思考和分析开源软件，在国内非常罕见，这种非技术的视角对开源模式的分析，包括激励机制、授权机制、治理机制与组织结构，开源创新与商业化等，完全不涉及技术内容，受众不是程序员，而是管理者。非互联网公司，特别是有计划转型科技公司的大型国企，在目前需要利用开源软件实现弯道超车的特殊历史阶段，非常迫切的需要这些知识来辅助决策。本书对于希望从管理者角度看待开源模式对于创新的价值的读者，是非常难得一本中文书籍。
+ -- 龚仪， 开源下午茬发起者，上海富麦科技创始人兼CEO  这也可以说明基础研究的重要性所在，把背后的原理和道理整理清楚，可以驱动更好的创新和产业化。
+ -- 王伟， 开源社理事，华东师范大学研究员  虽然业界有很多研究开源文化以及内在创新机制文章，但是很少有系统化整理后的中文书籍。《开放与共享》从经济、管理、社会、心理等角度来分析这独特的创新机制，为我们展开了一幅全方位的介绍开源创新的画卷。 开放与共享是开源创新的基石，本书第二章通过过程性奖励以及结果性奖励比较好地分析了为什么我们虽然不能从参与开源项目获取到物质奖励，但是还是有很多人愿意投入时间和精力参与开源项目。如同我们的科学研究一样，大家会依托社区分享研究成果，借助同级评审保证保证其产出的质量。同时开源项目只是借助IT技术，可以让不曾谋面的技术人员依赖代码进行最直接的交流，通过降低信息交流的成本，让协作与创新成为开源项目的主旋律。正因为开发者这在社区中的话语权是靠自己长期积累的贡献积攒起来的，这样进一步推动了以利他为基石的社区公益性质的知识传递，为开源社区的发展提供了源源不断的动力。
+ -- 姜宁，Apache Member，开源专家   作者简介 王宇，丹麦奥胡斯大学经济学博士，现为南京大学商学院讲师。研究方向为博弈论、创新经济学以及信息产业的竞争策略等。近年来，在FrontiersofEcoiaomics in China，《数量经济技术经济研究》、《中国工业经济》、《当代财经》、《管理学报》、AgriculturaIvEconomics—Zemedelska Ekonomika等杂志公开发表论文多篇。主持或参与过“开源创新：基于互联网开放社区的分散创新模式”(国家自然科学基金青年项目)、“以全球价值链引导我国经济结构转型升级”(国家社科基金重点课题)、“以产业集群促进长三角战略性新兴产业创业发展”(教育部人文社科重点研究基地)、“现代服务业发展战略研究”(国家社科基金重点课题)等多项科研项目。
+内容提要  创新，而不是资本和劳动，才是真正资本主义经济增长的主要源泉。 &amp;ndash; 熊彼特
+ 本书是作者在其博士论文的基础之上加工而成，2005年作者开始在丹麦奥胡斯大学攻读经济学博士，正值开源软件在全球范围内蓬勃发展。正如作者自己所言：
+ 开源所具有的独特的创新组织形式、高效的创新流程以及开放性的创新成果使得一大批经济学家为之着迷，试图从各个方面来进行解读。
+ 全书分为5章，除去第一章之外，作者在剩余的四章分别以激励机制、授权机制、治理机制、商业化为四个维度进行各自的探索和研究。这其实也是有违所有人直觉的四个大的问题：
+ 究竟是什么动力，让全世界的开发者们为共同完成一个项目而协同起来？其中这些开发者的驱动力究竟是什么？ 作为现代的人们，早已经习惯了购买软件授权的方式了，那么开源项目或软件有哪些授权机制？怎么可以收到钱？ 令人神秘的社区，以及非营利软件基金会的治理，究竟是怎么回事？作为庞大、复杂的软件工程而言，其组织结构又和现实中的公司有何不同？ 为什么有些基于开源项目的商业公司赚到了钱？他们是怎么做到的？其中有何秘密或经济学意义？  除了工程师之外，大概所有人对开源问的问题都离不开这四个主题。当然，将开源视为“成本为零”的人确实就更加应该读一读了。作者就是围绕着这四个主题，进行了相关的学术研究，并最后以数学建模的形式，将开源之所以能够成功找到了数学上的依据。（尽管模型略显理想化，但瑕不掩疵。）
+书评 开源的黄金时代 在刚刚过去的开源周年——2018年，正如我们前面提到的商业上的事件，被很多人所引用，开源正在发挥着前所未有的力量。而2019年，Apache 软件基金会建立20周年，并针对IEEE软件工程实践发表了Apache之道：开源可持续成功的秘籍，再过一遍Apache今天的成绩，让我们不得不重复的说：
+我们正处于开源的黄金时代！
+但是，这个并不是那么容易得来的，回顾过去的历史，可谓是一路艰辛！不仅是商业的围剿，还有道德的谴责，乃至工程上的质疑，当然没有什么成果是轻易就能够得到的。开源离真正的成功，还有非常远的距离。例如，最近的半年内就接二连三的推出对抗基于开源项目的商业公司的各个项目：
+ DocumentDB ———— 直接从MongoDB切出分支 发布OpenJDK版本 ———— Amazon Corretto 从 ElasticSearch 上游切出发行版 ———— ElasticSearch 开放版 Alibaba 发布自己的OpenJDK版 ———— Alibaba Dragonwell  虽然这是我们不愿意看到的战争，但是它却真实地发生了，商业公司——公有云巨头，目前世界上最赚钱的IT生意，以对抗开源！以强大的资本和人才优势来试图碾压开源，尤其是那些依靠单一项目的开源公司而言，然而另一方面，却又在不断的加大对开源软件基金会的支持，如Apache软件基金会、CNCF软件基金会等。</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 03 31)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-31/</link>
+      <pubDate>Sun, 31 Mar 2019 09:08:17 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-31/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 免费为开源做事情的理由 原文链接：There are plenty of good reasons to do open source for free
+适兕点评：
+ 这个和志愿者文化有着异曲同工之妙，在没有掌握足够的认知和技能之前，能够有机会去参与贡献是一件低成本学习的不错路径。虽然免费有点夸张，但是却讲了一个蛮好的事实。
+ 如何成功的维护一个开源项目 原文链接：How to successfully maintain an open source project
+适兕点评：
+ 开源项目不止于代码或技术本身，而是它整个组织和协作流程的开放，这意味着另外一种模式的，区别于传统封闭式的研发模式的诞生。
+ Cloudera-Hortonworks 的新Hadoop，100%开源 原文链接：The new Cloudera-Hortonworks Hadoop: 100 percent open source, 50 percent boring
+适兕点评：
+ 开源的商业模式，不是售卖软件授权，而是兜售时间、技能和故事。这一点，在他们二者合并之后会表现的更加明显。
+ 为什么说Linux基金会创立的持续交付基金会对于DevOps和云原生生态非常重要 原文链接：Why The CDF Launch From Linux Foundation Is Important For The DevOps And Cloud Native Ecosystem
+适兕点评：
+ If CDF defines standard mechanisms and artifacts to declare the build and release stages that are adopted by cloud vendors and key DevOps vendors, customers will benefit from portability and reuse of toolchains.</description>
+    </item>
+    
+    <item>
+      <title>Apache 之道，开源可持续成功的秘籍</title>
+      <link>http://www.ocselected.org/posts/foundation_introduce/the_apache_way_to_sustainable_os/</link>
+      <pubDate>Sun, 24 Mar 2019 12:58:10 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/foundation_introduce/the_apache_way_to_sustainable_os/</guid>
+      <description>毫无疑问，开源软件是越来越重要了，那么作为开源软件中重要的中流砥柱的 Apache 软件基金会也迎来了20周年，那么我们是不是应该反思一下关于Apache的能够如此长盛不衰？以Apache之道为原则的社区驱动开放模式尽管遇到了不少的挑战，但是仍然在开源的生态系统中发挥着举足轻重的作用。
+Apache之道的历史要更为远久一点，该方法论的提出是在基金会建立之前，即24年前，那时还称之为原创Apache小组。该方法论经过时间的证明，是Apache成功的一个重要的基础，而且我们认为它对于开源之所以能走到今天是至为重要的。
+这么多年下来，Apache 之道尽管修改了不少内容，但它仍然坚持初心：高度的透明性，让所有人可访问的中立的环境中进行社区驱动的协作。
+Apache 之道从法律和社会框架两个维度对开源进行了定义，它有助于人们理解是什么让开源变得如此的强大，以及参与开源的过程中的行为方式。本文我们将在基金会的使命的背景下来诠释 Apache 之道：
+ “Apache 软件基金会的历史使命是为公众利益提供软件。我们由许多志同道合的独立的个人所组成，这些个人通过产于 ASF 的社区活动，来为软件项目提供服务和支持。”
+ 接下来就让我们一句一句的来剖析这段宣言:
+提供软件的公共产品 本章节的关键点：
+ 我们生产的软件是非竞争性的，也是非排他性的。 在任何上下文中使用Apache 软件都不会降低其他人的可用性。 用户和贡献者对于基金会、项目以及社区均毋须承诺任何的责任。 使用符合开源定义的许可证是必要的，但这并不足以完成我们的使命。  investopedia 站点定义的公共产品的意思是：”一个人可以消费的产品，而不会降低其对另一个人的可用性，并且不会排除任何人。”从字面上来看，似乎我们使用该定义是蛮不错的选择，但是，这其中有一些细微的差别，我们的使命不是生产“公共产品”，而是“为公众利益提供软件”。
+若要理解为什么这点差异是如此重要的话，人们必须去思考是什么激励着 Apache 软件基金会去为公众利益而生产软件。
+开源软件可以被无限的复制和重用，每一位用户都可以按照自己特定的需要而去更改代码，他们也可以根据需要和其它的软件合起来，他们可以使用自己设计的创新产品和服务，且从中获得切身利益。以上所谈都是可行的，而且也不会影响到其他人对软件的使用。因此，ASF 所生产的软件可以通过许多种不同的方式提供给公众利益。
+为了让我们能够完成这部分任务，至关重要的是，我们选择使用法律来保护基金会，即策划了软件的许可证。对于我们来说就是Apache 许可协议版本2，另外，我们也采用了inbound 许可证规定，该规定定义了那些许可证授权的软件是可以用于Apache 项目的，该规定可以简略的总结为：
+ 协议必须满足开放源代码定义。 在实践中应用的许可证不得强加超出 Apache 许可证 2.0 的限制。  这也就意味着人们完全可以放心，由Apache软件基金会的孵化的软件项目，既是 公共产品，也是 为公众利益。人们可以基于任何目的去使用Apache的软件，而且人们并不会对基金会、项目、以及社区有任何的责任。
+这里有一个值得重点强调的事情是，有些软件采用了Apache许可证，但是没有遵循相应的 inbound 许可规定，这类项目可能会带来 Apache 许可证所没有涵盖到的限制;因此，仔细检查这些项目的许可政策非常重要。这也就是说，如果只是采用了Apache 许可协议，而不是在基金会所孵化，注意这而二者之间有着显著的差异。
+Apache 项目在很多领域里都是成功的，这要归功于我们所遵守的定义非常清晰的许可证规定。这也让下游的用户可以非常清楚的理解那些事情可以做，那些事情是不能做的。Apache 许可的初衷是希望每个人参与开源的机会是均等的，这个开源是广义的开源，不仅限于Apache软件项目，也包括其它的开源项目。Apache的许可证是被允许修改的，但是修改之后的Apache协议，就再也不是Apache许可证了，也不会得到 Apache 软件基金会的许可或承认。修改之后的许可证是不可以使用Apache的名义的，这也是被严格禁止的，因为这会让用户感到困惑，也会损害Apache的名誉/品牌。
+虽然我们认识到许多方法可以授权软件，无论是开放源代码还是其他方式，但我们断言，只有同时使用我们的许可证（未修改）和 inbound 许可规定的项目才能真正遵循并遵守 Apache之道。、
+虽然OSD批准的许可证和相关政策是成功开源生产所必需的，但我们认为还需要补充一些内容。它们为开源的生产提供了法律框架，但它们没有提供社会框架，这就引入了我们所阐述的使命的后半句话：
+ 我们由许多志同道合的独立的个人所组成，这些个人通过产于 ASF 的社区活动，来为软件项目提供服务和支持。
+ 我们由许多志同道合的独立的个人所组成 本章节的关键点：</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 03 24)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-24/</link>
+      <pubDate>Sun, 24 Mar 2019 11:03:35 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-24/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 CommunityBridge 为开源代码改善可见度 原文链接：CommunityBridge gives better visibility into open source code
+适兕点评：
+ Linux基金会的创新能力真是越来越强了，或许是它知名度高，很多人去找他们，他们获得的痛点和需求也多，所以总是能找出很好的方案来。
+ 开源硬件认证 原文链接：Searchable list of certified open hardware projects
+适兕点评：
+ 蛮有意思的内容，了解一下。世界正是由于人们的创意而越发的丰富多彩。
+ Kodi 基金会加入Linux基金会 原文链接：The Kodi Foundation joined the Linux Foundation
+适兕点评：
+ 这是一款开源的多媒体中心，支持各种平台。这次加入基金会，非营利到底。
+ RedMonk 编程语言排行榜:2019.1 原文链接：The RedMonk Programming Language Rankings: January 2019
+适兕点评：
+ 任何事情只要用心做，总是会有回报的。数据不是自己产生的，也不是购买的，而就是用心花时间，一直坚持的分析下去，就成为了一道亮丽的风景。
+ 开源在痛苦的成长：Open Core是最终的答案吗？ 原文链接：Open Source growing pains: Is Open Core the answer?
+适兕点评：
+ Nonetheless, even if Elastic had built a bigger Chinese wall between the Apache and Elastic-licensed code, there&amp;rsquo;s no guarantee that Amazon would have stood still.</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 03 17)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-17/</link>
+      <pubDate>Sun, 17 Mar 2019 13:35:36 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-17/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 2019年 Changelog.com 的基础架构变化 原文链接：The new changelog.com setup for 2019
+适兕点评：
+ 绝对清晰的、实用的、省事的、省钱的方案，我其实也应该考虑将开源之道这么玩。现在的环境实在是浪费钱。要去花时间整理出来。
+ 在你的服务器上运行 VS Code 原文链接：VS Code on Your Server
+适兕点评：
+ 基于云的IDE，比那些商业的产品好多了，比如华为的那个dev-cloud，简直烂死了。
+ 从开源到商业数据分析的转变使成本超过准确性 原文链接：The Shift From Open Source To Commercial Data Analytics Is Placing Cost Over Accuracy
+适兕点评：
+ 有阳光的地方就有阴影，数据分析工具要不要开源？数据本身要不要开放？ 涉及到社会公共问题的时候该怎么处理？比如社交媒体。即使是完全从商业的角度来分析，风险将如何增加？
+ 品牌与营销：当今数字市场的创新解决方案 原文链接：Branding vs Marketing: Innovative Solutions In Today&amp;rsquo;s Digital Marketplace
+适兕点评：
+ “why did I set up this brand?” “What is my purpose with my product(s) for the long term?</description>
+    </item>
+    
+    <item>
+      <title>开源之道共读图书列表（2020版）</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/2020_book_lists/</link>
+      <pubDate>Fri, 15 Mar 2019 13:40:02 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/2020_book_lists/</guid>
+      <description>共读之申明篇 本文列举的是2020年所精心选择的12本开源相关图书，关于共读的初衷，以及参与方式，请看官移步：开源之道图书和文献共读申明，有更多详细的内容。
+2020 第一季度 主题：开放式创新 2020 年1月 第一期 Democratizing Innovation ,Eric von Hippel,
+以用户为中心的创新过程：它如何使用户和制造商受益，以及它的出现将如何带来商业模式和公共政策的变化。
+作者：Eric von Hippel，麻省理工学院斯隆管理学院的T. Wilson（1953年）技术创新教授，是自由，开放和分布式创新的经济学和管理学的领先研究学者。
+2020 年2月 第二期 Open Innovation: The New Imperative for Creating and Profiting from Technology， Henry William Chesbrough ，Harvard Business Review Press; First Trade Paper edition (1 April 2003)
+In today&amp;rsquo;s information-rich environment, companies can no longer afford to rely entirely on their own ideas to advance their business, nor can they restrict their innovations to a single path to market.</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 03 10)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-10/</link>
+      <pubDate>Sun, 10 Mar 2019 10:23:25 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-10/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 采用开源方法有助于加速企业数字化转型 原文链接：The Open Source Approach to Accelerating Digital Transformation
+适兕点评：
+ SUSE 也是没招了，技术上跟不上，就骗点快钱，于是在各种媒体上搞这种虚张声势，貌似正确的商业宣传。用开源的名义继续招摇。 真是没有底线的公司啊。
+ 过去12个月，开源软件的漏洞激增 原文链接：Open source software breaches surge in the past 12 months
+适兕点评：
+ Sonatype 做了一个DevSecOps社区调查，值得关注开源安全方面的人士留意。确实是个大问题。Equifax 问题后患无穷。
+ RISC-V 开放的处理器设计 原文链接：RISC-V opens up processor design
+适兕点评：
+ There is a lot of work to do, but a lot of resources, motivation and skills are being committed to do it. RISC-V may fail to meet its potential, for many reasons, but no new architecture in decades has had as good a chance of success.</description>
+    </item>
+    
+    <item>
+      <title>如何参与到 Linux 社区中来</title>
+      <link>http://www.ocselected.org/posts/contribute_to_community/how_to_participate_in_the_linux_community/</link>
+      <pubDate>Sat, 09 Mar 2019 17:43:34 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/contribute_to_community/how_to_participate_in_the_linux_community/</guid>
+      <description>一、内核开发流程指南 本文档旨在帮助开发者（以及他们的经理们）如何以最小的代价参与到内核的开发社区中来，试图解释Linux社区是如何运转的，进而告诉那些对Linux内核开发（或者，更深入的说，普遍意义的自由软件开发）不熟悉的人们如何去做，虽然这里有一些技术资料，但这是一个针对流程方面的讨论，不需要深入了解内核编程就可以理解，这点请毋须担心。
+内容摘要 本节剩余部分覆盖的内容包括：内核开发流程、开发人员及其雇主可能遇到的各种坑。解释内核代码为什么应该合并到官方（“主线”）中的各种原因: 自动可用到用户、多种形式的社区支持、以及有能力影响社区开发的方向等。为Linux内核做代码贡献还必须承认 GPL兼容的许可协议。
+第二节介绍开发流程、内核发布周期、以及合并窗口的机制。涵盖了补丁开发，审查和合并周期中的各个阶段。有一些关于工具和邮件列表的讨论。我们鼓励希望开始使用内核开发的开发人员将bug作为初步练习进行跟踪和修复。
+第三节则为大家介绍项目早期的计划，重点在于尽快的让开发者参与到开发社区中来。
+第四节是关于编码流程的，讨论人们经常遇到的陷阱。介绍了补丁的一些要求，以及一些有助于确保正确生成内核补丁的工具。
+第五节讨论发布补丁以供审核的过程。要得到开发社区的认真对待，必须对补丁进行适当的格式化和描述，并且必须将它们发送到正确的地方，遵循本节中的建议，将有助于确保开发者的补丁能够被最快的接收。
+第六节覆盖了发布了补丁之后发生的事情，因为工作并不是说发完补丁就万事大吉了。和审核代码的开发者一起是开发流程中相当重要的一部分，本节提供了许多关于如何在这个重要阶段避免问题的技巧。千万要谨记，代码即使是合并到主干，也并不表示所有的工作已经完成。
+第七节则介绍了一些“高级”的主题，使用git管理补丁并查看其他人发布的补丁。
+第八届介绍了内核开发的更多关于指向源的文档信息。
+本文档是关于什么的 Linux 内核，一款代码超过6百万行、拥有1000多活跃贡献者、世上现有的最大、最活跃的自由软件项目。Linux 自从1991年诞生以来，该内核已发展成为同类中最佳的操作系统核心，它不仅运行在袖珍数字音乐播放器、台式机、现有最大的超级计算机乃至介于两者之间的所有类型的系统上。它是一种强大，高效，可扩展的解决方案，几乎能够适用于所有计算机体系架构。
+伴随着 Linux 内核项目的快速增长，相应的希望参与到其中来的开发人员（和公司）的数量也在增长。硬件供应商希望确保 Linux 能够得到很好地支持他们的产品，从而让这些产品对Linux用户更具吸引力。而嵌入式供应商，则将Linux作为组件整合到他们的产品中，希望Linux尽可能满足系统当前的任务。而Linux发行版厂商以及其它的软件供应商则更加希望Linux在可靠性、高性能、灵活性方面有突出的能力。最后是最终用户，也同样希望对Linux进行适当的调整，进而满足自己的独特需求。
+Linux最引人注目的特性之一就是让所有的开发人员都可以访问它;任何具备相应技能的人都可以去改进Linux，并尝试影响其未来的发展方向。那些专有的产品是无法提供这样的开放性的，这是自由软件的一个独特特性。其实，话说回来，Linux 内核相比于其它绝大多数的自由软件，更具开放性。最好的证据莫过于：每三个月的内核开发周期，要牵涉到超过1000多名开发人员，他们分别来自100多家不同的公司（当然也有的根本就没有公司）。
+在内核开发社区中工作其实并不特别的困难，但是，话虽然这么说，仍然有很多的潜在的贡献者认为在创始参与的时候觉得困难。这么多年，内核社区已经相对成熟了，并发展出了自己独特的操作方式，从而能够在每天变更数千行代码的环境中顺利运行（并生成高质量的产品）。因此，Linux内核开发过程与专有开发方法有很大不同，这并不奇怪。
+内核的开发过程可能对新人来说有些陌生，有时还会带着一丝的恐慌，这都算正常现象，尽管如此，内核已经用事实证明，这些都不是事。一个不了解内核社区的方式的开发人员（或者更糟糕的是，试图蔑视或逃避）将会在整个过程中，产生令人沮丧的体验。但是一定要明白一个道理：开发社区虽然对于愿意学习的人有莫大的帮助，但是也就到此为止了，对于那些不愿意花时间认真倾听或不关心开发过程的人来说，内核社区只能表示惋惜。
+希望阅读本文档的人能够避免那些让人痛苦不堪的经历。本文包含很多的处理细节，如果可能的话，还是要及时的去亲子体验一把。内核开发社区一直缺人，尤其是那些能够帮助内核变得更好的开发者；以下内容可以帮助到你（又或者是为你工作的开发者），加入到内核社区中来。
+感谢 本文档由Jonathan Corbet 所撰写，其邮箱地址：corbet@lwn.net。以及James Berry、Alex Chiang、Roland Dreier、Randy Dunlap、Jake Edge、Jiri Kosina、Matt Mackall、Amanda McPherson、Andrew Morton、以及 Jochen Voß 等的改进。
+该文档的撰写得到了Linux基金会的大力支持，尤其要感谢 Amanda McPherson，是他看到了这项工作的价值，并让这一切变为现实。
+将代码并入主干的重要性 总有一些公司和开发人员偶尔会问起：为什么他们应该学习如何使用内核社区并将他们的代码放入主干（“主干”即是有Linus Torvalds所维护，也是很多linux分发版的基础）。从短期来看，为内核上游社区贡献代码看起来有点得不偿失，似乎是保持现有的分支就可以了，且可以直接支持用户。而事实上，时间稍长即可证明，基于现有的分支（“脱离主干”）会付出很大的代价。
+那么我们就来说说脱离主干（out-of-tree)的代价是什么，以下列表从内核开发流程上的一小部分，其中大部分内容将在本文档后面详细讨论。考虑如下情形：
+ 合并到内核主干的代码是供所有 Linux 用户使用。它将自动出现在使用它的所有发行版中。不需要驱动程序磁盘，下载或支持多个版本的多个发行版的麻烦;这一切都适用于开发人员和用户。换句话说，并入主干解决了大部分的分发、支持问题。 虽然内核开发人员在努力的维护和用户空间接口，希望保持稳定，但是事实上，内核内部的 API 仍在不断的变化。缺乏稳定的内部界面是一个深思熟虑的设计决策;它允许随时进行基本改进，并产生更高质量的代码。基于该策略的一个结果就是，那些脱离主干的分支如果要使用新的内核，就要不断的从主干中获取这些代码，即需要不断的进行维护，而这需要大量的工作才能保持代码正常的工作。  相反，在主干中的代码就没有这些额外的工作，如果有 API 的变更，开发者们就会立即在主干中进行修复和处理。所以，合并到主干的代码在维护成本上具有显著的优势。
+ 除此之外，内核中的代码通常会被其他开发人员改进。有的时候，用户社区和客户所改进的产品，往往惊喜不断。  内核的代码在合并到主干之前和之后均是审核的，无论这些原创开发人员的技能有多强，这个审核过程总会能找到可以改进代码的地方。通常情况下，这样的审核都能够发现Bug以及安全方面的问题。对于在封闭环境中开发的代码尤其如此，某种程度上讲，linux内核非常受益于这些外部的开发人员的审核。脱离主干（Out-of-tree)的代码将意味着质量难以保证。  开发者只要参与到内核的开发中来，就可能会影响到项目的发展方向。如果说用户只是在旁边抱怨的话，真的没有啥意思，不如让事情按照自己的意愿去发生。那些活跃的开发者在社区拥有极强的声音 —— 以及改进的能力，这可以让内核满足他们自身的需求来进行发展和进化。 当分支代码被单独维护时，始终存在由第三方提供类似功能的不同实现的可能性。如果发生这种情况的话，合并代码将变得更加困难 —— 甚至到了几乎不可能的地步。真到了那个时候，就面临着令人非常不爽的选择：要么选择无限期地保持脱离主干的非标准特征，要么是放弃这些脱离主干的代码，然后回迁到主干版本。 代码的贡献是整个流程的最为基本的行为，这也是之所以现有的流程能够良好运作的前提。通过贡献代码，开发者可以向内核添加自己想要的功能，也是对于其他内核开发人员同样有实际用处。如果你已经为Linux写过代码（或者正在考虑这样做），那么您显然对该平台的持续成功感兴趣;贡献代码是帮助确保成功的最佳方式之一。  以上所有的可能结果，都是脱离主干（out-of-tree)所导致，也包括那些以专有的形式、仅发行二进制的方式。但是，在考虑任何类型的仅二进制内核代码分发之前，还应考虑其他因素。这些包括：</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 03 03)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-03/</link>
+      <pubDate>Sun, 03 Mar 2019 08:44:10 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-03/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 世界上最大的银行正在加速拥抱人工智能 原文链接：The World&amp;rsquo;s Biggest Banks Are Doubling Down On Artificial Intelligence
+适兕点评：
+ 这里值得说一下的是Capital One，几乎和拥抱开源是一个套路：True diversity in tech will only come when everyone has access to the same technical information and educational opportunities . When young technologists feel welcomed into the AI development community — no matter what language they speak or culture they come from — that openness will go a long way to increasing the number of skilled engineers, along with more diverse perspectives and experiences in the field.</description>
+    </item>
+    
+    <item>
+      <title>区块链将会如何影响开源</title>
+      <link>http://www.ocselected.org/posts/opensource_technology/open-source-tokenomics/</link>
+      <pubDate>Sat, 02 Mar 2019 15:31:12 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_technology/open-source-tokenomics/</guid>
+      <description>特别声明 本文由作者Bilgin Ibryam 发表在Opensource.com上：How blockchain will influence open source。经授权，在开源之道翻译共享。本文在Creative Commons BY-SA 4.0许可证下发布。欢迎转载！
+在中本聪十年前创立比特币伊始，就引来来众多的追随者，并慢慢演变为去中心化的一场运动。甚至于，对于某一些人来说，区块链技术就像互联网那样深刻影响着人类社会的技术，当然，也有很大一部分人认为，区块链不过是另外一场庞氏骗局罢了，就在这众说纷纭之中，区块链也在进化并不断的尝试寻找自己的位置。无论怎样，有一件事是确定的，那就是区块链是一项颠覆性的技术，将从根本上改变一些行业。我深信开源就是其中之一。
+开源的模式 开源是一种软件协作开发方法，也是软件分发的模式，开源允许拥有共同兴趣的人们一起协作，进而生产出他们中间任何个体都无法独立完成的事情，它让整体所创建的价值远远大于部分的总和。开源通过分布式的协作工具（IRC、email、git、wiki、issue跟踪等）、以及开源许可证模式下的分发和保护，当然还有诸如Apache软件基金会和云原生基金会这样的非盈利基金会的治理。
+说来已久，最让人们好奇的莫过于开源的模式本质上是缺乏金钱上的激励的。在开源界，像人类社会的其它方面一样，分很多的派系，如其中一些人就认为谈开源就不要谈钱，开源本应该就是由内在的激励的自由和资源的行为（诸如“共同理想”、“为了伟大的事情”）；也有另外一些人认为开源需要获得外部的尤其是金钱上的激励。虽然开源项目仅仅通过世上的志愿者来完成是富有理想的浪漫主义色彩的，就目前的现状来看，事实上主要的开源完成的贡献均是在有支付的情形下搞定的。当然，毋庸置疑的是我们拥有大量的无偿贡献者，但是这些贡献都是来来回回的临时性的，或者是某些受追捧的项目备受世人关注。建立和维系开源项目是需要企业倾注大量心血和精力来进行开发、文档化、测试、修复缺陷，而且是持续性的一如既往的，绝不是一时心血来潮。要知道，开发软件产品是需要克服大量困难的事情，这类事情最好是有金钱上的激励方能持久。
+开源的商业化 众所周知，Apache软件基金会是通过捐助而生存的，当然还有其它的一些收入：赞助、会议费用等等。但是要知道这些资金主要是用于运营基金会本身，如为项目提供法律保护，以及确保有足够的服务器来运行构建程序、缺陷追踪、邮件列表等等。
+同样的，云原生基金会CNCF会收取会员费，以及更多的会议费用，这些费用同样是用来运营基金会以及为项目提供资源。如今的年头，绝大多数的软件已经不能在自己的笔记本电脑里构建了，它们都的运行和测试都是在云平台中上百台服务器当中。这些都属于基金会的日常开销。其它如开展营销活动，品牌设计、分发一些小的宣传物品，也是基金会份内的事情。基金会的核心任务是实施正确的流程，与用户，开发人员和控制机制进行交互，并确保将可用财务资源分配给开源项目以实现共同利益。
+看起来是一切都运行良好，不是吗？开源项目可以募捐到钱，基金会也可以公正的进行分发，那么哪里有问题了呢？
+这里没有说明的是:用于在开源生产者和开源消费者之间进行价值转移，直接，透明，可信，分散，自动的双向链接。就目前而言，所有的链接都是单向或间接的：
+ 单向：一名开发者（广义上的开发者，可以是软件生产中的任何角色：码农、维护者、分发者），利用自己的聪明才智，绞尽脑汁，并花费无数时间来开发开源项目，且提交贡献为所有的开源用户分享这一价值。但是基本上都是一厢情愿的。 间接: 如果软件出现了bug，影响到了特定的用户/公司的话，有下列几种情形出现：  让内部开发人员修复bug，然后提交一个 pull request，这是比较理想的状态，这些公司并不总是能够聘请到特定的开源项目的开发人员，因为一般公司都会使用成百上千个开源项目。 聘请专门从事该特定开源项目的自由职业者并支付服务费用。理想情况下，自由职业者也是开源项目的提交者，可以直接快速更改项目代码。否则，修复程序可能永远不会进入上游项目。 接近围绕开源项目提供服务的公司。这些公司通常雇用开源提交者来影响和获得社区的可信度，并提供产品、专业知识和专业服务。   第三种选择是维持许多开源项目的成功模式。无论这些公司提供服务（培训、咨询、workshop）、技术支持、打包、开放核心，还是SaaS服务，不可否认的是他们都需要雇佣上百个全职的员工来为开源做出努力，我们可以看到这样的公司有一大把，他们成功的建立了有效的开源商业模式，而且正在有更多的公司加入这个阵营。
+支持开源项目的公司在这个生态系统中发挥着重要的作用：它们介于开源项目和用户之间，起着重要的催化剂作用。那些能够真正为用户创造价值的公司，不仅仅是能够打包出很棒的软件;而是他们能够识别用户的真实需求，且能够洞察技术趋势，有能力创建出一个完整的堆栈甚至是开源项目的生态系统来满足这些需求。 他们可以全身心的扑在一个有些寂寥和无聊的项目上，而且会一直支持很多年，只为坚守其中的价值。还有如果在某个软件堆栈中缺少了某一部分，他们随时可以从头开始一个开源项目，并围绕它来构建一个社区。他们甚至可以收购一家闭源的公司，然后将项目再整个的开源了（没错，可能很多读者看到这里已经猜到了说的是哪家公司了，没错，这里的特性红帽公司都拥有。）
+简单总结一下，基于商业化的开源模式就是这样，项目由少数个人或公司正式或非正式的管理和控制着，这些个人或公司确保了项目的成功发布，而且有着商品化的能力，并有效的在回馈给开源的生态。对于开源开发人员，管理公司和最终用户来说，这是一个没有输家的美好格局。这可以很好的替代那些日薄西山且昂贵的闭源软件！
+自我供给，去中心化的开源 毫无疑问，想要让项目赢得好口碑，就得满足一些人们的期望。举例来说，Apache 软件基金会和云原生计算基金会均需要孵化和毕业的过程，除了所有技术和形式要求之外，项目还必须拥有健康数量的活跃提交者和用户。这些都是形成可持续发展开源项目的关键。在GitHub上拥有源代码与拥有一个活跃的开源项目是有着本质上的不同。一个活跃的开源项目意指编写代码的提交者和使用代码的用户，两个组通过交换价值并形成一个每个人都受益的生态系统来不断的螺旋式成长。一些项目生态系统可能很小而且寿命很短，有些可能包含多个项目和竞争服务提供商，其中非常复杂的交互持续多年。但只要有价值交换，每个人都从中受益，项目就会得到发展、维护和可持续。
+我们来看下 Apache 软件基金会的项目 Attic，该项目已经完成了它的历史使命，正在走入其生命周期中最后的阶段。这是非常正常的现象：当一个项目在技术上不再适合它的当初的开发目的时，它通常会自然结束。同样，在 ASF 的孵化基地，你会发现很多项目从未毕业但却已经退出了历史舞台，通常情况下，这些项目无法构建足够大的社区，要么因为它们过于偏门，要么是被更好的方案所替代。
+但更多的情况是，具有高潜力和卓越技术的项目无法维系自身，因为它们无法形成或维持一个有效的生态系统来进行价值交换。目前的开源模式以及基金会并没有为开发者提供一个获得报酬或让用户获知他们的请求的框架或机制，这样的话，就没有任何一方拥有共同的价值承诺。这样的话，结果就是一些项目只能在商业的开源环境中维持自身，在商业化的开源中，公司充当中间人的角色，并在开发者和用户之间进行价值获取。这还增加了另外一个局限且要求服务提供商的公司来维持一些开源项目。这似乎离我们理想中的情况很是遥远：用户可以完整而直接的表达他们对项目的期望，开发人员能够以透明、可量化的方式来兑现他们对项目的承诺，这是一个具有共同利益和意图进行价值交换的社区。
+现在各位看官可以想象一下，有这样一个模式，它的工作机制和工具可以实现开源用户和开发人员直接打交道。这不仅仅体现在诸如通过Pull Request 来贡献代码、使用邮件列表发送问题、GitHub 的星星数量、以及笔记本电脑上的贴纸，而且还体现在用户有更多的方式、更加自控的、透明的行为来影响项目的走向。
+该模型可包括对以下行为的激励：
+ 直接为开源项目提供资金，而不是通过软件基金会 通过投票影响项目方向（通过代币持有人） 由用户需求驱动的功能需求 及时的合并 Pull Request 为提交缺陷者给予奖励 为更好的测试覆盖率进行奖励 奖励及时更新文档者 及时的安全修复 专家协助，支持和服务 为项目的布道师和推广者进行最佳预算 定期活动的预算 更加快速的电子邮件和在线聊天帮助系统 全面了解整体项目的状态。等  聪明的看官可能已经猜到了，没错，以上所谈就是使用区块链和智能合约，进而实现最终用户和开发者之间的积极互动。 智能合约可以让代币持有者拥有真实的权力来影响项目的走向。</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 02 24)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-24/</link>
+      <pubDate>Sun, 24 Feb 2019 10:24:51 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-24/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 微软拥抱 Inner Source 原文链接：Microsoft is going all-in on &amp;lsquo;Inner Source&amp;rsquo;
+原文链接：Microsoft embracing Open Source internally, pushing “Inner Source” initiatives
+适兕点评：
+ 这简直了，前几年我在国内布道InnerSource的时候，反应者寥寥，做了几次演讲，写了几篇文章就不了了之了，虽然后来想介绍更多，无奈精力有限。就当微软拥抱了之后，国内那些公司又开始拥抱这家公司了。
+ 女性编程的黑历史 原文链接：The Secret History of Women in Coding
+适兕点评：
+ 历史这东西，非常的公正，只要你坚持，它最终都会为你展现出应该有的结果。性别之差、种族之差等等都将是浮云。正如Alita中所言，重要是硬核（大脑和心脏），其它都是扯淡。愿更多的女性开发者参与到这里来。Ruby for girls，Python woman都是绝佳的例子。
+ 基于OCP的设施销售增长超过预期 原文链接：Growth of OCP Data Center Gear Sales Outpaces Expectations
+适兕点评：
+ 人人都喜欢Open的东西。开放式的厨房、开放式的流程、开放式的代码&amp;hellip;&amp;hellip;只是开放有时候有一个副作用就是容易被复制和效仿。但是，从民主化的角度来讲，这其实是个此消彼长的过程。
+ Linux 基金会启动 ELISA 项目，旨在构建安全的系统 原文链接：Linux Foundation launches ELISA, an open source project for building safety-critical systems</description>
+    </item>
+    
+    <item>
+      <title> 数字化转型时代的主流商业模式 ——《订阅》 导读&#43;书评</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future/</link>
+      <pubDate>Mon, 18 Feb 2019 07:03:37 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future/</guid>
+      <description>为什么要阅读这本书？ 开源之道图书共读，这本《订阅》乍看起来似乎和开源没有半毛钱关系，实际上二者是惊人的相似。伴随着数字化转型的全面到来的时代，和客户打成一片，通过建立紧密的联系，依靠客户的正负反馈来进一步提供更优质、更合适的服务，而这不就是开源软件生态多践行和倡导的吗？正如书中所言，我们正处于商业史上的关键时刻，而这是工业革命以来从未见过的。世界正在从产品转向服务，而开源的发展也已经进入一个逐步成熟的时期，开始从软件工业走出来，影响和渗透其它行业。换句话说，如果你想把握好下一代商业模式，有了开源的背景，理解起来会更加的容易，掌握的也更快。
+评论区 Salesforce 主席兼CEO Marc Benioff 如此评价本书作者和书籍：
+ 我很幸运地能够在 Salesforce 创业早期，找到了 Tien Tzuo 成为 Salesforce 的第十一名员工，（本书）为任何能够驾驭我们这个时代最重要的商业模式转变的人撰写了权威的参考指南。
+由数字化转型 引发的现在商业模式从单一的产品销售，转变到以围绕着为客户更好产生价值的服务订阅模式。 这种观念上的根本变革所带来的不断持续交付带来的客户黏度的增加，以及加快产品生产过程的有效反馈所带来的效率提升。 对应到开源软件开发上， Internet出现让我们的软件开发和用户之间可以进行高效的协作，通过不断地迭代式交付持续为客户产生价值。 ———— Apache member、华为开源专家 姜宁
+ 关于作者 Tien Tzuo，是 Zuora 公司的首席执行官，也是公司的联合创始人之一。在创办Zuora之前，Tien Tzuo 曾担任过 Salesforce 的首席营销官兼首席战略官。同时Tien Tzuo还主持 Subscribed 全球峰会。Tien Tzuo 居住在旧金山。
+关于 Zuora 公司 Zuora成立于2006年，是基于云计算的先锋，旨在帮助公司管理和增加订阅收入。Zuora®提供基于云的订阅管理平台，该平台可以作为任何行业的订阅业务记录系统。公司在2018年4月在纽约证券交易所上市，（股票代码：ZUO），股票在交易首日上涨42.9％，当时的市值达到约20亿美元。虽然该公司不是一个家喻户晓的名字，但它已经能够为许多知名品牌的核心商业模式提供动力。其中包括DocuSign，NVIDIA，HBO，达美航空，福特汽车公司和卡特彼勒。
+图书内容简介 该书的内容分为三个部分：
+ 讲述为什么说订阅的模式是商业的未来，从各个行业来进行阐述。 如何才能够实现订阅模式？从管理、财务、组织、文化等角度告诉读者如何实现一个基于订阅模式的商业服务。 订阅经济的数据展示，其实这部分是附录部分，该部分采用了大量的图表的方式对现有的订阅经济进行的展示。  开源之道荐读  开源之道声明：这是一本有关产品、服务、消费者、公司、管理、信息技术等的商业类图书，宏观的视野也有，微观的细节也有所涉猎。重要的是和现在的生活息息相关，能引起思考最好！其实开源又何尝不是呢？
+ 和开源的相似之处诠释 新的商业模式图示：
+订阅模式是真正的以客户为中心的模式，一切围绕以解决客户实际问题而生。对比过去的产品模式，订阅模式总是能够抢先一步来满足用户的需求，因为用户的所有消费信息都是可分析的、用户购买的产品所生成的数据也是可以分析的、推荐系统的进一步强化则可以进一步强化这个闭环。用户放心的使用服务即可，所有的环节：物流、渠道、售后、维修等等都不会暴露给客户。对于客户/顾客来讲，我也甘心享受这样的服务，毋须操劳那么多。
+我们再来回顾一下开源的生态图示：
+是如此的相似，开源将最终用户和开发者拉在了一起，最终用户使用软件、改进软件、提出反馈，进而和上游进行沟通、协商、交流，进一步完善这个闭环。中间没有任何的销售、售前、售后、市场等等一系列角色的出现。
+或许有的软件厂商不乐意了，那么我的建议是读上一篇文章：《软件悖论:商业软件的崛起与陨落》导读+书评。
+IT 厂商的实例 其实，作者作为 Salesforce的创始团队成员，对于IT行业的转型是有着独到理解的，文中提到的几个例子都是值得细细品味的。Amazon、Apple、NetFlix、ZipCar、Uber、Lyft、Zendesk、Okta、Xero、Salesforce 等等，无一不是订阅模式的翘楚，从信息技术的计算资源、存储资源，再到音乐、视频、流媒体，再到汽车、传统桌面应用软件，均以数字化转型为契机，转换思路，进一步贴合用户，抢先用户一步来以最佳服务满足用户所需。
+对于软件创新的诠释 这一部分要定位到第十章，这个世界在加速发展，这一切都应验了物理学的概念：熵！信息技术的革命，在于它加速了一切！那加速后的思维方式和生活都将面临更快的挑战和变化。</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 02 17)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-17/</link>
+      <pubDate>Sun, 17 Feb 2019 11:43:33 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-17/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 Facebook 工程师 Mark Harman 的采访 原文链接：Q&amp;amp;A With Facebook Engineer Mark Harman
+适兕点评：
+ 一位IEEE工程奖得主，从学术界到企业界的华丽转身，这个伦理问题在西方做的非常之好，比如Google和斯坦福。Mark Harman 喜欢开放式的开放方式，这似乎是工程师固有的天性，只要是付出努力、懂得珍惜时间的人，都明白这样一个道理：开放的共享会让自己的研究进展更加的神速！相反则会让自己步履维艰。
+ 或者那些你正在寻找的容器并不是真正你所需要的 原文链接：These Are Not The Containers You&amp;rsquo;re Looking For
+适兕点评：
+ Udi Nachmany 反思系列文章，将思考、哲学、技术混在一起的思考！非常值得一读的文章，当然，最好是将作者的一系列文章一起来读。
+本文有一段，引起了我的思考：Thor&amp;rsquo;s hammer does not exist in IT！ 开源对于我来说，我只是意识到它的无穷价值，然而在实践中失败，在布道中受挫，世界的力量很是强大，而我只能让自己更加的强大，如果我过多的直说开源，那么就是那个看见什么都是钉子的锤子，而我知道，我手里握着的不过是一把无形的思想罢了，哪里有什么锤子！
+ 微软加入开源合规性组织 OpenChain 原文链接：Microsoft joins OpenChain open-source compliance group
+适兕点评：
+ 没什么说的，微软似乎正在兑现早些时候许下的诺言。
+ 你的代码一旦开源，就无法回收 原文链接：No, you can&amp;rsquo;t take open-source code back
+适兕点评：
+ 是的，你不可以做道德婊，先礼后兵。法律上是这么定义的，你没有这个权力！
+ 开源领导峰会2019发布了会议日程 原文链接：Linux Foundation Unveils Impressive Speaker Lineup for Open Source Leadership Summit 2019</description>
+    </item>
+    
+    <item>
+      <title>云原生的旭日东升 —— CNCF 2018年度报告解读</title>
+      <link>http://www.ocselected.org/posts/foundation_introduce/review-cncf-2018-annual-report/</link>
+      <pubDate>Wed, 13 Feb 2019 12:31:27 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/foundation_introduce/review-cncf-2018-annual-report/</guid>
+      <description>引言 阅读非盈利基金会的年度报告有的时候是一种享受，如 Apache 2018年度报告 （PDF） ，你想知道的全部都在，甚至会引导你进一步的探索。但是有的时候，却是一种折磨，如OpenStack 2018年度报告，就是那种蹩脚的售前做的PPT一般，让人味同爵蜡。可是还有一种是位于两者之间，既遮遮掩掩，又欲说还羞，让你不得不去进一步的进行解读。于是有了这篇文章。
+当然，著名的云原生布道师宋净超也做了为题：CNCF年度报告解读（2018年），解读的非常不错，推荐大家阅读，我这边尽可能的读点和Jimmy不一样的视角。
+阅读非盈利基金会报告需要的基础知识 我们可以肆无忌惮的说，非盈利性的、中立的开源软件基金会所生产的开源软件项目，将会是现在和未来的软件主流生产方式！这个无论是从公共产品的角度，还是商业联盟的角度，乃至天然的人类协作方式，都讲的过去。请允许我在这里再一次引用 Nathen Harvey 在 Information Week 中的文章中指出了三个问题：
+ “项目应该由商业的赞助商驱动还是外围的贡献者驱动？商业利益是否应该凌驾于社区的意愿之上？该如何以及在哪里为商业实体和开源社区之间划上一个明确的界线？”
+ 这三个问题确实是异常的尖锐，回答起来就显得非常的关键，但通过基金会的模式，开放的治理可以解决大多数的问题。
+开源项目/社区、非盈利基金会和商业公司之间的关系 有人说一图胜千言，以下这张图来自 Siobhán 的研究：《Nonprofit Foundations And Their Role In Community-Firm Software Collaboration》论文。
+该图完整的说明了开源项目/社区和非盈利基金会以及商业公司之间的关系。也完整的定义了基金会的意义和功能所在，开发者信奉的哲学中，是不希望有过多的金钱和干涉，希望按照自己的意愿行事。而这让奉行实用主义、关注利润的商业公司是完全相悖的，而且和竞争对手合作，也需要有所约束。于是基金会在他们二者之间找到了位置。
+非盈利基金会的性质 这个由于特殊的环境因素，比较难以理解，因为都是美国的组织，不过我们在阅读这些基金会年度报表的只需要知道一点即可，那就是 501&amp;copy;(6) 和 501&amp;copy;(3)之间的区别。
+比如Linux 基金会就是 501&amp;copy;(6) ，而Apache 软件基金会就是 501&amp;copy;(3) 类型的。具体有什么区别，请有心的看官查阅相关资料。但是在年度报告体现出来的就是Apache 软件基金会会事无巨细的将财务报告写上，而CNCF就不会有这方面的任何材料。
+CNCF 的历史背景 这一点开源之道专门在2018年撰写过一篇文章：CNCF 是如何工作的，请看官在进一步阅读之前，尽量先读一下该文，了解一下CNCF。
+CNCF 2018 年度报告 交待完上述内容，我们就看一下CNCF的年度成绩单。
+孵化项目 &amp;ndash; 基金会存在的核心价值 除了顺利毕业的三个项目：Kubernetes、Prometheus、Envoy，以及一大波选择CNCF孵化的项目，如18年成功进入孵化和沙箱的16个项目：
+那么就是下图所示这些项目的更新和发布信息：
+随着开源开发成为软件开发方式的主流形式，开源项目的良性发展成为所有人追求的对象，谁都知道开源项目的失败率是非常之高的，先进和设计良好的技术仅仅占据其中因素的部分而已，良好的社区发展也占据不亚于技术本身的分量，所以这是基金会重点关注的对象，尽管所创造的制度并不能够直接干涉项目和社区，但是可以为项目和社区制造一个良性运作的环境，开发者要肆无忌惮地发挥自己的创新的能力，是需要一个能够思考、实践和正负反馈的良性的环境的。这就是核心价值，如果没有被世界所需要，那么一切围绕这个核心的内容将不复存在。
+另外值得一提的是CNCF提供了让人们公开查看项目进展的工具：DevStat，以图形化的方式展示项目的活跃度，举个例子，如果你觉得那个项目被某个商业公司所控制的话，就来这里看看，相对于RedMonk的分析而言，这个是源头。当然这是帮助公司的社区经理、开源办公室等需要数据分析和报告的人们的利器！
+发展会员 —— 基金会得以持续运转的财务保障 这就是本文命题的支柱：增长幅度是130%，简直不可思议。（看这个数据，最好是回忆一下2013~2015年的OpenStack基金会扩张速度。）
+企业会员是基金会发展的重要经济来源，也是衡量一个基金会在企业心目中重要标尺，Marketing 是一个非常讲究及时回报的行业，当然，这可能和公司具体的战略有关。当绝大多数的Marketing部门关注到了这个基金会的影响力，就会殷勤的掏出钱来帮助基金会。那么CNCF去年的会员发展，则说明了很多IT公司都看到了云原生这个新兴领域，竞争也是异常的激烈的。
+Marketing 工作 ———— 维持生态的重要手段 关于这点的内容，我这里就不为大家截图了，也就是说Marketing的数据可以大体上扫描一下，如：</description>
+    </item>
+    
+    <item>
+      <title>一份被忽略的开源经济学报告 —— 再读 Bruce Perens</title>
+      <link>http://www.ocselected.org/posts/open-source-economic/review-the-emerging-economic-paradigm-of-open-source/</link>
+      <pubDate>Wed, 13 Feb 2019 12:28:56 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/open-source-economic/review-the-emerging-economic-paradigm-of-open-source/</guid>
+      <description>引言 开源之道在2018年一月份，专门写了一篇关于 Bruce Perens 的文章：Bruce Perens，向全世界宣布“开源”的人，对，没错，就是这位跨界的、才华横溢的开发者、律师，然而，我们在文章中也提及了他在2004年公开发表的一份关于开源经济学的报告。适兕由于各种事情，并没有细读它，直到近来得空整理自己打印出来的paper的时候，于是干脆细研一番。可是读完之后才发现。这是一篇既被程序界，又被经济学界忽略的重要文章！忍不住和大家分享、解读一番。
+论文背景 写这篇论文的时候，Perens 的身份是乔治华盛顿大学网络安全政策研究所的开源高级研究员。当然我们也知道Bruce Pernens 的其它身份，他是开源运动的领袖之一，Debian/GNU Linux的领导者、也是开源定义的发起者。他当然是开源的坚定捍卫者之一，那么作为理解商业的自由软件追随者，他要从经济学角度来告诉世人，开源是有未来的！
+于是，有了这篇：The Emerging Economic Paradigm of Open Source，翻译过来就是：开源的新兴经济范式。
+相信以直觉指导自己生活的人，开源的怎么能够产生经济？其实这个因果关系，和人类犯得大部分错误一样，确实是错的。但是需要给世人一个说法，这就是Perens所要解释的初衷。开源可以完全在传统的开放市场经济学的背景下解释，事实证明，它与资本现象有着非常强的联系，而不是人们直觉上认识的那样。（比如从软件工程的角度来评估一个项目价值：如何评估一个 Linux 发行版的总体成本。）
+论文结构 相对于一般的学术论文，这篇文章可能没有什么固定的格式，而是以问题引入，然后逐步回答的过程，最后以几个零碎的、人们常见的疑问做出回答。
+ 提出问题：开源的经济学基础 最为常见的问题误区是什么？ 开源软件开发的经济优势 开源经济的组成部分 总结 接下来的研究和阅读  重要观点汇总 开源仅仅礼物经济吗？ 在开源之道图书和文献共读的2019第一期所读的图书《软件悖论:商业软件的崛起与陨落》导读+书评，有一个重要的软件悖论：软件是如此的重要，是上升到公司战略层次的重要，然而其商业价值却在降低？是什么导致这样的一种情况？ 那么，也就是说过去几十年，商业软件的崛起，让人们产生了一个错觉，那就是生产的软件可以直接当做产品来售卖，而且还价格昂贵。所以，即使到了今天，仍然是大概率事件的是：“所谓做软件，就是生产和售卖软件来赚取利润。”，以至于开源本身的特性之一：可以免费的获取！ 这条就被所有人误解。以至于人们认为开源是和经济不挂钩的，它是道德和理想主义者意念的产物，走不了多远！然而，持这样想法的人是错的。Bruce Perens 开明宗义的告诉你：“开源之有着深厚的经济学基础的！” 不止于 Eric Raymond 在《大教堂与集市》所称的“礼物经济”。 如果仅仅是礼物经济的话，那么后来的各种大公司的介入就无法解释了。那么这个基础究竟是什么了呢？请接着往下读。
+为什么人人都希望是微软？  开源之道注：微软是售卖软件许可商业模式的开创者，也是最大的受益者之一，成就了一个商业帝国！所以这里的微软是指这样一类公司，并不是特指哪家叫做Microsoft的公司。
+ 将软件当做商品来售卖，或者视软件公司为供应商，这是很多人的思路，包括现在的从业人员，当然我们不能指望所有人都有反思的能力。那么就会有人问出这样的问题：“怎么做才能成为一下个微软？”
+ 其实，由于中国长久以来的对于书籍、音像制品的观念，如何以自由开源软件成为下一个微软？ 这样的问题大概才是人们真心想问的。如华创资本的投资人谢佳在知乎上发表了开源102：开源在商业中的竞争优势到了开源中国就被更该为: &amp;ldquo;大厂小厂都在搞开源，它真的能赚钱？&amp;rdquo; 投机者到处都是，不劳而获又不会受到惩罚，又是一个道德大于法律的人情历史国家，从来就不缺乏规则的投机者，那么开源是首先被这些人能够看到，并利用的。所以，这也是这些人经常问的问题。
+ 接下来，Perens 提出了一个现在看来是众所周知的观点，但事实证明，微软模型只占当今企业制作和使用的软件的一小部分。绝大多数软件是企业自身开发的，而不是用来销售的。也就是说所开发的软件和所有的工程问题一样，你得有一个目的：完成某个特定的事！没有一家软件公司可以完成所有的事情！ 理解这一点是解释开源经济的良好开端。
+自由软件与开源的区别 作为“Open Source”的定义者，Bruce Perens 当然对自由软件和开源有着深刻的理解，是平衡的艺术大师！这里他提到开源是基于自由软件的理念的，即 Richard Stallman 在1983年提出的自由哲学！是站在巨人的肩膀上的！
+ 开源之道特别赞赏这样的科学精神，之所以今天能走到这里，全是靠着前人的成果！无论我是顺着还是颠覆。反观国内乱象：总是称自己是石头蹦出来的齐天大圣！
+ 然而，Perens认为：”Stallman 选择了一个吸引程序员的哲学表达。而商人都是实用主义，更感兴趣的是经济利益。” 于是，联合Eric Raymond 选择了以更为务实的方式和商人们接触，并期望这些商人们能够从中看出自由软件的诸多益处。于是，开放源代码定义诞生了！</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 02 10)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-10/</link>
+      <pubDate>Sun, 10 Feb 2019 14:46:01 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-10/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 Stefanie Chiras 的采访：开源的力量 原文链接：Interview: The power of open source
+适兕点评：
+ “Sometimes people forget about the things that have to fundamentally work. But when they don’t work, everything falls apart.” 所谓的技术下沉就是这个道理，不是不重要了，而是成为默认了。“The upstream open source communities become the beds of innovation for everything we do. There are some misconceptions in the industry about open source. There is an onus on the customer, and on us, to ensure the integrity of open source is protected.</description>
+    </item>
+    
+    <item>
+      <title>Apache 软件基金会未来的5年战略规划</title>
+      <link>http://www.ocselected.org/posts/foundation_introduce/five-year-strategic-plan-for-the-asf-2018/</link>
+      <pubDate>Tue, 05 Feb 2019 21:52:33 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/foundation_introduce/five-year-strategic-plan-for-the-asf-2018/</guid>
+      <description>引言 2018年末，开源界最为让人瞩目的事情，莫过于MongoDB、Redis、Neo4j等公司纷纷修改许可证，各种媒体便落井下石，开始煽风点火，称云计算厂商将会把开源吃掉，唯恐天下不乱。然而媒体毕竟是媒体，是开发者之外的世界，永远是“隔着玻璃亲不着嘴”，这不AWS 直接升级为Apache的铂金会员，这直接将国内那些媒体的扇了多个耳光。开源的势头是前所未有的好！ 只是售卖软件许可的商业模式正在走向衰落。而开源发展的最大势力，则是依托于非盈利基金会下的开源项目和社区。毫无疑问，ASF 是其中的翘楚，那么开源之道在新年之际，就和大家一起看看Apache 软件基金会的未来5年战略规划。
+开源之道过去也介绍过Apache软件基金会：
+ Apache 基金会是如何运作的 Apache 2017 年度报告 开放的 Apache 究竟有多开放?   由于本文翻译之 Apache 官网，原文以第一人称写就，开源之道保留第一人称的翻译，特别说明，下文中的我们指代的是 Apache软件基金会。
+ 愿景 我们的使命是根据我们的章程，在Apache许可下免费支持创建和分发开源软件。为此，我们为志同道合的社区提供项目空间和资源，以便在我们的法律保护伞下蓬勃发展，开发和发布软件。
+我们视项目的独立为第一要务，不会受到任何公司、组织或其它外部的影响，这使得我们能够为社区提供中立的立场。
+作为一个基金会，我们并不规划技术战略，而是将具体的技术战略委托于具体的项目。
+Apache 软件基金会是由成员（个人志愿者）管理和指导，在这点上始终坚持如此，Apache 软件基金会没有公司或组织形式的参与，公司和组织也不能成为成员，而且也不能直接参与由Apache托管的项目。
+我们帮助社区了解和实践 Apache 之道，众所周知，Apache 之道是多年以来将最佳实践记录和积淀下来最为有效的协作和让项目可持续性发展的方法论。
+Apache 社区成员均是由独立的个人来担当，成员的权力和责任也是基于他们个人的优点具体而定，他们在社区所做的事情和其本人在外部无关，无论其外部的身份为何（职位、学位、组织贡献等）。
+我们为开源项目提供高可靠、高自动化的核心基础设施服务，当然也鼓励项目成员根据具体自身需求，自行决定是否使用一些非 Apache 基金会提供的服务，当然这些服务是可以让我们更加的专注。为了提高服务的高可靠，我们所有关键的数据和服务都在自身完全可控的系统上进行管理，并做了镜像。
+我们的营销和外展活动，同样侧重于践行 Apache 使命的活动，当然也会兼顾支持和赞助我们的厂商，以及我们自身的筹款。
+我们根据已证明的需求为我们的项目提供法律和品牌管理服务，并定义品牌指导方针，以帮助我们的项目以适当的方式从强大的Apache品牌中受益。
+我们非常欢迎各种新的项目进入 Apache 孵化器，经验丰富的导师将会帮助你，快速的学习 Apache社区和项目的运作方式。孵化器的存在，就是社区所定义和决定的，所以基金会对于项目的孵化阶段是相当的重视，这也是基金会在壮大发展的同时，能够始终坚守价值观的秘诀所在。
+目标  确保 Apache 软件基金会为软件项目的社区提供的服务能够得到明确、清晰的定义，而且能够确保以满足社区期望的形式成功的进行交付。 不断改进我们在识别、吸引、欢迎、发展等环节，以迈向 ASF 的目标: “志同道合的社区”。 以这种方式有效地扩展我们的运营和治理流程，从而让 ASF 继续成为简单的流程、轻量的治理模式、大型的分布式组织，使得其中心业务以符合 PMC 预期为其社区服务的方式服务于项目。 确保 ASF 在计划期限内的没有什么财务压力，并为长期稳定发展奠定基础。  ASF 提供的服务  说到底，ASF 的核心任务是孵化出优秀的项目，并让项目健康的成长，那么围绕这一切就是提供相应的最佳服务。 ———— 开源之道注</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 02 03)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-03/</link>
+      <pubDate>Mon, 04 Feb 2019 11:53:41 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-03/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 Amazon 开源 SageMaker Neo，在边缘运行机器学习模式 原文链接：Amazon Open Sources SageMaker Neo To Run Machine Learning Models At The Edge
+原文链接：Amazon Web Services boosts open source credentials
+适兕点评：
+ 机器学习领域，只有开源！因为没有几个人能够看得懂！从这个角度讲，开源是最为高级的。大自然向所有人开源，但是人类至今没有搞清楚为什么？人类为什么有意识？
+  Neo-AI 这个图很明确的解释了AWS吞噬一切的野心。
+ 发现后 Kubernetes 开源计算时代的平衡之道 原文链接：Finding equilibrium in post-Kubernetes open-source computing
+适兕点评：
+ 哇，已经是后Kubernetes时代了！一不小心就错过了一整个时代。
+ CNCF通过社区聚会来回答供应商的问题 原文链接：CNCF answers vendor-handholding with community meetups
+适兕点评：
+ CNCF 准确的定位自己，那么客户又该如何准确定位社区、基金会、和供应商？这点开源之道可以回答，也应该去说清楚。
+ Shanku Niyogi 加盟 GitHub 担任高级产品副总裁 原文链接：He led open source projects in Microsoft’s early days of exploring it.</description>
+    </item>
+    
+    <item>
+      <title>2019.1 开源之道论文共读笔记及探讨记录</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/paper_reading_notes_2019_01/</link>
+      <pubDate>Sat, 02 Feb 2019 22:30:31 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/paper_reading_notes_2019_01/</guid>
+      <description>一、 《the role of participation architecture in growing sponsored Open Source Communities》 开源之道引言：为什么要读这篇论文？ 适兕观察本土企业活动开源，极少见到公司赞助某个开源社区或者是自己运营一个开源社区，大多数是公司的市场部门赞助一个会议之类的，即使是 OpenSSL 出了 Bloodheart 这样的问题之后，锤子的老板直接给了项目100万，也不过是哗众取宠罢了（因为后来再也未见持续性的投入，就非常的吃亏）。话说回来，既然是个人的观察，会有极大可能有偏见的，比如大多数公司会搞合作伙伴社区、用户论坛之类的，开源社区对于他们离盈利太远！多数人认为是一种慈善的行为，一般言称公司有了钱一定会去做的。但是，社区对于一家公司的益处是由来已久的，而且很多公司就是以社区的名义而成就的，如哈雷摩托等。
+就是这样一个偏差，将我的思考带到了寻求这方面答案的探求上来。随着开源在软件开发占有的地位上升，本土越来越多的企业将自己的项目开源，那么面临的一个问题就是：只见代码，未见社区。于是尴尬的一批，慌的一批。那么我们不妨找出十年前研究开源和开放式创新的经济学家的论文看看，对于企业的决策者或许有一些参考。
+在开始之前，开源之道推荐两篇文章： 1. 来自 forbes 的评论文：开源软件的商业化正站在迷茫的十字路口 https://www.forbes.com/sites/udinachmany/2019/01/16/thoughts-about-2018-the-year-of-open-source-teenagedom/#13701133393b 2. StrictlyVC Insider 系列 之一，http://haystack.vc/2015/09/17/transcript-chamath-at-strictlyvcs-insider-series/
+至于论文本身，却是比较易懂的。开明宗义，企业赞助开源社区与自己所建立的合作伙伴究竟有何不同？通过研究了12个不同的开源项目的社区，来说明这一点。
+技术社区其实由来已久了，很多重要的公司都非常的看中这点，毕竟技术是需要有受众的，也需要不同的反馈的，甚至也需要带来创新的灵感。
+开源技术社区某种程度上就是技术社区的一种，它具有技术社区的机会所有的特征。
+企业赞助建立和运营开源社区其实也有一段时间了，如Mozilla、Fedora等，研究他们的也有了一定的成果。
+企业赞助开源社区要考虑的几件事:1、知识产权 2、开发方法 3、社区治理模式
+开放环境的文化：透明度、可访问性，作为企业该如何考虑这些与自己控制权的问题。
+既然是论文，就是抛出问题，给出研究方法，调查的过程，最后总结下接下来要做什么。大多数时候是没有结论的，需要读者根据自身情况进行探索和反思。
+二、《Nonprofit Foundations and Their Role in Community-Firm Software Collaboration》 该文是 Siobhán 在2005年为《Perspectives on Free and Open Source Software》 一书写就，交待了个体开发者的历史传统和诉求，以及成立非盈利基金会的伦理、法律境遇，然后是基金会成立的借鉴场景，介绍了截止到2005年基金会发展的时间轴，并以Debian、Apache、Gnome三大典型基金会为案例详细讲述了理念、孵化项目的原则等，最后则阐述了商业公司对于这些组织的诉求，有关发展的平衡艺术。总而言之，这是一篇难得的质量上乘的文章。
+一图形象的解释了开源社区、基金会和商业公司的关系。实在是高明啊，我怎么原来没有读过这本书了呢？真是罪过。
+三、《Contrasting Community Building in Sponsored and Community Founded Open Source Projects》阅读笔记 来源：38th Hawaii International Conference on System Sciences</description>
+    </item>
+    
+    <item>
+      <title>如何评估一个 Linux 发行版的总体成本</title>
+      <link>http://www.ocselected.org/posts/open-source-economic/estimating-the-total-cost-of-linux-distribution/</link>
+      <pubDate>Thu, 31 Jan 2019 19:58:16 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/open-source-economic/estimating-the-total-cost-of-linux-distribution/</guid>
+      <description>开源之道引言：为什么要翻译十一年前的一份白皮书？ 答案很简单，就是要学会算经济账，一个开源项目，尤其是大型的、经过多年开发的，企业利用该项目就要在开始的时候算好一笔经济账，它不是零成本，它像一个快速向前滚动（发展）的巨大磁石，如果你没有投入，那么很快便失去了任何的话语权，经过一段时间，则会被狠狠的甩下，体无完肤！不仅失去了创新的能力，而且成为了自己最大的负担。最后以失败而告终。
+如果单单的只是将项目的某个时间的临时性成果来作为自己的产品或服务，那么就要想好要不要跟上步伐，要怎么跟？不过这些都要基于一个基础：这个阶段性的成果总成本是多少？该如何评估？于是就有了这篇文章。
+介绍 Linux 操作系统是历史上最为成功的开源项目，但是一个Linux发行版中的软件究竟“价值”多少钱？2002年，David A. Wheeler 发表了一份备受后人推崇的研究，其指出典型的Linux发行版中软件代码行数的意义所在。那么他的发现是什么？结果令人震惊：典型Linux发行版中的总开发成本高达12亿美元。我们将基于 Wheeler 先生的发现而继续挖掘。使用相同的工具，我们重新以当前的美元来计算，构建 Fedora 9发行版的成本需要大约108亿美元。另外，仅内核一项的开发需要约14亿美元，本论文概述了我们研究过程中使用的技术，并指出开发 Linux 的成本计算模式。
+Linux操作系统是当今计算中最流行的开源操作系统，在2008年，它意味着是一个价值250亿美元的生态系统。自1991年创建以来，它已发展成为计算机领域的一支重要力量，为纽约证券交易所、移动设备、超级计算机、消费设备提供重要驱动力量。
+作为一款开放的操作系统，Linux是协同开发的，这意味着没有任何一家公司对其开发或持续的支持负全部责任。参与 Linux 开发的公司与其合作伙伴、竞争对手分担着研发成本。这样的开发模式进一步发展为个人和公司共同承担，进而成为一个超大型的、生机勃勃的生态系统，而且驱动着无穷的创新力量。
+超过1000多名的开发者，他们来自不同的公司，公司数量至少在100家左右，仅在过去两年中，来自200家公司的3200多名开发人员就为内核做出了贡献。值得注意的是，内核只是Linux发行版的一小部分，一款完整的Linux发行版，不仅包括内核，还有诸如Gnome、KDE桌面环境、GNU 组件、X window 系统等等很多组件。为这些项目做出贡献的个体开发者总数肯定会达到数千人。
+正因为 Linux 是协作开发的，因此无法从某个单一的来源来估算开发该项目的成本。2002年，David A. Wheeler发表了一项备受好评的研究，该研究检查了典型Linux发行版中存在的软件代码行（基于Red Hat Linux 7.1），他总结说 - 正如我们所做的那样 - 软件代码行数是确定开源软件价值最实用的方法，因为它专注于最终结果而不是每个公司或每个开发人员的估算。使用他开发的用于计算和分析SLOC（软件代码行数）的行业标准工具，他确定在美国通过传统的封闭方法开发 Linux 发行版将花费超过12亿美元。
+但那已经是6年前的事情了，由于Linux的创新和增长速度每年都在增加，因此我们有必要更新这个12亿美元的数字，从而希望能够准确反映当今Linux中开发的真正价值（以及软件开发本身的成本上升）。在本文中，Linux基金会着手确定典型Linux发行版中所代表的总开发成本，并更新自2002年发布以来广泛使用的12亿美元数字。
+我们分析了2008年5月13日发布的Fedora 9发行版。之所以选择Fedora，Fedora 是一种流行度蛮高，口碑也还行的 Linux 发行版，它也是红帽企业Linux的原型，而红帽企业级Linux则是拥有Linux市场的很大份额的发行版。更何况还是Wheeler在其原始论文中分析的Red Hat Linux 7.1软件的直接后代。
+在本研究中，我们使用了 David A. Wheeler 所开发的 SLOC 工具 —— SLOCCount。SLOCCount 用到了行业标准建设性成本模型（COCOMO），该模型是由 Barry Boehm 开发的算法软件成本估算模型，该模型使用基本回归公式，可以传入从历史项目数据和当前项目特征派生的参数。我们从2002年开始更新他的研究，包括不断增长的Linux内核代码库和其他软件包，以及软件开发人员的薪水。（关于此的更多细节将在下文的“方法论”部分中进行详细讨论。）
+基于该方法，如果是采用传统的封闭方法来开发这样一个规模的Linux发行版的话，我们估计需要108亿美元（2008年）。
+方法论 我们的基本方法是：
+ 以非压缩格式安装源代码文件;这需要下载源代码并在我们的测试机器上正确安装。 计算源代码行数（SLOC）;这需要仔细定义SLOC。 使用估算模型（基于COCOMO实践）来估算以专有方式开发相同系统的工作量和成本。  如果大家对于我们是如何安装和分析源代码感兴趣的话，请参阅附录内容。
+为了延续原作者的研究，我们决定使用和2002年所采用同一套基础代码，即选择了 Fedora 社区发行版，这也是红帽企业Linux（RHEL）的基础平台。经过一番考量，我们决定采用 Fedora 9 这个版本。我们统计了所有在 http://mirror.</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 01 27)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-27/</link>
+      <pubDate>Sun, 27 Jan 2019 22:55:55 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-27/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 Linux 基金会成立了边缘计算子基金会：LF Edge 原文链接：Bringing open-source rhyme and reason to edge computing: LF Edge
+原文链接：Linux Foundation Fosters Unified Open Source Framework For The Edge
+适兕点评：
+ 其实关于新闻本身没什么要说的，我想说的是新兴技术，或标准、或项目，往非盈利基金会托管的这样的模式，正在成为主流。
+ Google 和索尼合作推出开源的 VFX 渲染 原文链接：Google partners with Sony Pictures Imageworks to launch an open-source VFX render manager
+适兕点评：
+ Google was also a founding member of the Academy Software Foundation, an open-source foundation that focuses specifically on tools for the film industry.</description>
+    </item>
+    
+    <item>
+      <title>Linux基金会企业开源指南系列之十二 ———— 企业开源战略制定</title>
+      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/setting-an-open-source-strategy/</link>
+      <pubDate>Tue, 22 Jan 2019 09:22:53 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/setting-an-open-source-strategy/</guid>
+      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
+引言 企业利用开源主要是要理解其价值，并对开源的诸如高效、灵活、互操作性强、快速的创新等优点有足够的认识。然而，现实的情况却远远不是这样，据最新的一项关于开源未来的调查显示，参与调查的公司有半数以上仅仅实践了基本的开源管理，如社区开发、代码维护诸如此类的，距离战略还有很长一段距离。
+创建开源战略，并将之诉诸文字，是意识到开源的投资回报率的重要的第一步。贵司的开源战略和管理、参与、创建开源软件的计划与计划所服务的业务目标联系起来，这将开启很多的机会并加速创新。
+为什么要创建业务战略？ 将贵司的开源管理纳入正式的方法论，并以战略形式来重视，是有效提高效率和减少风险的途径。无论贵司现在是否围绕开源相关制定了业务战略，但是一定明白这件事非常的重要。
+增加开源投资的关键第一步是创建战略文档。这么做可以帮助贵司最大化的从开源当中获益，同时避免因错误而导致的麻烦，例如选择了错误的许可证，亦或无法正确维护代码。战略文档应包含以下几点内容：
+ 让公司的领导有意愿并积极的参与
+ 获得公司内部各级的认可 促进分散的多部门组织的决策 帮助个人和发明者做出更好的决策 帮助围绕发明构建一个健康的社区 对贵司的开源方法论进行最终的解释，并支持它积极的落地 明确贵司在社区驱动的外部研发中愿意投资的地方，以及贵司将重点放在那些有增值差异化的地方   “如果你没有在开始的时候就在高层达成共识，就政策细节和流程投资达成协议往往是非常困难的，甚至是不可能的。” Ibrahim Haddad, 三星研发副总监兼开源实验室头目在其著作《企业合规性》中如是说
+ 开源战略文档 让我们首先明确一下最终的目标，然后再来诠释一下如何才能够达成目标。你的目标就是将开源战略的所有细节都记录在案，所有人都可以随时随地查看，包括但不限于工程团队、法律团队、营销人员、各个管理层等等。该战略文档可以很好的帮助人们理解开源项目背后的业务对象，从而确保更佳的决策制定、最小化风险。
+ “ 在 Salesforce，我们会将内部的文档分发给工程团队，围绕开源为他们提供指导并激励他们。这会鼓励大家使用开源项目，乃至创建开源项目，让工程师们清晰明白的理解拥抱开源是公司管理层的决定，并获得完全的支持，另外，如果我们不希望工程师们使用某些许可协议的代码，或者是其它类型的开源向导，我们的内部文档均会明确的进行说明。” – Ian Varley，Salesforce 软件架构师
+  退一万步讲，文档最起码应该做到：  解释贵司的开源方法论以及文档背后的目的。 贵司自身所追求的成功样子是什么？开源在其中将扮演何等角色？
+ “以 Autodesk 为例，我们新的开源方法论背后的原因是让公司迁移到云计算相关，因为Autodesk 的产品聚焦于向云计算环境的转型。现实的情况就是：‘构建在云端的技术均是基于开源的，所以必须慎重思考开源战略’。” – Guy Martin，Autodesk 开放总监(Open@ADSK).
+  明确指出贵司的开发者如何使用开源代码： 如果代码从具有不同许可设置的项目进入您的某个产品，该怎么办？开发人员应遵循哪些接受、拒绝、例外的策略？贵司对开源开发整体的立场又是什么？一份好的战略文档应该明确回答这些问题。 明确指定贵司的开发者如何贡献代码到上游开源项目，且要明确哪些项目对于贵司的业务战略很重要（且鼓励开发去做积极的贡献）： 如果开发人员想要将代码从一个开源项目贡献给您正在处理的项目，但这两个项目有不同的许可证，该怎么办？开发者如何贡献方能达到一个良性的循环，即最佳的平衡？即收获和付出是称正比的。 这些考量都要纳入到战略的制定中。   “ 如果贵司的产品严重依赖于某开源项目，然而贵司在该项目并没有任何的话语权，公司也没有打算去获得领导力，那么贵司的业务就是出于严重的风险当中。” – Guy Martin,Autodesk 开放总监(Open@ADSK).</description>
+    </item>
+    
+    <item>
+      <title>Linux基金会企业开源指南系列之十一 ———— 打造开源社区领导力</title>
+      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/building-leadership-in-an-open-source-community/</link>
+      <pubDate>Tue, 22 Jan 2019 09:13:45 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/building-leadership-in-an-open-source-community/</guid>
+      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
+打造开源社区领导力 融入到开源社区是需要花费一定时间且付出一定努力的，甚至产品的开发策略也得做一些变化。过去那些传统的、私有的开发需要秘密的进行、严格的层级管理，而开放的开放方法则需要更为开放的环境和共同的价值取向。代码贡献决定影响力和技术方向，而不是官衔、或公司的位置，这是开源项目中最大的特色。
+开源项目是在多样化和全球化的环境中所开发而成，它本身拥有属于自身的角色、约定俗成、工具、以及流程。简单地说，每个社区均拥有自己独特的文化、且花时间去建立信任和合作的方式，在开源当中理解相应的文化需要一番努力，这一点无可否认。
+本指南诠释了作为一家公司如何在开源项目中打造领导力和影响力，当然这些开源项目可能是该公司在商业上所依赖的而且已经参与到项目中的。在本指南中将会学习到在开源项目的领导力文化和角色、他们是如何做决策的、作为公司又该如何打造领导力、以及在开源社区中成为一个优秀的领导者的几点特征。
+为什么要在开源项目打造声望 虽然开源文化是有关协作的，但上游的贡献只是塑造开源项目进展的第一步。 如果项目对贵公司自己的产品至关重要，那么在指导或影响项目方向方面发挥积极作用也很重要。
+尽管开源项目已经无数次的证明了自身协作的价值 ，当然尤其是 —— 和竞争对手一起协作的时候，拥有能够影响项目进展的能力很明显超越了竞争对手。这就是为什么要在开源项目中打造和维护领导力是企业的关键战略和目标。说虽然这么说，但是在开源中打造声望可没有那么简单，不是说敲敲桌子就可以的，是需要雄厚的资金实力的。
+开源中的领导力文化 作为企业，很自然的会认为开源社区的领导力和公司内的领导力是一样的，天下的乌鸦一般黑。可是越是直觉相信对的事，往往都是错的。
+来自 Autodesk 的开放总监 Guy Martin 解释说：”公司往往会想’哦，不错，我们是大公司，为什么我们不将自己排在首位，让社区先做我们的事情？’，随着时间的流逝，他们慢慢会发现这样的思考是错误的。也会逐渐理解想要获得影响力的唯一方式是在社区中赢得，获得信任的唯一方式是做出贡献。”
+ 为什么要在开源领域中获得领导力？ 1.贵司产品依赖于开源软件和技术（而且是来自社区主创的项目）。 2.开源为贵司提供了快速的创新之路，从而让公司专注于客户的增值和燃点。 3.开源统治着软件的生态（换句话说，即“软件正在吞噬世界”）。 4.软件（相比于硬件)是企业的核心价值差异化的因素，它正在重新定义整个行业。
+ 公司领导力与开源领导力之间的异同 虽然在开源项目中获得领导力对于公司在商业领域的成功至关重要，但采用这种全新的产品开发方法往往是违反直觉的，在开始时往往还蛮尴尬。
+传统上，私有的开发方式需要秘密的进行，且有着严格的层级管理。然而，在开源的开发方式中，职位和头衔都是毫无意义的，相反，开源的开发更加重视开放和共识。
+在开源项目中，代码的贡献才是决定影响力和技术方向的真实情况，这也就意味着不可以在代码贡献中滥竽充数，它必须是真材实料，并以有意义的形式推动项目的进展。
+在开始的时候，为上游做贡献以及开放式的协作，那种感觉好像是把自己的储蓄拿出来散掉一样，但是这样的感觉并不是真的，相反，这是思维和行为发生变化的一种错觉，要知道这在创新和经济上都是益处多多。
+关于开源的领导力可以从以下几个角度思考：
+ 影响，而不是控制 透明度是作为众包解决方案的手段，而不是单纯的曝光 领导，而不是听之任之   &amp;ldquo;想要成功的从私有开发转型到开源的头脑和文化中是需要付出时间和努力的，而且要经常隔三差五的提醒自己。”Ibrahim Haddad，三星电子研发副总裁和开源负责人
+ 来自三星的 Ibrahim Haddad 还特意创作了下面的图表供大家做参考:
+治理概览 就目前而言，开源社区的治理向导理论水平还差很远，也就是说资料还蛮少，但是这并不意味着社区本身就缺少相应的治理。对于社区来讲行为准则和社区指南都是独特的，但多数时候是说明一些那些行为是受欢迎的，那些行为又是被明令禁止的，而至于治理策略，则会详细的说明该开源项目的政策、组织架构、开发路线图等。维护条款通常是用于一些具体的项目决策，如软件的更新。
+但是围绕项目和社区的治理并不能代表公司整体的治理政策和问题。因为开源软件经常会是消费的部分、也是贡献的内容、甚至是商业公司有兴趣的重新分发和产品化的内容，所以，开源治理有必要成为整体 IT 治理的必要的部分。
+企业通常会遇到一些相类似的问题，如多个部门是如何采用开源项目的、贡献到上游社区采用不同的方式、内部创建的开源项目也是不同理念。那么开发一个标准集对于这些混乱的场景是很有帮助的。
+来自 Autodesk 的开放总监 Martin 分享道：“在 Autodesk，我们对于贡献上游采用的是一个流程，作为一个工程师我将之流程化，我并不希望出现为了只有5行代码的缺陷修复，需要参考 500页的文档，以及十几种不同的流程，所以我与合规团队一起工作，将工作流程简化到极致，以让工程师们可以在合理的时间内完成它。 同样，公司内部创建开源项目也采用了同样办法。“”
+每个公司最好在自己的开源治理政策和流程中制定详细的处理法则，从而实现最适合自己公司实际运作的方式;也要实际上反映社区这个层次的最佳治理。但是，请一定注意，不同的开源活动需要制定不同的流程，没有什么”一招打遍天下的功夫”。</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 01 20)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-20/</link>
+      <pubDate>Sat, 19 Jan 2019 11:30:00 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-20/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 开源正式物联网安全加固的关键 原文链接：Open source may be the key to securing IoT
+适兕点评：
+ WhiteSource写的软文，开源和安全的关系，其实和原来闭源和安全的关系是一样的，不过这样防御和对抗过起招来更加的透明化而已！但是对于小白用户来说，只有用户界面，软件和代码乃至数据对于人们真的那么的在乎吗？法律何在？政治何在？社会又何在？
+ Apple 的 FoundationDB 开源其 CloudKit 后的数据库层 原文链接：Apple’s FoundationDB open sources the database layer behind CloudKit
+适兕点评：
+ 去你4月份开源的Apple NoSQL 项目，然后慢慢的开源周边其它的内容，软件的发展已经不是一个项目就是一个技术栈的局面了，而是一个项目仅仅是庞大架构中的一小部分，也就是说人们看到某些公司的几十个项目，不过是整体的冰山一角罢了。基本没啥用。Apple 是一家非常善于利用开源的商业公司！他们运营的开源项目理应分析学习。
+ 开源虚拟化平台重要指南 原文链接：The essential guide to open source virtualization platforms
+适兕点评：
+ Xen、KVM、基础的虚拟化技术，成就了虚拟化云计算时代！但是历史不是一下子就被取而代之的，而是慢慢的交叠期，拥抱前沿即走向下一个时代，没有则继续留在这里。
+ 企业开源 2019 的趋势 原文链接：Open Source for Enterprise Trends in 2019
+适兕点评：
+ 来自 SUSE 亚太区的观点：Software Defined Approach to Data Management、Public Cloud for Industry-Specific Needs、Machine Learning and Open Data、Security at Developer Level ，预测这类事情总是危险的，谁也说不准。</description>
+    </item>
+    
+    <item>
+      <title>《软件悖论:商业软件的崛起与陨落》导读&#43;书评</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/the-software-paradox-book-review/</link>
+      <pubDate>Thu, 17 Jan 2019 10:16:30 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/the-software-paradox-book-review/</guid>
+      <description>开源之道共读圈精彩评论  很是认同 ”The Challenge of Developer Empowerment” 的讨论。我很认同 Enterprise-focused sales forces -&amp;gt; technical evangelists and developer engagement professionals 的转变。 以前企业卖产品，由于信息不对称，只需要搞定CIO就可以了，卖得再贵都没有关系。 现在开源来了，客户的能力也提升了， 虽然开发者手里没有钱，但是利用开源项目可以攒出来很多解决方案，企业级软件产品销售模式发生了改变，越来越向围绕着开发者进行公关。开发者生态，社区的价值就越来越大。 ———— Apache Member 姜宁
+这是一本每位计算机相关专业同学和职场人士都应该读的书，开源正在成为一把打开未来之门的钥匙，拥有了它，你才能更好的理解这个软件定义一切的世界，进而在这个数字时代安身立命；除了开发者，创业者和投资人也应该读，开源同时作为一种科学与人文精神开始渗透到整个IT产业中，有了它你可以更好的掌握时代脉搏、构建你的产品、打造你的商业模式，进而在整个行业中生存与发展。 ———— 开源社理事，华东师范大学研究员 王伟
+A must for anyone worried about making money with software, specially for startups that need to design a business model. &amp;ndash; 亚马逊读者 Raul
+Best part of the book was the discussion of shift towards making money with software instead of from software.</description>
+    </item>
+    
+    <item>
+      <title>Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目</title>
+      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/shutting-down-an-open-source-project/</link>
+      <pubDate>Wed, 16 Jan 2019 10:48:03 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/shutting-down-an-open-source-project/</guid>
+      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
+如何优雅的关闭一个失败的开源项目 当一款开源项目对于贵司来讲已经没有意义，或者说处于各种缘由，需要将投入开源项目的资源撤离，这个时候或许作为读者的你还有些困惑，请放心，本篇指南就是专门为你遇到这样的情况所准备的，该指南为贵司和贵司的开发团队提供一些关于关闭开源项目的建议。通过优雅的关闭项目，或者是将项目转移给愿意继续负责的团队，确保贵司是以一种责任感的方式来认真对待项目的整个生命周期的。基于这样一个前提，要为项目的用户设定合理的期望，以确保其能长期项目对项目代码的依赖关系保持下去，并也可以维护贵公司作为一个参与者在这个开源项目中负责的声誉。
+本指南会帮助你决定一个项目何时不再有用、理解如何从项目撤离、确认准备进入开始一个新项目时，如何处理原有项目中的代码、仓库、网站，维基以及其他项目资产。
+开源项目的生命周期规划 当软件开发者开始构思和开发新的且是关键业务需要的开源项目时，他们通常会为每个项目的生命周期制定明确且具体的规划，从其诞生到终止。且这些规划也要列为企业整体开源战略的一个部分来执行，和其它所有的项目一样受到监管。
+这些努力均是为未来的项目所遇到的一些情形做好充分的准备，它们包括：关闭一个项目、项目要转交给更感兴趣的用户组、公司主动交出控制权等，优雅的关闭一个项目是企业对项目、用户以及支持这一切的开源社区所应承担责任中的一部分，尤其是转交的时候，顺利的过度是大家都希望看到的。
+为什么说生命周期的计划很重要 其实为一个可能性很大的即将死掉的开源项目没有什么特别的，和多数的生命周期规划没啥区别，如私有软件规划、IT系统硬件部署、乃至更为广泛的业务决策等。对于开源的规划而言，项目的声明周期规划应包括传统的生命周期评估，如项目范围、发展愿景的概述，以及项目增长的估计，乃至开源特定的内容如规划社区构建、早期用户采用、用户的反馈和参与纳入等。
+任何项目不可能永远保持增长的势头，用户的使用也有一个最高限度，这些都是意料中的事情。即使是最为成功的开源项目，也可能随着商业计划的改变、新技术的取代、更为创新的技术来临等因素，创始人和用户最终也要放弃它们。因此，凡是想周全了，再乐观的心态，也要有做好打算。
+生命周期结束的开源项目该是个什么样子？ 如果贵司的的开源项目遇到这样的情形，平日里较稳定的贡献或提交量突然出现了下降趋势，不要慌张，它并不意味着项目已经完蛋了。它大多数的情况是项目成熟的标志，已经达到了开发的预期目标，用户的需求减少不需要特别的跟踪和更新，这是一种好的现象。
+但是，上述情况未必是经常有效。如果说项目的采用人数、以及使用代码的开发者都在明显的减少，那么这极有可能是人们对项目的兴趣正在降低，该项目正在走向死亡的路上。另外，判断项目是否就要完蛋的指标有：项目活动的整体水平、用户是否有发布问题并参与关于代码的问题在线讨论。
+需要引起注意的问题迹象 一个死去的或者正在死去的路上的项目通常是有特定的问题的，诸如没有处理好关于开发方向的不同，又或者是过去关键的贡献者跑到了新的感兴趣的项目了，等等不一而足。一个明显迹象是，其他人与您的团队成员的观点缺少一致性，或社区询问是否要继续项目，还是要结束或彻底放弃项目。另一个迹象是您的社区不再修复或更新代码来解决其中的漏洞。
+ “如果你的项目没有人提出问题、如果没有人作出贡献、而且看起来还没有什么用户使用、也没有什么其它项目依赖，那么所有这些很可能就是巨大的警告！或许项目没什么问题，但是如果项目真的遇到问题了，就要认真的去找下原因了。” – Dr. David A. Wheeler，Linux基金会核心基础设施研究 （CII）开源专家和两个项目的领导者。
+ 其实，即使是眼见确凿的数据都有可能是一种假象。因为有些情况确实特殊，比如经常对你的代码访问是通过其它应用程序间接的包管理器访问的，而不是通过直接下载的方式。那么遇到这种情形的话，就很难知道到底有多少用户，只能通过生命周期来进行更为准确的跟踪。
+为什么要在一个项目尚未启动时就规划好其结束？ 一如规划开源项目的其它事项，有关在某一天如何终止或转交项目的决策，同样是项目生命周期的重要部分。
+为什么这么做了呢？因为没有周全的考虑，就不会保护好社区和用户，就可能对于公司的声誉在开源社区和项目本身内有所损害。如果你管理着一个开源软件项目，要记得开源项目从来不是一座孤岛，它有太多的依赖，而一旦被其它所依赖的话，就更要负起责任来了。当然，贵司可以选择改变项目方向或状态，但是你的责任是能够清晰的、及时的、开方式的沟通将这些变更传递给项目的用户，以让他们有充足的时间做好相应的应对方案。在没有将项目的规划告知用户就结束一个项目并彻底放弃代码的行为，是非常不负责任的行为。
+维护贵司的声誉 让项目的其它用户陷入困境肯定不是贵司的初衷。在开源的世界里，尤其对这个问题不可以掉以轻心。当然这并不是说要在项目开始之前就去事无巨细的做所有可能的退出计划，但是一个高效的、开放的社区有利于让用户确保贵司不用轻易的放弃项目，尤其是不会一声不响的就丢弃掉，而且能够表达贵司会努力的让项目成功，而不会置用户于不管不顾。另外，通过构建、开发和推广代码的方式来将项目更加的易于 fork，你的项目是可以提供更为灵活的转交能力到其他参与到项目的开发者的。事情就是这么个道理，尽管你毋须事无巨细的规划每个退出的细节，但是有必要做一些基本的事项，如用户具有知情权，贵司需做到信息的透明和公开。
+寻求建立多元化的贡献者的基础 代码贡献者的多样性，对于帮助开源项目的增长是有着非常大的帮助的，它可以为项目带来诸多益处，如新的想法、深入解决问题的可能性、以及代码可以让更多的开发者看到。而且对于贵司决定离开或结束项目也是有益处的。由于多样化社区的参与，你有很大机会找到对项目维护有兴趣的社区成员，扩大贵司未来转型的选择范围。如果最终贵司还是决定了要离开项目，那么就可以非常顺利而愉快的交接到更感兴趣的维护者手中，让项目继续前行，而不是让它悄无声息的死掉。
+这些前提的基础工作对于项目成功的建立一定的信任度至为关键，其是一个健康的生态系统的前提，也是围绕项目构建必要的商业依赖的充分条件。
+ “当你开启项目时，你需要尝试赢得人们的信任，消除他们对于加入项目的疑虑，而且放心的使用你的代码。在这之后，如果你说：‘大家好，这个项目可能无法继续了。‘ 这对于信任一点帮助都没有。而你应该说，如果有一天，项目可能不得不结束，您将会尽全力去解决问题， 并且应该保证您不会将用户弃之不顾。告诉他们，您会告知他们您的每一步工作的内容。在进行项目转交时，给他们时间去适应，您还需要努力帮助完成项目转交时可能有所帮助。” – Dr. David A. Wheeler，Linux基金会核心基础设施研究 （CII）开源专家和两个项目的领导者。
+ 决定您何时结束、转交或退出一个开源项目 无论什么原因，都可能遇到这样的几种情形：开源项目需要终结、需要转交给其它实体单位、亦或者是贵司决定从某参与的项目中退出，无论哪种情况，都要做出决断的。至于原因吗，有可能是贵司的目标发生了变化，也有可能是项目和新的方向不再匹配，又或者是项目的关键人物/团队离开了公司，亦或是项目的成长情况：参与度、更新周期、采用的下降等因素所导致。也有可能是因为在关于项目未来发展的问题上，社区成员之间出现了分歧，这些使项目看起来需要做出一些改变。
+分歧会影响新项目的方向 在项目的社区内部如果发生了严重的分歧 ———— 不管这个分歧是什么，关于技术也罢，许可协议等等 ———— 你都得考虑项目需要分离，让对不同方面感兴趣的人们做他们认为重要的事情！我们可以回顾一个例子，就分离这件事对于1991年创建 Linux的开发者 Linus Torvalds 来说触动很大，Torvalds 一直以来都是基于Minix进行开发的，Minix 以一款类Unix的小型操作系统，其内核由Andrew S. Tanenbaum所开发，主要是用来教学。随着项目的发展，和Torvalds对其范围和愿景的不同，Torvalds 将项目从 Minix 分离出来创建了日后重要的开源项目Linux。</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 01 13)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-13/</link>
+      <pubDate>Sun, 13 Jan 2019 12:29:49 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-13/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 开源变现创业公司TideliftB轮融资2500万美金 原文链接：Open source monetization startup Tidelift raises $25m series B
+原文链接：These former Red Hat employees just got $25 million to try to find a new business model for open-source software
+原文链接：Tidelift: We Support the Long Tail of Open Source Projects
+适兕点评：
+ 前红帽CEO的开源理解，不过还是路与桥给的灵感。“Our bottom line is that open source doesn’t just need ‘funding.’ It needs a business model that works for creators and users alike, at massive scale.</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2019 01 06)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-06/</link>
+      <pubDate>Mon, 07 Jan 2019 22:26:04 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-06/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 Linux基金会网络进一步加强开源网络 原文链接：LF Networking Moving Forward to Consolidate Open Source Networking Efforts
+适兕点评：
+ 说实话，这一年的网络子基金会没什么进步，网络毕竟都是从传统的电信厂商过来的，标准的争夺根深蒂固，难以改变。所以，开源的方式在他们看来就是标准的再争夺。所以偏离了当年成立基金会的主旨。再过一年可能项目就各奔东西了。
+ 来自Linux的洞察：2019我最期待什么 原文链接：From The Linux Perspective: What I Am Most Looking Forward To In 2019
+适兕点评：
+ 这么具体的一系列的功能特性对于很多项目真是一件奢侈的事情，但是Linux就是这样。日渐成熟的Linux！
+ 区块链进化：新形势需要新模式 原文链接：Blockchain evolution: New results require new models
+适兕点评：
+ 唯有创新才是出路，是的，区块链绝对是革命性的产物，但是它也在很多领域破坏现有的秩序，那么就会有一些困难。假以时日，这可能是赢得人类社会信任。
+ 2018年关于Linux和开源的5个顶级故事 原文链接：The top 5 Linux and open-source stories of 2018
+适兕点评：
+ 我这两天也在思考、总结去年一年开源的动向。当然我更加关注本土的进展。但是不知道从何而起。
+ 树莓派洞见：35美金的计算机改变世界的故事 原文链接：Inside the Raspberry Pi: The story of the $35 computer that changed the world</description>
+    </item>
+    
+    <item>
+      <title>开源之道2019年计划表</title>
+      <link>http://www.ocselected.org/posts/planing_and_reflection/2019/planning_and_schedule_of_year/</link>
+      <pubDate>Mon, 07 Jan 2019 15:33:33 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/planing_and_reflection/2019/planning_and_schedule_of_year/</guid>
+      <description>引子 具体事项 一 /2019-01-03 Linux基金会企业开源指南系列之九——公司如何提升开源开发的影响力 来自英文：Improving Your Open Source Development Impact 二 /2019-01-10 Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目 来自英文：Winding Down an Open Source Project 三 /2019-01-17 Linux基金会企业开源指南系列之十一 —— 在开源社区中树立领导力 来自英文：Building Leadership in an Open Source Community 四/2019-01-31 Linux基金会企业开源指南系列之十二 —— 制定企业开源战略 来自英文：Setting an Open Source Strategy 五/2019-02-07 Apache 基金会未来5年计划 来自英文：Five-year Strategic Plan for the Apache Software Foundation 六/2019-02-13 如何评估一个 Linux 发行版的总体成本 来自英文：Estimating the Total Cost of a Linux Distribution 七/2019-02-15 一份被忽略的开源经济学报告 —— 再读 Bruce Perens 八/2019-02-16 云原生的旭日东升 —— CNCF 2018年度报告解读 九/2019-03-10 区块链将会如何影响开源来自英文：How blockchain will influence open source 十/2019-03-31 如何参与到 Linux 社区中来 来自英文：How to Participate in the Linux Community 十一 来自英文：6 ways a thriving community will help your project succeed 十二 如何决定是否开源您的SaaS解决方案 十三 将SaaS开源之后所面临的可能挑战 十四 来自英文：Growing a contributor base in modern open source 十五 来自英文：FOSS as a Part of a Corporate Sustainability Plan 十六 ／2019-04-19 开源之道解读红帽企业开源调查2019 来自英文：红帽企业开源调查2019版 十七 []() 职业生涯 来自英文：Lessons from a brief career in open source 十八 []() 来自英文：6 reasons open source is good for business 十九 []() 来自英文：Why events matter and how to do them right 二十 []() 来自英文：Be a force for good in your community 二十一 []() 来自英文：What engineers and marketers can learn from each other 二十二 []() 来自英文：Open is a means, not a movement 二十三 []() 来自英文：Open core, open perimeter, and the future of enterprise software 二十四 []() 来自英文：Openwashing: adopter beware 二十五 []() 来自英文：How to manage casual contributors to open source projects 二十六 []() 来自英文：Why I love technical debt 二十七 []() 来自英文：Asynchronous decision-making: Helping remote teams succeed [ ] 二十八 []() 来自英文：Effective Ways to Get Help from Maintainers</description>
+    </item>
+    
+    <item>
+      <title>Linux基金会企业开源指南系列之九————公司如何提升开源开发的影响力</title>
+      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/improve-open-source-dev-impact/</link>
+      <pubDate>Thu, 03 Jan 2019 09:00:10 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/improve-open-source-dev-impact/</guid>
+      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
+改进贵司的开源开发影响力 开源的开发方式对于绝大多数公司所习以为常的软件工程有着非常不一样的内容，当然也不要畏惧或排斥它，凡是尽力计划就好。不过值得庆幸的是，贵司并非是拓荒者，已经有很多的公司和个人通过战略性的方式已经成功的为重要的开源项目做出了贡献。本指南将会帮助读者你和贵司来改进内部的开发流程，并会帮助贵司准备好贡献到开源项目中，尤其是对于贵司业务很重要的开源项目。众所周知，能够贡献到 Linux 内核对于开源开发者来说是最具挑战性的事情之一，所以本指南就以贡献Linux社区为例说明，这件事本身就极具代表性。当然，本指南对于其它的开源项目也具有普适性。
+什么是开源开发的影响力？ 开发者的贡献作为贵司开源项目办公室实现业务目标（贵司开源战略的支撑）的主要方式，其实有多种影响开源项目方向的办法，从在不同的环境下测试代码、为代码添加文档注释，到资金赞助项目或基金会、参与项目委员会、甚至是在其它开源项目中引入现在的开源项目等等，但是归根结底，贵司在开源项目中的影响力来自代码贡献的质量、数量和一致性，才是发挥最大影响力的因素。因此，为贵司的团队提供高质量、高效的代码工具和流程，才是符合贵司最佳利益的方式。
+拥有影响力的开源代码，是可以影响贵司所贡献的开源项目的技术方向的，而且能够以最少的代价来维护代码，同时还提高产品质量。
+通过开源的贡献方式来改进贵司开发团队的效率是本指南的目标。通过帮助贵司开展本指南所推荐的开源开发最佳实践，贵司可以实现以下几项内容：
+ 减少产品团队的工作量 最小化维护源代码和内部分支的开销 改进代码质量 加速开发周期 开发更稳定的代码以作为产品的基础 在关键的开源社区提高贵司的声誉  开源项目办公室在开源开发中所扮演的角色 贵司的开源项目办公室会对产品产生影响，无论它是直接的影响还是间接的左右，也无关具体的采用形式，即不管是公司内部的基础设施或服务，还是作为商业产品来提供。而且这些影响是可以度量的，如果有不足的情况，也会可以科学改进的，这些影响甚至还能够生成精确的报告，让你来向公司的领导层进行汇报 ———— 可以展现开源项目的价值以及所带来的投资回报率。
+直接影响 开源项目办公室可以直接影响贵司的开源代码开发，即通过贡献代码本身。每家公司都会根据最适合其自身业务目标发展和最适合公司结构的方式构建开源项目和工程贡献（请参阅我们开源项目指南中的如何创建开源项目办公室）。但是贡献代码仍然是影响开源项目的最佳方式，也是在开源社区中赢得声誉的最佳方式。
+就三星来说，开源项目办公室有其自身的工程团队，为了满足公司的研发部门和产品团队的开源开发需求而设。项目办公室也会帮助三星内部的代码贡献到各式各样的开源项目中，而且已经帮助三星将自身产品相关的驱动合并到上游代码中了，产品团队拥有自己的开发人员，并且他们为开源项目做出贡献，但由于他们与产品开发紧密相关，所以他们的自由度较低。所以当开源项目办公室收到诸如“我们需要在内核中实现某个功能”之类的需求之后，就会让工程团队去实现相应的功能，并提交到Linux内核上游。
+ “基于这些开源组件，我们在提交到上游代码的专业，让我们更加的有价值，而且这样做的最直接的结果就是三星产品和服务中使用到的内核代码的维护减少到了最低。” – Ibrahim Haddad，三星美国研究院研发副总裁兼开源小组负责人
+ 但是大多数的开源项目办公室和三星的情况是不一样的，他们大多不会设立专门的工程团队来贡献代码，而是更加聚焦于政策和流程上的内容。这样的话，就要安排跨部门的工程师去合理的分配时间去关注开源组件的任何变更，以推进紧跟上游的代码。
+其实工程团队的具体架构是无关要紧的，目标是为了最大限度的减少开源组件的技术负债。如果开发团队在自己的本地进行了开发，而没有推进到上游仓库中，那么产品团队将会陷入维护分支的巨大代码库中，而且这个分支会和上游渐行渐远，这样的话，他们会消耗掉大量的时间来打理这个分支的内容，会很难有精力来推进产品真正需要的部分。
+这里需要特别提醒的一点就是，也是通常情况下有违直觉的，那就是一位深入参与到上游开源项目的开发者，是很难做到和公司所在的产品团队去进行一些所谓的上游工作、相应的责任（作为提交者和维护者而言）和产品的平衡的，几乎不可能有时间来处理运营相关的事情的。
+每个开源项目办公室都会根据其业务需求进行独一无二的架构设计。例如，Facebook 在开源项目办公室内有一个专属的工具团队，负责开发内部工具以用来帮助其开源组合的管理工作。这个开源组合包括 Facebook 共享的项目，项目主要托管在GitHub上，除此之外还包括其做出贡献的其他外部项目，如Linux Kernel。(请参考案例分享之Facebook 的开源历程。)
+间接左右 开源项目办公室的影响力，可不止于组织开发者去为开源项目贡献代码，在很多地方都可以发挥力量，从公共关系、市场营销，到法律支持、开发者培训等等，开源项目办公室可以以多种方式来实现。这里仅列出四中以非代码贡献的方式来间接推动开发：
+ 外部的技术讨论 通过参与到技术讨论中是在各式各样的社区中增加影响力的其中一个主要方式，贵司的开源开发人员会通过积极参与邮件列表和IRC聊天来参与讨论，并可以随时了解最新的项目更新。而在有正式管理结构的大型项目中，也可以通过参加技术指导委员会做出贡献。
+ 内部技术讨论 在内部，开源开发人员可以参与政策和架构讨论，以确保组织的决策与特定项目社区的方向方向相匹配。例如，开源开发人员应该参与到关于对依赖开源代码的产品的长期规划的所有战略讨论中。
+ 合规性支持 开源项目办公室经理还可以提供帮助来解决常规性问题，并用其收到的开源常规性的问询来支持合规团队。
+ 缺陷修复 另外，也可以通过保持稳定的代码参与到开源项目中，测试软件并提交、修复缺陷、并提交到上游，这样可以提高代码对所有项目用户（包括贵公司）的整体价值。
+  改进的常见领域 改进开源项目中开发者的生产力和效率，开源办公室能够努力的地方有这么三块：文化、流程和工具。其中在每个具体的领域又有相应的细则需要来处理，从而满足不同的开源模式。
+开源团队在企业环境中所面临的特殊挑战 文化 文化上的挑战是大家不得不面对的一个事实，它的根源在于传统软件开发实践和开源开发的需求之间巨大的落差，落差可以通过雇佣开源的专家，或者是找那些熟悉开源开发模式的人为贵司进行培训来进行弥补。
+ “我们的目标是为开源工程师提供足够的时间来履行对上游的责任，以让他们能够成长，进而让三星拥有充足的开源领导力。” – Ibrahim Haddad，三星美国研究院研发副总裁兼开源小组负责人</description>
+    </item>
+    
+    <item>
+      <title>开源之道一月精选(2018 12 31)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-12-31/</link>
+      <pubDate>Wed, 02 Jan 2019 10:30:15 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-12-31/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 2018年开源重大的8个里程碑 原文链接：The 8 biggest open source milestones in 2018
+适兕点评：
+ 说实话，以后开源界真的很难吸引人们的眼球了，因为它正在成为默认的内容。这个新闻非常的厉害的，排名第一的kernel新的行为准则，意味着“招安”的彻底成功。亚文化被彻底的归为主流。规则正在改变。
+ 微软是如何实现绝地重生的 原文链接：How Microsoft bounced back
+适兕点评：
+ 本文从商业的角度回顾了微软从失败到重新回到最具价值公司顶峰的历程，开放式的哲学真的不是盖的。啥也不说了，引用一句文中的总结： “Satya Nadella really didn’t change that much in terms of products, but he did change the perception. Azure is now the second-largest cloud provider, and will probably be No. 1 soon. That is simply moving traditional Microsoft customers from on-premise servers to Azure cloud servers, but the impact is huge both in terms of revenue and market cap.</description>
+    </item>
+    
+    <item>
+      <title>开源之道两周精选(2018 11 30)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-11-30/</link>
+      <pubDate>Tue, 25 Dec 2018 13:48:35 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-11-30/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 量子计算才是定义我们未来的技术，不是什么人工智能 原文链接：Quantum computing, not AI, will define our future
+适兕点评：
+ 其实每项科技都要经历一个时间的沉淀，而这恰恰是本土教育的缺失。去阅读一些科技史的时候，会发现，本土的人不是缺乏才能，而是缺乏足够的耐心去做某些事。没有哪项科学成就是一夜之间就成功的，必须经过长时间的不断尝试，方才可能有所小成。量子计算对于中国来说是一个和同步世界的机会，就像20年前的开源一样，就看接下来的人是否耐得住性子。
+另外本文值得阅读的观点是从人性化的观点来出发，这才是打动人心的根本，也是人们愿意去追随和挖掘的事情。
+ IBM 收购红帽必须做三件事方能组织公司的下坡路 原文链接：Three Things IBM Must Do To Keep Red Hat Acquisition From Sinking The Company
+适兕点评：
+ 是的，看事情不可以单独的看这个事情的本身。而是要联系起来，连贯的看。我并不相信IBM是一家愿意收购一群叛逆而开放的人的。不知道红帽的员工怎么想。
+Only time will tell.
+ 为什么有些开源的公司开始考虑更多的封闭策略 原文链接：Why some open-source companies are considering a more closed approach
+适兕点评：
+ 好文，云计算深刻的改变了软件的分发模式！云计算究竟是开源的敌人还是好友，这要看厂家自己如何理解人才和市场，本文算是把来龙去脉给讲清楚了。推荐阅读。
+But cloud computing has changed nearly all of the assumptions around how modern businesses should build and manage the technology they need to compete in the 21st century.</description>
+    </item>
+    
+    <item>
+      <title>开源之道共读图书列表（2019版）</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/2019_book_lists/</link>
+      <pubDate>Sun, 02 Dec 2018 06:16:31 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/2019_book_lists/</guid>
+      <description>共读之申明篇 本文列举的是2019年所精心选择的12本开源相关图书，关于共读的初衷，以及参与方式，请看官移步：开源之道图书和文献共读申明，有更多详细的内容。
+2019 第一季度 主题：软件的形态、商业化以及开源软件的商业化的合理性探讨 2019 年1月 第一期 英文版：The Software Paradox：商业软件市场的崛起与陨落, O’Reilly Media, Stephen O’Grady 著(2015)
+内容提要：
+ 来自 RedMonk 的分析，学习下为何商业软件市场已经改变。
+每一家公司都是软件公司，软件对于现代企业是越发的重要，但是围绕软件来赚取利润却越来越难了！这其中究竟蕴含着什么道理？公有云提供商的巨头们是否会是基于开源项目的商业软件公司的杀手？软件的商品化的历程又是如何？为什么说开发者逐步的占据决策链的顶端？基于开源项目的商业公司为何更改许可协议？如果你带着这些问题，不妨深入阅读这本优质的小书《软件悖论》。
+ 开源之道推荐短评：
+ 通过软件商品化的历程，进而诠释为何开源成为云计算时代的主流模式。
+ 更多内容，请参考完整版开源之道共读导读与书评：《软件悖论:商业软件的崛起与陨落》。
+2019 年2月 第二期 Subscribed: Why the Subscription Model Will Be Your Company&amp;rsquo;s Future - and What to Do About It
+In Subscribed, you&amp;rsquo;ll learn how these companies made the shift, and how you can transform your own product into a valuable service with a practical, step-by-step framework.</description>
+    </item>
+    
+    <item>
+      <title>开源之道图书和文献共读申明</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/establish_reading_os_community/</link>
+      <pubDate>Mon, 26 Nov 2018 22:55:45 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/establish_reading_os_community/</guid>
+      <description>题记 2018 是开源之年，或者称之为胜利之年，至少从商业上看来是如此：IBM 以高达340亿美金收购著名开源厂商红帽、微软以75亿美金收购知名开源代码托管服务站点 GitHub、Cloudera 和 Hartonworks 合并、Elastic 首次 IPO、专注于开源风险投资的公司 OSS.Captil 成立，其标榜的口号是：开源软件正在吞噬一切！ &amp;hellip;&amp;hellip;
+开源的革命似乎是胜利了! 它经过了20年的发展和成长，其内涵和外延变得日渐丰富和复杂。开源不再仅仅是代码，也不再仅仅是社区，它还在伦理、社会心理、文化、法律、经济上各有所绽放，无论是商业模式、市场营销、企业战略，还是开发者心理、软件工程、道德伦理平衡，开源从来就没有看起来那么的理想化和脸谱化。它正在成为一门科学，那么我们可以称之为：开源学,其实一点也不为过。
+所以它需要更多的研究和诠释，从而能够让人看得明白、瞧的透彻，不迷惘、不偏激，心平气和的去认识真正的开源，寻找自己的归属，并创造价值。
+开源之道 热衷于开源相关的研究和观察，长期致力于开源的思想、知识和价值的挖掘！ 恰好在路上做点自己力所能及的事情。
+开源之道的追问 为什么本土没有发展出来中立的、非盈利性质的开源软件基金会？ 好莱坞成立了有关动画软件的开源基金会、电力能源成立了关于能源相关软件的开源基金会、FinTech成立了自己的开源软件基金会&amp;hellip;&amp;hellip;软件的发展正在遇上前所未有的挑战，这是个巨大的工程问题，每个个体、甚至是每个团队、每家独立的公司，想要解决所有的问题都是不可能的，而唯一的出路的就是协作！那么协作就需要中立的机构存在。正如《精心布局的开源》一文所谈：
+ Nathen Harvey 在 Information Week 中的文章中指出了三个问题：“项目应该由商业的赞助商驱动还是外围的贡献者驱动？商业利益是否应该凌驾于社区的意愿之上？该如何以及在哪里为商业实体和开源社区之间划上一个明确的界线？”
+ 再回过头来看现在的成功的开源软件基金会：
+ apache 软件基金会（ASF） Linux 基金会 Linux 基金会合作项目（CNCF、Node.js、Ceph、GraphQL、Academy Software Foundation） 自由软件基金会（FSF） Python 基金会 Creative Commons Eclipse 基金会 Internet Systems Consortium (ISC) Mozilla 基金会 开源促进会（OSI） 软件自由法律中心（SFLC）  &amp;hellip;&amp;hellip;
+而他们所孵化的项目，是支撑着整个IT世界重要的基石：Linux、Apache、Python、GNU、&amp;hellip;&amp;hellip;
+本土有着巨大的人力资源，据统计，有多达千万的开发者，然而却有很大一部分由于语言和文化的原因，无法参与到开源的开发中来。这不能不说是一种遗憾。
+伦理 无人驾驶汽车的程序是否应该开源？不开源的系统，你愿意将生命交给一个黑盒子吗？人工智能的应用会日渐占据人类的生活各个方面，如果它不开源，你怎么看待它教导和影响你的孩子？更有甚者，如Glyn Moody 在 Linux Juournal撰文所称的那样，Google的人工智能用于军方怎么办？
+开源软件是否是公共物品？如果不是的话，谁应该为其负责？ 在开源书籍推荐 ————《路与桥——现代世界数字基础设施那些隐藏的劳动》 一文中，详细的论述过此问题。开源的项目是如此重要，如果它陷入“公地悲剧”，这个世界该如何处理？</description>
+    </item>
+    
+    <item>
+      <title>Linux基金会企业开源指南系列之八——公司如何正确的使用开源代码</title>
+      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/using-open-source/</link>
+      <pubDate>Mon, 26 Nov 2018 22:08:43 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/using-open-source/</guid>
+      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
+高效而正确的使用开源代码 作为开源项目办公室其中最重要的责任就是确保贵司是合法合规的集成开源代码的，无论这些代码是商业专有的，还是第三方整合的。
+作为开源项目办公室的负责人，你需要为开发者们创立相应的向导和指南，告诉他们该如何使用开源代码，更要非常细节的跟踪开源代码来自哪里、使用的何种许可证书、最终用到了哪里？等等。
+本指南会提供使用、发布、分发开源代码的合规性程序的基本要素。
+为什么要跟踪和审核代码? 简单点讲，如果贵司没有去告诉开发者们如何及在哪里使用开源代码的话，那么贵司可能面临开源许可证是否遵守合规的问题 —— 无论是从法律的开销上来看，还是所耗费的时间，都是非常昂贵的代价。另外，无视开源的法律义务，也会让贵司在开源社区的声誉大大的折扣。
+那么作为开源项目办公室，就是帮助公司集中的制定围绕开源合规、分发、软件发布来相应的规则和决策，并追踪代码的来源和使用，以及确保公司不会违背相应的合规义务。
+理想的情况下，贵司的开源项目拥有一套在法律顾问的帮助下开发的完整的合规程序，在本指南中，会涵盖到公司合规程序中重要的方面：使用、发布和分发开源代码的规则和流程。
+ “一个精心设计的开源合规流程应同时确保遵守开源许可证条款，并帮助企业保护自己的知识产权，以及第三方供应商免受意外披露和/或其他后果的影响。” – Ibrahim Haddad，三星美国研究院研发副总裁兼开源小组负责人
+ 企业可以通过维护开源合规项目获得如下益处：
+ 获得技术优势。 因为合规的软件组合更易于服务、测试、升级和维护。 确定开源代码的关键部分 帮助贵司跨多个产品和部门，使用了那些代码，对于开源战略很有益处。 充分说明使用开源组件的代价和风险 当代码经过多轮审查时，这是显而易见的事情。 获得社区的信任。 当遇到有人质疑合规性的问题时，因为贵司已经做好了准备，根本不怕这些。 为适合收购、销售或者新产品或服务的发布做好准备 这种情况不是太常见，但不是不会发生，一旦发生，那么在完成此类交易之前，合规性保证是强制性的。 在供应链当中赢得信任。 可以提高整个软件供应链的合规性，包括提升原始设备制造商（OEMs）和下游供应商的合规性。  合规性角色和相应的责任 在开源项目办公室内部，需要创建一个专门的开源合规团队，他们的任务就是来确保开源的合规。
+该核心团队，业界通常称之为审计团队，或者是开源审核委员会(OSRB)，由来自工程团队和产品团队的代表，一名或多名法律顾问以及合规人员组成（合规人员通常是开源项目经理）。
+各个部门中的其他人员也为开源合规工作提供源源不断的基础：文件、供应链、企业开发、IT、本地化和监督整个开源战略的开源执行委员会（OSEC）。但与核心团队不同，这些扩展团队的成员只是根据从开源审查委员会（OSRB）收到的任务，在兼职的基础上开展工作。
+开源审核委员会负责创里开源合规的战略以及一系列的流程，这些流程决定该公司日常如何实现这些规则。战略确立了必须采取的措施来保证合规性，并为员工如何与开源软件进行互动提供了一套主要原则。它包括了开源的审批、获取与使用的正式流程，以及发布开源软件或经开源许可证授权的软件。
+使用开源代码的简易规则 规则的执行在任何的合规性项目中都是基础组件。这组规则的集合是包含在贵司的开源战略文档中的（你一定撰写了开源战略文档，对不对？如果没有的话，先放下合规性这事，赶紧去写。），而且谨记要把这些能够让每个人都可以看到。
+规则的执行是为了确保任何的软件（专有的、第三方的、或者是开源的）在整合到最终的产品之前能够被进行审计、审核以及批准。当然还有，能够确保在产品交付客户之前，贵司已经制定了一个计划来履行因使用各种软件组件所产生的许可证义务。
+其实没有必要制作一份冗长而复杂的文档，一份好的开源使用规则包含下面六条就足够了：
+ 在将任何的开源代码整合到产品中之前，工程师必须获得开源审查委员会（OSRB）的许可。 从第三方接收的软件必须经过审核，以识别其包含的所有开源代码，这样可以确保在产品发货之前许可证的义务得以履行。 所有软件都必须经过审计和审核，包括所有的专有软件组件。 产品必须在交付到客户之前履行开源许可证义务。 即使是开源组件是同样的，要整合到不同的产品当中，还是要经过不同的批准的流程的。 任何变更的组件都必须经过审批流程。  代码审核流程5步走 一旦有了上述的规则之后，接下来就该规划和建立一些流程，从而让这些规则能够顺利的执行下去。那么开源项目办公室的工作就是让开源者们顺利的使用开源，并能够为开源项目做出应有的贡献。
+ “如果贵司的审核流程过于繁琐，那么就会妨碍团队的创新，或者是给开发者找到不遵循流程的借口。” – Ibrahim Haddad，三星美国研究院研发副总裁兼开源小组负责人
+ 流程始于有需求的软件包的源代码，然后是识别并解决任何可能发现的问题，接着是相应的法律、架构审核，最后是就相关的使用许可做出决定。
+下图向各位看官展示了合规流程简单的视图，在现实中，这些过程不会这么死板，而是需要不断的迭代完善。请记住，这些阶段仅适用于说明目的，可能需要根据公司自身需求和开源项目配置进行相应的修改。
+接下来，就让我们深入到整个过程的每个阶段。
+第一阶段: 源代码扫描 在源代码扫描阶段，即所有的代码都要被专业的软件扫描工具进行完全的扫描。（所谓专业的扫描工具，除了一些开源替代品之外，还有许多商业供应商提供这种工具）。</description>
+    </item>
+    
+    <item>
+      <title>Linux基金会企业开源指南系列之七 ———— 如何正确的招聘开源人才</title>
+      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/recruiting-developers/</link>
+      <pubDate>Fri, 23 Nov 2018 22:52:45 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/recruiting-developers/</guid>
+      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
+招募开源开发者 拥有丰富经验的开源开发者是稀有人才。要吸引顶级的人才，作为公司需要花些心思和技巧的，而不是常见的在流行的人力网站上或者普通的招聘就草草了事的，因为你那样做可能找不到。
+贵司的开源项目可以成为最有效的招聘利器！
+本指南涵盖了作为一家公司该如何通过创建开源文化、为开源做贡献、以及创建开源项目来招募开发者，以及内部培养。
+为什么需要招募策略 关于开发者短缺的情形日益严峻，并非空穴来风。据著名开源基金会 Cloud Foundry 最近所做的调查，仅美国就有25万个软件开发人员的职位空缺，此外还有50万个要求科技含量较高技能的职位空缺。同时预计未来十年内开发人员职位空缺数量将达到100万。
+熟练的开发人员并不短缺，可以满足全球需求： 非常同意 18% 有点同意 18%
+熟练的开发人员已经或即将出现短缺： 非常同意 34% 有点同意 30%
+我的公司在聘请我们所需的熟练开发人员方面没有困难： 非常同意 20% 有点同意 23%
+我的公司很难聘请具备所需技能的开发人员： 非常同意 27% 有点同意 30%
+所谓的开源开发者，其实也就是在开源的经验方面颇丰，但是他们仍然是属于这个大的群体 —— 软件开发者。他们之所以非常的抢手，因为他们往往是分布在全球各地远程工作，这属于开源社区的本质特性之一，而这也就意味着贵司正在与全球各地的公司竞争同一批人才。
+果不其然，结果就是开源开发人员的薪酬稳步攀升，因为公司间为吸引并留住人才而激烈地竞争。根据最近的一份报告显示，目前开发人员的平均薪酬为104,425美元。这份报告还指出，考虑到美国仅有八分之一的高中（13.2％）开设AP计算机科学课程，因此开发人员短缺状况在短期内不太可能得到缓解。
+熟练的开源开发人员可以要求薪酬溢价。2017年度开源职业报告的调查显示，89％的招聘经理表示很难找到具备良好的开源技能与专业知识的人才。该报告还发现，60％的招聘经理在寻求聘用开源人才，同时还有一半的招聘经理在寻找拥有资格证书的候选人。
+这意味着在可预见的未来，开源开发人员的薪酬可能会继续因竞争需求的驱动而不断攀升。
+ “对于工程师有一个常见的误区就是以为他们是不食人间烟火的，他们只关心最新最酷的技术，注重自身学习和成长。好吧，其实这都被他们混乱不堪的外表所蒙骗了，至少金钱激励来说和上述这些是同等重要位置的。 那么我告诉你的就是：如果您想吸纳人才，您还是需要建立不次于其它公司的经济待遇。如果你给不了人们丰厚的薪酬， 他们将不会想要去贵司上班的。” – Camille Fournier,Two Sigma常务董事兼平台工程负责人， 《The Manager’s Path: A Guide for Tech Leaders Navigating Growth and Change》一书作者, 开源领导者峰会倡导者
+ 所以，招募开发者策略的第一步是将金钱激励考虑妥当了，因为只有搞定了它才能接着往下走。这是贵司开源项目的敲门砖。其可以帮助贵司招募到各种技能层次水平的开源开发人员。
+足够的人才储备对于满足贵司的开源目标是相当的重要一环，其中包括是否有足够的能力为贵司所依赖的开源项目上游做贡献、以及贵司自己开源的技术和社区的增长。这就是需要一个战略、一整套的流程，以及可实现的目标。
+开源作为招募工具 在我们深入介绍招聘战略之前，先来讨论一下为何说参与开源才是有效的招募工具，当然不仅仅只招募到了就完事了，留住这些顶级的人才也是一件非常有挑战的事（我们会在下一个章节详谈）。</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2018 11 18)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-18/</link>
+      <pubDate>Sun, 18 Nov 2018 08:39:44 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-18/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+ 开源之道每周精选，将暂停5周，我们年底见！
+ 文章点评 Ceph 存储项目成立独立开源基金会 原文链接：The Ceph storage project gets a dedicated open-source foundation
+适兕点评：
+ 其实，我很想花时间八卦一下Ceph为什么最终选择了Linux基金会，而不是OpenStack基金会。不过一切都无关紧要了，OpenStack的教训值得所有的基金会吸取，被国人玩坏的。好的没有啥影响力，坏的传遍，国人接下来的目标还有Apache基金会，CNCF基金会，究竟是谁最终会被淘汰出局，我们还需要拭目以待。anyway，这也是开源之道重点关注的内容：
+These days, you can’t have a successful open source project without setting up a foundation that manages the many diverging interests of the community and so it’s maybe no surprise that Ceph is now getting its own foundation.
+ Facebook 的 GraphSQL 也拥有了自己的软件基金会 原文链接：Facebook’s GraphQL gets its own open-source foundation</description>
+    </item>
+    
+    <item>
+      <title>Linux基金会企业开源指南系列之六 ———— 开源管理工具集介绍和使用 </title>
+      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/tools-for-managing-open-source-programs/</link>
+      <pubDate>Wed, 14 Nov 2018 22:18:43 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/tools-for-managing-open-source-programs/</guid>
+      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
+用于管理开源项目的工具集 采用开源的战略之路，开始于小心翼翼的规划、精心的组织、以及成立开源项目办公室，从而希望能够指导和管理开源项目的创建、分发以及使用。但是要知道，这仅仅是万里长征的第一步。欲使开源项目办公室按照预定的顺利运行，我们还需要有效的利用一些工具。这些工具在整个开源当中都起着重要的作用，它们被用来跟踪各个部门的目标、各项指标，包括工程、法律、以及行政管理、公关、市场营销等等部门，同时给予员工所有它们需要收集的资源，并提供业绩表现的记录，以及管理公司内部日常使用的开源。
+本指南提供了如何管理开源项目工具的详细介绍和场景使用，其中包括用于跟踪和管理开源项目这样最为重要工具的信息。本指南中的所提及的大多数工具来自于Linux基金会所创建，且是开源的，当然也收录了其它相关的优秀的厂商或社区的工具，它们多数是免费而容易获得的。另外，还有一些工具提供了整合式的工具，通过一个集中的仪表操作多项工具。
+开源项目管理为何需要特别的工具 当开源项目办公室开始启动并运行时，那么也就是开始收集好用的软件工具，从而让开发团队来管理、跟踪、指引、和改进他们的开源项目、贡献以及发布。
+这些工具之所以重要，是因为使用开源来为业务战略所需要，它有自身的方法论和流程，而这是区别于使用商业软件的特别的地方。开源的工具可以让公司完成许多令人惊奇的任务：
+ 为协作和代码构建提供工作台 管理项目的健康度 自动化关键且重复的任务，如代码审核、跟踪和许可证合规检查 生成一些数据，以说明开源项目办公室和开源战略的ROI是合理的 监控项目的质量，若有突发状况，能及时的响应应对  在你开启自己的开源之路时，拥有正确的工具将会为贵司的开发者和其它员工带来益处，成功的几率也更高，当然它也是整体公司开源项目成功协作和沟通的基石。
+ “如果贵司已经拥有超过100个代码仓库，或者是已经有超过100位开源开发者需要管理，那么你再也不能采用电子表格来将就。但是，现实的情况是，依然有很多人就是这么将就的【捂脸】，不过，这样做的弊端是很让人抓狂的，而且往往卖力不讨好。那么这个时候就体现出工具的优势了，因为它可以让你如虎添翼！” – Jeff McAffer, 微软开源项目办公室总监
+“总而言之，你需要工具来自动化你的一切，否则就得浪费大量时间手动完成工作。” - Chris Aniszczyk –云原生计算基金会首席运营官、前Twitter开源项目负责人
+ 如何选择和规划工具 关于那些开源工具是需要的，在早期的讨论阶段，往往取决于公司所依赖的业务、产品、服务以及是如何服务于自己的用户和雇主。正如开源项目办公室所开发的规划流程和战略蓝图，工具的选择是可以和企业的目标、流程、基础设施集成在一起的。
+归根到底，想知道将需要使用哪些工具，唯一的方法就是，去了解想要对开源代码进行何种操作。
+以下列出的是管理开源项目办公室所需工具选择的基本步骤：
+ 获得开发者和社区成员的口味和选择偏好。为了实现这点，需要与开发者和社区成员进行深度的讨论，开发者和社区成员们会描述什么样的工具是他们所喜爱和适合的。要认真的对待他们的建议和需求，并学会倾听这些能够让你实现目标的人们的声音。他们一般都有使用顺手的工具和习惯，所以直接从中吸取经验是最有益的。 根据关键业务的应用，去了解依赖和集成的相关软件。这也就意味着，要去了解并通晓贵司业务所依赖的开源软件，以让贵司的开发者可以紧跟项目，在安全和软件的更新跟进方面保持优势。 去了解现成的工具，然后去决定哪些工具可以直接使用，或者根据需要进行构建。不要从头开发每一个工具。去了解贵司所参与的开源社区已经在使用的工具，并就这些工具获得进一步的建议和反馈，到线上的开发社区中寻求那些工具好用，并请求他们的建议和推荐。到一些开源的研讨会上询问人们，在相关的会议上和开发人员进行沟通，要向那些已经淌过河的前辈的学习。  这些工具一旦被选定，在落地使用之前，还需要一些额外的准备：
+ 创建内部的基础设施用来支撑、管理和使用这些工具。在贵司新建立的开源项目办公室中，指定一名工程师来维护和构建这些基础设施，然后创建内部的在线门户，用来组织任务并分发这些工具。在此分发工具的门户中，关于权限和认证部分可以根据实际情况而定，可以选择开放给所有的开发人员，也可以根据特定的人员职责来划分。 为使用这些工具的员工提供相应的培训计划。仅仅让他们拿到工具是远远不够的，要确保开发者知道如何使用这些工具并且具备掌控的能力。至于培训的形式，可以灵活的进行选择，可以是在线培训、也可以是专门的教室，甚至是小型的午餐小组都是可以的，重要的是让使用工具的这些人们懂得如何使用。询问开发者们那种学习方式更加适合他们，并让他们自己做出选择。 确保这些工具在贵司中是集中呈现的。要使得开发者们能够轻松的找到并使用它们，最好的办法是整合到公司原来的开发者门户当中，另外，这也有助于日后运营当中组织和分发重要的工具。  请牢记上述的建议，它会帮助你选择工具，也会影响到你的决定。（有些工具是可能有学习曲线的，记得要提供相应的培训。）
+利用现成的工具 在你想好了团队需要那些方能满足贵司的开源目标之后，也了解了自身所依赖和基础设施的局限，那么接下来要做的事情就是探索和学习现有的工具，那些已经生产就绪而且随时可用的工具。由于大多数开源工具是根据自身需求所开发的，所以这些工具未必拿来之后就立即满足了贵司所有的需求，如果不满足的话，也没有关系，贵司有的是开发者，看需要那些功能直接和他们沟通、贡献就好了。
+颇具意味深长的是，很多公司的开源项目办公室并不经常利用其它公司所开发的工具，甚至也不会去和其它公司协作来开发工具，尽管这些公司很不情愿的去重复制造轮子，但包括 Facebook 和微软在内的许多企业已经拥有现有的工具套件，这些工具套件在真正成为一个协作议题之前就已经实现。由于他们已经拥有了自己的工具集并进行了投资，他们似乎并没有很大意愿采用其他公司的工具。
+话说回来，对于贵司来说，这不就是开源所带来的最大优势吗？直接使用他们已经开发好的工具，有不满足的地方，开发即可。而不用像早期的那些建立开源项目办公室的公司，因为没有可用的工具而需要进行大量的开发。
+对于刚刚建立开源项目办公室的公司来说，明智地去利用他人成功的经验和失败的教训不是更好吗。他们可以利用近年来由这些伟大的先行者公司所开发的成熟的工具来打造属于自己的开源管理工具箱。Linux基金会的开源行业组织，TODO Group，从成立伊始就一直致力于搞一个“开源项目办公室工具箱”的入门套件，其可以为新进入开源的公司能够通过一套紧密结合的预先组装工具来开展开源相关工作。目前来说该工具箱还有大量的工作要做，但是希望随着时间的增长，Linux基金会可以提供这样一个愿景：“让新加入开源的公司可以通过这样一套百宝箱，可以轻松部署和配置它们所需要的工具”。目前参与这个工具箱开发的公司有：Adobe、Capital One、Comcast、Facebook、谷歌、eBay、IBM、微软、三星以及Twitter。
+创建一个仪表盘 除了配备完适当的工具之外，贵司还应有一个集中的仪表盘来展示实时的监控和跟踪有关开源项目的进展情况。绝大多数公司在这之前就有相应的应用，那么能够将开源的这些工具集成起来也是最好不过了。没有的话也没有关系，创建或采用一个新的！
+ “对于整体的仪表盘来说，实现它的方式实在是太多了，而对于公司如何展现开发者相关信息这是真正的艺术。有些同仁们会打造出非常酷炫的显示效果，其实没什么必要，重要的是中心位置上能展现关键的内容，最好是和现有的仪表程序能够和谐共存，这个唯一存在的价值就是让人们能够一目了然的了解开源项目的健康度、各项指标等。” – Chris Aniszczyk, 云原生计算基金会首席运营官
+ 工具集的基本要素 有关管理开源项目和项目的报表的工具越来越多了起来，而且这个趋势非常的明显。如果贵司是开源的刚刚入行者，那么一些基本的工具对于聚焦初步的研究是很有益处的。</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2018 11 11)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-11/</link>
+      <pubDate>Sat, 10 Nov 2018 15:38:12 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-11/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 Kubernetes 的世界发生了一件事情：VMware 收购了 Heptio 原文链接：The Kubernetes World: VMware Acquires Heptio
+适兕点评：
+ 专业的分析师，从Marketing角度来讲，无利不起早，眼看着容器的世界要把虚拟化的世界吞噬掉，VMware像任何一家历史上的公司一样不会轻易放弃的。对于Heptio来说未必是件好事情。
+好吧，技术所能解决的和它所遇到的问题会同样的多，直到下一次颠覆式的创新。
+ 微软或许是GitHub贡献者最多的厂家，但是它其实是自利的 原文链接：Microsoft may be the world&amp;rsquo;s largest open source contributor, but developers don&amp;rsquo;t care&amp;ndash;yet
+适兕点评：
+ 微软拥抱开源确实是个新手，毕竟才短短4年的时光，但是钱可以掩盖一切，尤其是给那些年轻人而言，人人都在往前看，没有人回顾历史算旧账。但是你不能不知道。
+Microsoft has &amp;ldquo;prolific Linux kernel developers, but primarily just for Hyper-V, which makes Linux run well on Azure. A lot of their contributions (and Amazon&amp;rsquo;s as well) are self-serving like that. It doesn&amp;rsquo;t build as much goodwill as TensorFlow or Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2018 11 05)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-05/</link>
+      <pubDate>Sun, 04 Nov 2018 12:46:56 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-05/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 IBM 以高达340亿美金的高额收购了红帽 原文链接：IBM BUYING OPEN SOURCE SPECIALIST RED HAT FOR $34 BILLION
+适兕点评：
+ 这无疑是上周最大的新闻。开源之道保持一贯的观点，随着云计算的成熟，整个软件的模式都要转变，开源成为重要的生产方式和能力。如果谁不能把握住这个机遇，都可能在未来失去优势。AWS的颓势已经非常的明显。IBM 抢夺红帽，无疑是获得了至宝！一点都不贵。问题在于红帽的文化能否保留？IBM是否会自己把这些钱打了水漂。
+开源开发者的又一圣地是否要沦落？拭目以待！
+ GitHub 和开源软件是如何利用代码来帮助人们的 原文链接：How Github, and open source software, helps solve social issues with code
+适兕点评：
+ GitHub 的构建未来系列宣传，这个比开源本身更加的有趣，来自全球各地的少数人，为了让世界更加美好而走在一起。还有什么事情比这个更让人振奋人心的事情？
+不得不说，纳德拉收购GitHub的背后理念！无人能敌！
+ 为何说HortonWorks和Cloudera 的合并更为的强大 原文链接：Why Hortonworks and Cloudera Are Stronger Together
+适兕点评：
+ 资本的介入比单纯的技术更为让人着迷。现在的开源，不懂点商业模式，真的没法和人们聊天。如果你没有读过《the last day of night》，想想通用电气的合并史。是会简单的理解为滴滴合并uber在中国这样的弱爆了的思维模式。
+开源也罢，先进也罢，商业的本质是提供人类起居用得着的东西。Hadoop远不是最先进的，但是它能够实在的解决问题。所以的它的商机仍然在。这是一个知识社会，知识是无用的？开源本身的发展，不是三言两语可以说明的，无论是软件本身，还是围绕它产生的文化、思维、商业、法律都形成了大量的知识。如果有人有兴趣持续的研究他们，那么这个人会没有未来？
+ 是什么让IBM收购红帽？这又意味着什么？ 原文链接：What Does IBM’s Acquisition of Red Hat Mean for Open Source?</description>
+    </item>
+    
+    <item>
+      <title>Linux基金会企业开源指南系列之五 —— 公司如何以利益最大化的姿态参与开源社区</title>
+      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/participating-in-open-source/</link>
+      <pubDate>Tue, 30 Oct 2018 23:04:26 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/participating-in-open-source/</guid>
+      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
+参与到开源社区 开源已经是构建软件的事实上的方式，这不仅体现在 IT 技术本身，而且跨多个行业。那么企业一旦使用开源代码来构建他们自身的商业产品和服务，那么就应该考虑参与到项目中去，而且要提高到战略的高度。
+那么问题来了，如果没有正确的理解项目、社区，以及开源项目是如何运转的，就开始参与开源，就可能会带来不好的影响，不仅是贵公司，甚至也会波及到社区。就开源而言，一家公司若是没有将之列为战略上的考虑，就冒然的去进军开源，可能会犯错，进而影响公司在开源社区的声誉，甚至会招来法律上的风险。
+本指南涵盖了作为一个组织去贡献开源，以及如何成为一个好的企业员工。并且会说明一些其它开源相关知识，如开源项目的组织结构、如何做贡献、为什么说内部的开发者参与开源是有益的、以及为什么说开源的参与和管理提高到战略高度是非常重要的事情。
+为什么要贡献开源？ 如今已经几乎不可能找到没有从开源软件受益的公司或组织了。有些公司如Intel、IBM、三星等，均是设立了专门的开源项目部门去专门贡献开源社区的，而还有的公司之所以成为了开源的用户，完全是因为他们的系统管理员或开发者在工作中出乎意料的引进的。
+很多公司都在商业上依赖开源软件，而且还获得了很大的成功，所以他们也懂得和明白为开源软件项目做贡献。我们来看一组数据，从2005年，截止到现在，单单Linux内核一个项目，就有来自1300个不同的企业的13500位开发者参与了贡献。
+ “对于很多大型项目来说，红帽知道我们大多数的贡献者均是来自实际使用开源项目的其它公司的人们，如Ceph、Gluster等。红帽有自己的客户，而且这些客户也经常会贡献项目，因为他们在使用这些项目。红帽认为无论是个人参与还是公司参与，都是值得诉说的成功。” Stormy Peters – Red Hat开源社区领导者高级经理
+ 或许有一部分的企业的贡献仅仅是为了回馈社区，但是仍然有很大一部分企业有更为充足的理由去贡献开源项目的，因为内部使用了相应的项目贡献会获益更多。这里列出几个贡献上游的益处：
+ 吸引人才： 当贵司依赖开源软件，那么寻找人才最好的地方莫过于熟悉项目内部本身，而且还是项目社区成员。通过在社区的公开的工作，贵司可以吸引到一些既是做自己喜欢的工作，还能获得一定报酬的人。尤其重要的一点，贵司现有的项目参与的员工，每天都会和他们在一起打交道，自然是非常熟悉的，找到他们也很容易。（更多详情，请参考招聘开发人员指南系列） 降低维护成本： 如果一个企业开始在本地的分支做缺陷修复、增加新的功能，然而却没有将这些代码提交到上游的开源项目中，那么很快维护本地的分支，将成为该公司的一个成本噩梦。将上游作为优先的提交缺陷修复和增加新功能是最为明智的做法，因为这样的维护成本最低。 项目影响力： 在一个开源的项目中，新的特性或功能来自社区的贡献，那么这些贡献就会影响到项目的走向，如果你认为为项目所贡献的新功能对于贵司非常的重要，那么你应该去安排积极的贡献者对这些功能进行开发和实现。通过贵司的贡献，自然而然就可以影响到项目的走向（只要你的变更符合项目本身的目标）。  当然，参与社区是需要适当的方式方法的，若是方式不当的话，那么就可能出现不可预料的问题，即使真正的做了贡献。每个开源项目在具体的规范、期望和流程上都有一些细微的差别，所以贵司在参与一个项目之前，首先要做的就是去了解这些项目。这点可以有多种方式来完成，如先安排员工加入社区并花时间和精力去实地的考察，又或者是直接在该社区招聘已经有了贡献记录的参与者，进而了解项目本身。
+开源项目是如何被管理的？ 如果你是第一次接触开源项目的话，可能看起来它们混乱不堪。对于开源完全不了解的人来说，一群来自世界各地的&amp;rdquo;乌合之众&amp;rdquo;，将那些不知道是什么的代码“扔”在一起，竟然能够开发出让数百万人使用的稳定产品。但是，当他进入到开源的世界，了解了一阵子之后，会发现，开源软件的开发和维护工作也是有理可循的。其实几乎每个开源项目都有良好的组织架构，而且优秀的项目往往会在其项目主页或文档中清晰的将组织架构和社区治理方式描述出来。（GitHub 的开源指南有针对贡献者提供的良好的项目分析)。
+虽然说各个项目的治理模式有着千差万别，但是综述起来，它们还是有一些共同点的：
+ 领导者： 一个项目，必须要有人承担起决策的事情，如特性、发布、以及日常活动。最为极端的情况，某些开源项目就仅仅是一个人，比如 Linus Torvalds，作为内核的创始人，对于Linux Kernel相关的任何事务都拥有最终话语权。然而在另外的一些项目中，可能有一个或多个委员会负责项目的各个方面，如 Node.js 项目采用的是核心技术委员会机制（the Core Technical Committee）。 维护者： 大多数开源项目的领导者（上一条）会将一些决策委托给负责维护项目特定部分的开发者，而在大型项目中，这些维护人员还可能将其中部分工作委托给其他负责人员。例如，Linus Torvalds将 Linux Kernel 文件系统的相关决策权就委托给 Jonathan Corbet。 提交者： 有一些开源项目还会设置一组可以直接提交代码到主干的人，他们已经证明了自己可以胜任工作并且靠谱，而且往往并不是先去提交给维护者去进行审核。当然，作为提交者，仍然对于代码没有最终的决定权，维护者或项目的领导者如果发现了什么，还是可以将提交的内容打回去的。 贡献者： 有很多人为开源项目贡献代码、文档、以及其它事项，这些贡献通常都需要更为有经验的提交者或维护者进行审核之后方能合并的。这也就意味着贡献者的决定权范围更小一些。 使用者： 其实从某种程度上讲，开源项目的实际使用者才是对项目的成长和开发是最为重要的，这些使用者或者称用户的人们，为项目提供了终极目标，并且帮助项目持续的进化，他们作为社区成员最具价值的部分莫过于针对功能提供反馈、报告缺陷、并建议些什么。  社区对于开源项目来说，犹如古人说的：“水能载舟亦能覆舟”，社区对于开源项目的成功至关重要，但是若是做的不好的话，它同样可以让一个项目置于死地。所以，要努力的去建设一个强大的、充满活力的且多样化的开源社区，这是项目的成功充分必要条件。以上列出的这些角色也是属于社区的一个部分而已，这里未列出的其它重要角色还有文档、营销人员、技术支持等等。
+贡献是怎么进行的 贡献的流程要视具体的项目而定，可谓是五花八门，缤纷世界。这里仅列举其中一些较为典型的例子：</description>
+    </item>
+    
+    <item>
+      <title>开源之道两周精选(2018 10 28)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-10-28/</link>
+      <pubDate>Sat, 27 Oct 2018 07:26:41 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-10-28/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 Azure 是如何成为开源软件的运行之云的 原文链接：How Azure became the place for open source in the cloud
+适兕点评：
+ 是的，要对微软的改变产生敬畏之心。这对于很多自由软件爱好者是难以承受的，这个世界一直都在变化！你根本无法被动的获得一切，甚至是道德的制高点。
+平台是赚钱的，商家是获利的。然而不得不佩服微软的执行力和决策能力。
+ MongoDB 将其许可证做了更换 原文链接：MongoDB switches up its open-source license
+原文链接：MongoDB introduces the Server Side Public License for open source
+适兕点评：
+ 早有几年就有人预言公有云提供商将是开源软件的杀手，果不其然，尤其在亚洲国家（中国）是巨大的搭便车者，MongoDB 的CTO 这段论断非常的准确：“The market is increasingly consuming software as a service, creating an incredible opportunity to foster a new wave of great open source server-side software. Unfortunately, once an open source project becomes interesting, it is too easy for cloud vendors who have not developed the software to capture all of the value but contribute nothing back to the community,” 国内提供基于开源栈的云公司不少。这下好了，云计算时代要有所变化，这个世界没有什么一成不变的事情。</description>
+    </item>
+    
+    <item>
+      <title>开源之道 -- COSCon18 主题分享</title>
+      <link>http://www.ocselected.org/posts/the_way_of_open_source/coscon18_shared_topic/</link>
+      <pubDate>Sat, 20 Oct 2018 14:23:59 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/the_way_of_open_source/coscon18_shared_topic/</guid>
+      <description>引子  我相信对世界进行更多的探索是值得的，哪怕它只会让我们明白我们懂得太少。对我们有益的一点事要时刻牢记：虽然我们由于各自所知的不同而参差多态，但总的来说我们的无知并无差别。 ———— 卡尔. 波普尔
+ 如果是这样看似没有逻辑似的穷举，是不是会有让人疲惫的感觉？那是因为我没有去找一根线索来串起来，而这根线索往往才是一篇文章的灵魂。
+演讲内容实录 接下来由我给大家分享一些有关开源的个人心得与体会，我一般称自己为开源信徒，或开源布道师，目前是一位自由职业者，除了日常的学习之外，就是参与贡献开源的事情，比如我本身也是开源社 &amp;ndash; 草根社区的执委会成员。
+今天的演讲分享灵感来自于前不久远在大西洋彼岸的开源会议——OSCON 2018， 由O&amp;rsquo;Reilly的创始人Tim O&amp;rsquo;reilly 的主题演讲其中的一张slide所吸引，这是我不止一次看到开源界的“歪果仁”使用《道德经》的话来讲事情。感谢O&amp;rsquo;reilly 对我的影响。
+在往远说一点，我怎么对开源本身产生了兴趣，我做工程师很多年，从Linux到虚拟化再到IaaS，然后失败了几次，在2015年底的时候，组织了一次社区关于文化的活动，作了一次演讲，也写了一篇文章。那就是这篇：《为什么基于成功的开源项目商业产品会失败？》，从那之后，渐渐的兴趣开始有了转变，开始研究具体的技术之外的东西，开始布道、撰文、阅读各种学术论文。关于具体的怎么做开源等详细的细节，大家可以订阅我的博客《开源之道》，也就是 The way of open source。这个是公众号，是博客的内容镜像。注意这样一个蛮奇特的现象。等一下我会提到。
+接下来，我们来聊聊开源，以下纯粹是个人的认知与体会。那就是在我这三年的布道经历中，当我和人们讨论开源的时候，我们究竟在讨论什么？
+首先是各种具体的实现细节，诸如数据表示、算法、通信、信息论、控制论等等，这样的人很少，几乎难以见到。
+然后是具体的各种各样的开源项目：gcc、Linux、Apache、Hadoop、TensorFlow以及很多很多是我在这里念几天都念不完的。谈这个是最多的，因为浅显，所以念下名字，大体是做什么的，属于什么范畴，这个几乎占据了所有的讨论。
+开源是软件工程，同样是OSI的提出者，天才般的Eric.s.Raymand，撰写了Linux为什么会成功，基于社区的协作模式是可靠的，比如著名的Linus定律：“如果有足够多的眼球，Bug就无处藏身！”。随着社区的协作模式日渐发展，康威定律也渐渐的被证实，分布式、模块化、共识等等，开源的软件工程是可以的。尽管这个所谓的工程是和日常见到的有着完全不同的概念。比如开源的项目，是不会有初期投入多少人，预计什么时间完成，一切都是未知的方式进行的。然而，它真的可以成功。
+开源是公共物品吗？这更多是一个思考，是我们可以随时享用，不需要任何付出和维护的吗？政府在这里的作用是什么? 作为基础设施的开源软件，正如我在开源书籍推荐 ————《路与桥——现代世界数字基础设施那些隐藏的劳动》一文所描述，开源的项目是隐藏着巨大的危机的。openssl事件可能众所周知，但是想这样的项目还有很多，比如NTP。
+还有大家比较关心的一点，在经济学家眼里开源意味着什么？开源是（开放、共享、回馈）经济学，毕竟这里代表着先进的生产力。在这里给大家举个例子，来自哈佛商学院的Nagles最新研究成果：参与到上游对于竞争是弊大于利的。而且所列举的例子也是能够在现实中找到实例的。他最新的论文叫做：&amp;ldquo;Learning by Contributing: Gaining Competitive Advantage Through Contribution to Crowdsourced Public Goods.&amp;rdquo; 推荐有相关兴趣的同学阅读一下。
+开源是自我奉献，这里有很多值得大家注意的地方，乌托邦从来都只是活在人们的幻想中的，你真的想要自由，要准备好付出很大的代价。请大家一定要注意，开源不是什么情怀，开源从诞生的那天起就是妥协的结果，是自由与商业妥协的结果，或者叫做换一种方式实现自由。特别是年轻人，如果有人在利用开源和你谈情怀，你一定要小心了。最好是阅读一下相关的背景，搞清楚其中的利害关系。
+开源是知识产权，这也是我们非常值得关注的地方，由于特殊的文化背景原因，我们生活的这篇土地上，对于知识产权是个大难题，我的一贯主张是没有知识产权，你就不可能有开源，知识产权是开源的充分条件。你读书人窃书不叫偷，随意copy不留名，这种事情只会带来伤害。
+ 现实一点都不重要，认知决定一切。 &amp;ndash; Graham Moore 《The Last days of Night》
+ 开源是空手套白狼，这个是错误的认知，但是非常的常见，也是一些公司主管商务的人最大的认知误区，尤其是非常看重短期利益的人，开源就是他们能够快速的圈钱工具。尽管他们最终付出了很大的代价，但事后往往也不会考虑是因为这方面的原因。
+开源是社区，准确的说是技术社区，社区的文化由来以久，商业公司建立社区也有不短的历史：IT公司构建技术社区也是非常的成功，比如微软的MSDN、Oracle 的java社区等等，但是本土是很少有围绕开源技术成立真正意义上的社区的，最大的一个弊病就是不是以人为单位，而是某些公司的市场营销活动。社区很关键，社区是开源技术成功的必要条件。
+现在我们讨论的时候，经常会讨论到开源软件基金会：FSF、Apache、Linux、Python、Gnome、OpenStack、CNCF 等等，讲这个我可以简单谈论下最近的单一厂商发起的开源项目更改许可证的事件，Redis、MongoDB，类似这样单独厂商发起的项目，很难获得其它商业公司的参与，这是一个伦理问题,正如 Nathen Harvey 在 Information Week 中的文章中指出了三个问题：
+ “项目应该由商业的赞助商驱动还是外围的贡献者驱动？商业利益是否应该凌驾于社区的意愿之上？该如何以及在哪里为商业实体和开源社区之间划上一个明确的界线？”</description>
+    </item>
+    
+    <item>
+      <title>开源之道两周精选(2018 10 14)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-10-14/</link>
+      <pubDate>Fri, 12 Oct 2018 22:19:50 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-10-14/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 GNU 35周年了 原文链接：Happy Birthday, GNU: Why I still love GNU 35 years later
+适兕点评：
+ 或许了解历史的人会觉得悲凉，甚至有点惋惜，但是世界就是这样，要往前发展，不管你做一件事情的目的有多么高的道德立场，如果你没有得到别人的帮助，那么就是失败的。
+GNU 的作用客观的讲，如果没有的话，就没有开源的今天。但是仅止于此，让它坚守在哪里！
+ Time Berners-Lee 创建了新项目，去中心化的互联网 原文链接：Tim Berners-Lee unveils Solid, a framework to decentralize the internet and give back control to users
+适兕点评：
+ Berners-Lee transformed the world once. It would take a brave man to bet against his doing it again.
+But if Solid might seem like a hopelessly ambitious and idealistic project, 我只想说的是，对抗权威的存在，一直都有人在。</description>
+    </item>
+    
+    <item>
+      <title>一切都是关于时间</title>
+      <link>http://www.ocselected.org/posts/the_way_of_open_source/first_all_about_time/</link>
+      <pubDate>Fri, 12 Oct 2018 18:28:14 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/the_way_of_open_source/first_all_about_time/</guid>
+      <description> 墙上的时钟与中央处理器的时钟 中国历史上的关于时间的描述 现代人为什么注重时间？ 时间就是金钱/价值 </description>
+    </item>
+    
+    <item>
+      <title>Linux基金会企业开源指南系列之四 ———— 度量开源项目的成功要素 </title>
+      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/measuring_open_source_program/</link>
+      <pubDate>Tue, 09 Oct 2018 22:53:01 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/measuring_open_source_program/</guid>
+      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
+引子 开放源代码办公室经理必须为自己所付出的努力进行投资回报率的计算。本篇指南旨在概述企业经理们评估他们开源项目、办公室、以及贡献的常见做法。
+学习如何来衡量各项指标，如何定义开源项目的成功，以及如何充分利用各种信息来改进开源项目办公室的目标，说明有效性、并获得更多的支持。
+如何定义成功 明智的公司对于参与开源开发的价值是有深刻理解的，当然基于此，还会设定关于如何利用和参与开源的目标。但是，天下没有”包治百病的良药”，对于开源项目来说每个项目还有一些细微的差别。设置目标、跟踪各种指标，这些都会随着你投入开源的程度不同而不同：如雇佣的开发人员、通过开放的创新带来新的想法和技术，进而达到快速上市、低成本的开发、或是其它原因。
+对于贵司独一无二的战略来说，设置目标是首要的事情，而且要谨记：去寻求高管团队的认同，以确保开源战略与整体业务战略保持一致。也就是说，无论其行业、产品或业务战略有何不同，开源项目负责人都有一些标准化的方法来评估项目的成功。它们通常有：
+ 开发者在外部开源项目中的参与度和影响力 贵司在开源社区的声誉 贵司在雇佣开发者和留住人才方面的能力评估 贵司自个的开源项目健康度，重大业务相关项目的开发者参与度 管理开源许可证合规性的成效如何  为何要设置目标 在开始正式的开源项目跟踪之前，或者说在更为深入的探讨之前，让我们花上短暂的几分钟时间来讨论下如何设置一个可实现的目标，而且要时刻的对它进行评估。
+没有人愿意运作一个失败的开源项目，所以要时刻关注它的发展状态，以便于进行及时的调整。所以首要的就是跟踪项目的进展，这样可以确保贵司所投资的开源项目（无论是内部还是外部）保持健康发展，如社区的回应、公司的形象、以及是否有助于满足开源项目的其它更为广泛的目标。经常性的、有规律的跟踪也有助于校准开源项目的基准，有异常情况可以及时获得警告，以便在项目偏离既定方向、违反法律合规要求的时候，甚至在必要的时候，可以优雅的关闭项目。
+事无巨细（而且也是战略性的）的衡量同样可以在为高层的管理者做报告时，提供良好的素材，定期报告有助于确保项目与自身目标和整体业务战略保持一致，并能够帮助项目经理获得行政领导对项目的内部支持（特别是在项目达到甚至超过目标的时候！）
+例如，Facebook的开源项目办公室会定期在内部公布其开源项目的月度状况，并向管理层发送执行报告。
+ “作报告这件事对于提高知名度是个不错的方法。尽管说Facebook是对开源有着蛮重视的程度的（作为一家公司来讲），换个思路，即使这样，在公司的内部去推广项目，并展现出该有的价值，总归是件值得的事情。” – Christine Abernathy, Facebook 开源开发者布道师
+ 定期公开项目结果还有助于提高潜在的合作伙伴、用户和开发人员对于贵组织所开展的开源活动有一个充分的认识。
+在开源社区中获取关于项目结果的评价——好的、坏的和难听的——可增强项目的透明度、问责制和可信性。
+Facebook 和 Google 在开源项目展示有着非常良好的标杆效果。
+如何设置目标 接下来，我们就为自己的开源项目设置一个远大的目标，除此之外，还要考虑下如何实现这个目标，而且要有具体的时间规划。首先，在开始的时候就建立绩效基准是百利而无一害的，使用恰当的工具来收集数据，而且要确保数据的来源是纯粹和干净的，当然格式上是你（以及你的上司）可以理解的。很多的公司都为他们的开源项目创建了各种指标的可视化展示，以便能够统一的追踪所有数据并提供项目快照，从而达到快速评估进程的目的。(更多内容可以参考《开源项目管理工具指南》。)
+接下来，开源项目办公室的经理、相关者就要坐下来一起商量（以Facebook为例，这些相关的人包括工程领导、项目维护者等），然后一起决定在往后的3~6个月（小步快跑、实际见效）要做的事情。在这个周期结束后，就要回顾所完成的实际情况，并根据此完成情况来调整下一阶段的目标和策略。
+ “我倾向于根据社区的痛点来寻找衡量指标，并尝试改良这些指标以提升社区的质量。” – Sarah Novotny, Kubernetes 社区经理，来自 Google
+ 除了绩效基准指标之外，在为项目设定目标时，还需要考虑以下几点：
+ 战略调整: 所设定的目标是否与核心业务战略、产品目标以及其他内部业务目标保持一致？ 控制级别: 项目经理是否可以直接控制结果？或是项目经理、工程人员、法律人员或其他职能人员共同控制？设定控制范围内可实现的目标。 项目的差异化: 不同的项目应该根据自己的实际情况而设定相应的目标，这要具体的取决于项目目的、社区组成、技术栈等等因素。举例来说，Facebook 一度意识到 JavaScript 的项目会经常性的频繁的创建分支，在多次的重复之后，事后获得的教训就是这些分支的指标毫无意义，对于衡量项目的健康度没有顶点帮助。 数量和质量: 并非所有目标都应与数字挂钩。改进项目流程的质量是非常重要的，甚至要远远比数量更为重要。因为有时候会发现，仅仅是达到了所规定的数字目标，并不就意味着项目质量没有问题。也有的时候，一个小的项目，数量上并没有什么让人惹眼的增长，但是因为有过硬的质量而充满光明的前途。   “你拥有半打数量的贡献者，以及一打不是维护者的活跃人士，但是拥有健康的讨论、PR也会得到及时的处理、重要的功能特性有着完整而清晰的表达。这本身就表示这是一个正在成长的健康的社区，但是，它可能并没有值得炫耀的star数量和fork的次数，但是那样又如何，这一切并不能阻止这是一个有着良好商机的优秀项目。所以我更加的倾向于考虑社区如何与其自身互动、如何发展和指导新的领导者、以及如何解决到现有的难题。” &amp;ndash; Sarah Novotny, Kubernetes 社区经理，来自 Google</description>
+    </item>
+    
+    <item>
+      <title>开源之道两周精选(2018 10 07)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-10-07/</link>
+      <pubDate>Sun, 07 Oct 2018 19:18:25 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-10-07/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 独立的开源项目开发者如何获得报酬? 原文链接：&amp;lsquo;NETFLIX FOR OPEN SOURCE&amp;rsquo; WANTS DEVELOPERS TO GET PAID
+适兕点评：
+ 连线的文章，从来都不会让人感到失望。 开始以一个引人入胜的故事，然后提出问题，然后有人开始试图解决这个问题。具体点是什么。
+Tidelift 这家公司能否完成很多人都难以完成的事情，它既不是基金会，也不是社区知名人士，即 &amp;ldquo;We couldn&amp;rsquo;t understand why something like this didn&amp;rsquo;t exist, so we created it,&amp;rdquo; says Tidelift CEO Donald Fischer, a former executive at Red Hat who founded the company with other open source veterans.
+拭目以待吧，这在天朝是简直不可思议。
+ 为什么阿里巴巴会和 MariaDB达成协议？云平台面临新的战争 原文链接：Why Alibaba&amp;rsquo;s deal with MariaDB might open up a new front in the cloud wars</description>
+    </item>
+    
+    <item>
+      <title>Linux基金会企业开源指南系列之三--一份让你彻底理解开源的读书列表</title>
+      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/open_source_reading_list/</link>
+      <pubDate>Sun, 16 Sep 2018 22:50:51 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/open_source_reading_list/</guid>
+      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
+开源阅读列表 本阅读列表大名鼎鼎的 TODO Group 社区针对开源办公室相关人员所强烈推荐的图书列表。
+英文原版：New Frontiers in Open Innovation, OUP Oxford, Henry William Chesbrough 著 (2014）
+中文版：开放式创新:创新方法论之新语境,复旦大学出版社,亨利·切萨布鲁夫(Henry (作者), Chesbrough) (作者), 维姆·范哈弗贝克(Wim (作者), Vanhaverbeke) (作者), 乔·韦斯特(Joel (作者), West)等 ,第1版 (2016年6月1日)
+关于企业界开放式创新的研究课题新的发现和思考。
+开放式创新是一种新出现的管理范式，强调在创新过程中，运用超越企业边界的内外部知识来引入新事物。在理解和从事开放式创新过程中，我们会面对各种各样的困惑，如公司怎样才能走出传统的知识封锁，超越其组织管理的边界？企业怎样才能敞开吸收来自外部的知识？企业怎样才能向外部提供对方需要的知识？
+英文版：The Open Organization: Igniting Passion and Performance, Harvard Business Review 出版社, Jim Whitehurst 著 (2015)
+中文版：开放式组织,机械工业出版社; 第1版 (2016年9月8日),Jim Whitehurst (作者), 王洋 (译者)
+在《开放式组织》中，开放源代码的巨人——红帽公司的总裁和CEO &amp;ndash; 吉姆·怀特赫斯特根据他在开源领域的亲身经历，绘出了一份领导力的蓝图。通过真实记录他从传统经理人转变为 “首席问题解决者”的过程，吉姆清晰地展示了如何让员工、合作伙伴和客户热情高涨地参与到社区当中，如何借此点燃大家的热情、鼓励创新，从而在真正的开放、合作和共同使命的基础上，将现代企业带向成功。 《开放式组织》写给大公司、小公司、成熟型公司、艰难成长的创业型公司的领导者和期待成为领导者的人们，展示如何打造一个新型的开放式组织模式，获得当今企业必须具备的速度和灵活性。
+以下内容是著名社区opensource.com根据 开放式组织 专门写的几个系列，以小书的形式发布，目前有5本，可以自由浏览。汇总地址：开放式组织小书系列，以下分别介绍：</description>
+    </item>
+    
+    <item>
+      <title>开源之道两周精选(2018 09 15)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-09-15/</link>
+      <pubDate>Sat, 15 Sep 2018 15:39:40 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-09-15/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 谁在为开源做贡献？答案出来吓你一跳 原文链接：Who contributes most to open source? The answers will definitely surprise you
+适兕点评：
+ 是那些商业公司，就这一两年，那些个商业公司开始大肆宣传自己拥抱开源，尤其是以巨头微软为首，事实上他们确实取得了非常好的效果。本文除了列举了一系列的数据之外最重要的是引用了两个学术上的结论：
+  Perhaps the fastest way to get more developer talent in-house is simply to use and contribute more open source software. the more developers contribute, the greater the value that accrues to their organizations.   当所有人说你开源只是一个莫须有的理想罢了，你只能去闭关修炼，等待机会。
+ GitHub 宇宙盛会即将来临，预测点什么？ 原文链接：GitHub Foreshadows Big Open Source Announcements at GitHub Universe
+适兕点评：</description>
+    </item>
+    
+    <item>
+      <title>Linux基金会企业开源指南系列之二 -- 开始创建开源项目</title>
+      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/starting_open_source_project/</link>
+      <pubDate>Thu, 06 Sep 2018 09:07:59 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/starting_open_source_project/</guid>
+      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
+创建一个开源项目 一旦企业已经参与到开源社区足够长，而且也建立了一定的声誉，那么这个时候就有了创建自己的开源项目的资格了。处于此阶段的企业由于参与了开源，也已经意识到从开放的协作中可以获得的益处。那么就会考虑将专有的项目开源出来，社区也许也会用得着。另外一个常见做法是从头开始创建新的开源项目，并从一开始就受益于外部开发人员之间的协作。
+本文旨在帮助那些已经熟悉开源的企业，他们希望学习和了解更多信息，用以启动他们自己的开源项目。全文会带着读者你完成整个开源的过程：从觉得开源什么、到预算和法律的考量，等等非常细致的各个方面。读者你可能觉得创建开源项目相对比较陌生，但是要知道，Google、IBM、FaceBook、Twitter、微软等公司已经开源了很多项目了，他们早已经为我们开辟好了开源这条道路。按照本文所提供的建议和提示做，你一定不会走偏。
+为什么要创建开源项目？ 读者你所在的公司有一万个理由去开启一个开源项目。或许是想加速创新、又或者是加快上市速度、亦或是收集新的创意、还是为了增强互操作性或事实上的标准而希望雇佣有天分的开发者、以及收集多种多样的观点、再就是希望能够生产出更好的代码和更棒的产品，等等。总而言之，开源好处多多。
+以上种种好处，都是建立在贵司使用和贡献开源项目所应得的，但是一个更富战略意义的开源应该去创建和建立自己的开源项目。
+无论是从头创建的项目还是已有的项目，将其开源，是希望能够在社区找到付出与接纳的感觉，这样不仅可以进一步建立公司在开源社区的声誉，而且可以让公司在吸引人才方面更具吸引力，当然还有能够在所贡献的项目中突显自身的影响力。能够让自身的代码开放，供大家公开讨论是非常不错的起点，也可以带来更多的益处，因为这是吸引合作伙伴、供应商、以及用户等公司外部的生态的途径。
+通过将公司的代码和开发实践开放，从而让外部的人们来使用和贡献，那么公司就是真正意义上的拥抱开放式创新，利用开源来将自己的业务最大化。基于开源许可证之下发布代码，允许任何人来贡献、审视、改进现有项目，这种开放式的协作开发方法是目前构建软件默认的方式，也是经过实际验证的技术创新动力。
+其实，无论你身处哪个行业，金融服务、医疗保健、物流运输、零售、航空和客运、道路和桥梁等等不一而足，都面临同样的问题，这些企业当然希望能够通过提供应用和技术来为他们的客户提供核心价值，但是事实上，他们在构建自己的服务的时候，会依赖大量的代码和软件，而这些非业务的代码和软件对于这些组织来说并没有任何的竞争力，即体现出一定的差异来。那么将这些所依赖的，又不是核心业务的代码开放出来，可以为这些项目的继续增长以及创新提供进一步的机会和可能性。
+ &amp;ldquo;无论公司雇佣了多少聪明的员工，而总是还会有更加聪明的人没有招进来。不过我们发现了一种利用公司外部聪明的人的做法，那就是参与到开源去，我们先分享我们的代码，然后会发现收获的更多，那些外部的聪明提交的想法真是棒极了！&amp;rdquo; &amp;ndash; Jared Smith, Capital One 开源社区经理
+ 企业之所以选择开源，是当他们想往前积极的推进项目的时候，公司人手紧张，希望通过开源，能够让工作进度加快，并希望和其他人协作来完成软件的实现，在降低了成本的同事，还改进了他们的产品。可谓一举多得。
+开源项目提供的自由的进行协作&amp;ndash;甚至是同一行业内相互竞争的友商——也因为有跟多的人参与可以加速项目的开发。通过紧密的合作，开发者们可以公开的分享，收获大量的反馈，并共同构建可扩展，高效和高质量的代码。
+什么时候创建开源项目 贵司选择从头开始创建一个开源项目，还是将已有的项目开源，要根据自身的实际情况而定。不过无论哪种情况，贵司首先要在开源软件的使用和对现有开源项目的贡献有一定的实际成果，因为只有自己是开源软件的实际使用者和消费者，才能懂得如何利用外部的项目以及开发人员来构建自身的产品，而且已经参与了开源，不仅能够提升在开源社区的影响力，也能够对开源的文化有一定程度的了解。但是一旦在开源社区中站稳了脚跟，对其开发流程、沟通方式、文化习惯等了如执掌的时候，就应该“尽早”且“不间断”的启动一些自身的项目。
+从哪里开始 或许你决定创建一个新的项目是因为你所遇到的技术问题是你自己短时间内无法解决的，又或者是你找不到一个想加入的项目能够满足你想要的，不管怎么样，从哪里开始，没有绝对的答案，总而言之，就是你需要一个解决问题的项目，然而又从现实中无法找到满意的，那么就去创建一个。
+对于企业来说，考虑开源项目则会多一重考量，那就是回答——“为什么要开源？”，最好是准备好一大堆问题，对于你的公司来说什么是重要的？一定要重视起来这个问题，企业开源项目一定要有充足的理由去做。否则不如不做。
+ &amp;ldquo;我以为对于企业来讲，考虑好希望新的开源项目能够实现什么目标是至关重要的，企业必须考虑项目对于社区的价值，外部开发者的意义，以及自身可以获得什么样的结果。然后，还必须去理解在社区需要做的所有的事情，以正确的方式去看待法律、治理、基础设施、创建社区等等，这些都是我经常和大家提到的，想要开源自己的项目，这些都非常的重要。&amp;rdquo; – John Mertic, Linux基金会项目管理总监
+ 项目启动，包括项目的编码部分，是不应该让企业成为该项目的权威的，更何况，开源本身就是希望有一大波来自全球的技术人员来帮助企业解决问题的。对于企业来讲，如果不是关键业务的代码，那么将之作为开源的备选是非常不错的选择。无论怎样，作为发起的企业，应该积极的进行使用和维护。这些代码一旦被其它企业所采用，形成商业上的依赖，那么就会有持续不断的反馈，如修复bug、打补丁、甚至是开发新的功能。
+ &amp;ldquo;Facebook 开源出来的很多项目均是自己内部正在使用的项目，Facebook极力的推动正在生产中的代码开源，这也就意味着，正是由于Facebook的规模，说明了这些项目是经过了实际的考验的和验证的，Facebook贡献给社区的是专业级别的。还有另外一件重要的事情是，我们Facebook使用这些项目，所以不希望这些项目被遗弃或者不被支持，Facebook的工程师们太需要他们了。&amp;rdquo; – Christine Abernathy, Facebook 开源开发者布道师
+ 另外需要考虑的一个问题就是，贵司所开发的项目是否是独一无二的，亦或是其它公司因为遇到类似的问题已经开发了类似的项目。那么就要问问：此开源项目是否是贵司很重要的业务？贵司是否会作为公司的策略而进行支持和管理？是否有用户在寻求类似的问题解决方法？如果这些问题的答案都是肯定的话，那么就表明这个项目是非常有意义的。
+还有，作为项目主管的你还要决定是否打算将项目捐赠给中立的、非营利性的组织，换句话说，你是否会将自己亲手打造的项目，从具有绝对控制权的位置上退下来。和以往的回答一样，我们给出的答案是这取决于你自己，以及你想要达到何种目的。
+ &amp;ldquo;你之所以去开源一个项目，大约是意识到潜在项目中的内容对于贵司来说不是特别的重要，但是你又不乐意放弃控制权，期望还能控制它未来的走向。这些都没有关系的，相信你明白了当其他开发者参与到项目中时，随着项目的发展和壮大，你自己会做出明智的决定的。所以，简单的平衡一下利弊，就开源吧！&amp;rdquo; – John Mertic, Linux基金会项目管理总监
+ 规划项目 一旦你启动了自己的开源计划，那么接下来就要考虑很多细节性的内容，从而将此开源的计划变成现实的成果。那么现在就让我们考虑下如何按部就班的实现，首当其冲的就是决定发布或捐赠那些代码。
+决定发布或捐赠那些代码 对于开源一个项目来说，你首要决定的就是从下面二者之间作出抉择：
+ 贵司自己来创建、发布、维护项目的方方面面 捐赠项目给现有的中立基金会来维护和管理  如果说是在考虑将贵司现成的项目开源，则需要考虑另外的一个问题：是将项目所有的代码都开源了呢？还是只开源部分内容？</description>
+    </item>
+    
+    <item>
+      <title>开源之道三周精选(2018 09 02)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-09-02/</link>
+      <pubDate>Sat, 01 Sep 2018 08:02:52 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-09-02/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 Linux 基金会：加速开源创新 原文链接：The Linux Foundation: Accelerating Open Source Innovation
+适兕点评：
+ Linux 基金会在2018年的发展是前所未有的！ 连好莱坞都找上门来。软件的发展超乎我们的一般直觉，企业开发软件的成本和创新遇到了前所未有的难题，面对业务的加速变化，项目的循环周期缩短的周期领开发者们瞠目结舌。 但是在中国本土，如此的一切却显得麻木、迟钝。甚至开源之道竟然难以维系。坚持到啥时候算啥时候吧，但愿我是错的。
+ storj 实验室为开源创建了盈利的机会 原文链接：Storj Labs to create revenue opportunities for open source
+原文链接：Storj Labs forges open-source vendors and cloud services alliance
+适兕点评：
+ 云计算到底是不是开源的杀手？Redis 更改协议的事件绝非是普通的事件。那么Storj所搞得这个联盟到底意味着什么？也值得我们持续的跟进。
+商业和开源，需要一个伦理学家来诠释这一切。
+Open source drives a sizable majority of the $200 billion-plus cloud computing market, but very little of that revenue currently makes its way directly back to open-source projects and companies.</description>
+    </item>
+    
+    <item>
+      <title>Linux基金会企业开源指南系列之一——公司如何创建开源项目办公室</title>
+      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/creating-an-open-source-program/</link>
+      <pubDate>Sun, 19 Aug 2018 23:46:09 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/creating-an-open-source-program/</guid>
+      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
+如何创建开源项目办公室 处于中心位置的开源项目办公室是在公司内部成立的一个指定的部门，用户开源的支持、培育、共享、诠释、以及增长，通过这样一个机构，企业可以明确地建立和执行开源战略，为其公司的决策层、开发人员、营销人员以及其他员工提供必要的工具，从而让开源帮助公司在运营中取得成功。
+本文的目标是帮助读者理清楚为什么、以及如何在公司的内部去建立这样的一个部门，进而去管理开源的使用，更为重要的是会告诉读者如何去让公司的开发者去参与到外部的开源项目中去。开源办公室所涉及到的类别有：角色和职责、公司结构、开源管理项目的因素、如何选择和雇佣开源项目经理等等。
+目录
+ 为什么要创建开源项目办公室 开源项目办公室的角色 举例：Google的开源项目办公室 建立开源办公室 项目结构 管理角色 建立政策和流程 写在最后 开源项目工作招聘清单举例 鸣谢  Why create an open source program office 当今的时代，开源软件已经是企业使用的主流形式，几乎囊括了所有的行业：零售、金融、汽车等等。然而，这些企业的执行领导和决策者们却并不了解开源本身。
+这样就引来了一个大问题，开源软件的使用和管理采用传统的业务规划行不通，尽管企业在其它方面可能一直以来都运营的非常顺利和成功。开源创新有其自身独特的一套方法论，甚至和传统的企业流程还有点格格不入，其中最大的一个不同点就是开源的开发是协作和透明的，而传统的软件和企业则往往采用的是封闭的和专有的。对于很多企业来讲，采用开源的方法需要更改固有的做法，往往会遇到极大的困难和障碍。
+解决以上问题就是设立开源项目办公室的最大优势。通过创建开源项目办公室，企业可以启用、精简、组织等方式来看待开源的利用，从而直接和企业的长期业务规划齐头并进。开源项目办公室旨在成为公司级别的开源运营和架构的核心，帮助将所有必需的组件集中到一起。
+这其中包括代码的使用、分发、选型、审计以及其它的政策，乃至培训开发者、确保法律上的合规性、以及激励和构建社区的参与。开源项目办公室还要做公司内外部的所有和开源相关的布道和沟通。
+ &amp;ldquo;每家公司都应该成立一个开源项目办公室，其要有一个合理而雄心勃勃的计划来影响软件生态系统的各个部门。如果企业要加大其影响力的话、清晰的传达开源的消息、最大限度的发挥项目的影响力、或者是提高其产品开发的效率，开源项目办公室无论在哪个方面，都可以很好的发挥相应的效用。John Mark Walker 开源创业者网络（OSEN）的创始人 &amp;ldquo;
+ The role of the open source program office 归根结底，开源项目办公室是要体现出其价值的，其要在公司内部鼓励开源的使用、参与贡献、以及创造，从而让公司获得战略上的优势。
+一个成功的开源项目办公室可以通过为开发者及其团队建立流程，从而为企业在使用开源方面获得巨大收益。它能够鼓励编码的标准、组织的实践、流程的建立、以及优良工具集的使用。同时，开源项目办公室可以帮助开发者避免或消除不必要的、呆板的流程，以帮助项目顺利的开发等等
+开源项目办公室所负责的事情形形色色，多种多样，其中包括：
+ 清楚地传达公司内外的开源战略 是战略的负责人，并监督战略的执行（请参考创建企业开源战略的指南） 促进商业产品和服务中开源的有效使用 确保代码是以高质量、不间断经常的方式向开源社区发布的 与开发人员社区合作，并要监督公司有效地回馈社区 在公司内部培养开源文化 维护开源的许可证合规，要审核和监视  对于公司来说，每家遇到的情况可能不一样，那么开源项目办公室的角色也要根据业务、产品、目标等进行相应的调整。目前还没有一个适用于所有公司的开源项目办公室模板，即使是单个行业的所有公司也是不可能的。这就很大程度上在创建过程中会遇到一些挑战，但是你可以从其它公司所分享的经验中学习，将之糅合以适应贵公司的特定需求。
+ &amp;ldquo;在企业应用开源，是没有一套万能钥匙的，我是没法告诉你‘我所说的就是灵丹妙药，包治百病’。&amp;rdquo; - Jeff McAffer, 微软开源项目办公室总监.</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2018 08 12)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-08-12/</link>
+      <pubDate>Mon, 13 Aug 2018 10:45:12 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-08-12/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 为什么说 GNU/Linux 没有在PC桌面有所建树是一件好事情 原文链接：Why the Failure to Conquer the Desktop Was Great for GNU/Linux
+适兕点评：
+ 本文跟题目没有多大关系，图片也没有太多关系，这就是IT的作者离技术越来越远的原因，Linux Journal要死掉是有原因的。
+因为文章没有思考的独立观点。但是看看也无妨。
+ GOOGLE面临中国跨越审查的障碍 原文链接：GOOGLE FACES HURDLES IN CHINA BEYOND CENSORSHIP
+适兕点评：
+ 这篇文章和开源有何关系？准确点说是没有任何关系的。我也不知道为何会出现在我订阅的Google新闻报道里，虽然文章里出现了Open Source 这个词汇。但是它讲的是中国政府和Google之间的关系，Google 要在利益与原则之间进行权衡，中国要在稳定压倒一切之间，不惜抵抗到底。
+伴随着开源的流行，本土必然出现更多的开源使用者和搭便车者。
+ 宜家的开源 Delaktig 沙发的设计改来改去 原文链接：Ikea’s ‘open source’ Delaktig sofa is designed to be built and rebuilt again and again
+适兕点评：
+ 开源究竟在软件之外的地方该如何发展？The term “open source” is usually used to refer to software that is distributed free of charge to users who can adapt it at will.</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2018 08 05)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-08-05/</link>
+      <pubDate>Sun, 05 Aug 2018 12:55:17 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-08-05/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 来自人工智能、自动驾驶、区块链、云计算等众多领域22家厂商加入Linux基金会 原文链接：Twenty-Two Organizations From AI, Automotive, Blockchain, Cloud and More Join The Linux Foundation and Invest in Open Source Technology
+适兕点评：
+ 开源究竟能发展成什么样子？资本的大量加入，到底对基金会本身的冲击有多大？在大量公司参与的情况下，仅仅展示是否能够满足？
+反过来，很多厂商是处于一种非常不稳定的情形，往往是市场部一时心血来潮而投了点钱，一年下来，ROI计算很低的时候，下一年基本上就不干了。这才是问题的所在。看来ROI的那个研究还是应该做下去的，对企业蛮有帮助的。
+ 微软收购GitHub这件事对于开发者社区意味着什么？ 原文链接：What Does Microsoft&amp;rsquo;s GitHub Acquisition Mean For The Developer Community?
+适兕点评：
+ 不同的人有不同的看法，微软已经不是过去的微软了。所以算历史的旧账没有任何的意义。倒是往前看的观点比较值得关注和赞赏。
+ Serverless 公司 A轮融资1千万美金 原文链接：Serverless, Inc. lands $10M Series A to build serverless developers platform
+适兕点评：
+ 2015年成立，拥有20多个人的小团队。三年之后才拿到1千万，这对于中国本土的团队来讲简直不可思议。
+ 《开放革命》书评：数字时代的所有权 原文链接：The Open Revolution, book review: Ownership in the digital age</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2018 07 29)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-29/</link>
+      <pubDate>Mon, 30 Jul 2018 17:25:37 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-29/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 推出开源计划不过是想赢得下一场竞争——量子计算罢了 原文链接：Launching Open Source Initiatives Is the Next Battleground In Quantum Computing
+适兕点评：
+ 微软推出Q#开源项目，这不，Google 推出了Criq量子计算开源项目。
+正如我原来所说，开源是爱好者和人才的战场，学习的成本正在降低，但是，机会均等，并不等于结果均等。
+ LibreOffice 入住微软软件商店——收费的哦 原文链接：Free, open source office suite LibreOffice arrives in the Microsoft Store &amp;ndash; with a price tag
+适兕点评：
+ 消费者有自主权！ 这是做企业的最起码的尊重。
+这个世界不是零和游戏。
+ 为什么说开源对于软件开发越发的重要 原文链接：Exclusive: Why open source is critical to software development
+适兕点评：
+ 尽管是Pivotal的私有看法。但是却是非常正确的。
+ 开源认证：准备考试篇 原文链接：Open Source Certification: Preparing for the Exam
+适兕点评：
+ Linux基金会的关于开源技术技能的认证。其实我对这篇文章的内容没什么兴趣。我是很欣赏这句话： “Open source is the new normal in tech today, with open components and platforms driving mission-critical processes at organizations everywhere.</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2018 07 22)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-22/</link>
+      <pubDate>Sun, 22 Jul 2018 11:16:03 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-22/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 汽车业需要拥抱开源 原文链接：The car industry needs to embrace open source
+适兕点评：
+ For developers, finding new ways to work more efficiently by embracing the open source model is essential if they hope to scale up their capacity to build not only products for the infotainment space, but other aspects of the connected/autonomous vehicles of the near future.
+其实不止于汽车业，任何产业都需要拥抱开源，诸如体育竞技、儿童教学、大学教育等，统统需要引入开源的哲学原则。
+ Satya Nadella 和微软是如何重新赢回华尔街的 原文链接：How Satya Nadella and Microsoft won back Wall Street</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2018 07 15)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-15/</link>
+      <pubDate>Sun, 15 Jul 2018 09:17:14 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-15/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 为什么人们不喜欢只有一家供应商运营的开源项目 原文链接：Why you really don&amp;rsquo;t want just one vendor running an open source project
+适兕点评：
+ http://oss.cash/ 目前来说比较全面的商业成功的开源软件公司了。当然红帽是最大的。
+看到这篇文章，我心里有种欣喜，这个世界不止我一人对于开源的商业行为感兴趣，它并不是简简单单的礼物经济，这中间牵扯的问题较多。非单一因素可以解释或覆盖。
+It&amp;rsquo;s not winner-takes-all, or even winner-takes-most. Such multi-vendor open source communities can generate many winners driving huge value for themselves and for their customers. 我比较赞赏这句话，红帽也不过是占据了一小部分罢了。相比于垄断集团的利益，红帽那点利润占据的份额很小。
+ 为什么国防部应该先拥抱开源 原文链接：Why DOD Should Look Before Leaping into Open Source
+适兕点评：
+ 这是美国的一条新闻，这个世界到处都是平行世界。不用理会，世界大同还有很长的路要走。
+ GitHub vs. Bitbucket vs. GitLab：让开发者纠结的Git 原文链接：GitHub vs. Bitbucket vs.</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2018 07 08)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-08/</link>
+      <pubDate>Tue, 10 Jul 2018 08:40:26 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-08/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 SUSE 再易主，这次价值达25亿美金 原文链接：Micro Focus sells off chunk of business to EQT for $2.5bn
+适兕点评：
+ 开源是如此的大行其道，即使是SUSE这样的夕阳企业，也被人重新提上日程。可见未来软件成为服务业，绝大多数的软件都须是开源的。也是一个必然的发展。不要小瞧服务业，这是很多产业的支柱：酒店、体育、即使是汽车，后服务市场也占据很大的份额。
+然而，InfoQ却发了一篇非常不专业的文稿。称开源也是蛮有钱的。但是，这或许就是人们对于开源的认知了呢。
+ 开源是开放业务吗？ 原文链接：Is open source open for business?
+适兕点评：
+ 这是一篇三观非常正确的文章。
+Open source is about collaboration and community. You&amp;rsquo;re not buying opaque software you can&amp;rsquo;t change and improve - you&amp;rsquo;re entering a rich innovative environment that your business could play an active role in. 这句话简直让人震撼。
+Across industries and academia open source collaborative software development has already become the standard.</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2018 07 01)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-01/</link>
+      <pubDate>Sun, 01 Jul 2018 10:52:30 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-01/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 开源的可持续发展问题 原文链接：Open source sustainability
+适兕点评：
+ 发币，这是目前中国最多认为开源的最大问题的治疗方式，普遍的中国人认为，之所以中国没有发展起来开源项目，是因为中国的程序员获得的报酬不对等。
+我一直在酝酿着，憋着。直到有一天我看到他们的结局之后，我在撰文批判。金钱上的报酬只是开源中的一个因素而已，而且不是主要因素。发币也有很大的问题，比如CSDN想一同天下，让天下所有的开发者都在他们家的平台下。GitHub都没有做的事情，他们开始做了。GitHub能有今天也是10年前一步一个脚印走过来的。
+ 周末阅读列表：FOSS 项目 原文链接：Weekend Reading: FOSS Projects
+适兕点评：
+ 开源项目有很多很多，投机倒把、搭便车者到处都是，尤其是在有法不执的情况下。
+在本土有很多的误区，比如没有算清楚工程的账。该如何正名？ 有何种渠道可以正名？这才是问题之所在。
+ 开源：为什么越老越多的项目选择开放的运营模式 原文链接：Open source: Why it&amp;rsquo;s time to be more open about how projects are run
+适兕点评：
+ 此文堪称精彩，关于安全、治理我就不多说了，我只想引用几句专家的话： &amp;ldquo;People who want to join the community need to know what we work by.&amp;rdquo;&amp;ldquo;companies can distinguish themselves by chopping wood, carrying water and doing the unglamorous heavy lifting.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>开源之道</title>
+      <link>http://www.ocselected.org/posts/the_way_of_open_source/open_source_way/</link>
+      <pubDate>Sat, 30 Jun 2018 10:08:01 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/the_way_of_open_source/open_source_way/</guid>
+      <description>引子 多年以来一直从事和开源相关的工作，从接触到自由和开源软件文化，到以软件为职业，再回归到布道，一晃已经15年过去了，15年，对于一个人的生命周期来说，在从青年到壮年的最为丰富多彩的一段时间，在其中有过欢笑、有过沉沦、有过奋斗、有过挣扎、有过冲突、有过彷徨，但唯一没有做的是放弃。从好奇，到参与，再到宣扬，一路走来，遇到过很多人，也经历了很多事，自己也努力的追求着本质。
+于是，希望将自己对于开源的理解写下来，表达出来，让更多的人受益。
+自信与宏观思维 毫无疑问，认识成长于社会的环境当中的，在自己的头脑没有成熟到一定程度时，是会被环境所左右，而武装自己的头脑，唯一的办法就是不断的训练它，让它不断的吸收新的知识、体验。其中，读书是至为重要的一种方式，我已经忘记我是为何一直以来都喜欢读书的，从能记事起，就喜欢翻书，脑子里总是有太多的问题，而现实中的人们或其它媒介又无法作答，唯有书籍能带给我不断求索的答案和方法。
+随着年龄的增大，身边的人们在远离校园之后，读书的人也越来越少，而我也越来越少的和这些人来往，久而久之，连我的家人都在劝我，少读点书，有什么用？徒增烦恼。当然更多的是现代职场重要的社交关系——同事，大多数人认为我是在”装逼”，因为大多数人也是这么做的。于是，读书成了我一个人的事情，就这么过了许多年，当微信朋友圈可以贴标签的时候，读书（那些愿意分享或不嫌弃我分享的）也是我维护的重要的一条社交纽带，当然，自己的成长也是通过读书而受益无穷。对于各种事物以及自己都渐渐的有了一个清晰的轮廓。自信也随之而来：读书不是什么缺陷，而是一种习得性的能力。 不是所有的人，都能通过读书来学习和认知这个世界，也不是大多数人能够沉浸于书中的世界进行深度思考，读书和人类其他很多活动一样，是需要花大量的时间和精力来习得的。
+获得对于自己读书的自信之后，也仍然在窥探着自己的选择倾向和思维习惯。大约是大学时代所接受的系统论，让我对于遇到的每件事情，总是希望以系统的视角来思考问题，即使是计算机这门庞大的学科，我最喜欢的一门课程也是操作系统，职业生涯也是围绕 GNU/Linux——开源的操作系统。那么这样就让我去思考和观察很多方面的内容，比如在职场，我会探究管理、商业、脑力劳动者、人力资源、人性、团队协作、职场伦理等；在家庭，我会探究教育、伦理、顺从与人文、母亲的力量、社会关系；从我内心的角度，我会探究我为什么会有那么多欲望、别人怎么看待我、我的自卑情节是从何而来等；甚至面对一些大的事件，我会学习和探究古今中外的历史、贸易往来、封闭与开放、道德与宗教、科学的本质；回归自身，我的体育技能如何提高、肌肉量怎么增、如何控制自己的本能、冥想等等。
+我后来发现，这样的思维方式也是蛮难得的，生活中至少我遇到的人极少会这么去思考，因为我去和人们讨论的时候，很多人都信心满满的认为自己有答案，非常简单的因果论。或者是靠本能的总结规律（世界杯上届冠军本届小组赛不出现、中国人做视频能上市之类的类似原始人摸鼻尖就能祈祷天会下雨。）极少数拥有智慧的人，会考虑诸多因素，对生命和万事万物保持着一种敬畏和学习。这样，我又发现我仍然在少数人里，干脆就放任自己的思路一路探索下来。
+那么就有了我这篇日后会扩展为一本书籍的文章——《开源之道》，围绕我倾注时间最多的开源软件领域，来扩展一下整体的宏观思路，尝试理清这里面蕴含的奥秘，通过过去的分析来多角度的探视这个世界，进而去领悟生活、人生。
+开源之道的系统框架 若是什么事情都能够从很高的角度来看的话，确实能够有掌控大局的机会，尽收眼底的上帝视角是我们渴望达到的境地，我们都希望自己能够少犯错误，认清未来，能够将基因传给下一代，在有限的生命中探求更多。以下视角不过是一种妄想罢了，只要做出选择，就会挂一漏万。(在写下这段文字之后，我获知，这叫做理性的阶梯。)
+或许是一名受训的工程师希望将自己的思路以图表的方式一厢情愿的表达出来，但是明确的解释却需要我在未来花更多的时间来做这件事。每一个细分的内容都有无穷无尽的选择和知识，而不同的选择，就会导致最后结果的不同。大约是了解过一点大数据的知识，所以开源之道的内容，是没有因果论的，只会去尽最大可能去推导相关性，一如去证明吸烟是否有害健康一样，不会陷入某个具体的个例来进行因果决定论，而是通过尽可能多的收集数据（其它学术论文及上市书籍等），开源软件乃至开源本身渐渐成为显学，成为人类历史演化下的重要里程碑，一定有其内在的深层的原因，以一人之力，怎敢下定论，顶多是找到并理解现象罢了。
+乌托邦 人类的想象力是非常丰富的，令人叹为观止的。在人类的想法中，无疑人如何能够理想的生活，所有人都是满足状态的，也是让所有人奋不顾身去努力追求的状态。有丰富的物质，每个人都各得其所，所有人都遵循道德，根本不需要法律，没有争端，所有人一律平等，人人无忧无虑，宛若宗教中所说的天堂一般。
+但是，正如其名称一样，它只存在于人们的幻想当中，是人类所能想到的最高社会标准。
+ we need an Open world. A world where all digital information is open, free for everyone to use, build on and share; and where innovators and creators are recognized and rewarded. &amp;ndash; Dr. Rufus Pollock《Open Revolution：Rewriting the rules of the information age》
+ 物质文明 以商业为基础的资本主义，倡导物质文明，追求经济利益，守信而重视法律，承认人是自私的动物，有很多本能上的弱点，以科学来推动世界发展，就是这样一个思路，带动了全球贸易化、工业革命、信息革命，解决了大多数的困扰人类几千年的饥饿问题，不仅人可以在很短的时间内从地球的一端到达另外一端，而且还能够毋须人旅行，而网络视频随时随地将任意的两个人或几个人链接起来。
+随之而来的是所谓人工智能时代，人类将一切繁重的生产性的劳动全部移交给了机器，哪怕是开车出行或一段美妙的晚餐这样的日常琐事，人类似乎真的如果不去思考和追求，就成了所谓的“无用之人”，甚至都在考虑是否打败癌症、人体衰老这样的难题，不仅要彻底享受，还希望永远这么进行下去。
+技术的进步，正在一步步的改善着人类的生存状态，人类甚至能够计算出来自己需要每天摄入多少能量就足够应付所有事情，而不是交给大脑将多余的能量转换为脂肪，同样在穿衣、住房、出行方面均有着非常大的跨越，中国的铁路可以修到北极圈，至于会不会加速北极的冰雪融化速度，那不在考虑范围之内。
+从承认弱点到理想世界 人类的终点究竟在哪里？至善至美的世界的存在性在经历几千年的战争、屠杀、蹂躏，已经让人们失去了信心，也甚至将这个问题交给了哲学家们去思考了。与其无法达到妄想的彼岸，不如承认当下，做一些力所能及的事情，尽情的享受人类该有的幸福，偶尔关怀一下正在消失的物种，爱护一下珍稀动物，利用知识和科学去增加粮食的产量，让一些物种更具观赏性，以法律为武器来捍卫人类最后的尊严。
+人性本恶还是善，至今仍在讨论，尽管认知神经学家和基因学家设法去证明，人类的基因并不是人们想象的那么简单，尽管携带的内容很少，但仍然无法从道德上来证明，只能说基因要生存要繁衍，于是会详尽一切办法让自己存活，包括将自己的同类毁灭。
+然而，人类社会仍然没有失去希望，无论是宗教，还是类宗教的世俗国家，都会从意识形态或其它科幻的视角来描绘，人类最后的理想世界终究会到来。没有独裁者，人人各司其职，社会和谐安定。</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2018 06 23)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-06-23/</link>
+      <pubDate>Sat, 23 Jun 2018 16:45:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-06-23/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 微软利用AI来降低云计算的电力开销 原文链接：Microsoft is using AI to cut the cloud’s electric bill
+适兕点评：
+ 云计算所带来的体系架构的改变也是前所未有的，大型数据中心，如果不能有效降低成本，那么就有可能被巨大的损耗给吞噬掉。除了计算、存储资源的优化和体系架构之外，就数电力了。
+除了拥抱著名的OCP，即开放计算工程，硬件的设计之外，接下来就是算法的问题的。开源不是全部，但是在其中起着至关重要的作用。
+ 微软勇敢的闯入了新的世界 原文链接：Brave new world opens up for Microsoft
+适兕点评：
+ 微软收购GitHub，真是让不明就里的人们兴奋了几天，朋友圈刷屏刷到爆。可是细细的静下心来，看看这样的文章，你才能明白微软再打明天的仗。本文有两个观点我非常的认同:
+  Arguably, open source is not an alternative to commercial software. Rather, it is a way to create software collaboratively, and at a global scale. Active contributors in the open source community resolve problems; the source code is visible and can be tweaked and updated by anyone.</description>
+    </item>
+    
+    <item>
+      <title>CNCF 是如何工作的</title>
+      <link>http://www.ocselected.org/posts/foundation_introduce/how_cncf_works/</link>
+      <pubDate>Tue, 19 Jun 2018 13:25:30 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/foundation_introduce/how_cncf_works/</guid>
+      <description>引子 技术创新与社会创新是同等重要的，在人类有限的历史中，二者是相辅相成不可分割的，福特汽车既将制造的步骤划分，也将工人的组织结构进行了调整；贝尔实验室那些无数的创新，不得不说和它的开放的办公环境和平等的文化有关；硅谷成功的秘密，那些历史学家和成功的商人们，从来不仅仅提及某个技术的颠覆，而总是会谈到资本、宽松、鼓励失败等社会创新。反思本土，是否被技术蒙蔽了双眼？是的，应该努力提高自我的认知，在关注技术创新的同时也要关注社会创新，因为现代技术的发展绕不过去的就是协作，一个大型的软件项目工程，参与的人何止千万？该如何组织和协调诸如Kubernetes大规模全球性的协作？在围绕利益分配、政治角逐、文化冲突、技术先进和创新等等方面必须做到应对之道。
+这次开源之道介绍的是CNCF，近年来随着容器编排和微服务发展起来的新一代基金会，随着其坐着火箭般的上升速度以及引起的轰动效应，你不得不关注它背后的运行机理。
+CNCF的使命 CNCF 没有偏离自己的主题，核心是解决技术问题：基金会的使命是创建并推动采用新的计算模式，该模式针对现代分布式系统环境进行了优化，能够扩展至数万个自愈式多租户节点。
+所谓的云原生系统须具备下面这些属性：
+ 应用容器化：将软件容器中的应用程序和进程作为独立的应用程序部署单元运行，并作为实现高级别资源隔离的机制。从总体上改进开发者的体验、促进代码和组件重用，而且要为云元是国内应用简化运维工作。 动态管理：由中心化的编排来进行活跃的调度和频繁的管理，从根本上提高机器效率和资源利用率，同时降低与运维相关的成本。 面向微服务：与显式描述的依赖性松散耦合（例如通过服务端点），可以提高应用程序的整体敏捷性和可维护性。CNCF 将塑造技术的发展，推动应用管理的先进技术发展，并通过可靠的接口使技术无处不在，并且易于使用。  CNCF 的定位 CNCF 其实是在开源社区的基础上发挥着作用，应负责：
+ 管理项目  确保技术可用于社区并且没有杂七杂八的影响 确保技术的品牌（商标和标识）得到社区成员的关注和使用，特别强调统一的用户体验和高水平的应用程序兼容性  促进生态系统的发展和演进  评估哪些技术可以纳入云原生计算应用的愿景，鼓励社区交付这样的技术，以及集成它们，且要积极的推进总结进度。 提供一种方法来培养各个部分的通用技术标准  推广底层技术和应用定义和管理方法，途径包括：活动和会议、营销（SEM，直接营销）、培训课程和开发人员认证。 通过使技术可访问和可靠来为社区服务。  旨在通过对参考架构进行明确定义的节奏，为每个组成部分提供完全集成和合格的构建。   CNCF 的价值观 CNCF 会极力遵循以下一些原则：
+ 快速胜过磨叽，基金会的初衷之一就是让项目快速的发展，从而支持用户能够积极的使用。 开放！ CNCF 是以开放和高度透明为最高准则的，而且是独立于任何的其它团体进行运作的。CNCF根据贡献的内容和优点接受所有的贡献者，且遵循开源的价值观，CNCF输出的技术是可以让所有人使用和受益的，技术社区及其决策应保持高度透明。 公平：CNCF 会极力避免那些不好的影响、不良行为、以及“按需付费”的决策。 强大的技术身份：CNCF 会实现并保持高度的自身技术认同，并将之同步到所有的共享项目中。 清晰的边界：CNCF 制定明确的目标，并在某些情况下，要确定什么不是基金会的目标，并会帮助整个生态系统的运转，让人们理解新创新的重点所在。 可扩展： 能够支持从小型开发人员中心环境到企业和服务提供商规模的所有部署规模。这意味着在某些部署中可能不会部署某些可选组件，但总体设计和体系结构仍应适用。 平台中立：CNCF 所开发的项目并不针对某个特定平台，而是旨在支持各种体系结构和操作系统。  CNCF 的成员 CNCF 设立了白金、黄金、银、最终用户以及学术和非盈利等成员。所有成员申请将由Linux基金会审查，由其决定是否将该申请人归类为最终用户，学术/非营利组织或 出于CNCF成员资格的目的。
+ 白金会员的权益：  任命一位（1）代表参加CNCF理事会。 指定一名（1）代表作为理事会任何小组委员会或活动中的有表决权的成员。 享受最显眼的展示位置，包括在网站上。 如果该成员也是经批准的最终用户，则最终用户成员的所有权益仍生效  黄金会员的权益：  每五（5）名金牌成员就任命一名（1）代表参加CNCF理事会，最多三（3）名金牌代表。 如果该成员也是经批准的最终用户，则最终用户成员的所有权益仍生效  银牌会员的权益：  每十（10）名白银成员指定一名（1）代表参加CNCF理事会，最多三名银牌代表。 如果该成员也是经批准的最终用户，则最终用户成员的所有权益仍生效  最终用户权益：  参与下面所述的最终用户咨询社区; 提名一（1）名代表到最终用户技术咨询委员会。  学术和非营利成员：学术和非营利类别的参与分别限于学术和非营利机构，需要理事会批准。学术成员和非营利成员有权将其组织认定为支持CNCF使命的成员以及理事会确定的任何其他权利或利益。  CNCF 理事会 CNCF 理事会负责诸如市场以及其它业务监督，以及CNCF的预算等。CNCF 理事会并不过问技术上的任何决策。会与技术监督委员会合作设定CNCF的总体范围。</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2018 06 10)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-06-10/</link>
+      <pubDate>Mon, 11 Jun 2018 14:25:48 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-06-10/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 为什么你需要理解你的软件供应链 原文链接：Why You Need To Understand Your Software Supply Chain
+适兕点评：
+ 从应用的角度来讲，需要和各方的供应商打交道，如果引入开源的话，那么一切都开始变得复杂起来了。自己有法律风险、漏洞风险。
+我个人其实也应该从软件的供应链角度来思考开源和传统的软件供应商的关系。以及现代的云计算平台等。这确实是蛮值得研究的盲区。
+本文其实没有特别说明供应链本身，而是从开源的安全和法律角度来看第三方的软件组件。
+ 微软收购GitHub 原文链接：Microsoft takes over GitHub as it expands its open source plan
+原文链接：Success of GitHub deal hinges on Azure&amp;rsquo;s open source appeal
+适兕点评：
+ 这是过去一周的新闻热点，就像我很多的开源布道一样，我当然有我自己的观点。
+大家喜欢使用Gmail服务，Google提供很多的免费服务，甚至克里斯安德森还专门写过《免费》一书。GitHub 为个人提供免费的代码托管服务，前提是你的代码是遵循OSI的开源协议下发布。
+而GitHub本身就是一家商业公司，专门的社交和Readme的开发者社区。所以，商业公司的交易，一点都不奇怪。也和开源没有半毛钱关系。GitHub 即使被微软收购了，也要遵守其原先的法律条款，而这个才是根本。
+代码托管平台，从一开始就有很多公司试过。GitHub能走到今天，是因为他的透明度和社交性。
+ Linux基金会承认对微软购买 GitHub 的担忧 原文链接：Linux Foundation Acknowledges Concerns About Microsoft’s Purchase of GitHub
+适兕点评：
+ 这里面和所有人所担心和带来错觉的一样，其实有一句话就可以解释一切：““However (and I triple checked this with our lawyers), Microsoft does not own Kubernetes or Node.</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2018 06 03)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-06-03/</link>
+      <pubDate>Sun, 03 Jun 2018 09:51:42 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-06-03/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 FRINX 和中国电信北京研究所联合开发基于开源的网络控制系统 原文链接：FRINX and China Telecom Beijing Research Institute Collaborate to Create Open Source-Based Network Control System
+适兕点评：
+ 这在过去是常见的事情？我是不知道的。就开源合作在未来将会是常事。个人以为下面这句是某种程度上是对的：
+Open Source has become the de facto standard for developing new networking services and support functions.
+其实我很关注的是中国这边的领导人的言谈，正如去年看到Alibaba的MySQL的开发者在国外发表的言论一样，我一直认为这些精英是两面派。要持续的观察。看他们在开源的路上是如何说一套，做一套的。
+ OpenShift到底是不是Kubernetes的一个分支？ 原文链接：The Kubernetes ‘fork’: Open source purists miss the point
+适兕点评：
+ Heptio CEO 首先发难诟病OpenShift，然后一堆人出来澄清，这就说明了一个问题，OpenShift一家独大，有Kubernetes的RHEL之嫌，引起众多嫉妒。
+要知道“OpenShift, like the other 54 distributions and platforms (and unlike Heptio and the other seven installers) carries patches and so is not vanilla, upstream Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>开源之道2周精选(2018 05 27)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932%E5%91%A8%E7%B2%BE%E9%80%892018-05-27/</link>
+      <pubDate>Fri, 25 May 2018 13:16:19 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932%E5%91%A8%E7%B2%BE%E9%80%892018-05-27/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 采访：让我们探讨下开放计算项目的数据中心趋势 原文链接：Interview: Discussing data centre trends with Open Compute Project
+适兕点评：
+ 随着开源软件的占据主流，开源硬件以OCP为代表的数据中心设计，必将是未来的主流，其实现在就是主流。FB、Google、microsoft等就是证明。
+当然，还有一些挑战。但是OCP在中国同样没有市场，只有自主可控。只有搭便车！没有合作。
+ 开源和社区在技术领域的鼓励多样性有所建树 原文链接：Open source and communities essential in spreading diversity in tech
+适兕点评：
+ 这是红帽的人力资源高管的一个采访。开源、女性、社区、技术，这些都是大家所关注的。
+成功从来不是偶然，红帽的人才战略绝对是领先的。但是中国区的很是令人失望啊，也有水土不服的时候。
+ Tesla 发布了基于开源许可证的软件 原文链接：Tesla releases some of its software to comply with open source licences
+适兕点评：
+ 这才是正常的流程，Tesla 也是一家重度软件的公司，也使用了一些开源的软件，如Linux、QT等，然后就有人和他说明了情况，Software Freedom Conservancy，然后，Tesla就回复了这样的情形。
+法律！法律的遵循。这才是文明进步的保证和前提。
+ 政府和企业都在青睐红帽和冉冉升起的开源 原文链接：Government, enterprise interest in Red Hat and open source sky rocketing
+适兕点评：
+ 开头竟然引用甘地的名言：“First they ignore you, then they laugh at you, then they fight you, then you win.</description>
+    </item>
+    
+    <item>
+      <title>开源中的行为经济学现象——《“错误”的行为》读后感</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/misbehaving_after_reading/</link>
+      <pubDate>Thu, 24 May 2018 14:33:34 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/misbehaving_after_reading/</guid>
+      <description>题记 众所周知，行为经济学是一门研究经济学和心理学跨学科融合的分支，已经成为了经济学分支的一门显学，有好几届的诺贝尔经济学奖得主都是研究此类问题的，如著名的丹尼尔.卡尼曼，理查德.泰勒等人。开源之道则陷入了某种困局，在一个周围遍地都是只愿意谈论编程语言、计算机产品、前沿科技（巫术）的氛围中，谈文化、心理、经济、商业显得有点儿不搭调，只是偶尔有人搭讪一下，也是一些评论性的内容。但是，面对世界的文明趋势，不得不提高自己的认知。开源软件，从爱好者的小范围讨论，发展成为互联网世界的中流砥柱，从历史的角度讲，这绝非偶然，因为失败是经历不起历史的淘汰的。所以开源绝非简单像它表面看起来，只是一种软件的生态方式，这其中包罗万象：有人性的、社会的、商业的、心理的、理想的、腐败的&amp;hellip;&amp;hellip;各种林林总总。
+但是，问题总归是问题，唯一不能做的，就是对人本身失去希望。所以想办法去解决，从提高自己的认知开始！
+自我控制或延迟满足 书中摘录部分 这个故事或研究结论被广泛传播，是来自心理学家沃尔特.米歇尔（Walter Mischel)的研究。米歇尔当时在斯坦福大学工作，并在校园里的一家托儿所做了一项实验。实验人员让一个（四五岁的）孩子到一个房间里，给他两个选择：一个是较小的奖励，马上可以得到；另一个是较大的奖励，但要过一会儿才能得到。奖励是一些好吃的食物，比如棉花糖或奥利奥饼干。实验人员告诉孩子，他可以现在或在任何他想吃的时候吃一块奥利奥饼干，但如果他能等到实验人员回来，就可以得到三块饼干。孩子可以随时摁铃，这样实验人员就会回来，但他只能得到较小的鼓励。
+大多数的孩子都觉得这个任务极其困难，不过所处的环境也对结果有很大影响。在某些实验中，好吃的就放在孩子们面前的盘子里。奥利奥饼干之于孩子们，与塞壬女妖的歌声之于奥德修斯一样，具有很大的诱惑力。但是，如果孩子们看不到奖励（心里也不会那么着急），那么他们平均可以坚持11分钟。如果让他们想一些有趣的事情而不是那些奖励，孩子们可以等更长的时间。
+这些实验最早实施于20世界60年代末70年代初。大约10年后，米歇尔及其同事觉得追踪一下当年参加实验的实验对象会很有趣，于是他们尽力联系到了500多位实验对象，最后大约有1/3的人同意每过10年就接受一次他们的采访。令人惊讶的是，一个孩子在实验中等待时间的长短可以很好的预测他人生中很多重要事情的结果，比如高考成绩、职业发展和吸毒的状况。这个结果十分惊人。
+开源中的延迟满足 其实，开源之道在为大学生的演讲时，引论过这个著名的试验。在开源的环境中，极少数是有着在你还不能完全独当一面的时候就能有报酬的，尤其是在学校或刚毕业的时候，虽然有类似Google SoC、GitHub 教育这样的针对学生优惠的项目，但是那不是报酬，往往刚好能满足试验需求。这不过是一项非常不错的鼓励罢了。
+所以，在参与开源的初始过程，一般都是需要先付出的，然后，在项目的开发过程中，逐渐积累自己的知识信用，赢得声誉和尊重，在那之后，所有的鼓励和激励都会到来。至今还没能找到一个反面案例，即某开源项目卓越贡献者，没有任何报酬的在默默工作和奉献。（即使是OpenSSL、NTP这样的老教授们，也是有着丰厚待遇的。）
+而这个延迟满足，就拉开了很多开源贡献者的距离，有很多人选择了，找一份工作，每月固定领取薪水，至于做的事情，就是跟着公司的项目走，就像实验中的孩子一样，无可厚非，开源也不是软件产业的唯一道路，一开始就领取薪水也并不意味着未来就会发展不好，这里只是说，参与开源需要延迟满足这样的心态。当然，现在有很多公司，已经开始招聘大学毕业生的时候，就让他们直接在社区中做事情，Intel、IBM、Facebook等很多公司都在鼓励这样做。
+如果你没有这样的机会，恐怕延迟满足是最好的选择。我指的是成就突出的那些卓越工程师，能够打造工程力十足的项目的人。
+公共产品博弈 书中摘录部分 要了解这种博弈的经济学意义，我们还要追溯到伟大的经济学家保罗.萨缪尔森哪里，1954年萨缪尔森在一篇三页长的论文中提出了“公共产品”（Public good）的概念。
+公共产品是指，一个人消费这种产品不会导致他人对该产品的消费量减少，同时也不可能阻止其他任何人的消费。烟花表演就是一个经典的例子。萨缪尔森证明，在市场经济中会出现公共产品供应不足，因为它们是可以免费消费的，所以没有人会为此付费。在此后很多年里，经济学家一直认为，如果政府不干预，不在提供公共产品时征税，让每个人都负担一部分费用，公共产品问题将无法解决。
+但是，总有一些人即使不是为了自己的利益，也会选择合作。后来逐渐有更多的经济学家，开始研究这一问题。例如著名的经济学家、哲学家阿玛蒂亚.森（Amartya Sen）把那些在公共产品博弈中总是一毛不拔的人称为“理性的蠢人”，因为他们只是盲目地关注自己的物质利益。”一个纯粹的经济人实际上相当于一个社会白痴，经济学理论中充斥着这种理性的蠢人。”
+后来，厄恩斯特.费尔及其同事做了进一步的研究，并和实验经济学家.安德烈奥尼的结果一致。大部分人都属于有条件的合作者，也就是说，只在有足够多的人选择合作时他们才愿意合作。博弈开始时，在不知道别人是否会合作的情况下，人们先假设别人会合作，但是如果合作率较低，这些有条件的合作者就会变成搭便车的人。然而，如果参与博弈的人有机会惩罚不合作的人，那么在重复进行博弈时也可以维持较高的合作率。正如惩罚博弈实验所示，人们宁愿损失一部分钱财，也要给那些行事不公平的人一点儿教训。这种惩罚意愿可以警示潜在的搭便车者，从而保持稳定的合作率。
+再后来，理查德.泰勒和心理学家罗宾.道斯（Robyn Dawes）合写了一篇关于合作的论文。在文章的结尾部分，他们用路边无人售卖地摊做了个类比——就是在伊萨卡的乡村经常可以见到的那种路边摊。农民会把自己的农场前面摆张桌子，上面放些待售的农产品，旁边还会放一个盒子，盒子上的投币口很窄小，钱放进去就拿不出来了。另外，盒子是被钉在桌子上的。采用这种方式卖东西的农民其实对人性很了解。当然，会有很多诚实的人为农民摆卖的新鲜玉米或大黄支付足够的钱，但是农民也知道，如果把钱放在敞口的盒子中，肯定有人会把钱拿走。
+ 经济学家看待人性时需要抱持和农民一样细致入微的态度。并非所有人都在搭便车，但如果你不当心，总有些人会把手伸向你的腰包。 ————理查德.泰勒 2017年诺贝尔经济学奖得主
+ 开源是一种公共产品吗？ 开源软件，从其诞生起，到今年已经20年了，20年的开源软件发展，超乎了所有人的想象，正如Nadia Eghbal在其论文《路与桥——现代世界数字基础设施那些隐藏的劳动》中所指出的，开源软件已经是人类活动必不可少的部分。那么，还是那句话，开源是一种公共产品吗？
+一直搭便车，终究会被发现，尤其是在合作的结果已经有所成绩的时候，即绝大多数人在选择合作的情况下。经过这20多年的发展，本土的搭便车基本都被成功的随在了后面，至今仍有人在每天叫喊中国开源力量的崛起就是一句明证，放眼成功的开源项目，以及成功的开源非盈利基金会，身边参与和贡献的人总是难以一觅。
+不过，相比于文中的例子，要谴责的是那些包装开源，或者是站在开源的肩膀上的人，过度的夸大自己的作用，比如美其名曰自主知识产权，比如那些号称3个月开发一款产品的牛逼的工程师，这就像是拦路抢劫。但是惩罚从来不会放过任何事物的，终究是要付出代价的。
+无论开源是否是一种公共产品，这个问题本身已经不再重要，重要的是开源正在发挥着强大的力量支撑我们这个世界的运转，你的选择必须是合作的态度，否则就有极大的可能被扔在历史的垃圾堆。
+内部观点和外部观点 书中摘录部分 来自卡尼曼《思考，快与慢》，具有不同背景的学者组建了一个团队，他们的任务是为中学生设计一门决策课程。该项目做了几个月之后，卡尼曼想知道还需要多久才能完成它，于是在不同的团队成员中做了一次调查，让每个人分别写下他们预测的完成时间。大家估计的时间范围跨度很大，从18个月到30个月不等。卡尼曼发现，其中有一位课程设计专家，多年来已经参与完成过很多次类似的项目，可谓经验丰富。所以，卡尼曼让这位专家评估一下他所在团队的进度，并根据自己的经验预测该项目的完成时间。在之前的调查中，这位专家的预测当然也是在18个月和30个月之间，但此时他显得有些局促不安。他很不情愿的表示，根据他的经验，没有哪个团队在7年内完成过类似的项目，更糟糕的是，有40%的团队最终根本就没有完成！
+一位专家竟然会给出两种截然不同的预测，这就是卡尼曼所说的内部观点和外部观点。当这位专家以项目组成员的身份思考这个问题时，他被内部观点局限住了，即陷入了由团队共同努力而产生的乐观情绪中，所以没有费神去思考心理学家所说的“基准率”，即完成类似项目的平均时间。不过，当他以专家的身份思考这个问题（外部观点）时，自然会联想到他所知道的其他项目，从而做出更精确的预测。如果加上合适的基本数据，外部观点就会比内部观点更可靠。
+ 影响人们的选择，并使其受益，这建立在决策者自身判断的基础上。 ————理查德.泰勒 2017年诺贝尔经济学奖得主
+ 为什么基于成功的开源项目的商业产品会失败？ 我很坦诚的交待，即使是现在，如果我置身于某个团队内部，我依然会对项目持乐观的态度，认为基于一个欣欣向荣的成功项目做一款产品能够成功，而且会认为一年内就会成功。比如Linux、OpenStack、Kubernetes等等这些大型的成功的开源项目，而且还是在人数不多的情况下，做出如此的判断。
+很可惜，当我审视我自己所经历的，以及我研究的其它的类似的案例，回顾过去10年内的公司和项目，我知道，90%多的产品都是失败的。
+历史的吊诡之处在于，我还没法说服人。也就是说我无法阻拦很多人去做这件事，甚至只能不甘的去参与其中。明明知道错误的路径，就是无法把很多在此路径上的人拉到迈向成功的路径上，这也是开源之道还能存在的意义。</description>
+    </item>
+    
+    <item>
+      <title>COSCUP 2017参会感受二三则</title>
+      <link>http://www.ocselected.org/posts/event_analysis/coscup_2017_memory/</link>
+      <pubDate>Thu, 24 May 2018 08:34:03 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/event_analysis/coscup_2017_memory/</guid>
+      <description>题记 开源人年会 2018 (以下简称 COSCUP，其全拼是：Conference for Open Source Coders, Users and Promoters)正在积极的筹备当中，依旧是金秋的8月，坐标：台湾科技大学，继续已经成功举办12届的华语开源盛会（注：地点是在台北市，但具体的举办方每年都会有变化。），在即将举办的第十三届，恰逢开源20周年，作为对岸尚在襁褓中的开源社区，怎能不去学习这样一个盛会？谁能告诉我，放眼华夏，哪一个开源会议是有历史脉络可循的？ 想想去年，我在Richard的帮助下，参与了在台湾大学举办的COSCUP 2017，我也是作为演讲分享的人参加的，感触颇多，但又不知该从何说起，大到文化，小到厕所是否放置卫生巾，一时之间哪里讲的清楚，索性根据自己的内心感受，从最触动自己的那部分开讲。
+柯文哲的Keynote分享 过去的我，只是在杂志上读过德国总理上街买菜，英国首相接送孩子上下学，并没有机会去亲历和政府官员的近距离接触，2017年的COSCUP邀请到了台北市市长柯文哲先生做主题演讲，当一位貌不惊人但精神抖擞的老头，没有人清场，也没有人簇拥，从远处走来的时候，不是旁边的人在拍照，我都不知道这是一位重要人物来到了现场。
+另外一个小细节就是，即使是如此的MR Big，也不能延长KeyNote时间，也不可以多回答问题，时间对于大家都是平等的。
+我当时的状态是惊呆了，当理想中的民主就在我身边的时候，我是如此的稀罕。
+闪电演讲5分钟 这是最让我震撼的，这些议题基本上都是临时的灵感迸发，诸如如何让工程师健身、最新最酷的技术展示、个人介绍、从学校到社区等等五花八门，无所不包。
+大约是没有过多的准备，反而更加的精彩，现场气氛非常的热烈，大家都跃跃欲试。脑洞大开的时候，人们可以迸发很多的思想。而这恰是开源的魅力所在——共享思想！
+每一个去COSCUP的人都不能忘记每天下午的闪电演讲！当你和很多有着相近思想的人沟通、交流之后，将脑海中一直以来思考的内容，做了印证也好，找到同感的人也罢，激发出更多的想法，才是真谛！
+各种社群云集 和大陆地区形成反差的是，台湾有着浓厚的社群文化，就拿北京来说吧，大多的所谓的社区是背后某个商业公司自己的社区罢了，每次Meetup之类的都是宣讲产品之类的商业动机。而没有完全的有着共同兴趣而定时定点的聚会和讨论。当然，也吸引着华语圈的其它社群，如香港开源社群、北京Linux用户组等。
+COSCUP 某种程度上就是华语地区的各大开源相关社群的大社群，不过这个集会变成每年一次罢了。人才济济，覆盖的学科也是百花齐放，我个人就遇到一位学习生物科技的开源爱好者，当然，律师、农业、教育等就更不用提了。
+总结 开源20年，开源人年会13年，在开源正在成为主流和显学的2018，你怎么能错过如此重大的一个盛宴？</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2018 05 13)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-05-13/</link>
+      <pubDate>Mon, 14 May 2018 07:44:03 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-05-13/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 Kubernetes 站在重要的分水岭 原文链接：Kubernetes stands at an important inflection point
+适兕点评：
+ “Open source gives us the opportunity to do things we could never do on our own. Diversity of thought and participation is what makes open source so powerful and so innovative,”
+Kubernetes 已经在发展的迅猛方面超越了历史上所有的开源项目，The challenge ahead is to take that early enthusiasm and translate it into more actual business use cases.
+这就是分水岭，再好的口碑也要有实际的使用场景。
+ 随着Kubernetes的发展，一个创业生态系统也随之发展 原文链接：As Kubernetes grows, a startup ecosystem develops in its wake</description>
+    </item>
+    
+    <item>
+      <title>开源之道三周精选(2018 05 06)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-05-06/</link>
+      <pubDate>Sun, 06 May 2018 14:29:35 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-05-06/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 红帽2018峰会有何期待 原文链接：What to expect from Red Hat Summit 2018
+适兕点评：
+ 有的时候，我在怀疑每家厂商搞如此的活动的意义。但是从红帽、Google、Apple等等之类的，玩生态的厂家来看，效果还是非常的明显。但是，如果只是自个一家玩，真的是一点意思也没有。
+红帽今年是它的25周年，最让人期待的也就是它收购CoreOS之后的OpenShift平台会如何发展下去。gVisor近来也发布了。容器和容器编排的市场将会竞争更加的激烈。
+不过，Linux、KVM这些底层技术还是值得关注的。
+ Google 开源gVisor，容器运行时沙箱 原文链接：Google open sources gVisor, a sandboxed container runtime
+适兕点评：
+ 容器的安全性一直被人诟病，但是其优点远远大于这个，于是乎使用者越来越多，那么带来的技术问题就会有人来解决。前有KataContainer，今有gVisor，况且就不说难以上位的iSula、Paunch之类的。
+技术的本质就是解决新问题，引出新问题，如此周而复始。本土的厂商依旧缺乏对开源的认知，即使是华为和阿里，也难以将开源视为一种市场行为，而且是一种完全可量化的。不懂得江湖的意义。这是整个大环境的想法和做法，而开源之道所呼吁的，力量太小。
+ 企业如何能够像Netflix、Apple以及Amazon那样进行数字化转型 原文链接：How companies can digitally transform like Netflix, Apple, and Amazon
+适兕点评：
+ 这是一个大问题，非常非常大的问题。
+成功的公司，业务找的对，技术支撑也找的对。一切都在正常的决策之中。反而，技术只是最后的一个落地的内容。
+ 红帽25年，接下来的规划是？ 原文链接：A (Belated) Happy 25th to Red Hat: So, What Does the Future Hold?
+适兕点评：
+ 这是对现任CEO的一个采访，What makes Red Hat different is our offerings; we have free version of everything we do。</description>
+    </item>
+    
+    <item>
+      <title>历史的维度——开源、拿来主义与自主可控的历史对比</title>
+      <link>http://www.ocselected.org/posts/opensource/open_source_tao_and_way/latitude_of_history/</link>
+      <pubDate>Sat, 05 May 2018 15:12:24 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/open_source_tao_and_way/latitude_of_history/</guid>
+      <description>历史是治病的良方。 —— 丹尼尔·J·布尔斯廷 《发现者》
+ 引子 硅谷著名投资人 Paul Graham，当然是影响几代程序员的散文集《黑客与画家》的作者，写过一篇散文叫做“时空差异”，意思就是说我们可以回顾过去，将过去的观念和现在的观念diff一下，当然也可以diff这个世界上不同的地方和文化，进而验证自己的想法。而这大概就是每天都会有人通过社交媒体同步华尔街、硅谷、湾区甚至是GitHub到本土的最佳注解。
+在纬度发明之前，人类是很早就发现了经度并掌握了它的测量方法的，但是纬度却花了很长的时间，而之后经历了海洋时代，乃至全球化的时代，则花了更长的时间。所谓的时间的纬度，就是人们对于同一时间正在整个世界上发生的许多事情的一种感觉。这更是一项复杂的多得的发现，或许可以说，只有进入了互联网时代才实现的。不过我们首先要确定的一件事情是时间的同步。
+几千年来，人们记录其所在地各种事件的发生时间，用的是国王在位的年份，或者用某种具有地方意义的其它事实作为依据。这就是我们读中国古代史的时候，比如《史记》之类的，很难和公元多少年对上号的主要原因所在，我们现在所使用的公元纪年法，其实是在1751年英国人切斯特菲尔德伯爵建议采用的新历——“格列高利历”，之后欧洲逐步采用，也逐步的被世界所用，在中国，一直以来用的是一种以在位君主年号与太阳历相结合的复杂制度，直到1911年成立共和国为止。这时中国终于采用了太阳历，但年份仍从共和国建立之年开始计算。直到1949年，中国政府才照格里高利历实行新历法。
+另外的一次错愕 用了整整1970年的一个夏天，霍夫在一块芯片上设计出了中央处理器（CPU）。一堆存储器——一个用于数据，另一个用于指令，霍夫的CPU是一小片硅上的一台完整的电脑。一年之后，英特尔公司和花花公子公司同一天上市。这一年生产出了第一款微处理器4004，上面有23000个晶体管，4位CPU，一秒钟进行60000此运算，这距离著名的晶体管发明者、诺贝尔奖得主威廉.肖克利在1939年12月29日做试验时写下的：&amp;rdquo;用半导体做放大器比用真空电子管更合适，这在原理上也可行&amp;rdquo;已经过去了30年，也距离肖克利在1956年离开贝尔实验室到加州山景城创立晶体管试验室也过去了15年。后来的故事，就是英特尔雇佣了后来彻底改变整个产业的安迪.格鲁夫，倡导只有偏执狂才能生存的优秀商业和管理大师。上世纪70年代是微处理器从诞生到发展的孕育期。
+同样是1970年4月，柳传志在经过了8年的颠沛流离，手里拎着放着自己全部家当的一只箱子，从湖南的一个农场回到了中国科学院计算所。稍后，中国的第一台集成电路计算机“111数字计算机”在中科院诞生了，而这是中国的计算机技术的第三代。之后，计算所的1000多人从1976年开始搞“757工程”:1300多块插件、2万多个逻辑元件，分布在一座楼房的上下两层，主机房里有15个机架，辅助机房则是所有外围设备，总计占有至少800平方米的空间。到1984年终于完成。它获得了中国科学院“重大科技成果一等奖”。
+ 空气稀薄，大家都睡着。你最先醒了，感到窒息，有一种临死前的恐惧，却发现四周都是铁壁，锤打不开。 ————— 柳传志，联想集团创始人
+ 一件改变了世界的&amp;rdquo;尬聊&amp;rdquo;和“下海”的可能性试探 1983 年底，Richard Stallman 离开了MIT的人工智能实验室，开始专心的开发他发起的GNU程序，他希望能够”继续使用电脑,也没有违背自己的原则”，让RMS最为伤心的莫过于黑客伦理的日薄西山，商业化让自由可以分享的软件源码成了限制，而这是违背黑客伦理的，尤其是哪一年施乐送给实验室的打印机，没有附带驱动的源码，当RMS试图为打印机添加功能和修复bug而索要源代码的时候，却被拒绝了，理由是嫌涉商业机密。如此的遭遇，让RMS深感绝望，他自己如此称他当时的心情：
+ 我就是垂死的黑客文化的唯一幸存者，我并不真正属于这个世界，在某种程度上，我觉得我也应该去世了。
+ 随后在1985年，RMS创立了自由软件基金会，致力于推广自由软件的美国民间非营利性组织。其主要工作是运行GNU计划，开发更多的自由软件。GNU开发了大量的软件，包括编译器、编辑器、命令行等，但是它的内核Hard却一直停滞不前。然而，这并不重要，重要的是RMS的反抗精神。
+1980年10月23日，中国科学院第一个辞职的研究员——陈春先创办了中关村第一个民营科技企业——北京等离子体学会先进发展技术服务部。不久，中关村的大街上仿佛雨后春笋一样出现了多家公司，主营计算机零件，其中最著名的有“两通两海”——京海、科海、信通、四通，全都是中国科学院的科研人员创办起来的，到联想在1984年10月创立的时候，中关村的科技企业已经有40家了，并且还有了”电子一条街”的名声(据说也是臭名昭著的“骗子一条街”)。
+稍后的一年，发明了称之为“LX-80联想式汉子系统”的倪光南加盟联想，在当时，全国有11万台电脑都是原版进口IBM，只能运行英文环境。这个汉子系统打开了个人计算机在本土的市场。
+自由软件的瓶颈突破和技术人的虚假希望 GNU的发展还算顺风顺水，自由软件基金会也招聘到了人，也有一些赞助进来，毕竟EMACS还是非常优秀的编辑器，（如果它只是一个编辑器就好了）但是，到1989年，GNU依旧不能算是完整的操作系统，因为它缺少最为核心的部分——内核，GNU也发起了自己的内核项目——Hurd，但是它的发展并没有想象中发展的那么顺利。
+1991年，还在赫尔辛基上大学的Linus Torvalds，为了在自己购买的载有80386处理器新PC机上能够做点事情，开始宅在家里鼓捣后来称之为Linux内核的项目，当然也是为了实现他看到的《操作系统实现原理》这本教材上的理论。最初它只能用来访问大学里的大型的Unix服务器的虚拟终端。正如Linus后来所描述的，他当初也没有考虑到Linux能够发展到让全球的所有人都在使用的操作系统，只是为了好玩。
+巧的是，如果再晚几个月， 如果 Linus 知道后来问世的 GNU kernel 或者 386BSD(NetBSD, OpenBSD 和 FreeBSD 的前身)，现在大家可能就见不到 Linux 操作系统了。所以说 Linux 系统的诞生确属是意料之外，确切地说是 Linus 为了解决遇到问题而做的事情。
+在这之后，没有多长时间，曾经做过编辑的Bob Young 看到了其中的奥妙，认为喜欢控制权的人们会为Linux买单，并且以亨氏番茄酱的理论打动了自己的姑妈，并成功的让他的姑妈投资，于是在1993年创建了RedHat公司。
+ 中国人先把科学当作洪水猛兽，后把它当作呼风唤雨的巫术，直到现在，多数学习科学的人还把它看成宗教来顶礼膜拜，而他自己终于体会到，科学是个不断学习的过程。 ———— 许悼云
+ 1991年宫敏博士在芬兰教育网上找到了Linux。但当时的linux极不完备，一年后竟有了Linux发行版，宫敏在Download了支持internet的Patch后搞了2天2夜才使linux在自己的机器上工作，宫敏博士回忆起此事时说：“因为有源代码，我可以在Patch上写我的程序，直到问题解决。从那时开始我就热爱上了Linux，以后Linux有新的内核我就Download.”
+1993年宫敏博士用手提肩背的方式为中国背回了20盒磁带，有30M容量的自由软件，在国家信息中心有关领导的支持下建立了中国自由软件库，从此国内技术人员接触到了Linux,自由软件（free software）的火种开始在国内传播！
+其时，互联网协作对于中国还是个陌生的词汇，因为互联网要晚好几年才出现或大众可用，Linux的源代码成了学术精英们研究的对象。不仅让人想起了当年马尔嘎尼不远万里送给清朝官员们的钟表，它并不是计量时间的，而是当做一种身份的象征。Linux并没有在中国生根，而是成了激情愤慨的爱国者们，终于敢拍着胸脯说，我也可以刀枪不入了。
+互联网泡沫期的LAMP商业化和”国产化”软件崛起 自由软件的商业化，曲曲折折，让商人们头痛不已，不过，基于互联网的协作方式，却让Eric.S.Remand灵感迸发，进而写出了天才般的著作《大教堂与集市》，这本书直接奠定了被微软捆绑浏览器打的遍体鳞伤的NetScape的开源——Mozilla项目的诞生，当然，其中的功劳也不得不提法律和软件开发兼备的全才Bruce Perens，从Debian的宣言所衍生出来的开放源代码定义。从此，开源软件一发不可收拾，加上互联网被华尔街看中，开源以燎原之势，日渐崛起，比如Apache 基金会随着Apahce项目的广泛使用也成立了。</description>
+    </item>
+    
+    <item>
+      <title>关于开源之道</title>
+      <link>http://www.ocselected.org/about/</link>
+      <pubDate>Fri, 27 Apr 2018 11:49:36 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/about/</guid>
+      <description> 缘起 开源仍然需要布道，至少在简体字的世界。无论是高尚的自由软件运动，还是世俗的商业模式。
+有人愿意称xx年为xx元年，如果你愿意的话，公元2016年可以称之为开源元年，因为这一年发生了很多里程碑的事件：微软公开拥抱Linux，并加入Linux基金会；Google、FaceBook、Linkedin、Netflix都总结了自己的开源项目；连国内的BAT都耐不住寂寞和诱惑，形式上搞搞开源；华为在OSCON、LinuxCon等会议赞助Keynote，往Linux基金会托管项目等等&amp;hellip;&amp;hellip;
+不可否认的是开源改变了世界，也在渗透到其他各行各业，那么最有意思的就是其协作的方式，高效的生产效率，人类做出了超乎自己想像的美好事务。它带来的变革，让知识经济的个体可以脱离资本的公司和企业独立，更加的开发和自由！
+内容  开源文化现象，比如激励 开源商业模式， 开源社区治理 InnerSource 企业内部采用开源 科学的参与社区 如何防止破坏开源 开源技术/项目，如Linux、Kubernetes  关于开源之道加入技术内容的诠释 时间锁定在2018年4月中旬，开源之道的主要作者和译者适兕，坚持撰写了2年多的文章之后，获得了很多的正向反馈，几乎没有负向反馈，那就是说能不能接点地气？不要那么的飘着，事情要去落实。于是，开始了一定的思考。
+也恰好读到关于创新的一本科普著作《普鲁斯特是位神经学家》，其中谈到T.S 艾略特的主张，身体要与灵魂一致，我仿佛醍醐灌顶般的警醒，如果开源之道脱离技术来单纯的讨论文化、方法论、商业、现象等，等于只有灵魂而没有躯壳，多数人会被这幽灵般的缥缈之物吓到，然后远离。
+文明的进程有的时候要比我们想象中的慢很多，其中《教养身体的政治:中国国民党的新生活运动》一书谈到当年民国时期，政治如何干涉国民的生活，从不要随地吐痰、洗澡、剪指甲等这等生活上的琐碎来做起，大概近7、80年过去了，中国人的生活才逐渐的将这些变为习惯和固定的思维方式。由此而让我想到的是，开源，它并非一朝一夕就可以形成的，即使你掌握了某种具体的技术或知识，也未必能够开发出具有生命力的国际化社区来，透明、平等、友好、原则、沟通等众多因素仍是需要学习和掌握的必备技能，当然这些都是由某种自由的思想所表现出来的外在形式。知识是慢慢积累起来的，需要艰苦卓绝的去努力追求，并要坚持不懈的才能有一点成效。
+脱离技术而谈思想、文化，是不可行的，二者必须同时进行。这一点在教育方面亦可找到相应的证据，几乎每个人都知道，培养孩子的一些能力，如专注力、耐心、情绪控制等等，人类可以更加从容面对世界的卓越能力，然而，所有这些能力必须在一个实际的可以操作的技术中方能得以形成，如钢琴、空手道、语言训练、写作、演讲&amp;hellip;&amp;hellip;那些能力如果没有这些实际的技术/技能为依托，无异于沦为空谈和妄想。
+所以，开源之道必须加入相应的技术，方能在艰难的布道中走出自己独特的道路，帮助一代人成长，和世界更加的同步。
+欢迎参与 鼓励原创，也翻译优质的外文。欢迎加入布道开源大家庭！
+如果你认同开源之道的倡导者——适兕的理念，开源是呈现缤纷世界的美好、以及改变未来世界的最佳方式之一的话，不妨加入开源之道，和潮流一起前进。
+详情请阅读参与开源之道细则。
+宣言  开源乃创新之道！ 开源乃协作之道！ 开源乃民主之道！  </description>
+    </item>
+    
+    <item>
+      <title>莎士比亚和李纳斯.托瓦兹</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/shakespeare_and_linus_torvalds/</link>
+      <pubDate>Sat, 14 Apr 2018 15:12:24 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/shakespeare_and_linus_torvalds/</guid>
+      <description> 引子 古语有云：”时势造英雄”，当然此处的时势要放入整个人类的进化，而不是简单的军事和政治方面的。著名学者弗朗西斯.福山曾断言人类将在逐步的民主化当中终结，当然他指的是政治。而我们今天要谈的是知识的民主化和技术的民主化。
+知识的民主化 莎士比亚来到伦敦闯荡的时间是16世纪80年代中期，恰是宗教改革后的鼎盛时期，当时执政的伊丽莎白一世也是鼓励和实行新政，一系列的措施，以及注重文本解释的教育，直接的结果就是当时的公民识字率达到50%，由于宗教改革鼓励大家读书，因此，这极大的有助于一个新的图书市场的建立。据考证，当时出的图书有7000多种，到1600年，考文特花园周边地区差不多有100多家独立出版商，甚至连当地的居民都抱怨街道上散发着难闻的墨水味。这样的结果就是知识的剧烈民主化。莎士比亚和他同时代的作家们得以接触到数不胜数的新故事和新文本。
+莎士比亚在到达伦敦寻找发展机会之前，和那个时代大多数一样，没有机会接受大学教育，牛津和剑桥这样的高等学府的大门对于他是牢牢关闭的。他只能去演戏剧，并在演的过程学习创作。其中对他影响最大的莫过于克里斯托弗.马洛，创作了《帖木儿大帝》，马洛从一系列大众的历史书中借用情节。而马洛在剑桥大学专修文科，可以在剑桥大学图书馆丰富的藏书中找到自己的想要的素材，比如《帖木儿大帝》的重要素材来源之一：亚伯拉罕.奥特柳斯及其昂贵的手稿，当时只有剑桥有两本。
+但是，幸运到是，1587年，即莎士比亚开始创作他的第一部戏剧的那一年，同样来自斯特拉特福德的儿时玩伴理查德.菲尔兹已经成了一位出版商，并出版了拉斐尔.霍林斯赫德的《英格兰、苏格兰、爱尔兰编年史》。莎士比亚买不起这本书，但菲尔兹允许莎士比亚把他的书店当做图书馆，这位年轻的剧作家可以想借什么书就借什么书。不久之后，莎士比亚就开始从《编年史》这本书发掘故事情节，寻找可以与《帖木儿大帝》一争高下的故事。最后他从亨利六世着手，那是一个微小的猜忌就能让英国宫廷分崩离析的时代。欲望与鲜血、爱与复仇、谋杀与阴谋是这个时代的主旋律。
+莎士比亚找到了他的创作主题。
+技术的民主化 在Linux出现之前，操作系统的编写都是居庙堂之高的各大高校、科研机构、博士之类的高级知识工作者的事情，著名的《人月神话》的作者Brooks博士，在IBM主持S360的开发，动用的是几十亿美元的资金，这对于普通民众是完全不敢想象的。
+思想的分享价值 1990年，经济学家保罗.罗默（Paul Romer）提出了一种新的经济增长理论。尽管他的理论建立在一套深奥的方程式的基础上，但其核心却非常简单：思想是用之不竭的资源。从古到今，经济学总是立足于物质世界的稀缺性这一特征上，但罗默指出，思想是”非竞争性产品”。当知识从一个人传播到另一个人那里时，知识并没有减少或受损。越普及的知识越有价值，对知识的应用将带来回报的增加和越来越多的创新。
+ 物品和思想之间存在巨大的差异。当我们分享物品时，物品的价值就会减少。买二手汽车用不了多少钱，因为它已被人其他人用过了。但思想却并非如此，我们分享思想无损于思想的价值，思想不存在固有的稀缺性。 ———— Paul Romer
+ 开源与创新  我们必须为天才的成长创造条件。 &amp;ndash; 乔纳.莱勒 《想象》
+ 结语 </description>
+    </item>
+    
+    <item>
+      <title>开源之道两周精选(2018 04 14)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-04-14/</link>
+      <pubDate>Sat, 14 Apr 2018 15:08:35 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-04-14/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 领导力才是开源商业模式的秘密武器 原文链接：Leadership Is The Secret To An Open Source Business Model
+适兕点评：
+ leadership is the magic that creates markets where they did not exist and aligns paying customers with value that you can deliver in a profitable manner. Leadership and vision are ultimately the most proprietary aspects of a technology business, over every patentable piece of hardware or licensable piece of software. Whether you create a new market or bring efficiency to an existing one, your leadership is your secret weapon &amp;ndash; not your level of control.</description>
+    </item>
+    
+    <item>
+      <title>关于Linux基金会的简介</title>
+      <link>http://www.ocselected.org/posts/foundation_introduce/linux_foundation_introduce/</link>
+      <pubDate>Mon, 09 Apr 2018 16:01:16 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/foundation_introduce/linux_foundation_introduce/</guid>
+      <description>开源之道导读 一般的软件公司，尤其是针对2B的企业，都会设置一个叫做市场的部门，这是一个颇让人产生困惑的部门，因为 Marketing 在英文中的意思地营销，你去寻找相关的资料是万万不得的。而其职能往往是诸如对外宣传、举办活动、在社交媒体上和客户互动、撰写所谓的软文、做SEO等等，而公司往往还会设置另外一个部门叫销售部，类似于传统行业的陌拜、客户关系处理、行业客户等等的职能。
+让我们先转回到开源领域，很多公司将加入诸如Linux基金会之类的事情，认为是一种市场活动，即Marketing events，反正每年公司都有一些预算的，大家都在加，我不加的话显得不够大气。于是大家纷纷加入，我们来看看2018年Linux基金会的名单（中国大陆境内）：博图纵横、数人云、才云、链链、超算云、招商银行、中信、EasyStack、DaoCloud、房掌柜、金丘股份、众享比特、易健科技、复杂美、谐云科技、趣链科技、Lenovo、橙色魔方、全息互信、雷盈、Rancher、四方精创、点融网、太一、时速云、Thundersoft、联动优势、万达飞凡科技、万向集团、云象、梧桐树、保全网、中国印钞造币、ZTE等等。有很多是我们没有听说过的，但是它会加入基金会，这是件好事情，因为这是Linux基金会的主要收入来源，也是维系Linux内核正常运转的必备。
+但是，加入这个基金会的公司真的理解基金会的意义吗？更多的不知道，但是就资质荣誉来讲：可以看到官网、公众号，会将此大肆的做宣传。诸如Linux基金会正式会员、Linux基金会官方合作伙伴、CNCF会员之类的。大约是给自己的顾客看的吧。谁又知道了呢？如果你恰好是上述公司的加入基金会的负责人，不妨给我们留言，说出你的真实感受。
+开源之道给出的建议是：加入基金会没错，如果没有真正利用起来开源的优势的话，那几乎就只是一句广告语，没有任何的意义。那么什么是加入基金会的正确“姿势”了呢？
+ 招聘上游贡献者加入公司 鼓励员工为基金会托管的项目做贡献 结合自己的产品，平衡项目的工程开销 增加公司在项目的技术影响 通过基金会提供的平台，了解自身的客户诉求  总结一句话，就是将钱花在最值得的地方！
+简短的说明 Linux基金会致力于围绕开源项目构建可持续的生态系统，以加速技术开发和行业采用。
+2000年创立伊始，Linux 通过财务、知识产权、以及基础设施、大中型活动、培训为开源社区提供了不可估量的卓越支持，通过和大家的共同努力，Linux基金会和它所托管的项目，在共享技术的创造领域，打造出成功的且最具前途实力技术。
+Linux 的成就 Linux是开源软件项目历史上是规模最大、应用范围最广的！几乎所有行业都在广泛的使用Linux，其中包括金融服务、政府、教育、乃至电影制作等。
+同时，Linux 也是支持最前沿技术的首选操作系统，它们有：物联网、云计算、以及大数据。
+Linux基金会，作为其创始人 Linus Torvalds和目前的kernel维护的领导者 Greg Kroah-Hartman 的大本营，目标是提供一个中立的团队，从而让Linux内核团队的开发能够得到很好的保护，使其在未来能够加速创新的步伐。
+ Linux 在目前互联网上百万个域名中高居95%的使用量 全球有超过85%的智能手机的销售是基于Android，而Android是基于Linux内核的 全世界所有500强超级计算机都运行在Linux上 大多数全球证券交易市场都运行在Linux之上，包括纽约证券交易所，纳斯达克，伦敦证券交易所和东京证券交易所 大多数消费电子设备使用Linux，利用其占用空间小 超过75%的采用云计算的企业称他们使用Linux作为其主要的平台 Linux是支持全球电子商务领导者的首选基础设施，包括亚马逊、eBay、PayPal、沃尔玛以及其他公司  超越Linux Linux基金会利用其支持Linux社区的经验和专业知识来帮助建立，构建和维护一些最关键的开源技术。它所涵盖的内容到今天已经远远的超越了Linux，几乎帮助促进了每一个软件栈的创新。目前Linux基金会所托管的项目，涉及多个层次，如企业IT、嵌入式系统、消费电子、云计算、网络等等。
+这些正在高速成长的项目，正在帮助企业重新塑造可能性，其中包括：
+ Hyperledger: 跨行业的区块链技术实现 Automotive Grade Linux ：汽车应用的开放式软件平台 Open Network Automation Platform （ONAP）：实时的、策略驱动的软件自动化的网络功能虚拟化平台 Kubernetes：云原生计算基金会（CNCF）下生产级的容器编排平台  历史 Linux 基金会的历史，最早是追溯到1993年由Patrick D&amp;rsquo;Cruze创建的Linux国际邮件列表，即LI，到2000年LI发展为OSDL，从一个民间组织转变为非盈利的基金会。在2003年，Linux的创始人Linus Torvalds宣布加入了OSDL，这样的话Linus就可以全身心的为维护Linux项目和社区而工作了，人们也再也不同担心Linus去哪家厂商了。
+在2007年的时候，和Free Standards Group进行了合并，正式成立了Linux基金会，Jim Zemlin 担任首席执行总监，一直到今天。
+从此以后，Linux基金会日渐壮大，随着将项目和商业因素的分离，以及开源的日渐繁荣，Linux开展了多项业务，如会议、培训、咨询、子基金会托管、开源项目托管等等。</description>
+    </item>
+    
+    <item>
+      <title>开源之道两周精选(2018 04 01)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-04-01/</link>
+      <pubDate>Sun, 01 Apr 2018 15:18:35 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-04-01/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 红帽已经超越Linux 原文链接：Red Hat looks beyond Linux
+适兕点评：
+ 红帽已经走过了1/4世纪，作为比较老的Linux发行版之一，发展到今天的IT软件巨头，似乎每一步都走到了正点上。
+  十年前，开源聚焦于替代已有的商业产品，红帽做的事情就是使用开源技术替代那些专有的技术，可以为用户节省成本：At the time, it was open source showing that we can build open-source tech at lower cost. The value proposition was that it was cheaper. 5、6年前，事情开始发生了变化，The biggest part is it’s not just Google and Facebook finding religion,” said Whitehurst. “The social tech around open source made it easy to make projects happen. Companies got credit for that.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes 是如何成为传统应用迁移的终极方案的</title>
+      <link>http://www.ocselected.org/posts/opensource_technology/how-kubernetes-became-solution-migrating-legacy-applications/</link>
+      <pubDate>Sun, 01 Apr 2018 12:04:24 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_technology/how-kubernetes-became-solution-migrating-legacy-applications/</guid>
+      <description>其实你根本就没有必要将自己的单体应用改写为现代的版本，使用云原生技术可以将之优雅的转变为微服务架构。 &amp;ndash;题记或副标题
+ 计算机基础设施的变迁史 在互联网的早期，如果你来运行应用程序的话，需要购买或租用硬件。无论它是机架式的还是塔式的服务器，这不重要，重要的是每一个应用都需要一台服务器来运行，所以是非常昂贵的。在2001年，VMware推出了虚拟化软件，允许用户在同一硬件上运行多个应用程序。这也就意味着将一台服务器分割为多个，而且分割后的服务器是完全可以独立运行应用程序的。这对于用户的成本来说，是极大的节约。
+时间过得很快，转眼就是2006年，亚马逊普及了基础设施即服务（IaaS），因为推出了颠覆性服务——AWS的弹性计算云（EC2），你不再需要购买你自己的硬件。你甚至都不需要去担心管理那些运行你的应用程序的虚拟机。而你实际上正在租用运行你的服务所需的计算环境和底层基础架构。你按小时来付费，像租用开会用的会议室一样。这样就可以让使用它们的公司，能够充分的优化自己的资源以节约成本，只需购买自己所需要的计算资源即可。要知道，IaaS 的出现是具有革命性的变革的，它的直接结果就是让计算的成本下降很多。
+三年之后，Heroku提出了平台即服务（PaaS）的想法。PaaS 通过屏蔽了需要管理虚拟机操作系统重新抽象了一层。Heroku神奇地简化了部署应用程序的新版本；让应用变成了只需要输入 git push heroku 这样简单的命令即可。在Heroku当时诞生了很多现在知名的互联网公司。
+这些进步使得以任何规模（大或小）部署应用程序变得更加容易和成本低廉。这就直接导致了许多的创新出现，并极大的推动了企业在处理基础设施上的实质转变，从而将其从资本支出转移到可变的运营支出。
+以上所有看起来一切都很美好，不知道读者看到这里是否意识到？这其中有一个非常大的问题。那就是所有的这些技术提供商都是闭源的、专有的公司。这就存在一个现象：单独厂家锁定！在各个环境之间移植应用程序是非常困难的事情。混合和匹配内部部署和基于云的应用程序几乎是不可能的。
+而这个大问题就需要开源来解决！不过也是时机正好。这次依旧是基于Linux之上，即 Docker 和 Kubernetes，而后者更是被人们称之为云时代的Linux。
+开源来拯救世界 Docker在2013年出现，将容器的概念迅速扩散。正如当年集装箱点燃了全球的货运革命一样，当时的船运公司使用这种大型的金属集装箱替代了过去纷杂的货运装置，以适应在卡车、船舶、铁路三者之间匹配。装什么无所谓，重要的是装载本身有了标准。
+和现实世界的集装箱运输一样，Docker 容器创建了对于应用最为基本的封装，使之可以运行在任何的基础设施平台上。一时之间，Linux容器风靡世界。到今天为止，几乎所有的企业都有意愿将他们的应用跑在容器之上，即使是他们自己的内部的服务器，也同样在考虑。尽管容器仅仅是管理现代的应用程序的一种更好的方式，因为它们通常被分割成无数的组件（微服务），但仍然需要能够在服务器之间进行容易的移植和访问。
+技术的本质，通常是解决了一个问题，而又引入新的问题，如此反复。Linux容器也不例外，它虽然封装的很好，但是它给DevOps团队带来前所未有的挑战，它在应用程序的移植、部署的活动中增加的了更多动态的东西。于是Kubernetes应时而生。
+2015年，Google 以开源的方式发布了Kubernetes项目，它是Google内部系统Borg的实现。Google 联合Linux基金会成立了云原生计算基金会（CNCF），Kubernetes是此基金会下的第一个种子项目，Kubernetes迅速成为历史上发展最快的开源项目之一，目前拥有数十家公司和组织中成千上万的贡献者。
+是什么让Kubernetes如此不可思议的快速增长？恐怕最主要的原因莫过于Kubernetes是Google内部集群系统Borg的再现。这个世界上还很少有哪家的数据中心有Google的规模，Borg 系统平均每周会推出大约20亿个容器，这也就是说每秒钟都会新启动3300个容器。大家可以想象一下高峰期的时候，会比这个数字大得多。是的，没错，Kubernetes就是诞生在这样一个强大的系统之上的，经历过严峻考验的、以应对比这个规模更大的负载！
+在确定了 Docker 和 Kubernetes 作为核心之后，CNCF扩展了更多的云原生项目，到目前为止，CNCF拥有大大小小的项目数量达到了369，其中较为重要和成熟的项目有：Kubernetes、Prometheus、OpenTracing、Fluentd、Linkerd、gRPC、rkt、Containerd、CNI、CoreDNS、Envoy、Jaeger、Notary、the update framework、Rook、Vitess。
+然而，作为后起之秀的CNCF，从以往过去的开源项目汲取了很多的经验，CNCF一直非常谨慎，以确保只选择那些能够很好地协同工作并能满足企业和创业公司需求的技术。而且这些技术正在大量采用。
+企业拥抱开源技术最大的原因之一就是避免供应商锁定，并实现在多个云平台之间，以及云平台和私有的基础设施之间的容器的平滑移植。基于开源，最终用户可以很容器的切换供应商，也可以使用混合的云平台。如果用户拥有足够的技术能力，甚至都可以自己来进行管理。
+将单体应用分片 Kubernetes和Docker 不仅增强了用户管理大规模负载的能力，而且还能够将大型的、单体应用更加容易的分割为更加易于管理的微服务。分割之后的服务，具备自我管理的功能，可以随时根据需要进行伸缩。微服务还支持更快的部署和更快的迭代，以符合现代持续集成实践。基于Kubernetes的业务流程可以通过动态管理和调度这些微服务来提高效率和资源利用率。它还增加了非凡的弹性水平。用户根本不必担心容器故障，且可以继续按需求进行伸缩。
+Kubernetes 迅速成为云原生编排系统的首选，它也成为了开源历史上速度最快的开发项目之一。并得到包括AWS，微软，红帽，SUSE等在内的主要厂商的支持。
+所有这些都对企业有直接的影响。具Puppet公司举行的2016年度DevOps形势报告称，高性能的云原生架构可以有更频繁的开发，更短的交付周期，更低的故障率以及更快的故障恢复。这意味着功能可以更快地推向市场，项目可以更快地发挥作用，而工程和开发团队的等待时间则少得多。在今天，如果您要从头开始构建新的应用程序，那么云原生应用程序体系结构就是实现它的最佳途径。同样重要的是，云原生会思考如何利用现有（棕地）应用程序提供了一个路线图，并将它们慢慢转化为运行在容器和Kubernetes上的更为高效和更具弹性的基于微服务的架构。棕地、单体应用其实是构成当今所有软件产品的大部分内容。
+单体应用是站在云原生应用的对立面的，它们意味着的陈旧、代价昂贵、臃肿、紧耦合、且不够稳定。问题在于:如何将这些单体应用拆分为微服务架构？ 用户或许考虑过重写所有的那些大型的旧版应用，而现实的情况告诉你：大多数重写都以失败告终。你试图重写的第一个系统，即使在你试图替换它时也是存在的，而且一直都在进化。有时候，第一个系统发展得太快，你永远无法赶上。
+当然，用户也可以采用更加有效的方法来解决此问题。首先，停止向现有的单体应用程序添加重要的新功能。这里有一个“提升和转移”的概念，也就意味着用户可以将一个需要几GB内存的应用使用容器来封装。是不是很简单！
+一个将单体应用转换为容器的典型实例 Ticketmaster 就是实现单体应用转换为容器典型的实例。它的代码运行在非常古老的PDP-11中，首先将创建了一个PDP-11的模拟器，然后使其在Docker中运行，这样就间接的将应用也容器化了。我们知道Kubernetes有一项功能叫做Stateful set（也就是过去的PetSets），此功能可以将某些容器固定的运行在特定的机器中，以确保它能够保持正常运行。
+另外，Ticketmaster 还有一个特殊的问题：每当开始售票的时候，当所有人都来访问的时候，这无异于就是发动了分布式拒绝服务（DDoS）攻击。该公司需要一套前端服务器，可以扩展和处理这种需求，而不是试图将其写入他们的旧版应用程序中。最终的解决办法是,在旧版应用程序的前面部署了一套新的基于容器的微服务，进而最大限度地减少了传统体系结构中的持续蔓延。
+当你试图将工作负载从旧版程序迁移到容器的时候，可能还想将某些功能从应用程序转移到微服务中，又或者是使用微服务来添加新的功能，而不是添加到旧的代码库中。举个例子，如果您想添加OAuth这项功能，可能只需一个简单的Node.js应用程序可以放在你的旧版应用程序前面即可。如果你有一个高性能敏感的任务，你可以在Golang中编写它，并将其设置为一个驻留的单体应用前，使得API驱动的服务能够生效。仍然可以将API调用返回到你现有的单体应用。
+这些新功能可以由不同的团队用更现代的语言编写，这些团队可以使用自己的一套库和依赖关系，并开始拆分原有的单体应用。
+来自北卡罗来纳的KeyBanc无疑是这方面最为生动的案例，它在传统的Java应用程序之前部署Node.js应用程序服务器来处理移动客户端。这比为旧版单体应用添加代码，显得更为简单，也更高效，而且有助于确保其基础架构在未来也能良性发展。
+真正的云原生是众多项目互补的集合 如果作为用户的你正在打算拥抱云原生技术的话，那么就应该考虑一下项目互补来交付核心的功能。举个例子，在云原生的环境中，最重要的莫过于监视、追踪和日志。此时就可以考虑诸如Prometheus、OpenTracing 和 Fluentd，Linkerd 是一个service mesh，其可以支持更复杂的路由。gRPC是一个非常高性能的API系统，完全可以替代原有的JSON，且获得更高性能。CoreDNS是一个服务发现平台。所有这些项目均是CNCF的一分子，在未来CNCF会增加更多的项目，为拥抱云原生技术的用户拥有更多选择。
+无论是绿地、棕地，还是其它什么地，均可云原生 作为开发者的你，或许此时会考虑迁移旧有的单体应道到云原生的微服务，那么恭喜你，你根本毋须完全另起炉灶新写一个，或者重新改写。诸如 Kubernetes 这样的CNCF技术非常拥抱旧有的应用程序，这对于所有的公司和企业来说，都是应该走的进化之路。用户既可以使用Kubernetes来构建一套全新的应用，也可以逐步的将原有的单体应用转化为微服务应用，以在不久的未来担当重要业务的支撑。
+ 注解：关于绿地（greenfeild)棕地（brownfeild)的解释： 绿地是指软件完全是不受任何原有系统干扰的新的项目，而棕地则表示，在开发新的系统时，要处处引进和考虑旧的系统。</description>
+    </item>
+    
+    <item>
+      <title>Open Life —— 有关开源的哲学</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/henrik_ingo_open_life/</link>
+      <pubDate>Tue, 27 Mar 2018 10:28:50 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/henrik_ingo_open_life/</guid>
+      <description>摘要 时间拨回到十几年前，如果有人在思考开源的价值所在，是有一定道理的，因为在洞察这个世界之后，为事情出现端倪而进行考察不是谁都可以做得到的。
+这是一本从芬兰语翻译为英语的，译者为Sara Torvalds。
+Are French farmers a bunch of mean-spirited creeps? Are all nerds courageous, and laziness a virtue? Why did Stephen King leave a horror story unfinished? What business models survived the Internet bubble? Among the many entertaining and thought-provoking ideas presented in Open Life, ants screw up, and Harry Potter even casts his spell in German.
+The hot topics in information technology (IT) right now are Linux and Open Source.</description>
+    </item>
+    
+    <item>
+      <title>开源之道三周精选(2018 03 18)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-03-18/</link>
+      <pubDate>Sun, 18 Mar 2018 13:22:16 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-03-18/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 为你的公司设立开源项目办公室 原文链接：Creating an Open Source Program for Your Company
+适兕点评：
+ 没错，这是Linux基金会的开源指南的一篇软文宣传，作者来自于如日中天的 CNCF 基金会的COO。
+开源默认的时代，只有我这么认为吗？是我夸大的它的力度？滚滚浪潮中，宣扬自己的观点的角色就是作家要做的事情。
+这个观点不知道什么时候会被本土的那些老总所接受，我们不是Google、IBM、Microsoft，我们只是创业公司，我们也不是软件公司，我雇佣的人为什么要为免费的东西作贡献，很多事情是自然而然发生的，你推动有什么用？。。。。。。有无数个理由，去做开源的吸血鬼！就是没有人迈出一小步，还有人说你太空，飘着，不够接地气。接地气的意思，你自己先变成Linus！偶像崇拜什么时候能在本土消失，或许开源真的才能够落地生根。
+ Eric S.Raymand 新启动开源的UPS项目 原文链接：Rant launches Eric Raymond&amp;rsquo;s next project: open-source the UPS
+适兕点评：
+ 作为开源界最牛逼的布道师，作家，程序员，号召力绝对不一般。因为对现在的UPS不满意，所以要搞掉它，民主化它。
+我再说一遍：其天才著作《大教堂与集市》需要多读几遍。
+ 深入调查Linux发行版：看Linux开发的一年变化 原文链接：Inside the distros: A year in Linux development
+适兕点评：
+ 有什么疑问吗？几乎所有公司都在红帽和Debian的下游，做着恬不知耻的寄生虫和吸血鬼。但是，又如何了呢？
+利用开源来赚钱，却又不破坏其本身的生态和完整性，这是很多公司做到了，甚至还让整个供应链更加的完善，如红帽，如Google。这是伟大的。然后很多公司却在做着损人利己的事情，如国产开源。世人皆被迷惑，无法洞察真相，似乎眼里只有钱。
+ 企业采用开源的4个理由 原文链接：4 reasons enterprise open source works best
+适兕点评：
+ 能力、选择、开销和社区，嗯，企业拥抱开源，并不能直接产生钱，而是利用间接的动力。
+利用开源来赚钱这件事情，你得和无数人讨论。你的重视本土的文化和习俗，你得重视环境。
+ AWS的文档在GitHub上开源了 原文链接：AWS documentation is now open source and on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Apache 是如何运作的？</title>
+      <link>http://www.ocselected.org/posts/foundation_introduce/how_apache_works/</link>
+      <pubDate>Thu, 15 Mar 2018 15:30:38 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/foundation_introduce/how_apache_works/</guid>
+      <description>引言 本文将会以概述的形式为读者您提供 Apache 软件基金会的一切内容，相信一定是您一直以来都存有疑问，但还没有来得及细问的内容。涵盖：member 与 committer 的区别、谁决定什么事、选举是如何进行的、基础设施又是如何工作的、董事会又是什么、什么是PMC、孵化器背后的哲学思想又是什么、以及ASF是如何处理多年以来新项目和贡献者的惊人增长所带来的挑战。本文将带你走近 Apache 软件基金会的幕后，一探其背后的运作机理。
+Apache 软件基金会是什么？ Apache 软件基金会 是美国注册的503&amp;copy;3 的非营利的公共慈善组织，于1999年成立，目的主要有：
+ 通过提供硬件、沟通工具以及业务基础架构，从而为开放式协作开发软件项目提供后盾 创立独立的法律实体，这样就可以接受个人或公司的赞助，并能够确保这些资源将用于公共利益 为个人志愿者提供避免针对基金会项目的法律诉讼 保护“apache”的品牌，适用于其软件产品，免遭其他组织滥用  敬告读者，以下内容将会是干巴巴枯燥的事实说明，但是相信很多人对于Apache还是保持好奇的，这一切是如何发生的呢？它的细节究竟是怎么回事? 不过不要着急，让我们先来回味一小段历史。
+Apache 软件基金会简史 基金会是在1999年创立的，当时只有几个人，他们给自己起了个名称叫做：“Apache 小组”，之所以这么叫，是因为若干年前他们为了维护和支持当年由NCSA所开发的 HTTPD web 服务。
+当年的情形是这样的，HTTPD web服务软件是以自由的方式向大家提供的，不仅包括源代码，还包含一份允许人们自由的修改并进行二次发行的许可协议，但是随着时间的流逝，当年的开发者渐渐的转移了兴趣，开始去忙其他事情了，结果导致的局面就是项目有用户，但是没有人支持。
+这是开始有一些用户交换彼此对软件的修复（称之为”补丁”），以及如何修复问题和改进代码的信息，这时，Brian Behlendorf 就在自己的机器上创建了一个邮件列表，从而让大家可以协作去修复bug、维护和改进 HTTPD web服务。
+之所以选择 “Apache” 这样一个名称，主要是对美国原住民一个部落的尊敬，Apache部落以其在战争策略方面的卓越技能和无尽的耐力而闻名于世。不过很有意思的是，它也是一个双关语，&amp;rdquo;a patchy web server&amp;rdquo; 即一个修修补补的web服务，但是，说实话，这并不是大家的初衷。就这样，过了没有多久，这些开发和维护Apache软件的人们就自称为&amp;rdquo;Apache 小组&amp;rdquo;了。
+从1995到1999年，Apache HTTPD web服务，这个由“Apache小组”所领导开发的web服务器软件成为了市场的领导者，一直持续到现在，即使是现在也占据了市场65%的份额。
+但是，世界从未停止发展，随着网络规模的增长，相应的经济利益也得到了发展，Apache 开始托管一些新的相关的项目（如mod_perl项目、php项目、java项目等），越来越需要一个更加连贯和有组织的组织来防范潜在的法律攻击。于是，Apache 基金会应势而生。
+你可以阅读更多关于ASF 历史的内容。
+精英主义 Apache web 服务器，并不像和其它的在开源许可协议下开发的软件一样，它最初并非是由某位“英雄”（诸如Linux内核、Perl或Python语言）独立发起的，而是由几个拥有共同想法、彼此了解的人，通过交换信息、修修补补、不断接受各方建议而创建的。
+随着小组开始开发他们自己的软件版本，抛弃了原来的 NCSA 的版本，越来越多的人被吸引并开始提供帮助，首先通过发送很少的补丁或建议，或者在邮件列表中回复电子邮件，后来则可以提供更重要的贡献。
+当小组认为某位开发者，已经“赢得”了成为社区的一员的资格时，他们就授予此开发者对代码仓库的直接访问权限，这样不断的增加团队的力量，也提高了团队开发项目的能力，进而更有效地维护和发展了团队。
+我们把这个基本原则称为“精英主义”：从字面上看，这是政府的主要优势或常见称呼。
+值得注意的是，这个模式发展的非常好，没有产生太多的摩擦，这是因为和其它的方式不同，在这里权力并没有集中和变得保守，在 Apache 团对中，新人被视为希望提供帮助的志愿者，而不是那些想窃取职位的人。
+因为没有那些让人迷惑的资源（金钱、能量、时间），所以Apache团队非常希望有新来的人能够帮忙，他们只是筛选他们认为足够完成这项任务的人，并匹配与他人合作所需的友好态度，特别是在有分歧的时候。
+在接下来，我们来看看ASF的组织架构，接着我们再来梳理一下角色。
+基金会的组织架构 随着Apache Web Server的市场份额和流行度开始逐步增长，由于其技术优势和项目背后的社区的开放性，人们开始围绕 Apache web server 创建了一些周边的项目。由于他们本身受到了一直以来的社区文化影响，这些周边的项目也采用了相同的社区管理模式。</description>
+    </item>
+    
+    <item>
+      <title>开源书籍推荐 ————《路与桥——现代世界数字基础设施那些隐藏的劳动》</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/road_and_bridges_the_unseen_labor_behind_our_digital_infrastructure/</link>
+      <pubDate>Tue, 13 Mar 2018 15:12:14 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/road_and_bridges_the_unseen_labor_behind_our_digital_infrastructure/</guid>
+      <description>请打开你的手机：开启社交媒体App、新闻App、健身记录App、银行账户App&amp;hellip;&amp;hellip;：所有这些应用都在使用自由的和开放的代码！
+ 推荐语 换一个角度来看自由和开源软件，比如使用类比的方式，我们社会或国家的基础设施：公路、桥梁、自来水、发电站等等，和我们的日常生活是息息相关的，那么在信息化时代，数字化的基础设施——操作系统、编译器、程序运行时库等等，俨然已经是我们无法离开的设施了。你可能没有想到，数字基础设施使用的几乎全部都是自由和开源代码！既然现实的情况究竟是什么样子？它存在什么样的问题？它还能给我们带来何种机会？而我们应该去做什么？
+不妨用宏观的思维来理解开源软件给我们所生存的世界所带来的影响。
+内容简介 本书严格来说不能称之为书，它是一份作者经过深入调查之后写就的一份报告，不过，我之所以称其为书，是因为它符合书籍的所有特征：论述了一个问题，并试图说清楚它的来龙去脉。
+我们现代所生存的世界，几乎所有的行业和领域都在运行在软件，从医院到股票交易所，再到新闻传播，再到熟悉的社交媒体。但是，你若用心的话，你会发现构建这些软件的工具是强大的需求之下是被忽视的，一个巨大的尚未被世界所发现的隐藏之地。
+在今天，几乎所有的软件都和自由、公开的代码（称之为 ”开源” ）有关，而这些软件都是由来自社区的开发者们来撰写和维护。和我们日常司空见惯的公路和桥梁等有很大的相似之处：任何人都可以在上行走或驾车，快速、方便的到达目的地，开源的代码可以被任何人所使用：从商业公司到个人，用来构建上层的应用软件。恰是这些开源的代码（软件）构成了我们现代赖以生存的数字基础设施。
+和物理世界基础设施一样，数字的基础设施也需要进行日常的保养和维护。据有效数据称，在美国，政府有超过一半的支出是花在了交通和饮用水的基础设施维护之上的。但是相对对数字基础设施的财务支持要困难得多。 目前，几乎所有的财务支持均是通过商业软件公司的直接或间接赞助来进行的。
+在过去，维护开源代码或项目是相对来说比较容易的。可以回顾一下上个世纪80年代早期，个人电脑PC刚刚兴起之时，绝大多数的商业软件都是专有的（闭源），并不为他人所分享。软件工具的构建和使用均在公司内部进行，而且它们的产品为用户提供时同时还需要特殊的许可证授权。很多公司也都认为开源的代码不够成熟和稳定，用于商业化环境比较冒险。以他们的视角来看的话，软件就意味着必须付费，并不能免费的提供。（这个视角也是现在很多人所认为的。——开源之道注）
+然而，时过境迁，现在每个人都在使用开源代码，包括全球财富500强的公司、各国政府、软件提供商、以及创业公司等等。共享，而不是构建闭源专有的代码，将之变得更加的便宜、好用、和高效。伴随着这样的情况愈演愈烈，相应的对于这些软件的需求也是快速的增长，那么这就给维护这些基础设施的带来了很大的压力，然而，隐藏着这些背后的社区并没有被这个世界所发现。我们之中的绝大多数人获得和使用这些开源软件，轻易的如同打开家里的电灯的开关。而我们却从来没有思考过实现这些软件需要付出多大的代价！
+我们的世界发展的是超乎想象的快，以至于我们所面临的软件需求是前所未有的，再从风险的角度考虑，基础设施维护人员无法提供足够的支持，因此存在安全漏洞和服务中断问题。而从机遇的角度来讲，我们又需要维护和改进这些软件工具，进而为了支持今天的振兴，很大程度上要严重依赖于这些基础设施。另外，开源的工作还能够让开发者们赚取的更多，也可以帮助他们找到更好的工作。但是现实的情况是，开源人才的需求量远远大于现有的。扩大贡献者的群体可以积极的影响到整个技术产业的人们的参与。
+没有那个单独的公司或组织可以独自承担这些，因为开源代码是属于世界的、公共的东西。为了能够很好的支持我们的数字基础设施，我们必须去试图寻找更好的能够一起前进的方法。目前的很好的例子如：Linux基金会的核心基础设施研究所（CII）、Mozilla 开源支持项目（MOSS）、以及处于各行各业的软件公司。
+维持我们的数字基础设施对许多人来说都是一个新话题，而且所面临的挑战还处于隐身状态，不能被很好的理解。另外，基础设施的项目往往还是分布式的，有很多人或组织，采用的扁平的治理模式。很多的基础设施项目还没有一个法律的实体。所有的支持策略的通过以及工作方式都是去中心化的、由社区驱动的开源代码。提高对问题的认知，使的一些组织机构能够可以更加轻松地贡献时间和捐赠金钱，扩大开源贡献者群体，以及在基础设施项目中制定最佳实践和政策，都将在构建健康和可持续的生态系统方面发挥长远作用。
+章节介绍 全书共分了7个部分，掐头（前言）去尾（附录），也就分了5部分内容，从历史到现状，再到问题的提出，并给出乐观的前景。
+前言 在前言中作者 Nadia Eghbal 介绍了自己为什么开始关注数字基础设施，进而关注到开源代码，在采访了很多开源的贡献者之后，又是如何发出惊醒世人的声音的。作者是一个什么样的背景来思考这些问题的。
+数字基础设施的历史和背景 如果单独摘出来这章，是绝对的基础设施软件科普的上乘之作，技术人员写出来的软件史缺少一种社会的视角，或者说放入人文历史来考察这一段历史。而且还通俗易懂的将IT的名词讲解了一番，还转述了一些论述软件与钱财的关系。
+有很多新颖的观点值得关注，比如：开源让开发者们增加了谈判的筹码。你怎么看?
+现状是一种什么样的状态 你有没有想过？怎么一夜之间，自由和开源软件就取代了整个数字化基础设施？这其中到底发生了什么？便宜、还是频繁的变动、以及没有那个单一的组织去有目的的去构建？最令人惊奇的是，这些让所有人都可以使用的代码，竟然变得越来越庞大。本章的内容会告诉你所有这些。
+你知道人们为什么会在没有酬劳的情况下贡献自由和开源软件的吗？那么公司为什么又要这么做了呢？
+所面临的挑战是什么 自由和开源软件都有哪些问题存在？钱，可能是所有人都虎视眈眈的内容，如何利用开源软件来赚钱却又不伤害它的发展？作者介绍了Ruby on Rails、Linux kernel等著名项目所面临的问题。 数字基础设施的支持问题正在变得日益严重化，哪些被忽略掉的隐性成本，这些都是开源所面临的挑战。
+如何维持数字化基础设施良性发展 数字化基础设施的商业模式是作者所开篇介绍的，如接受捐赠、售卖服务、收取额外许可证费用等。寻求赞助式的方式。并在最后解答了为什么为这些项目提供资金是困难的原因。
+基金会的方式是作者认为最好的方式。企业、研究所等作者也简单的介绍了一些优缺点。
+前方的机遇  &amp;ldquo;There is a need for support for the free public infrastructure&amp;hellip;.People scream if their clocks are off by a second. They say, ‘Yes, we need you, but we can&amp;rsquo;t give you any money.</description>
+    </item>
+    
+    <item>
+      <title>开源之道三周精选(2018 03 11)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-03-11/</link>
+      <pubDate>Sun, 11 Mar 2018 10:21:27 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-03-11/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 开源和标准团队：红帽如何衡量开源的成功 原文链接：Open Source and Standards Team: How Red Hat Measures Open Source Success
+适兕点评：
+ 没有一刀切的准绳，每个项目有每个项目不同的内容，Fedora更加注重生态，OpenDayLight更加注重厂商的联盟。当然，为了达到这个目的，你要创建很多的工具。
+ MariaDB 启动创新实验室 原文链接：MariaDB launches innovation labs
+适兕点评：
+ 要去做长远的打算，嗯，”一万年太久，只争朝夕”的话不知道要坑多少年才能纠正。 MariaDB ，如果我是一家云厂商，我一定笃定跟着他。重视前沿，颇具叛逆性。相比MySQL、AliSQL的生态建设都堪忧啊。
+Machine learning, distributed computing and the use and exploitation of new chips, persistent storage and in-memory processing.
+ 回顾开源的近10年 原文链接：Looking Back: What Was Happening Ten Years Ago?
+适兕点评：
+ 开源，它最初是以反抗者、抵抗垄断者的身份出现的，Netscape 妄图通过开源来对抗微软的捆绑策略，Linux是昂贵的Unix和MS windows之外的唯一选择。这个正义的举措目前看起来是胜利了。
+云计算的时代，似乎改变了什么?微软拥抱开源了，AWS的反抗者OpenStack，显得有些过于贪婪。商业公司操纵的CNCF基金会，拥泵仿佛僵尸一般左冲右突。
+历史就是这样，只有过去了才能明白怎么回事。我自己的定位有多清晰？
+ 为什么说开源对于微软来说很重要 原文链接：Why open source is so important to Microsoft</description>
+    </item>
+    
+    <item>
+      <title>开源之道三周精选(2018 02 25)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-02-25/</link>
+      <pubDate>Fri, 23 Feb 2018 10:47:22 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-02-25/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 红帽收购CoreOS的真实原因 原文链接：The Real Reason Red Hat Is Acquiring CoreOS
+适兕点评：
+ 开源，走商业录线，可选择的路线不多，红帽在其中绝对的占有优势地位，现在的红帽俨然是一个庞大大物。不要放弃。
+本文从商业的角度来看，来评价红帽收购CoreOS，想要在容器的世界里占领先机，不搞点动作还真不是那么回事。RedHat的竞争对手是Docker，那么必须搞点事情出来，才能赢得用户和合作伙伴。
+ 开源领导力峰会2018 原文链接：Open Source Leadship summit 
+适兕点评：
+ 足足三天的关于开源治理的内容，社区建设、开源项目、企业关系、产品管理等。
+这是我要的吗？其实，我想和人们说明的是，你想100%的利用好开源，就得先去融入它，你光是从开源哪里吸收，做寄生虫，很难把自己的产品搞好。
+有关开源的方法论，似乎越来越多了起来，正在成为显学。很多人都在关注这一领域，很多人都在从事这样一个环境。
+ 开源的背后奥秘 原文链接：What lies ahead for open source?
+适兕点评：
+ 这是Simon Phipps 的那篇文章，Simon Phipps是现任的OSI的主席，他对接下来十年的开源，做了精彩的语言，本文是对它的那篇文章的混编。
+开源策略、InnerSource、创新，何时是个头？你可以不同意别人的观点，但是你却不能为别人的观点所付出。这才是让你信心动摇的地方。
+有的时候，我也在怀疑，我要不要如此跟踪关于开源发生的事情，这是编辑的世界，不是开源的世界。真正发生的地方，应该是那些代码和思想碰撞的地方。我可能找错了地方。
+ 开源生日快乐：简短的功绩回顾 原文链接：Happy birthday open source: A look back at the software that&amp;rsquo;s pushing tech forward
+适兕点评：
+ 编辑们将开源再渲染的天花乱坠，如果世人选择不去相信它，它依旧是那样。
+我突然发现，我无法和周边的人聊天，是我自身的问题，讲人与人之间的平等？民主？政治？ 大家都只图一乐。 雾霾也不差自己的那点烟火鞭炮，于是世界正在变得越发的糟糕。
+ 红帽：开源崛起，已经是主流 原文链接：Red Hat: open source genesis, to mainstreaming revelations</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2018 02 04)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-02-04/</link>
+      <pubDate>Sun, 04 Feb 2018 12:07:55 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-02-04/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 ![(https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/hello-name-sticker-badge-tag.png?itok=fAgbMgBb)
+开源20岁生日，它彻底的改变了世界 原文链接：How I coined the term &amp;lsquo;open source&amp;rsquo;
+原文链接：Open Source turns 20: Here’s how it all started
+原文链接：Open source is 20: How it changed programming and business forever
+原文链接：The history behind Christine Peterson’s term ‘open source software’
+适兕点评：
+ 是的，无论你承认与否，这个世界的大部分运行的软件都是开源的，成为了现代社会发展的基石，甚至很多人从这里找到了财富，也有人找到了荣誉，开源不仅仅是影响了软件的生产方式，它也在渗透到其他的领域。
+无论如何，你应该去了解开源的历史，它是如何来的，为什么有了这样一个名词，而不是靠直觉简简单单的理解它。
+ 如何只花5分钟就搞定第一次贡献开源项目 原文链接：How to make your first open source contribution in just 5 minutes
+适兕点评：
+ FreeCodeCamp 迟早这么玩死，它的目标似乎就是说学编程应该成本很低，却可以获得很高的报酬，而不是去参加什么培训班之类的。类似的文章他们发表过很多，
+个人以为，编程仍然是一个需要经过很长时间学习的严谨的科学，不是21天就可以搞定的。宣传归宣传，不要本末倒置，让入门者有所误解。
+有些培训班，没有底线，让高中生报名参加培训一年，然后让人以为自己就可以做很多事情了。个人亲历。
+ 开源已经很少被提及 原文链接：Open source: Less talk, more work</description>
+    </item>
+    
+    <item>
+      <title>Bruce Perens，向全世界宣布“开源”的人</title>
+      <link>http://www.ocselected.org/posts/opensource_leader/bruce_perens_open_source_definition/</link>
+      <pubDate>Tue, 30 Jan 2018 14:56:29 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_leader/bruce_perens_open_source_definition/</guid>
+      <description>简介 对于开源有了解的人，一定看过一部纪录片：《操作系统的革命》，其中的发起者之一就是 Bruce Perens，在屏幕上介绍他时，上面写着：开放源代码定义的创始人。没错，是的，就是这位即是程序员，又是法律专家的通才，将开源从自由软件中剥离出来，让其更具有商业友好，获得更多对生产关系没有那么强调的业内人士的青睐，至今20年过去了，开源的定义依旧指导着无数个项目，彻底的颠覆了软件行业：
+ 开源软件正在吞噬世界！ &amp;ndash;开源之道
+ 成就 Bruce Perens 是软件界著名的开源运动的发起者之一，也是向全世界说出“开源”的第一人，他创建了“开源的定义”，也就是现在大家所熟知的也在每时每刻都在使用的一套法律许可。
+他是目前是一家生产50-1000 MHz软件定义无线电收发器的创业公司 Algoram 的首席执行官（CEO），同时也是法律技术咨询公司Legal Engineering的 CEO。
+参与著名皮克斯动画的开发 Perens 在著名动画制作公司皮克斯工作过12年，他作为工具工程师参与了两部经典之作：
+ 《虫虫特工队》 《玩具总动员2》  Busybox 著名的开源项目 Busybox 的创始人，我们知道Busybox 是一款打包了众多 Unix 工具的单一程序，号称是：“嵌入式世界的瑞士军刀”，他的用途非常之广泛，尤其是 Android 的用户群体。尤其是Linux的嵌入式开发，没有不知道 Busybox 的，这个工具实在是太重要了。以至于后来 Perens 还专门针对进行了一系列的法律问题处理。
+Debian 项目的带头人 1996年4月至1997年12月，当时在Pixar工作的 Perens 被当选为 Debian 的带头人，也就是协调开发 Debian 的关键人物。这是继 Debian 的创始人之后的第一次当选的带头人。此时的 Perens 也显示出其卓越的领导力。所谓的“通才”能力开始显露。
+Debian 社会契约 当然在红帽工作的 Ean Schuessler，和人们吐槽红帽对于社区连个起码的约定都没有，“言者无意，听者有心”，Perens 却真的将这件事当做一回事，Perens 花了一些时间为 Debian 社区创作了社会契约，Perens在1997年6月初向 debian-private 邮件列表中的Debian开发者提出了Debian社会契约草案。经过了 Debian 开发者们的激烈讨论之后，Perens 修改了一些内容，几个月之后，正式的发布成为Debian项目开发的策略和指导，至今仍然是开源社区的典范，也是 Debian 作为独立的没有任何商业公司支撑的还可以恒久不衰的主要支柱。
+开放源代码的定义 和 创建开源促进会 关于此点内容，开源之道的另外一篇文章:开放源代码定义之历史篇 中有着详尽的描述，这也是 Perens 的职业顶峰。可以被历史所铭记的时刻。</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选(2018 01 28)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-01-28/</link>
+      <pubDate>Sun, 28 Jan 2018 21:59:16 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-01-28/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 开源和外包是如何帮助 HIT 开发的 原文链接：How Open Source, Crowdsourcing Aids HIT Development
+适兕点评：
+ 开源是一个被随意打扮的小姑娘。其实我在和大多数人讨论开源的时候，理解的是千差万别的。结果往往就是我以为他们和我理解的开源是一样的。
+布多少道都没有用，能够吸收的人非常之少。
+这篇文章讲述的传统的医疗行业的基础设施，他们要利用开源干什么?他们理解的开源又是什么？某个具体的项目？还是生产的方法论？亦或是管理方式？
+ OpenStack 社区的活跃中国供应商 原文链接：Active Chinese vendors in the OpenStack community
+适兕点评：
+ 中兴在南非！ 以开源的名义征服第三世界。无可厚非。
+ TensorFlow 回顾：最佳深度学习程序库仍然在进化 原文链接：TensorFlow review: The best deep learning library gets better
+适兕点评：
+ 开源的厚积薄发典型项目，Google一向在开源界的名声和地位，决定了TensorFlow战略意义的成功。正如文中所言：in the last year TensorFlow has been upgraded in the areas of performance, deployment, ease of learning, ease of programming, and compatibility with common Python libraries and utilities.</description>
+    </item>
+    
+  </channel>
+</rss>
