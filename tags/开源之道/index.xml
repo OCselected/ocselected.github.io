@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 26 May 2019 11:38:05 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2019 11:30:26 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道一周精选(2019-06-02)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-02/</link>
+      <pubDate>Sun, 02 Jun 2019 11:30:26 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-02/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 是什么让VMware收购了Bitnami？ 原文链接：Bitnami makes open source so easy, enterprises can do it
+适兕点评：
+ 只有对开源的构建过程理解的非常深刻，才能获得众多用户的青睐和信任。 这点Bitnami做到了，它让开源变得更为简单。工具的文化在本土发展是非常难的，因为文明程度不够，同理心不足，难以做到感恩他人对自己的时间的节省。这需要一个过程，开源未必是这个过程的助手，甚至让绝大多数人认为是理所当然的。Bitnami值得学习的地方很多。
+ 创业公司如何有效利用开源技术来增强客户体验 原文链接：How startups can grow their customer experience with an efficient open source technology
+适兕点评：
+ 开源是如此的重要，以至于成为很多公司起步的绝佳利器，在IT的投入上面是非常之划算，可以将更多的精力投入到自己可以施展的地方。那么问题来了，有效的利用开源技术之后怎么办？唯技术论能走多远？这才是应该重点思考的问题。
+ 最新调查，云计算仍然只占企业IT支出的小部分，但是潜力巨大 原文链接：Cloud remains a small percentage of IT spending, but its gravitation pull is huge
+适兕点评：
+ Gartner的评估是($3.7 trillion)，现在是which just $175.8 billion，确实是非常大的差距，该文引用了上周Stephen O&amp;rsquo;Grady的评论，开源仍然是云计算的最大障碍，云厂商不遗余力的提供相关的基于开源的云服务，其中是有很大道理的，至于愿意投入多少去维持可持续性，那就另做别论了。推荐Stephen O&amp;rsquo;Grady的分析大作。
+ 美国可能控制开源 原文链接：US might have control of Open Source</description>
+    </item>
     
     <item>
       <title>中国的开发者非常惧怕毛衣战会让他们失去开源；Kubernetes 5周年，总结下其五大成就；Google 投资开源硬件lowRISC；GitHub 推出赞助商计划，可以让用户以现金的方式回馈开源项目；Linux基金会组织了城市计算基金会以支持智慧城市；Google 暂停与华为的一切业务往来；Juniper 是如何拥抱开源的；无处不在的开源，你的维护策略是什么？企业开源的优势背后是什么？在数据库领域，开源改变甚大，但是云计算对其的影响更大；卡内基梅隆大规模开源计划背后的领导者的采访；</title>
@@ -2076,26 +2095,6 @@ Machine learning, distributed computing and the use and exploitation of new chip
 Debian 项目的带头人 1996年4月至1997年12月，当时在Pixar工作的 Perens 被当选为 Debian 的带头人，也就是协调开发 Debian 的关键人物。这是继 Debian 的创始人之后的第一次当选的带头人。此时的 Perens 也显示出其卓越的领导力。所谓的“通才”能力开始显露。
 Debian 社会契约 当然在红帽工作的 Ean Schuessler，和人们吐槽红帽对于社区连个起码的约定都没有，“言者无意，听者有心”，Perens 却真的将这件事当做一回事，Perens 花了一些时间为 Debian 社区创作了社会契约，Perens在1997年6月初向 debian-private 邮件列表中的Debian开发者提出了Debian社会契约草案。经过了 Debian 开发者们的激烈讨论之后，Perens 修改了一些内容，几个月之后，正式的发布成为Debian项目开发的策略和指导，至今仍然是开源社区的典范，也是 Debian 作为独立的没有任何商业公司支撑的还可以恒久不衰的主要支柱。
 开放源代码的定义 和 创建开源促进会 关于此点内容，开源之道的另外一篇文章:开放源代码定义之历史篇 中有着详尽的描述，这也是 Perens 的职业顶峰。可以被历史所铭记的时刻。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 01 28)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-01-28/</link>
-      <pubDate>Sun, 28 Jan 2018 21:59:16 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-01-28/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 开源和外包是如何帮助 HIT 开发的 原文链接：How Open Source, Crowdsourcing Aids HIT Development
-适兕点评：
- 开源是一个被随意打扮的小姑娘。其实我在和大多数人讨论开源的时候，理解的是千差万别的。结果往往就是我以为他们和我理解的开源是一样的。
-布多少道都没有用，能够吸收的人非常之少。
-这篇文章讲述的传统的医疗行业的基础设施，他们要利用开源干什么?他们理解的开源又是什么？某个具体的项目？还是生产的方法论？亦或是管理方式？
- OpenStack 社区的活跃中国供应商 原文链接：Active Chinese vendors in the OpenStack community
-适兕点评：
- 中兴在南非！ 以开源的名义征服第三世界。无可厚非。
- TensorFlow 回顾：最佳深度学习程序库仍然在进化 原文链接：TensorFlow review: The best deep learning library gets better
-适兕点评：
- 开源的厚积薄发典型项目，Google一向在开源界的名声和地位，决定了TensorFlow战略意义的成功。正如文中所言：in the last year TensorFlow has been upgraded in the areas of performance, deployment, ease of learning, ease of programming, and compatibility with common Python libraries and utilities.</description>
     </item>
     
   </channel>

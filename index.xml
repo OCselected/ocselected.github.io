@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 26 May 2019 11:38:05 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2019 11:30:26 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道一周精选(2019-06-02)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-02/</link>
+      <pubDate>Sun, 02 Jun 2019 11:30:26 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-02/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 是什么让VMware收购了Bitnami？ 原文链接：Bitnami makes open source so easy, enterprises can do it
+适兕点评：
+ 只有对开源的构建过程理解的非常深刻，才能获得众多用户的青睐和信任。 这点Bitnami做到了，它让开源变得更为简单。工具的文化在本土发展是非常难的，因为文明程度不够，同理心不足，难以做到感恩他人对自己的时间的节省。这需要一个过程，开源未必是这个过程的助手，甚至让绝大多数人认为是理所当然的。Bitnami值得学习的地方很多。
+ 创业公司如何有效利用开源技术来增强客户体验 原文链接：How startups can grow their customer experience with an efficient open source technology
+适兕点评：
+ 开源是如此的重要，以至于成为很多公司起步的绝佳利器，在IT的投入上面是非常之划算，可以将更多的精力投入到自己可以施展的地方。那么问题来了，有效的利用开源技术之后怎么办？唯技术论能走多远？这才是应该重点思考的问题。
+ 最新调查，云计算仍然只占企业IT支出的小部分，但是潜力巨大 原文链接：Cloud remains a small percentage of IT spending, but its gravitation pull is huge
+适兕点评：
+ Gartner的评估是($3.7 trillion)，现在是which just $175.8 billion，确实是非常大的差距，该文引用了上周Stephen O&amp;rsquo;Grady的评论，开源仍然是云计算的最大障碍，云厂商不遗余力的提供相关的基于开源的云服务，其中是有很大道理的，至于愿意投入多少去维持可持续性，那就另做别论了。推荐Stephen O&amp;rsquo;Grady的分析大作。
+ 美国可能控制开源 原文链接：US might have control of Open Source</description>
+    </item>
     
     <item>
       <title>中国的开发者非常惧怕毛衣战会让他们失去开源；Kubernetes 5周年，总结下其五大成就；Google 投资开源硬件lowRISC；GitHub 推出赞助商计划，可以让用户以现金的方式回馈开源项目；Linux基金会组织了城市计算基金会以支持智慧城市；Google 暂停与华为的一切业务往来；Juniper 是如何拥抱开源的；无处不在的开源，你的维护策略是什么？企业开源的优势背后是什么？在数据库领域，开源改变甚大，但是云计算对其的影响更大；卡内基梅隆大规模开源计划背后的领导者的采访；</title>
@@ -2105,18 +2124,6 @@ Kubernetes 迅速成为云原生编排系统的首选，它也成为了开源历
  首先，从进化的视角来看，市场会选择拥有最佳设计的模块。 其次，将一个新的模块同时放到数百个测试者那里，会更快的发现其中的缺陷，从而催生更加可靠的产品。 最后，缺陷被修复的更好，因为市场化的选择机制同样作用于缺陷的修复过程。  [综上所述][2]，集市过程是作为这样一个全新的模式出现：它同时作用于产品构建和协同的过程，团队成员通过电子化的手段彼此联络，天各一方、互不熟识。
 回顾一下所谓的成功 成功的开源项目正在增多，虽然相对于失败的项目，成功占的比例还是很少，但是从更高处看待整个领域的话，开源至少已经在基础设施领域占据大壁江山。我们不妨按照领域来列举一下：
    领域 开源项目 备注     操作系统 Linux    容器 Docker    大数据 Hadoop    编程语言 Go、Python    Linux发行版 CentOS、Debian    版本控制系统 Git    持续集成 Jenkins    关系型数据库 MySQL、PostGreSQL    web服务 Apache    浏览器 FireFox    容器编排 Kubernetes    流的消息服务 Kafka     挂一漏万，以上列出的仅仅是非常成功的开源项目，限于篇幅，这里无法一一列出，在此表示歉意。</description>
-    </item>
-    
-    <item>
-      <title>Open Life —— 有关开源的哲学</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/henrik_ingo_open_life/</link>
-      <pubDate>Tue, 27 Mar 2018 10:28:50 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/henrik_ingo_open_life/</guid>
-      <description>摘要 时间拨回到十几年前，如果有人在思考开源的价值所在，是有一定道理的，因为在洞察这个世界之后，为事情出现端倪而进行考察不是谁都可以做得到的。
-这是一本从芬兰语翻译为英语的，译者为Sara Torvalds。
-Are French farmers a bunch of mean-spirited creeps? Are all nerds courageous, and laziness a virtue? Why did Stephen King leave a horror story unfinished? What business models survived the Internet bubble? Among the many entertaining and thought-provoking ideas presented in Open Life, ants screw up, and Harry Potter even casts his spell in German.
-The hot topics in information technology (IT) right now are Linux and Open Source.</description>
     </item>
     
   </channel>
