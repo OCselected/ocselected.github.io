@@ -43,6 +43,17 @@
   </url>
   
   <url>
+    <loc>http://www.ocselected.org/tags/%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2019-05-23T14:33:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/posts/foundation_introduce/oss_governance_models/</loc>
+    <lastmod>2019-05-23T14:33:01+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.ocselected.org/posts/community_management/managing-casual-contributors/</loc>
     <lastmod>2019-05-20T18:07:49+08:00</lastmod>
   </url>
@@ -183,12 +194,6 @@
   <url>
     <loc>http://www.ocselected.org/posts/foundation_introduce/the_apache_way_to_sustainable_os/</loc>
     <lastmod>2019-03-24T12:58:10+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%8B%E7%BB%8D/</loc>
-    <lastmod>2019-03-24T12:58:10+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
