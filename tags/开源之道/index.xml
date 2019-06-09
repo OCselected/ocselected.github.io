@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 02 Jun 2019 11:30:26 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2019 10:48:00 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>又一家基于开源项目的公司更改了许可协议；Linux基金会新成立Accord项目，Facebook才是开源的最大威胁，开源之道一周精选(2019-06-09)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-09/</link>
+      <pubDate>Sun, 09 Jun 2019 10:48:00 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-09/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 微软不再是开源的敌人，已经赢得了怀疑论者的信任 原文链接：Open-Source ‘Great Satan’ No More, Microsoft Wins Over Skeptics
+适兕点评：
+ 微软内部从2014年的2019年的开源决策历程，没有无缘无故的成功，诚实打动了几乎所有人，微软实实在在的以实际行动从战略上赢得了开源的名声，180度大转弯的伟大变革！这在整个商业历史上也是鲜有的成功案例。我们可以从本文总结一些关键字：开发者、人才、耐心、诚实、同理心、以及谦虚：GitHub will have to fight that tendency, CEO Friedman said.
+ 开源和社区的好处 —— 来自一线战斗人员的观点 原文链接：The benefits of open source and community - the view from the trenches
+适兕点评：
+ 来自OpenVPN的核心开发团队的leader：David Sommerseth 述说了自己的观点，关于社区、开源、代码等等，我非常的认同，尤其是哪个开源是一个双向的信任关系，道出了ownCloud和NextCloud的真相。并且对于耐心也是极有见地。
+ 又一家基于开源项目的公司更改了许可协议 原文链接：CockroachDB changes its open-source licensing model
+原文链接：Why We’re Relicensing CockroachDB
+适兕点评：
+ CockroachDB 也对云计算公司吸血这件事情做出了回应，确实是这样，云厂商成为巨无霸的时候，随意fork社区的项目，分裂社区，造成原创团队的极大伤害，关于分裂，在开源的世界里莫过于BSD这个系统的悲剧性结局了。所以优秀的项目走向闭源，逐步的走向封闭，抬高开发者的门槛，对谁都是不利的，AWS正在试图利用自己多年来的商业和技术优势来将刚刚发展起来的开源给碾压下去，没有人愿意看到战斗，但是没有战斗似乎还缺少了一点前进的动力。
+ GitHub CEO Nat Friedan 跑到尼日利亚接触开发者社区 原文链接：GitHub CEO Nat Friedman Meets Developer Community In Nigeria</description>
+    </item>
     
     <item>
       <title>开源之道一周精选(2019-06-02)</title>
@@ -2079,34 +2099,6 @@ Machine learning, distributed computing and the use and exploitation of new chip
 云计算的时代，似乎改变了什么?微软拥抱开源了，AWS的反抗者OpenStack，显得有些过于贪婪。商业公司操纵的CNCF基金会，拥泵仿佛僵尸一般左冲右突。
 历史就是这样，只有过去了才能明白怎么回事。我自己的定位有多清晰？
  为什么说开源对于微软来说很重要 原文链接：Why open source is so important to Microsoft</description>
-    </item>
-    
-    <item>
-      <title>开源之道三周精选(2018 02 25)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-02-25/</link>
-      <pubDate>Fri, 23 Feb 2018 10:47:22 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-02-25/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 红帽收购CoreOS的真实原因 原文链接：The Real Reason Red Hat Is Acquiring CoreOS
-适兕点评：
- 开源，走商业录线，可选择的路线不多，红帽在其中绝对的占有优势地位，现在的红帽俨然是一个庞大大物。不要放弃。
-本文从商业的角度来看，来评价红帽收购CoreOS，想要在容器的世界里占领先机，不搞点动作还真不是那么回事。RedHat的竞争对手是Docker，那么必须搞点事情出来，才能赢得用户和合作伙伴。
- 开源领导力峰会2018 原文链接：Open Source Leadship summit 
-适兕点评：
- 足足三天的关于开源治理的内容，社区建设、开源项目、企业关系、产品管理等。
-这是我要的吗？其实，我想和人们说明的是，你想100%的利用好开源，就得先去融入它，你光是从开源哪里吸收，做寄生虫，很难把自己的产品搞好。
-有关开源的方法论，似乎越来越多了起来，正在成为显学。很多人都在关注这一领域，很多人都在从事这样一个环境。
- 开源的背后奥秘 原文链接：What lies ahead for open source?
-适兕点评：
- 这是Simon Phipps 的那篇文章，Simon Phipps是现任的OSI的主席，他对接下来十年的开源，做了精彩的语言，本文是对它的那篇文章的混编。
-开源策略、InnerSource、创新，何时是个头？你可以不同意别人的观点，但是你却不能为别人的观点所付出。这才是让你信心动摇的地方。
-有的时候，我也在怀疑，我要不要如此跟踪关于开源发生的事情，这是编辑的世界，不是开源的世界。真正发生的地方，应该是那些代码和思想碰撞的地方。我可能找错了地方。
- 开源生日快乐：简短的功绩回顾 原文链接：Happy birthday open source: A look back at the software that&amp;rsquo;s pushing tech forward
-适兕点评：
- 编辑们将开源再渲染的天花乱坠，如果世人选择不去相信它，它依旧是那样。
-我突然发现，我无法和周边的人聊天，是我自身的问题，讲人与人之间的平等？民主？政治？ 大家都只图一乐。 雾霾也不差自己的那点烟火鞭炮，于是世界正在变得越发的糟糕。
- 红帽：开源崛起，已经是主流 原文链接：Red Hat: open source genesis, to mainstreaming revelations</description>
     </item>
     
   </channel>

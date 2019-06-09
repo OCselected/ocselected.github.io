@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 02 Jun 2019 11:30:26 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2019 10:48:00 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>又一家基于开源项目的公司更改了许可协议；Linux基金会新成立Accord项目，Facebook才是开源的最大威胁，开源之道一周精选(2019-06-09)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-09/</link>
+      <pubDate>Sun, 09 Jun 2019 10:48:00 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-09/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 微软不再是开源的敌人，已经赢得了怀疑论者的信任 原文链接：Open-Source ‘Great Satan’ No More, Microsoft Wins Over Skeptics
+适兕点评：
+ 微软内部从2014年的2019年的开源决策历程，没有无缘无故的成功，诚实打动了几乎所有人，微软实实在在的以实际行动从战略上赢得了开源的名声，180度大转弯的伟大变革！这在整个商业历史上也是鲜有的成功案例。我们可以从本文总结一些关键字：开发者、人才、耐心、诚实、同理心、以及谦虚：GitHub will have to fight that tendency, CEO Friedman said.
+ 开源和社区的好处 —— 来自一线战斗人员的观点 原文链接：The benefits of open source and community - the view from the trenches
+适兕点评：
+ 来自OpenVPN的核心开发团队的leader：David Sommerseth 述说了自己的观点，关于社区、开源、代码等等，我非常的认同，尤其是哪个开源是一个双向的信任关系，道出了ownCloud和NextCloud的真相。并且对于耐心也是极有见地。
+ 又一家基于开源项目的公司更改了许可协议 原文链接：CockroachDB changes its open-source licensing model
+原文链接：Why We’re Relicensing CockroachDB
+适兕点评：
+ CockroachDB 也对云计算公司吸血这件事情做出了回应，确实是这样，云厂商成为巨无霸的时候，随意fork社区的项目，分裂社区，造成原创团队的极大伤害，关于分裂，在开源的世界里莫过于BSD这个系统的悲剧性结局了。所以优秀的项目走向闭源，逐步的走向封闭，抬高开发者的门槛，对谁都是不利的，AWS正在试图利用自己多年来的商业和技术优势来将刚刚发展起来的开源给碾压下去，没有人愿意看到战斗，但是没有战斗似乎还缺少了一点前进的动力。
+ GitHub CEO Nat Friedan 跑到尼日利亚接触开发者社区 原文链接：GitHub CEO Nat Friedman Meets Developer Community In Nigeria</description>
+    </item>
     
     <item>
       <title>开源之道一周精选(2019-06-02)</title>
@@ -2056,27 +2076,6 @@ Google继续开源机器学习技术 原文链接：Google open-sources object d
 加入各种基金会，可能是一个突破口，毕竟他们看到了开源的好处！那么返回来再去推动国内的非营利性组织的建设亦可。不过这可能是很久远的事情了。首先本土需要的是孵化优秀的项目。
  不采用开源等于错失良机 原文链接：&amp;lsquo;Unforgivably negligent&amp;rsquo; not to adopt open source
 适兕点评：</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2017 6 4)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-6-4/</link>
-      <pubDate>Mon, 05 Jun 2017 11:16:50 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-6-4/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 世上首个基于文本的游戏源代码开放 原文链接：You can now access open source code for the first ever text-based game
-适兕点评：
- 这个新闻其实不知道意义大不大，但是对于能够感受到黑客文化的人来说，这是一个重量级的游戏！
-Eric S. Raymond 作出的上传，1976年，那是MIT实验室，工程师的天堂。比互联网的时间更长。这款游戏的名称叫做：“Colossal Cave Adventure”，其作者Will Crowther，也是Internet网雏形——ARPANET的缔造者之一。
-对于理解黑客的思维有所帮助？这些人的脑回路究竟是怎样的？是的，大历史往往就是由这些小事件所触发和构建。
- 丰田汽车选择了开源的智能系统 原文链接：TOYOTA PUSHING FOR OPEN-SOURCE IN-CAR INFOTAINMENT SYSTEM
-原文链接：Toyota turns to open source for in-vehicle technology
-适兕点评：
- Google和Apple这两大科技巨头，早就在智能车载系统布局了。但是开源的Linux基金会也不敢落后。“A lot of automakers want that control.”
-Control 也是人类的一个本性，可以被商业所利用，红帽就是非常成功的案例！
-控制与反控制。lockin 与 unlockin 就是现在运营商与厂商的博弈。丰田的这一步相信也是很多汽车制造商的选择。
- GitHub 发布2017 开源调查 原文链接：GitHub Surveys Open Source: Documentation, License, Usage at Work</description>
     </item>
     
   </channel>
