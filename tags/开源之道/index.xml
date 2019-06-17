@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 09 Jun 2019 10:48:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2019 21:23:30 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源软件商业化背后的公司突破的路径在何方？医药界亦需要拥抱开源；开源之道一周精选(2019-06-16)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-16/</link>
+      <pubDate>Sat, 15 Jun 2019 21:23:30 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-16/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 医药界亦需要拥抱开源 原文链接：Medicine needs to embrace open source
+适兕点评：
+ 开源以及开放的数据要好过于专有的方式！ 文中提及：汽车中运行Linux系统、能源和电力行业的运送管理也采用开源、电影界更是明白了开源的重要性，甚至连合同法的管理都采用了开源的模式，既然开源已经无处不在了，那医药界怎可错过这一重要的机会？ 开放式的研发是其中的关键。该文开始所举例的2015年Pfizer公司所研制的降低Alzheimer的概率为 64%的确实是颇具代表性。在商业和开放之间找到平衡，是当下很多人应该去反思的内容。
+ 开源正在成为”最佳实践” 原文链接：Open source to become a ‘best practice’
+适兕点评：
+ 自打从去年开始，开源之道就领悟到，就“开源”二字，和不同的人沟通交流就会有不同的认识和理解，本文的视野则聚焦于市场方面，数字化转型时代，各家的CIO们似乎都在观望着，但是又不能像过去那样坐等他人采用了之后进行评估，因为一切都在加速，这样的一个平衡之处，开源无疑为最佳选择。
+ 在华尔街，开发者是如何成为大人物的 原文链接：How developers came to mean big bucks on Wall Street
+适兕点评：
+ 强烈推荐阅读本文
+MySQL CEO 曾经对开发者就钱和时间的关系做过这么一个论断：&amp;ldquo;There are people who will spend any amount of money to save time, and there are people who will spend any amount of time to save any amount of money, and those are developers.</description>
+    </item>
     
     <item>
       <title>又一家基于开源项目的公司更改了许可协议；Linux基金会新成立Accord项目，Facebook才是开源的最大威胁，开源之道一周精选(2019-06-09)</title>
@@ -2077,28 +2096,6 @@ Apache 软件基金会简史 基金会是在1999年创立的，当时只有几�
 如何维持数字化基础设施良性发展 数字化基础设施的商业模式是作者所开篇介绍的，如接受捐赠、售卖服务、收取额外许可证费用等。寻求赞助式的方式。并在最后解答了为什么为这些项目提供资金是困难的原因。
 基金会的方式是作者认为最好的方式。企业、研究所等作者也简单的介绍了一些优缺点。
 前方的机遇  &amp;ldquo;There is a need for support for the free public infrastructure&amp;hellip;.People scream if their clocks are off by a second. They say, ‘Yes, we need you, but we can&amp;rsquo;t give you any money.</description>
-    </item>
-    
-    <item>
-      <title>开源之道三周精选(2018 03 11)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-03-11/</link>
-      <pubDate>Sun, 11 Mar 2018 10:21:27 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-03-11/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 开源和标准团队：红帽如何衡量开源的成功 原文链接：Open Source and Standards Team: How Red Hat Measures Open Source Success
-适兕点评：
- 没有一刀切的准绳，每个项目有每个项目不同的内容，Fedora更加注重生态，OpenDayLight更加注重厂商的联盟。当然，为了达到这个目的，你要创建很多的工具。
- MariaDB 启动创新实验室 原文链接：MariaDB launches innovation labs
-适兕点评：
- 要去做长远的打算，嗯，”一万年太久，只争朝夕”的话不知道要坑多少年才能纠正。 MariaDB ，如果我是一家云厂商，我一定笃定跟着他。重视前沿，颇具叛逆性。相比MySQL、AliSQL的生态建设都堪忧啊。
-Machine learning, distributed computing and the use and exploitation of new chips, persistent storage and in-memory processing.
- 回顾开源的近10年 原文链接：Looking Back: What Was Happening Ten Years Ago?
-适兕点评：
- 开源，它最初是以反抗者、抵抗垄断者的身份出现的，Netscape 妄图通过开源来对抗微软的捆绑策略，Linux是昂贵的Unix和MS windows之外的唯一选择。这个正义的举措目前看起来是胜利了。
-云计算的时代，似乎改变了什么?微软拥抱开源了，AWS的反抗者OpenStack，显得有些过于贪婪。商业公司操纵的CNCF基金会，拥泵仿佛僵尸一般左冲右突。
-历史就是这样，只有过去了才能明白怎么回事。我自己的定位有多清晰？
- 为什么说开源对于微软来说很重要 原文链接：Why open source is so important to Microsoft</description>
     </item>
     
   </channel>

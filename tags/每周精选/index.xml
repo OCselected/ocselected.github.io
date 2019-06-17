@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 09 Jun 2019 10:48:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2019 21:23:30 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源软件商业化背后的公司突破的路径在何方？医药界亦需要拥抱开源；开源之道一周精选(2019-06-16)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-16/</link>
+      <pubDate>Sat, 15 Jun 2019 21:23:30 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-16/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 医药界亦需要拥抱开源 原文链接：Medicine needs to embrace open source
+适兕点评：
+ 开源以及开放的数据要好过于专有的方式！ 文中提及：汽车中运行Linux系统、能源和电力行业的运送管理也采用开源、电影界更是明白了开源的重要性，甚至连合同法的管理都采用了开源的模式，既然开源已经无处不在了，那医药界怎可错过这一重要的机会？ 开放式的研发是其中的关键。该文开始所举例的2015年Pfizer公司所研制的降低Alzheimer的概率为 64%的确实是颇具代表性。在商业和开放之间找到平衡，是当下很多人应该去反思的内容。
+ 开源正在成为”最佳实践” 原文链接：Open source to become a ‘best practice’
+适兕点评：
+ 自打从去年开始，开源之道就领悟到，就“开源”二字，和不同的人沟通交流就会有不同的认识和理解，本文的视野则聚焦于市场方面，数字化转型时代，各家的CIO们似乎都在观望着，但是又不能像过去那样坐等他人采用了之后进行评估，因为一切都在加速，这样的一个平衡之处，开源无疑为最佳选择。
+ 在华尔街，开发者是如何成为大人物的 原文链接：How developers came to mean big bucks on Wall Street
+适兕点评：
+ 强烈推荐阅读本文
+MySQL CEO 曾经对开发者就钱和时间的关系做过这么一个论断：&amp;ldquo;There are people who will spend any amount of money to save time, and there are people who will spend any amount of time to save any amount of money, and those are developers.</description>
+    </item>
     
     <item>
       <title>又一家基于开源项目的公司更改了许可协议；Linux基金会新成立Accord项目，Facebook才是开源的最大威胁，开源之道一周精选(2019-06-09)</title>
@@ -2050,32 +2069,6 @@ PingCAP 的人很聪明，商业模式目前为止，看来是选择了双许可
 当然一家企业的成功因素应该有很多，快速的融资，好坏？个人以为坏处更多，急着变现，就快加速产品的上市，在生态未建立之前，这会将自己的品牌给砸了。
  ![(https://venturebeat.com/wp-content/uploads/2017/06/image1.jpg?fit=930%2C620&amp;amp;strip=all)
 Google继续开源机器学习技术 原文链接：Google open-sources object detection tech that powers Nest Cam, Image Search, and Street View</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2017 6 11)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-6-11/</link>
-      <pubDate>Sun, 11 Jun 2017 09:57:37 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-6-11/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 开源的时代来临 原文链接：Open Source Comes of Age
-适兕点评：
- 到2017年的7月1日，开源的确切年龄是19年3个月另3天，那是1998年2月8号这天，在这天Eric S. Raymond 发布了一封公开信：Goodbye, &amp;ldquo;free software&amp;rdquo;; hello, &amp;ldquo;open source&amp;rdquo;. 开源正式的进入我们的世界！
-然而在今天，开源已经无处不在！成为了现代社会和经济不可缺少的部分。甚至是对于科学生产力而言，都是渐成主流的趋势。开源的时代已经来临，绝不是我一个人看到的。
-那么开源背后的经济学和管理的意义，人们从来就没有停止过探索。毕竟这是有违某些经济学原理的。于是一篇研究开源治理的经济学论文就这么诞生了。强烈推荐阅读。
- 红帽峰会和OpenStack峰会见闻 原文链接：Red Hat Summit And OpenStack Summit: Two Weeks Of Open Source Software In Boston
-适兕点评：
- 开源的大厂红帽和OpenStack的峰会见证了开源迅速成为主流，成为企业、社会参考的内容。
-正如文中所言，开源或许并不完美，但正在接近这个目标。是的，时空并非静止不变，没有所谓的完美，随时都可能洗牌、重来！商业的产品也一样，微软仍然不能解决所有问题，Apple、IBM等，所以需要根据自己的理解去做。
-你要解决的问题的是什么？不要和我扯技术细节！
- 阿里巴巴集团以铂金身份加入开放计算项目 原文链接：Alibaba Group Joins Open Compute Project as Platinum Member
-适兕点评：
- 其实主要是阿里云了，阿里云不知道是谁在其中搞开源，总而言之，非常的乱，非常的低级。
-先是花钱加入Linux基金会，即CNCF的，主要是提供Kubernetes的运行环境。现在又加入OCP，即硬件白牌计划。当然还有那些伪开源的各种项目。
-加入各种基金会，可能是一个突破口，毕竟他们看到了开源的好处！那么返回来再去推动国内的非营利性组织的建设亦可。不过这可能是很久远的事情了。首先本土需要的是孵化优秀的项目。
- 不采用开源等于错失良机 原文链接：&amp;lsquo;Unforgivably negligent&amp;rsquo; not to adopt open source
-适兕点评：</description>
     </item>
     
   </channel>
