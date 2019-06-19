@@ -52,6 +52,34 @@ MySQL CEO 曾经对开发者就钱和时间的关系做过这么一个论断：&
     </item>
     
     <item>
+      <title>打造精英式开放组织：知易行难</title>
+      <link>http://www.ocselected.org/posts/the_way_of_open_source/build_a_positive_meritocracy/</link>
+      <pubDate>Fri, 07 Jun 2019 16:19:08 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/the_way_of_open_source/build_a_positive_meritocracy/</guid>
+      <description>引言 著名基于开源项目做商业的公司红帽，其首席执行官前几年写了一本书叫做《开放式组织》，而且由此书而延伸出一系列的实践，试图在开放源代码社区、精英式治理、自下而上的决策等等先进的管理贯彻到底，由此而引领这一全新的管理方式。那么其中精英式的管理就是其中颇为关键的部分，那么本文就给大家细致的述说一些关于该方式下的经历。
+Michale Young 在1958年创造了“Meritocracy”这个词，他可能从来没有想到过50多年之后，这个成为了难以企及的理想化的无法实现的场景。在他的《精英政治的崛起》一书中，他表达了如果英国继续采用标准化的测试来对个人做排名的话，那么英国的未来明显是堪忧的。
+在今天，Meritocracy 仍然是受人们所尊敬的，非常遗憾的是，Young 在50年前所担心的问题，今天仍然存在，甚至还多了一些额外的。
+关于精英的定义 在Young的的书中，无论是标准化的测试也好，还是排名系统也罢，本质上都是强制将人分类的一套规则。Young 认为，那些以天赋为精英管理的说辞，就是通过宣布容易使他们成为“有价值”的方式来强化统治阶级的价值观，从而建立他们的权利意识。他们之所以成功，是因为他们本身就在顶端，而且定义了对于成功什么才是最重要的。
+精英政治为所谓的阶层向上流动、平等机会的幻想提供了诱人的可能性。那些出生时就喊着金钥匙，长大后稍具雄心上进心，就可以在贵族当中脱颖而出，（然而，反过来说这个就是不成立的，如果出身卑微，则很难够实现自己的梦想，相比同等的雄心之下，挫折和绝望感更甚。）
+那么，将这样的精英政治带到职场中来的话，是不是可以解决那些理解力差、无能的管理者手下干活的绝顶聪明的人们的难题？答案是显而易见的，即使是仅从理论上看，精英管理也意味着那些管理者没办法控制员工是如何完成任务的，前提当然是该员工的知识要足够的丰富。进一步我以为，如果做得够好的话，精英制可以创建一个更有效率、也更加令人满意的工作环境。
+那么剩下关键的事情就是如何定义精英的问题了，如果一名领导者能够以丰富的技能作为出发点的话，那么我们就可以说积极的精英制就是可能的。但是，如果说是坚持以通过考虑他们的技能组合作为介绍当前“制定规则者”最为有效的方式的话，那么就仍然会出现Young笔下所描述的可怕的精英制度。
+管理的技能并不是凌驾于他人之上 对于 彼得原则：在一个严格的等级制度当中，每个员工都倾向于低于自己正常能力的发挥。 大家都是感同身受的，换句话说，只有某人在一个岗位上做的不错，就会获得晋升，然而当他们被提升到他们缺乏能力的职位时，他们就会留在那里，既无法获得进一步的晋升，也不可能被降职。
+这是因为公司向上流动就意味着进入了公司的管理层，那么一位杰出的工程师转眼就变成了笨手笨脚的经理。这样就会带来一些问题，聪明的读者可以想象一下，如果在所有的职业道路中，编程技巧是必经之路，那么看到的场面就是组织内到处充满了将软件搞砸的人。
+稍微思考一下，我们就能意识到拥有类似爱因斯坦才华的人，是不太可能拥有管理技能的，这样非常罕见的人才，我们正确的对待方式应该是提升他们的薪水，而不是给他们强加管理的职位，对于其他的员工来说，我们特别设置了管理岗位的上限数量 ———— 这样的话，就有效避免出现哪些低效的、也不快乐的中层管理者。
+欲创建积极有效的精英管理，我们必须去重新思考管理岗位，要做到管理和其他岗位（工程、市场）等是平行的职业轨道，如果有一些人是多技能的话，则让他们担任双重角色。
+工作人员因为忠实于自己的技能而受到惩罚 但是平行的职业轨道也并不是没有问题的存在，那就是关于薪酬方面的不利因素，当一名员工被提拔之前面所提到的“彼得原则”，即一个人在晋升后的岗位上碌碌无为时，如果他们承认了自己的能力不足的话，那意味着ta会失去这个岗位所带来的丰厚薪资，在最好的情况下，ta会被降职，相应的薪水也降回至原来的水平，而在最糟糕的情况下，ta会被解雇。
+然而，令人吊诡的是，在管理执行层的情况恰恰与此相反，若是一名首席执行官在任某家公司的时候，一事无成，ta可以拍拍屁股走人，换到另外一家可能更匹配ta职业的公司或组织，在这其中首席执行官在收入上不会有任何的损失，甚至还有可能升了。事实上，财富500强上30%的首席执行官——我们当中最优秀和最聪明的人——（特别注意）在持续不到三年当中，5位新CEO当中有2位将在18个月内经历失败。而相应的策略就是，在最高级别的管理层中，管理人员和高级员工在发现自己的角色无效后，往往会“重新安置”到公司不同部门的类似职位。
+在漫长的管理历史中，人们渐渐的意识到，在企业的职位阶梯当中逐步攀升的员工具备着宝贵的劳动技能，而往往某个失败的工作结果可能只是技能的不匹配，那么我们为什么不采取和管理层同样的策略呢？让绝大多数人能够在自己所擅长的技能领域内发挥所长。
+拾阶而上，或者谁更受尊重？ 对于默默干活的劳动者缺乏尊重可能是精英管理中最大的问题所在，当他们完成了最繁重的工作，并没有去重视他们的技能，而最多是按照时间付钱而已。这么做对于一位最佳的开发者或员工来说，他们会为自己的工作而骄傲吗？目前常见的企业所犯得错误就是，仅仅只是利用人们的某项技能，而忽略他们所发表的意见。
+当一位并不喜欢重复性劳动的员工，被安排为去做手动复制500个单词，然后粘贴到电子表格中时，ta可能想一头撞向南墙，而你可能只是想量化该员工的工作。与此同时，坐在这位员工隔壁的同志，则是那个真正喜欢戴着一些嘈杂音乐的耳机并且下午按下 Ctrl + C 和Ctrl + V的人。
+我们真的在某些时候做一些我们自己并不喜欢的事情吗？答案是显而易见的，但是，还有一种情况就是，当管理者去要求一位技能没有达到要求的员工去做更多额外的工作的时候，管理者其实是没有站在尊重的立场上的。有些技能总是可能会被低估的，比如你脑海里闪现的可能是诸如诚信、忠诚之类的，而且有些还经常被过度的奖励，如那些善于自我推销的人。这是时候一定要注意自己的想法，那就是设定即使是公司的基层人员也要和高管一样的尊严。这么想的话，就会好很多。
+你知道在《精英的崛起》中最后发生了什么吗？是那些底层的居民终究站起来开始了反抗和革命。这是一个非常值得郑重对待的警示故事。
+关于作者 Rebecca Fernandez 是红帽公司的 Principal Program 经理，Principal 是帮助红帽扩展开放文化的重大项目，她同时也是开放组织的大使，《开放式组织》的贡献者，她还维护着开放决策框架工程，她本身对于开源的哲学和实践是非常感兴趣的，并且更希望将之推广到组织内部。可以在Twitter上关注她。
+本文由作者Rebecca Fernandez 发表在Opensource.com上：[](https://opensource.com/business/10/8/building-positive-meritocracy-its-harder-it-sounds)。本文在[Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)许可证下发布，简体中文由开源之道精心翻译。欢迎转载！</description>
+    </item>
+    
+    <item>
       <title>开源之道一周精选(2019-06-02)</title>
       <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-02/</link>
       <pubDate>Sun, 02 Jun 2019 11:30:26 +0800</pubDate>
@@ -1025,7 +1053,7 @@ Best part of the book was the discussion of shift towards making money with soft
       <pubDate>Mon, 07 Jan 2019 15:33:33 +0800</pubDate>
       
       <guid>http://www.ocselected.org/posts/planing_and_reflection/2019/planning_and_schedule_of_year/</guid>
-      <description>引子 具体事项 一 /2019-01-03 Linux基金会企业开源指南系列之九——公司如何提升开源开发的影响力 来自英文：Improving Your Open Source Development Impact 二 /2019-01-10 Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目 来自英文：Winding Down an Open Source Project 三 /2019-01-17 Linux基金会企业开源指南系列之十一 —— 在开源社区中树立领导力 来自英文：Building Leadership in an Open Source Community 四/2019-01-31 Linux基金会企业开源指南系列之十二 —— 制定企业开源战略 来自英文：Setting an Open Source Strategy 五/2019-02-07 Apache 基金会未来5年计划 来自英文：Five-year Strategic Plan for the Apache Software Foundation 六/2019-02-13 如何评估一个 Linux 发行版的总体成本 来自英文：Estimating the Total Cost of a Linux Distribution 七/2019-02-15 一份被忽略的开源经济学报告 —— 再读 Bruce Perens 八/2019-02-16 云原生的旭日东升 —— CNCF 2018年度报告解读 九/2019-03-10 区块链将会如何影响开源来自英文：How blockchain will influence open source 十/2019-03-31 如何参与到 Linux 社区中来 来自英文：How to Participate in the Linux Community 十一 来自英文：6 ways a thriving community will help your project succeed 十二 如何决定是否开源您的SaaS解决方案 十三 将SaaS开源之后所面临的可能挑战 十四 现代开源项目如何实现贡献者增长（译文）来自英文：Growing a contributor base in modern open source 十五 来自英文：FOSS as a Part of a Corporate Sustainability Plan 十六 ／2019-04-19 开源之道解读红帽企业开源调查2019 来自英文：红帽企业开源调查2019版 十七 []() 职业生涯 来自英文：Lessons from a brief career in open source 十八 []() 来自英文：6 reasons open source is good for business 十九 []() 来自英文：Why events matter and how to do them right 二十 []() 来自英文：Be a force for good in your community 二十一 []() 来自英文：What engineers and marketers can learn from each other 二十二 []() 来自英文：Open is a means, not a movement 二十三 []() 来自英文：Open core, open perimeter, and the future of enterprise software 二十四 []() 来自英文：Openwashing: adopter beware 二十五 如何管理开源项目中的即兴贡献者 ，来自英文：How to manage casual contributors to open source projects 二十六 []() 来自英文：Why I love technical debt 二十七 []() 来自英文：Asynchronous decision-making: Helping remote teams succeed [ ] 二十八 []() 来自英文：Effective Ways to Get Help from Maintainers</description>
+      <description>引子 具体事项 一 /2019-01-03 Linux基金会企业开源指南系列之九——公司如何提升开源开发的影响力 来自英文：Improving Your Open Source Development Impact 二 /2019-01-10 Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目 来自英文：Winding Down an Open Source Project 三 /2019-01-17 Linux基金会企业开源指南系列之十一 —— 在开源社区中树立领导力 来自英文：Building Leadership in an Open Source Community 四/2019-01-31 Linux基金会企业开源指南系列之十二 —— 制定企业开源战略 来自英文：Setting an Open Source Strategy 五/2019-02-07 Apache 基金会未来5年计划 来自英文：Five-year Strategic Plan for the Apache Software Foundation 六/2019-02-13 如何评估一个 Linux 发行版的总体成本 来自英文：Estimating the Total Cost of a Linux Distribution 七/2019-02-15 一份被忽略的开源经济学报告 —— 再读 Bruce Perens 八/2019-02-16 云原生的旭日东升 —— CNCF 2018年度报告解读 九/2019-03-10 区块链将会如何影响开源来自英文：How blockchain will influence open source 十/2019-03-31 如何参与到 Linux 社区中来 来自英文：How to Participate in the Linux Community 十一 来自英文：6 ways a thriving community will help your project succeed 十二 如何决定是否开源您的SaaS解决方案 十三 将SaaS开源之后所面临的可能挑战 十四 现代开源项目如何实现贡献者增长（译文）来自英文：Growing a contributor base in modern open source 十五 来自英文：FOSS as a Part of a Corporate Sustainability Plan 十六 ／2019-04-19 开源之道解读红帽企业开源调查2019 来自英文：红帽企业开源调查2019版 十七 []() 职业生涯 来自英文：Lessons from a brief career in open source 十八 []() 来自英文：6 reasons open source is good for business 十九 []() 来自英文：Why events matter and how to do them right 二十 []() 来自英文：Be a force for good in your community 二十一 [工程师和市场人员相互之间可以学习到什么？]() 来自英文：What engineers and marketers can learn from each other 二十二 []() 来自英文：Open is a means, not a movement 二十三 []() 来自英文：Open core, open perimeter, and the future of enterprise software 二十四 []() 来自英文：Openwashing: adopter beware 二十五 如何管理开源项目中的即兴贡献者 ，来自英文：How to manage casual contributors to open source projects 二十六 []() 来自英文：Why I love technical debt 二十七 []() 来自英文：Asynchronous decision-making: Helping remote teams succeed [ ] 二十八 []() 来自英文：Effective Ways to Get Help from Maintainers</description>
     </item>
     
     <item>
@@ -2066,36 +2094,6 @@ Apache 软件基金会简史 基金会是在1999年创立的，当时只有几�
 因为没有那些让人迷惑的资源（金钱、能量、时间），所以Apache团队非常希望有新来的人能够帮忙，他们只是筛选他们认为足够完成这项任务的人，并匹配与他人合作所需的友好态度，特别是在有分歧的时候。
 在接下来，我们来看看ASF的组织架构，接着我们再来梳理一下角色。
 基金会的组织架构 随着Apache Web Server的市场份额和流行度开始逐步增长，由于其技术优势和项目背后的社区的开放性，人们开始围绕 Apache web server 创建了一些周边的项目。由于他们本身受到了一直以来的社区文化影响，这些周边的项目也采用了相同的社区管理模式。</description>
-    </item>
-    
-    <item>
-      <title>开源书籍推荐 ————《路与桥——现代世界数字基础设施那些隐藏的劳动》</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/road_and_bridges_the_unseen_labor_behind_our_digital_infrastructure/</link>
-      <pubDate>Tue, 13 Mar 2018 15:12:14 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/road_and_bridges_the_unseen_labor_behind_our_digital_infrastructure/</guid>
-      <description>请打开你的手机：开启社交媒体App、新闻App、健身记录App、银行账户App&amp;hellip;&amp;hellip;：所有这些应用都在使用自由的和开放的代码！
- 推荐语 换一个角度来看自由和开源软件，比如使用类比的方式，我们社会或国家的基础设施：公路、桥梁、自来水、发电站等等，和我们的日常生活是息息相关的，那么在信息化时代，数字化的基础设施——操作系统、编译器、程序运行时库等等，俨然已经是我们无法离开的设施了。你可能没有想到，数字基础设施使用的几乎全部都是自由和开源代码！既然现实的情况究竟是什么样子？它存在什么样的问题？它还能给我们带来何种机会？而我们应该去做什么？
-不妨用宏观的思维来理解开源软件给我们所生存的世界所带来的影响。
-内容简介 本书严格来说不能称之为书，它是一份作者经过深入调查之后写就的一份报告，不过，我之所以称其为书，是因为它符合书籍的所有特征：论述了一个问题，并试图说清楚它的来龙去脉。
-我们现代所生存的世界，几乎所有的行业和领域都在运行在软件，从医院到股票交易所，再到新闻传播，再到熟悉的社交媒体。但是，你若用心的话，你会发现构建这些软件的工具是强大的需求之下是被忽视的，一个巨大的尚未被世界所发现的隐藏之地。
-在今天，几乎所有的软件都和自由、公开的代码（称之为 ”开源” ）有关，而这些软件都是由来自社区的开发者们来撰写和维护。和我们日常司空见惯的公路和桥梁等有很大的相似之处：任何人都可以在上行走或驾车，快速、方便的到达目的地，开源的代码可以被任何人所使用：从商业公司到个人，用来构建上层的应用软件。恰是这些开源的代码（软件）构成了我们现代赖以生存的数字基础设施。
-和物理世界基础设施一样，数字的基础设施也需要进行日常的保养和维护。据有效数据称，在美国，政府有超过一半的支出是花在了交通和饮用水的基础设施维护之上的。但是相对对数字基础设施的财务支持要困难得多。 目前，几乎所有的财务支持均是通过商业软件公司的直接或间接赞助来进行的。
-在过去，维护开源代码或项目是相对来说比较容易的。可以回顾一下上个世纪80年代早期，个人电脑PC刚刚兴起之时，绝大多数的商业软件都是专有的（闭源），并不为他人所分享。软件工具的构建和使用均在公司内部进行，而且它们的产品为用户提供时同时还需要特殊的许可证授权。很多公司也都认为开源的代码不够成熟和稳定，用于商业化环境比较冒险。以他们的视角来看的话，软件就意味着必须付费，并不能免费的提供。（这个视角也是现在很多人所认为的。——开源之道注）
-然而，时过境迁，现在每个人都在使用开源代码，包括全球财富500强的公司、各国政府、软件提供商、以及创业公司等等。共享，而不是构建闭源专有的代码，将之变得更加的便宜、好用、和高效。伴随着这样的情况愈演愈烈，相应的对于这些软件的需求也是快速的增长，那么这就给维护这些基础设施的带来了很大的压力，然而，隐藏着这些背后的社区并没有被这个世界所发现。我们之中的绝大多数人获得和使用这些开源软件，轻易的如同打开家里的电灯的开关。而我们却从来没有思考过实现这些软件需要付出多大的代价！
-我们的世界发展的是超乎想象的快，以至于我们所面临的软件需求是前所未有的，再从风险的角度考虑，基础设施维护人员无法提供足够的支持，因此存在安全漏洞和服务中断问题。而从机遇的角度来讲，我们又需要维护和改进这些软件工具，进而为了支持今天的振兴，很大程度上要严重依赖于这些基础设施。另外，开源的工作还能够让开发者们赚取的更多，也可以帮助他们找到更好的工作。但是现实的情况是，开源人才的需求量远远大于现有的。扩大贡献者的群体可以积极的影响到整个技术产业的人们的参与。
-没有那个单独的公司或组织可以独自承担这些，因为开源代码是属于世界的、公共的东西。为了能够很好的支持我们的数字基础设施，我们必须去试图寻找更好的能够一起前进的方法。目前的很好的例子如：Linux基金会的核心基础设施研究所（CII）、Mozilla 开源支持项目（MOSS）、以及处于各行各业的软件公司。
-维持我们的数字基础设施对许多人来说都是一个新话题，而且所面临的挑战还处于隐身状态，不能被很好的理解。另外，基础设施的项目往往还是分布式的，有很多人或组织，采用的扁平的治理模式。很多的基础设施项目还没有一个法律的实体。所有的支持策略的通过以及工作方式都是去中心化的、由社区驱动的开源代码。提高对问题的认知，使的一些组织机构能够可以更加轻松地贡献时间和捐赠金钱，扩大开源贡献者群体，以及在基础设施项目中制定最佳实践和政策，都将在构建健康和可持续的生态系统方面发挥长远作用。
-章节介绍 全书共分了7个部分，掐头（前言）去尾（附录），也就分了5部分内容，从历史到现状，再到问题的提出，并给出乐观的前景。
-前言 在前言中作者 Nadia Eghbal 介绍了自己为什么开始关注数字基础设施，进而关注到开源代码，在采访了很多开源的贡献者之后，又是如何发出惊醒世人的声音的。作者是一个什么样的背景来思考这些问题的。
-数字基础设施的历史和背景 如果单独摘出来这章，是绝对的基础设施软件科普的上乘之作，技术人员写出来的软件史缺少一种社会的视角，或者说放入人文历史来考察这一段历史。而且还通俗易懂的将IT的名词讲解了一番，还转述了一些论述软件与钱财的关系。
-有很多新颖的观点值得关注，比如：开源让开发者们增加了谈判的筹码。你怎么看?
-现状是一种什么样的状态 你有没有想过？怎么一夜之间，自由和开源软件就取代了整个数字化基础设施？这其中到底发生了什么？便宜、还是频繁的变动、以及没有那个单一的组织去有目的的去构建？最令人惊奇的是，这些让所有人都可以使用的代码，竟然变得越来越庞大。本章的内容会告诉你所有这些。
-你知道人们为什么会在没有酬劳的情况下贡献自由和开源软件的吗？那么公司为什么又要这么做了呢？
-所面临的挑战是什么 自由和开源软件都有哪些问题存在？钱，可能是所有人都虎视眈眈的内容，如何利用开源软件来赚钱却又不伤害它的发展？作者介绍了Ruby on Rails、Linux kernel等著名项目所面临的问题。 数字基础设施的支持问题正在变得日益严重化，哪些被忽略掉的隐性成本，这些都是开源所面临的挑战。
-如何维持数字化基础设施良性发展 数字化基础设施的商业模式是作者所开篇介绍的，如接受捐赠、售卖服务、收取额外许可证费用等。寻求赞助式的方式。并在最后解答了为什么为这些项目提供资金是困难的原因。
-基金会的方式是作者认为最好的方式。企业、研究所等作者也简单的介绍了一些优缺点。
-前方的机遇  &amp;ldquo;There is a need for support for the free public infrastructure&amp;hellip;.People scream if their clocks are off by a second. They say, ‘Yes, we need you, but we can&amp;rsquo;t give you any money.</description>
     </item>
     
   </channel>
