@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 15 Jun 2019 21:23:30 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2019 10:52:24 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>O&#39;Reilly发布OSCON 2019议程和演讲者；OSQuery项目欲成立全新开源基金会；城市计算基金会获得技术巨头项目开源之道一周精选(2019-06-23)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-23/</link>
+      <pubDate>Sun, 23 Jun 2019 10:52:24 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-23/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 O&amp;rsquo;Reilly 发布 OSCON 2019 议程和演讲者 原文链接：O’Reilly Announces Speaker and Session Lineup for OSCON 2019
+适兕点评：
+ OSCON 是为数不多的开源的商业会议，也就是说内容是关于开源的一切：技术、方法论、商业、思想等，但是与会者参与是需要付费的，和O&amp;rsquo;Reilly其它的会议没有差别，但是质量蛮高，每年都有很多非常优秀的分享，2019的开源部分：https://conferences.oreilly.com/oscon/oscon-or/public/schedule/stopic/3130 ，大伙不妨浏览一遍，我看中两个来自Software Freedom Conservancy的分享，这里掌管这非常知名的也非常关键的开源和自由软件。还是蛮期待他们的经验分享的。
+ 投资者青睐Slack 原文链接：INVESTORS LOVE SLACK—FOR NOW
+适兕点评：
+ Slack上市了，在纽约证交所，当天的最后$38.63,市值达到195亿美金，SaaS服务的又一次胜利，也是工作聊天的工具的又一次胜利，产品做得棒，整合其它产品，围绕开发者，和开源社区达成一片，好吧，总而言之，Slack胜利了，打败了大型公司的产品如HipChat、Teams等。
+ GitHub发布了新的漏洞报告工具 原文链接：GitHub Releases New Tools to Report Vulnerabilities
+适兕点评：
+ 如果你问周边的人，你import的一个库的时候，会查看库的来源吗？回答一定是不，现在的开发者越来越懒了，这是一种必然的发展趋势，然而，带来方便的同时也带来了安全隐患，也有一些学者们在研究这方面的内容，Michigan大学的Atul Prakash即是这样的翘楚。也就是说大家以后看到项目中存在SECURITY.md这个文件时，应该像README.md一样认真对待。
+ 红帽第一季度财报，让IBM乐开了花 原文链接：Red Hat earnings should have future parent IBM smiling
+适兕点评：
+ 红帽发布了第一季度财报，收入增长近15％，达到9.341亿美元，比市场预期高出约250万美元。 每股1美元的收益超过预期14美分。好吧，人们还非常的担心。OpenStack、OpenShift均是生力军啊，Linux是基本保持。那么人们还担心什么了呢？财报不好看又能怎么地？
+ Ethos(s): 促进社区和文化 原文链接：Ethos(s): Enabling Community and Culture
+适兕点评：</description>
+    </item>
     
     <item>
       <title>开源软件商业化背后的公司突破的路径在何方？医药界亦需要拥抱开源；开源之道一周精选(2019-06-16)</title>
@@ -2068,32 +2091,6 @@ The hot topics in information technology (IT) right now are Linux and Open Sourc
  能力、选择、开销和社区，嗯，企业拥抱开源，并不能直接产生钱，而是利用间接的动力。
 利用开源来赚钱这件事情，你得和无数人讨论。你的重视本土的文化和习俗，你得重视环境。
  AWS的文档在GitHub上开源了 原文链接：AWS documentation is now open source and on GitHub</description>
-    </item>
-    
-    <item>
-      <title>Apache 是如何运作的？</title>
-      <link>http://www.ocselected.org/posts/foundation_introduce/how_apache_works/</link>
-      <pubDate>Thu, 15 Mar 2018 15:30:38 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/foundation_introduce/how_apache_works/</guid>
-      <description>引言 本文将会以概述的形式为读者您提供 Apache 软件基金会的一切内容，相信一定是您一直以来都存有疑问，但还没有来得及细问的内容。涵盖：member 与 committer 的区别、谁决定什么事、选举是如何进行的、基础设施又是如何工作的、董事会又是什么、什么是PMC、孵化器背后的哲学思想又是什么、以及ASF是如何处理多年以来新项目和贡献者的惊人增长所带来的挑战。本文将带你走近 Apache 软件基金会的幕后，一探其背后的运作机理。
-Apache 软件基金会是什么？ Apache 软件基金会 是美国注册的503&amp;copy;3 的非营利的公共慈善组织，于1999年成立，目的主要有：
- 通过提供硬件、沟通工具以及业务基础架构，从而为开放式协作开发软件项目提供后盾 创立独立的法律实体，这样就可以接受个人或公司的赞助，并能够确保这些资源将用于公共利益 为个人志愿者提供避免针对基金会项目的法律诉讼 保护“apache”的品牌，适用于其软件产品，免遭其他组织滥用  敬告读者，以下内容将会是干巴巴枯燥的事实说明，但是相信很多人对于Apache还是保持好奇的，这一切是如何发生的呢？它的细节究竟是怎么回事? 不过不要着急，让我们先来回味一小段历史。
-Apache 软件基金会简史 基金会是在1999年创立的，当时只有几个人，他们给自己起了个名称叫做：“Apache 小组”，之所以这么叫，是因为若干年前他们为了维护和支持当年由NCSA所开发的 HTTPD web 服务。
-当年的情形是这样的，HTTPD web服务软件是以自由的方式向大家提供的，不仅包括源代码，还包含一份允许人们自由的修改并进行二次发行的许可协议，但是随着时间的流逝，当年的开发者渐渐的转移了兴趣，开始去忙其他事情了，结果导致的局面就是项目有用户，但是没有人支持。
-这是开始有一些用户交换彼此对软件的修复（称之为”补丁”），以及如何修复问题和改进代码的信息，这时，Brian Behlendorf 就在自己的机器上创建了一个邮件列表，从而让大家可以协作去修复bug、维护和改进 HTTPD web服务。
-之所以选择 “Apache” 这样一个名称，主要是对美国原住民一个部落的尊敬，Apache部落以其在战争策略方面的卓越技能和无尽的耐力而闻名于世。不过很有意思的是，它也是一个双关语，&amp;rdquo;a patchy web server&amp;rdquo; 即一个修修补补的web服务，但是，说实话，这并不是大家的初衷。就这样，过了没有多久，这些开发和维护Apache软件的人们就自称为&amp;rdquo;Apache 小组&amp;rdquo;了。
-从1995到1999年，Apache HTTPD web服务，这个由“Apache小组”所领导开发的web服务器软件成为了市场的领导者，一直持续到现在，即使是现在也占据了市场65%的份额。
-但是，世界从未停止发展，随着网络规模的增长，相应的经济利益也得到了发展，Apache 开始托管一些新的相关的项目（如mod_perl项目、php项目、java项目等），越来越需要一个更加连贯和有组织的组织来防范潜在的法律攻击。于是，Apache 基金会应势而生。
-你可以阅读更多关于ASF 历史的内容。
-精英主义 Apache web 服务器，并不像和其它的在开源许可协议下开发的软件一样，它最初并非是由某位“英雄”（诸如Linux内核、Perl或Python语言）独立发起的，而是由几个拥有共同想法、彼此了解的人，通过交换信息、修修补补、不断接受各方建议而创建的。
-随着小组开始开发他们自己的软件版本，抛弃了原来的 NCSA 的版本，越来越多的人被吸引并开始提供帮助，首先通过发送很少的补丁或建议，或者在邮件列表中回复电子邮件，后来则可以提供更重要的贡献。
-当小组认为某位开发者，已经“赢得”了成为社区的一员的资格时，他们就授予此开发者对代码仓库的直接访问权限，这样不断的增加团队的力量，也提高了团队开发项目的能力，进而更有效地维护和发展了团队。
-我们把这个基本原则称为“精英主义”：从字面上看，这是政府的主要优势或常见称呼。
-值得注意的是，这个模式发展的非常好，没有产生太多的摩擦，这是因为和其它的方式不同，在这里权力并没有集中和变得保守，在 Apache 团对中，新人被视为希望提供帮助的志愿者，而不是那些想窃取职位的人。
-因为没有那些让人迷惑的资源（金钱、能量、时间），所以Apache团队非常希望有新来的人能够帮忙，他们只是筛选他们认为足够完成这项任务的人，并匹配与他人合作所需的友好态度，特别是在有分歧的时候。
-在接下来，我们来看看ASF的组织架构，接着我们再来梳理一下角色。
-基金会的组织架构 随着Apache Web Server的市场份额和流行度开始逐步增长，由于其技术优势和项目背后的社区的开放性，人们开始围绕 Apache web server 创建了一些周边的项目。由于他们本身受到了一直以来的社区文化影响，这些周边的项目也采用了相同的社区管理模式。</description>
     </item>
     
   </channel>

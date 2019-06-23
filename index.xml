@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 15 Jun 2019 21:23:30 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2019 10:52:24 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>O&#39;Reilly发布OSCON 2019议程和演讲者；OSQuery项目欲成立全新开源基金会；城市计算基金会获得技术巨头项目开源之道一周精选(2019-06-23)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-23/</link>
+      <pubDate>Sun, 23 Jun 2019 10:52:24 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-23/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 O&amp;rsquo;Reilly 发布 OSCON 2019 议程和演讲者 原文链接：O’Reilly Announces Speaker and Session Lineup for OSCON 2019
+适兕点评：
+ OSCON 是为数不多的开源的商业会议，也就是说内容是关于开源的一切：技术、方法论、商业、思想等，但是与会者参与是需要付费的，和O&amp;rsquo;Reilly其它的会议没有差别，但是质量蛮高，每年都有很多非常优秀的分享，2019的开源部分：https://conferences.oreilly.com/oscon/oscon-or/public/schedule/stopic/3130 ，大伙不妨浏览一遍，我看中两个来自Software Freedom Conservancy的分享，这里掌管这非常知名的也非常关键的开源和自由软件。还是蛮期待他们的经验分享的。
+ 投资者青睐Slack 原文链接：INVESTORS LOVE SLACK—FOR NOW
+适兕点评：
+ Slack上市了，在纽约证交所，当天的最后$38.63,市值达到195亿美金，SaaS服务的又一次胜利，也是工作聊天的工具的又一次胜利，产品做得棒，整合其它产品，围绕开发者，和开源社区达成一片，好吧，总而言之，Slack胜利了，打败了大型公司的产品如HipChat、Teams等。
+ GitHub发布了新的漏洞报告工具 原文链接：GitHub Releases New Tools to Report Vulnerabilities
+适兕点评：
+ 如果你问周边的人，你import的一个库的时候，会查看库的来源吗？回答一定是不，现在的开发者越来越懒了，这是一种必然的发展趋势，然而，带来方便的同时也带来了安全隐患，也有一些学者们在研究这方面的内容，Michigan大学的Atul Prakash即是这样的翘楚。也就是说大家以后看到项目中存在SECURITY.md这个文件时，应该像README.md一样认真对待。
+ 红帽第一季度财报，让IBM乐开了花 原文链接：Red Hat earnings should have future parent IBM smiling
+适兕点评：
+ 红帽发布了第一季度财报，收入增长近15％，达到9.341亿美元，比市场预期高出约250万美元。 每股1美元的收益超过预期14美分。好吧，人们还非常的担心。OpenStack、OpenShift均是生力军啊，Linux是基本保持。那么人们还担心什么了呢？财报不好看又能怎么地？
+ Ethos(s): 促进社区和文化 原文链接：Ethos(s): Enabling Community and Culture
+适兕点评：</description>
+    </item>
     
     <item>
       <title>开源软件商业化背后的公司突破的路径在何方？医药界亦需要拥抱开源；开源之道一周精选(2019-06-16)</title>
@@ -2111,18 +2134,6 @@ Kubernetes 已经在发展的迅猛方面超越了历史上所有的开源项目
  物品和思想之间存在巨大的差异。当我们分享物品时，物品的价值就会减少。买二手汽车用不了多少钱，因为它已被人其他人用过了。但思想却并非如此，我们分享思想无损于思想的价值，思想不存在固有的稀缺性。 ———— Paul Romer
  开源与创新  我们必须为天才的成长创造条件。 &amp;ndash; 乔纳.莱勒 《想象》
  结语 </description>
-    </item>
-    
-    <item>
-      <title>开源之道两周精选(2018 04 14)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-04-14/</link>
-      <pubDate>Sat, 14 Apr 2018 15:08:35 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-04-14/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 领导力才是开源商业模式的秘密武器 原文链接：Leadership Is The Secret To An Open Source Business Model
-适兕点评：
- leadership is the magic that creates markets where they did not exist and aligns paying customers with value that you can deliver in a profitable manner. Leadership and vision are ultimately the most proprietary aspects of a technology business, over every patentable piece of hardware or licensable piece of software. Whether you create a new market or bring efficiency to an existing one, your leadership is your secret weapon &amp;ndash; not your level of control.</description>
     </item>
     
   </channel>
