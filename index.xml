@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 23 Jun 2019 10:52:24 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2019 21:05:09 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MongoDB 的CEO 的未来开源战略；未来的工作将会是分布式为主；金融服务业是开源的下一个前沿——开源之道一周精选(2019 06 30)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-30/</link>
+      <pubDate>Sun, 30 Jun 2019 21:05:09 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-30/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 开源：商业成功的秘诀 原文链接：Open Source: the secret sauce to business success
+适兕点评：
+ 所谓的大道至简，开源为什么如此的成功？1、开源意味着开放的心态。2、协作带来创新。3、结果导向。 尤其是第三种，更是让人艳羡不已。开放其实是人类进化到文明程度高的标志。就本土而言，达到这个高度还需要一些时间，甚至是需要商业等因素的力量推动。软件本身如何卖钱？这竟然和体制、风俗、当地的文化习惯有着密切的关联。可能在欧美，这三条原则成立，在中国的话，可能需要等上好多年。
+ MongoDB 的CEO 的未来开源战略 原文链接：MongoDB’s CEO on Open Source, Taking on Oracle, and Scaling Up
+原文链接：MongoDB CEO tells hard truths about commercial open source
+适兕点评：
+ 开发者赚钱不容易，MongoDB 能做到今天的地步也是脚踏实地一步一步走过来的，当然也明白如何获得开发者的青睐，这点经营的是非常不错的。开源仅仅是商业模式的一种手段，这无可厚非。MongoDB、ElasticSearch、TiDB均走的是这条路线，免费经济的一套策略而已。所言极是：[W]e didn&amp;rsquo;t open source it to get help from the community, to make the product better. We open sourced as a freemium strategy; to drive adoption.
+ 微软开源的Windows10 计算器已经被移植到Android和iOS平台 原文链接：Microsoft’s open source Windows 10 calculator gets ported to Android and iOS</description>
+    </item>
     
     <item>
       <title>O&#39;Reilly发布OSCON 2019议程和演讲者；OSQuery项目欲成立全新开源基金会；城市计算基金会获得技术巨头项目开源之道一周精选(2019-06-23)</title>
@@ -2116,24 +2133,6 @@ Kubernetes 已经在发展的迅猛方面超越了历史上所有的开源项目
 如果你认同开源之道的倡导者——适兕的理念，开源是呈现缤纷世界的美好、以及改变未来世界的最佳方式之一的话，不妨加入开源之道，和潮流一起前进。
 详情请阅读参与开源之道细则。
 宣言  开源乃创新之道！ 开源乃协作之道！ 开源乃民主之道！  </description>
-    </item>
-    
-    <item>
-      <title>莎士比亚和李纳斯.托瓦兹</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/shakespeare_and_linus_torvalds/</link>
-      <pubDate>Sat, 14 Apr 2018 15:12:24 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/shakespeare_and_linus_torvalds/</guid>
-      <description> 引子 古语有云：”时势造英雄”，当然此处的时势要放入整个人类的进化，而不是简单的军事和政治方面的。著名学者弗朗西斯.福山曾断言人类将在逐步的民主化当中终结，当然他指的是政治。而我们今天要谈的是知识的民主化和技术的民主化。
-知识的民主化 莎士比亚来到伦敦闯荡的时间是16世纪80年代中期，恰是宗教改革后的鼎盛时期，当时执政的伊丽莎白一世也是鼓励和实行新政，一系列的措施，以及注重文本解释的教育，直接的结果就是当时的公民识字率达到50%，由于宗教改革鼓励大家读书，因此，这极大的有助于一个新的图书市场的建立。据考证，当时出的图书有7000多种，到1600年，考文特花园周边地区差不多有100多家独立出版商，甚至连当地的居民都抱怨街道上散发着难闻的墨水味。这样的结果就是知识的剧烈民主化。莎士比亚和他同时代的作家们得以接触到数不胜数的新故事和新文本。
-莎士比亚在到达伦敦寻找发展机会之前，和那个时代大多数一样，没有机会接受大学教育，牛津和剑桥这样的高等学府的大门对于他是牢牢关闭的。他只能去演戏剧，并在演的过程学习创作。其中对他影响最大的莫过于克里斯托弗.马洛，创作了《帖木儿大帝》，马洛从一系列大众的历史书中借用情节。而马洛在剑桥大学专修文科，可以在剑桥大学图书馆丰富的藏书中找到自己的想要的素材，比如《帖木儿大帝》的重要素材来源之一：亚伯拉罕.奥特柳斯及其昂贵的手稿，当时只有剑桥有两本。
-但是，幸运到是，1587年，即莎士比亚开始创作他的第一部戏剧的那一年，同样来自斯特拉特福德的儿时玩伴理查德.菲尔兹已经成了一位出版商，并出版了拉斐尔.霍林斯赫德的《英格兰、苏格兰、爱尔兰编年史》。莎士比亚买不起这本书，但菲尔兹允许莎士比亚把他的书店当做图书馆，这位年轻的剧作家可以想借什么书就借什么书。不久之后，莎士比亚就开始从《编年史》这本书发掘故事情节，寻找可以与《帖木儿大帝》一争高下的故事。最后他从亨利六世着手，那是一个微小的猜忌就能让英国宫廷分崩离析的时代。欲望与鲜血、爱与复仇、谋杀与阴谋是这个时代的主旋律。
-莎士比亚找到了他的创作主题。
-技术的民主化 在Linux出现之前，操作系统的编写都是居庙堂之高的各大高校、科研机构、博士之类的高级知识工作者的事情，著名的《人月神话》的作者Brooks博士，在IBM主持S360的开发，动用的是几十亿美元的资金，这对于普通民众是完全不敢想象的。
-思想的分享价值 1990年，经济学家保罗.罗默（Paul Romer）提出了一种新的经济增长理论。尽管他的理论建立在一套深奥的方程式的基础上，但其核心却非常简单：思想是用之不竭的资源。从古到今，经济学总是立足于物质世界的稀缺性这一特征上，但罗默指出，思想是”非竞争性产品”。当知识从一个人传播到另一个人那里时，知识并没有减少或受损。越普及的知识越有价值，对知识的应用将带来回报的增加和越来越多的创新。
- 物品和思想之间存在巨大的差异。当我们分享物品时，物品的价值就会减少。买二手汽车用不了多少钱，因为它已被人其他人用过了。但思想却并非如此，我们分享思想无损于思想的价值，思想不存在固有的稀缺性。 ———— Paul Romer
- 开源与创新  我们必须为天才的成长创造条件。 &amp;ndash; 乔纳.莱勒 《想象》
- 结语 </description>
     </item>
     
   </channel>
