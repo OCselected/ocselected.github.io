@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>特别约稿 on 开源之道</title>
+    <link>http://www.ocselected.org/tags/%E7%89%B9%E5%88%AB%E7%BA%A6%E7%A8%BF/</link>
+    <description>Recent content in 特别约稿 on 开源之道</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 10 Jul 2019 13:33:39 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.ocselected.org/tags/%E7%89%B9%E5%88%AB%E7%BA%A6%E7%A8%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>如何正确参与开源社区之 Ceph</title>
+      <link>http://www.ocselected.org/posts/contribute_to_community/how-to-participate-ceph-os-community/</link>
+      <pubDate>Wed, 10 Jul 2019 13:33:39 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/contribute_to_community/how-to-participate-ceph-os-community/</guid>
+      <description>作者：耿航 中国开源云联盟秘书长、Ceph中国社区联合创始人、腾讯云TVP。 题记 在文章开始之前先给建盛老师道个歉，之前答应写的文章一直拖到了现在，之前碍于各种工作的事情缠身没能抽空写，今天有空来写一写如何正确参与开源社区，我今年4月份的时候在深圳参加一个存储大会的致辞，其中就说到了参与开源社区要“良币驱逐劣币，要优不要劣”。
+为什么这么说呢，现在国内大部分的企业都在使用开源，但回馈到开源社区的却很少，这是国内开源文化的思维原因，因为大部分企业只是享受开源所带来的便利，而很少参与到开源社区里。就如同一个村子村民的生活都依赖于一条河，要经常在这条河里面捕鱼、吃鱼，甚至卖鱼，如果长期只是这样，整个生态链肯定会断；相反，如果经常组织村民同时买一些鱼苗放生到河里面，这个生态圈就能很好地维持。大家向开源社区提交代码也是如此，因此我倡导大家应该取之开源回馈开源，用Ceph也好OpenStack也罢，用的时候要积极回馈到社区，这样才能形成良性循环。
+同时也要良币驱逐劣币，像国内一些企业追求的开源其实是“短平快”，为什么说“短平快”呢，它可能在初期积极参与到开源社区，同时为了追求所谓的排名也会提交一些劣质的代码。这种就导致了劣币现象，比如改一个字母、改一个注释就提交回去，再次也是呼吁大家要提交一些有意义、有建设性的代码，正向回馈到社区，这样才能形成社区更好的联动，从而带动大家相关产品生态方面的发展。
+参与开源社区的好处也是显而易见的，首先会提升你个人的综合能力（技术口碑、职业口碑、业内声誉等），其次会助力你的职业发展（就业、升职、加薪等）。
+前面说了那么多，那么如何才算正确的参与开源社区的贡献呢？大家的第一反应可能就是贡献代码才算参与社区；那么我只能说不完全对，因为参与开源社区的形式有很多，比如：贡献代码、翻译文档、组织活动等。这些都算是参与社区。
+言归正传，下面介绍下Ceph社区的情况。Ceph从2004年提交第一行代码开始到现在已经是一个有着十年之久的分布式存储系统软件，目前Ceph已经发展为开源存储界的当红明星。
+Ceph版本发布以及开发迭代周期 Ceph每个稳定版都有个名字（如‘Mimic’），稳定版都是 LTS （ Long Term Stable ，长期稳定）的，而且会持续更新，直到发布了两个 LTS 。
+目前 Ceph 社区采用每半年一个版本发布的方式来进行特性和功能的开发，每个版本发布需要经历设计，开发，新功能冻结，持续若干个版本的 Bug 修复周期后正式发布下一个稳定版本。
+Ceph社区维护了多个稳定版本来保证持续的 Bug 修复来保证用户的存储安全，社区会有一支稳定版本发布团队来维护已发布版本，每个涉及到之前版本的 Bug 都会被该团队移植回稳定版本，并且经过完整QA测试后发布下一个稳定版本。
+每个 Commit 都需要经过单元测试，模块维护者Review，并通过QA 测试子集后才能合并到主线。社区维护了一个较大规模的测试集群来保证代码质量，丰富的测试案例和错误注入机制保证了项目的稳定可靠。
+Ceph Developer Summit Ceph 会在上一个版本特性冻结之前开始下一个版本的特性设计，主要依赖于 Ceph Developer Summit(CDS) 的机制来进行讨论。CDS 主要在线上进行，通过多人视频方式进行沟通，参与者通过 ppt，pad 和在线演说来进行，特性的讨论和结论主要由发起者和模块技术领导人来完成，可以通过 这个页面 来了解过去 CDS 的历史记录。
+一个 Blueprint 需要提交者经过严密的考虑，然后交给 CDS 的 Chairman (通常是 Sage 和 Patrick) 去调度相应的时间去讨论，通常会根据时区进行安排。每个 Blueprint 必须有清晰的提交者和所有人，不仅仅是讨论这个想法的目的和实现结果，还需要考虑具体的实现方式和结果是不是能在目前的 Ceph 中得到满足。
+代码参与贡献者 目前 Ceph 社区由来自超过 50 个公司的上百名开发者持续贡献代码，平均每星期的代码 Commits 超过 150 个，每个版本通常在 2000 个 Commits 左右，代码增减行数在 10w 行以上。在过去的几个版本发布中，贡献者的数量和参与公司明显增加。</description>
+    </item>
+    
+  </channel>
+</rss>
