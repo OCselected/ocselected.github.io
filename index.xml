@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 10 Jul 2019 13:33:39 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2019 16:16:49 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如何让开发者失去兴趣；如何支持开源软件并保持理智 等之开源之道两周精选(20190701~~20190714)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892019-07-14/</link>
+      <pubDate>Sun, 14 Jul 2019 16:16:49 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892019-07-14/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 打隐私安全牌的浏览器，试图从Chrome的阴影中挣脱出来 原文链接：Privacy-first browsers look to take the shine off Google’s Chrome
+适兕点评：
+ Chrome 制霸天下，20年前还是微软的IE的天下了，中国有句古话叫三十年河东、三十年河西，但是这里小心的一个陷阱是中国的河东河西是静止的刻舟求剑式的，而Chrome和IE的变化则蕴含着极为丰富的技术变革。这里更为深刻的还是一个解释风格，有关科学世界观的问题。开源的道理也是其中的一个不可或缺的因素！
+ Tier IV，一家日本的开源自动驾驶创业公司，或1亿美金融资 原文链接：Japanese Open-Source Self-Driving Startup Tier IV Raises Over $100M In Massive Series A
+适兕点评：
+ 其实，开源与闭源，在现代的竞争体系中，已经无关重要，人们更加关注的是伦理与社会的问题了，随着计算机技术的发展，开源与否都无关紧要了，反正想搞定一个项目，软件的基础设施没有什么可以将竞争力拉开的空间了。那么又何必了呢？通过软件来赚钱的模式，需要更多的创新以及更为艰难的挑战。
+ 如何让开发者失去兴趣（以及如何吸引他们） 原文链接：How you&amp;rsquo;re losing developers&amp;rsquo; interest (and how to gain it)
+适兕点评：
+ 软件吞噬世界，那么开发软件的人，已经围绕这些人相关的事物等均成为了大家争夺的地盘，比如开源，开源是蛮多优秀开发者的聚集地，商业公司通过一些开源的手段来吸引开发者，正如当年EA公司靠黑客文化吸引游戏开发者是一个道理。那么如何失去他们了呢？很简单，搞一些闭源的事情就好了。再想获得，那就堪比登天了。
+ IBM CTO 说了，开放技术才是我们的云战略 原文链接：IBM CTO: ‘Open Tech Is Our Cloud Strategy’
+适兕点评：
+ IBM 这家老牌企业，给人的印象便是傲慢、臃肿、和不屑一顾。云计算、人工智能方面的失策，或许让他们老脸丢尽，不过人家够老，总是可以念叨一些年轻的时候做过的一些事的。比如说：“we’ve been involved in open source before open source was cool.</description>
+    </item>
     
     <item>
       <title>如何正确参与开源社区之 Ceph</title>
@@ -2092,31 +2113,6 @@ Kubernetes 已经在发展的迅猛方面超越了历史上所有的开源项目
 这样过了几个月，也招聘到了一些人，早期的这些人也开始对系统有所了解了，这个时候差不多，公司会招到一个产品经理，开始参与项目，开始向系统提一些需求了，然后，公司会要求开发经理第一版什么时候出，销售已经等不及了，让销售们干座着可不行。好！ 那么就开干吧。
 从社区的某个分支正是的克隆下来，开始了产品化之路，要求有：
  界面要更改，不能和上游有任何的相似之处。 全部汉化。 增加xxx功能，这是我们客户明确要求的。 要测试，连续跑30个昼夜，要稳定。 2/3个月的时间够不够？晚餐和路费公司报销。  好吧，这个时候，开发人员的选择不多，产品经理也一样，产品经理这个时候已经开始物色文档人员了，要求是会office,英文可以，最好是有计算机背景。</description>
-    </item>
-    
-    <item>
-      <title>开源之道三周精选(2018 05 06)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-05-06/</link>
-      <pubDate>Sun, 06 May 2018 14:29:35 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-05-06/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 红帽2018峰会有何期待 原文链接：What to expect from Red Hat Summit 2018
-适兕点评：
- 有的时候，我在怀疑每家厂商搞如此的活动的意义。但是从红帽、Google、Apple等等之类的，玩生态的厂家来看，效果还是非常的明显。但是，如果只是自个一家玩，真的是一点意思也没有。
-红帽今年是它的25周年，最让人期待的也就是它收购CoreOS之后的OpenShift平台会如何发展下去。gVisor近来也发布了。容器和容器编排的市场将会竞争更加的激烈。
-不过，Linux、KVM这些底层技术还是值得关注的。
- Google 开源gVisor，容器运行时沙箱 原文链接：Google open sources gVisor, a sandboxed container runtime
-适兕点评：
- 容器的安全性一直被人诟病，但是其优点远远大于这个，于是乎使用者越来越多，那么带来的技术问题就会有人来解决。前有KataContainer，今有gVisor，况且就不说难以上位的iSula、Paunch之类的。
-技术的本质就是解决新问题，引出新问题，如此周而复始。本土的厂商依旧缺乏对开源的认知，即使是华为和阿里，也难以将开源视为一种市场行为，而且是一种完全可量化的。不懂得江湖的意义。这是整个大环境的想法和做法，而开源之道所呼吁的，力量太小。
- 企业如何能够像Netflix、Apple以及Amazon那样进行数字化转型 原文链接：How companies can digitally transform like Netflix, Apple, and Amazon
-适兕点评：
- 这是一个大问题，非常非常大的问题。
-成功的公司，业务找的对，技术支撑也找的对。一切都在正常的决策之中。反而，技术只是最后的一个落地的内容。
- 红帽25年，接下来的规划是？ 原文链接：A (Belated) Happy 25th to Red Hat: So, What Does the Future Hold?
-适兕点评：
- 这是对现任CEO的一个采访，What makes Red Hat different is our offerings; we have free version of everything we do。</description>
     </item>
     
   </channel>

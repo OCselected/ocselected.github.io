@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 10 Jul 2019 13:33:39 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2019 16:16:49 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如何让开发者失去兴趣；如何支持开源软件并保持理智 等之开源之道两周精选(20190701~~20190714)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892019-07-14/</link>
+      <pubDate>Sun, 14 Jul 2019 16:16:49 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892019-07-14/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 打隐私安全牌的浏览器，试图从Chrome的阴影中挣脱出来 原文链接：Privacy-first browsers look to take the shine off Google’s Chrome
+适兕点评：
+ Chrome 制霸天下，20年前还是微软的IE的天下了，中国有句古话叫三十年河东、三十年河西，但是这里小心的一个陷阱是中国的河东河西是静止的刻舟求剑式的，而Chrome和IE的变化则蕴含着极为丰富的技术变革。这里更为深刻的还是一个解释风格，有关科学世界观的问题。开源的道理也是其中的一个不可或缺的因素！
+ Tier IV，一家日本的开源自动驾驶创业公司，或1亿美金融资 原文链接：Japanese Open-Source Self-Driving Startup Tier IV Raises Over $100M In Massive Series A
+适兕点评：
+ 其实，开源与闭源，在现代的竞争体系中，已经无关重要，人们更加关注的是伦理与社会的问题了，随着计算机技术的发展，开源与否都无关紧要了，反正想搞定一个项目，软件的基础设施没有什么可以将竞争力拉开的空间了。那么又何必了呢？通过软件来赚钱的模式，需要更多的创新以及更为艰难的挑战。
+ 如何让开发者失去兴趣（以及如何吸引他们） 原文链接：How you&amp;rsquo;re losing developers&amp;rsquo; interest (and how to gain it)
+适兕点评：
+ 软件吞噬世界，那么开发软件的人，已经围绕这些人相关的事物等均成为了大家争夺的地盘，比如开源，开源是蛮多优秀开发者的聚集地，商业公司通过一些开源的手段来吸引开发者，正如当年EA公司靠黑客文化吸引游戏开发者是一个道理。那么如何失去他们了呢？很简单，搞一些闭源的事情就好了。再想获得，那就堪比登天了。
+ IBM CTO 说了，开放技术才是我们的云战略 原文链接：IBM CTO: ‘Open Tech Is Our Cloud Strategy’
+适兕点评：
+ IBM 这家老牌企业，给人的印象便是傲慢、臃肿、和不屑一顾。云计算、人工智能方面的失策，或许让他们老脸丢尽，不过人家够老，总是可以念叨一些年轻的时候做过的一些事的。比如说：“we’ve been involved in open source before open source was cool.</description>
+    </item>
     
     <item>
       <title>如何正确参与开源社区之 Ceph</title>
@@ -2053,19 +2074,6 @@ Linux基金会，作为其创始人 Linus Torvalds和目前的kernel维护的领
  Hyperledger: 跨行业的区块链技术实现 Automotive Grade Linux ：汽车应用的开放式软件平台 Open Network Automation Platform （ONAP）：实时的、策略驱动的软件自动化的网络功能虚拟化平台 Kubernetes：云原生计算基金会（CNCF）下生产级的容器编排平台  历史 Linux 基金会的历史，最早是追溯到1993年由Patrick D&amp;rsquo;Cruze创建的Linux国际邮件列表，即LI，到2000年LI发展为OSDL，从一个民间组织转变为非盈利的基金会。在2003年，Linux的创始人Linus Torvalds宣布加入了OSDL，这样的话Linus就可以全身心的为维护Linux项目和社区而工作了，人们也再也不同担心Linus去哪家厂商了。
 在2007年的时候，和Free Standards Group进行了合并，正式成立了Linux基金会，Jim Zemlin 担任首席执行总监，一直到今天。
 从此以后，Linux基金会日渐壮大，随着将项目和商业因素的分离，以及开源的日渐繁荣，Linux开展了多项业务，如会议、培训、咨询、子基金会托管、开源项目托管等等。</description>
-    </item>
-    
-    <item>
-      <title>开源之道两周精选(2018 04 01)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-04-01/</link>
-      <pubDate>Sun, 01 Apr 2018 15:18:35 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-04-01/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 红帽已经超越Linux 原文链接：Red Hat looks beyond Linux
-适兕点评：
- 红帽已经走过了1/4世纪，作为比较老的Linux发行版之一，发展到今天的IT软件巨头，似乎每一步都走到了正点上。
-  十年前，开源聚焦于替代已有的商业产品，红帽做的事情就是使用开源技术替代那些专有的技术，可以为用户节省成本：At the time, it was open source showing that we can build open-source tech at lower cost. The value proposition was that it was cheaper. 5、6年前，事情开始发生了变化，The biggest part is it’s not just Google and Facebook finding religion,” said Whitehurst. “The social tech around open source made it easy to make projects happen. Companies got credit for that.</description>
     </item>
     
   </channel>
