@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 14 Jul 2019 16:16:49 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 10:12:32 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>中国的技术公司为何对开源很在意；开源学徒计划；等开源之道一周精选(2019 07 21)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-07-21/</link>
+      <pubDate>Mon, 22 Jul 2019 10:12:32 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-07-21/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 是什么让Docker是如此的重要？ 原文链接：What Makes Docker So Important
+适兕点评：
+ 上周适兕参与了红帽中国的一个客户交流会，讲解RHEL8的一些特性，比如yum 可以支持profile了，我就问那么Docker怎么办？SE告诉我CRI-O可能会更好。是的，Docker依旧是事实上的标准，即使是各家厂商都是分离它，如CNCF的containerd，但是大部分的事实上的技术使用习惯仍然在Docker这里。一旦培养起来，一旦养成习惯，那么就成了创新的基准，没有必要重复造轮子。而Docker又是如此的努力的诠释着Docker该如何使用？从何而来，到哪里去？
+ Wireshark 基金会回应了正在分裂的故事 原文链接：Wireshark Foundation Responds to &amp;lsquo;Fork in the Road&amp;rsquo; Story
+适兕点评：
+ 恰好谈到分裂，这其实是技术人员最后的武器，或底线，ESR 将之比喻为人类的战争、控诉等，在计算机世界的黑客文化当中，忍无可忍之时才去分裂，因为大家都是分裂对自己的伤害，可能需要很长时间才能弥补过来，这是区别于具体的发行版的，仅仅上游本身而言。Wireshark 是非常棒的项目，我们不应该忽略掉它。
+ 开源和AI是如何带我我们探索月球、火星和太空的 原文链接：How open source and AI can take us to the Moon, Mars, and beyond
+适兕点评：
+ 这是一篇激动人心的文章，技术回到关怀人类本身，关注未来福祉。那么开源在其中所起到的关键作用是无可替代的。It sounds like a tall order, but it was this spirit, this willingness to push the boundaries, that made the Apollo missions a success 50 years ago.</description>
+    </item>
     
     <item>
       <title>如何让开发者失去兴趣；如何支持开源软件并保持理智 等之开源之道两周精选(20190701~~20190714)</title>
@@ -2090,29 +2108,6 @@ COSCUP 某种程度上就是华语地区的各大开源相关社群的大社群�
 Kubernetes 已经在发展的迅猛方面超越了历史上所有的开源项目，The challenge ahead is to take that early enthusiasm and translate it into more actual business use cases.
 这就是分水岭，再好的口碑也要有实际的使用场景。
  随着Kubernetes的发展，一个创业生态系统也随之发展 原文链接：As Kubernetes grows, a startup ecosystem develops in its wake</description>
-    </item>
-    
-    <item>
-      <title>为什么基于成功的开源项目的商业产品会失败？</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/why_product_failed_that_based_successful_open_source_project/</link>
-      <pubDate>Thu, 10 May 2018 12:50:25 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource_culture/why_product_failed_that_based_successful_open_source_project/</guid>
-      <description>导读 首先解释下题目，所谓的成功的开源项目，主要是已经被市场和技术所证明已经非常成功的社区主持下的项目，如Linux,Android,OpenStack,oVirt等等，另外一个特点，就是这些开源项目更加的倾向于基础设施软件，如操作系统、IaaS平台，虚拟化管理平台等。至于商业产品，就是基于上述开源项目，进行包装、二次开发，然后出售许可证等之类的商业产品，最后解释下失败，此处的失败不包括其商业模式或公司盈利等的失败，而仅仅指的是上述的商业产品在市场的存活时间，其内部开发的周期上的失败，换句话说，就是这个产品不再有未来，从此消失在历史的舞台。
-这个题目，纯粹的是从个人的职业经历的角度上的一个总结，不是类似 Gartner，Forbes等技术、市场专家从宏观、调查的基础上去预测和评价的，所以并不具备普遍性。虽然我想着这是我可能是尽可能的惠及众人，但我仍然会阐述一些如何避免类似的悲剧发生的几点大的方向。
-另外我会从以下几个要点来说明：
- 我个人所经历的失败。 再失败的路上他们都在做什么？ 失败的几个症状有哪些？ 为什么会失败？ 如何避免这样的失败？ 安娜卡列尼娜定律  附录： Linux发行版，OpenStack发行版，BSD发行版之间的一些特征对比。
-一、个人职业生涯中经历 我从事开发从07年算起，到今天已经7年多了，但是经历的产品却一点也不少，下面是一一的列举：
-07-10 红旗Linux服务器企业版 CentOS 4 08-10 红旗高可用集群 Heatbeat + Pacemaker 10-11 普华IaaS云平台 CloudStack 11-12 云端时代x86终端Linux构建平台 OBS 11-13 云端时代云桌面 oVirt 13-15 易云捷迅 oVirt&amp;amp;&amp;amp;OpenStack
-在上述的这些项目中，有的我只是一个普通成员参与的，有的则是以完全主导的身份参与的，无论什么的角色，最后都难以避免最终消失于市场，我个人的遭遇也不太好，因为意见的不一致，导致闹的不愉快的公司有两家。虽然最终时间证明了我的观点，但是又能怎样了呢？最后的我不得不逃离这些公司，尝试着去独立，另立门户。
-二、在失败的路上他们都在做什么 每一家创业公司也好，或者是公司的内部开发新的市场成立事业部也罢，总是先要推出产品的，那么在开源世界大势所趋的时代，快速的开发一款产品，（这里不是指互联网公司开发的应用，而是基础设施软件，换句话说，就是企业或者互联网公司的应用背后所支撑的软件，如操作系统等。）并非是一件很困难的事情，时间也不是什么大的问题。
-当然首先是选型了，选型的过程，一般是技术人员对一些功能类似的项目进行对比，然后出报告，最后是老板拍板，因为他要考虑市场和消费群体。靠谱的技术人员会按照下面的角度来考察一个开源项目：
- 解决了什么问题。 项目的历史有多久。 发起人是谁？或者是哪个公司？ 代码的架构如何？ 使用什么样的编程语言？ 采用何种构建方式？ 社区的活跃度如何？ 背后有哪些商业公司在支撑？ 社区的生态系统是否完善？ 安装、配置的容易度是多少？ 项目是基于什么开源协议？ 文档是否齐全？ 成熟度如何？有哪些公司/企业在使用？  当你没有花费了3～5个月去做这件事情，有一些遗漏的时候，老板已经表现出非常的不耐心，这时技术人员会将残缺不全的报告递交给老板，然后，老板会利用他自己的圈子，四处打听，比如找一些在外企工作的，一个星期后，告诉你开始招人吧。（有没有觉得不对劲的地方？）
-关于招聘，你只能按照上述5中的内容来进行JD描述，这是国内最为普遍的现象，如果你运气好的话，又恰好在社区中遇到了一些人，否则，只能将目标放在应届毕业生身上，如果你选择了外包公司或者是某个给银行或石油公司写应用的，那么你就留下了后患。
-在招聘的同时，技术人员开始搭建开发环境、构建平台、测试，开始向公司申请服务器，这个时候，遇到的冲突可能有代码仓库和知识分享平台。老板会让你严格控制好代码，这个时候如果上游的仓库时使用git的话，那么你就要考虑gerrit了，并且需要招聘一个版本控制的管理者，如果上游的是SVN的话，那么你就得想好控制权限了。一般的项目都会有一个自己的甚至还有wiki、etherpad等平台，但是老板会要求加入全公司的微软sharepoint之类的系统，或者是办公自动化之类的系统，并会告诉你所有的东西都不可外流，知识产权归公司所有。
-这样过了几个月，也招聘到了一些人，早期的这些人也开始对系统有所了解了，这个时候差不多，公司会招到一个产品经理，开始参与项目，开始向系统提一些需求了，然后，公司会要求开发经理第一版什么时候出，销售已经等不及了，让销售们干座着可不行。好！ 那么就开干吧。
-从社区的某个分支正是的克隆下来，开始了产品化之路，要求有：
- 界面要更改，不能和上游有任何的相似之处。 全部汉化。 增加xxx功能，这是我们客户明确要求的。 要测试，连续跑30个昼夜，要稳定。 2/3个月的时间够不够？晚餐和路费公司报销。  好吧，这个时候，开发人员的选择不多，产品经理也一样，产品经理这个时候已经开始物色文档人员了，要求是会office,英文可以，最好是有计算机背景。</description>
     </item>
     
   </channel>

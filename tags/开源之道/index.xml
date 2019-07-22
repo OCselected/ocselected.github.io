@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 14 Jul 2019 16:16:49 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 10:12:32 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>中国的技术公司为何对开源很在意；开源学徒计划；等开源之道一周精选(2019 07 21)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-07-21/</link>
+      <pubDate>Mon, 22 Jul 2019 10:12:32 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-07-21/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 是什么让Docker是如此的重要？ 原文链接：What Makes Docker So Important
+适兕点评：
+ 上周适兕参与了红帽中国的一个客户交流会，讲解RHEL8的一些特性，比如yum 可以支持profile了，我就问那么Docker怎么办？SE告诉我CRI-O可能会更好。是的，Docker依旧是事实上的标准，即使是各家厂商都是分离它，如CNCF的containerd，但是大部分的事实上的技术使用习惯仍然在Docker这里。一旦培养起来，一旦养成习惯，那么就成了创新的基准，没有必要重复造轮子。而Docker又是如此的努力的诠释着Docker该如何使用？从何而来，到哪里去？
+ Wireshark 基金会回应了正在分裂的故事 原文链接：Wireshark Foundation Responds to &amp;lsquo;Fork in the Road&amp;rsquo; Story
+适兕点评：
+ 恰好谈到分裂，这其实是技术人员最后的武器，或底线，ESR 将之比喻为人类的战争、控诉等，在计算机世界的黑客文化当中，忍无可忍之时才去分裂，因为大家都是分裂对自己的伤害，可能需要很长时间才能弥补过来，这是区别于具体的发行版的，仅仅上游本身而言。Wireshark 是非常棒的项目，我们不应该忽略掉它。
+ 开源和AI是如何带我我们探索月球、火星和太空的 原文链接：How open source and AI can take us to the Moon, Mars, and beyond
+适兕点评：
+ 这是一篇激动人心的文章，技术回到关怀人类本身，关注未来福祉。那么开源在其中所起到的关键作用是无可替代的。It sounds like a tall order, but it was this spirit, this willingness to push the boundaries, that made the Apollo missions a success 50 years ago.</description>
+    </item>
     
     <item>
       <title>如何让开发者失去兴趣；如何支持开源软件并保持理智 等之开源之道两周精选(20190701~~20190714)</title>
@@ -2051,29 +2069,6 @@ Kubernetes 已经在发展的迅猛方面超越了历史上所有的开源项目
 文章点评 领导力才是开源商业模式的秘密武器 原文链接：Leadership Is The Secret To An Open Source Business Model
 适兕点评：
  leadership is the magic that creates markets where they did not exist and aligns paying customers with value that you can deliver in a profitable manner. Leadership and vision are ultimately the most proprietary aspects of a technology business, over every patentable piece of hardware or licensable piece of software. Whether you create a new market or bring efficiency to an existing one, your leadership is your secret weapon &amp;ndash; not your level of control.</description>
-    </item>
-    
-    <item>
-      <title>关于Linux基金会的简介</title>
-      <link>http://www.ocselected.org/posts/foundation_introduce/linux_foundation_introduce/</link>
-      <pubDate>Mon, 09 Apr 2018 16:01:16 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/foundation_introduce/linux_foundation_introduce/</guid>
-      <description>开源之道导读 一般的软件公司，尤其是针对2B的企业，都会设置一个叫做市场的部门，这是一个颇让人产生困惑的部门，因为 Marketing 在英文中的意思地营销，你去寻找相关的资料是万万不得的。而其职能往往是诸如对外宣传、举办活动、在社交媒体上和客户互动、撰写所谓的软文、做SEO等等，而公司往往还会设置另外一个部门叫销售部，类似于传统行业的陌拜、客户关系处理、行业客户等等的职能。
-让我们先转回到开源领域，很多公司将加入诸如Linux基金会之类的事情，认为是一种市场活动，即Marketing events，反正每年公司都有一些预算的，大家都在加，我不加的话显得不够大气。于是大家纷纷加入，我们来看看2018年Linux基金会的名单（中国大陆境内）：博图纵横、数人云、才云、链链、超算云、招商银行、中信、EasyStack、DaoCloud、房掌柜、金丘股份、众享比特、易健科技、复杂美、谐云科技、趣链科技、Lenovo、橙色魔方、全息互信、雷盈、Rancher、四方精创、点融网、太一、时速云、Thundersoft、联动优势、万达飞凡科技、万向集团、云象、梧桐树、保全网、中国印钞造币、ZTE等等。有很多是我们没有听说过的，但是它会加入基金会，这是件好事情，因为这是Linux基金会的主要收入来源，也是维系Linux内核正常运转的必备。
-但是，加入这个基金会的公司真的理解基金会的意义吗？更多的不知道，但是就资质荣誉来讲：可以看到官网、公众号，会将此大肆的做宣传。诸如Linux基金会正式会员、Linux基金会官方合作伙伴、CNCF会员之类的。大约是给自己的顾客看的吧。谁又知道了呢？如果你恰好是上述公司的加入基金会的负责人，不妨给我们留言，说出你的真实感受。
-开源之道给出的建议是：加入基金会没错，如果没有真正利用起来开源的优势的话，那几乎就只是一句广告语，没有任何的意义。那么什么是加入基金会的正确“姿势”了呢？
- 招聘上游贡献者加入公司 鼓励员工为基金会托管的项目做贡献 结合自己的产品，平衡项目的工程开销 增加公司在项目的技术影响 通过基金会提供的平台，了解自身的客户诉求  总结一句话，就是将钱花在最值得的地方！
-简短的说明 Linux基金会致力于围绕开源项目构建可持续的生态系统，以加速技术开发和行业采用。
-2000年创立伊始，Linux 通过财务、知识产权、以及基础设施、大中型活动、培训为开源社区提供了不可估量的卓越支持，通过和大家的共同努力，Linux基金会和它所托管的项目，在共享技术的创造领域，打造出成功的且最具前途实力技术。
-Linux 的成就 Linux是开源软件项目历史上是规模最大、应用范围最广的！几乎所有行业都在广泛的使用Linux，其中包括金融服务、政府、教育、乃至电影制作等。
-同时，Linux 也是支持最前沿技术的首选操作系统，它们有：物联网、云计算、以及大数据。
-Linux基金会，作为其创始人 Linus Torvalds和目前的kernel维护的领导者 Greg Kroah-Hartman 的大本营，目标是提供一个中立的团队，从而让Linux内核团队的开发能够得到很好的保护，使其在未来能够加速创新的步伐。
- Linux 在目前互联网上百万个域名中高居95%的使用量 全球有超过85%的智能手机的销售是基于Android，而Android是基于Linux内核的 全世界所有500强超级计算机都运行在Linux上 大多数全球证券交易市场都运行在Linux之上，包括纽约证券交易所，纳斯达克，伦敦证券交易所和东京证券交易所 大多数消费电子设备使用Linux，利用其占用空间小 超过75%的采用云计算的企业称他们使用Linux作为其主要的平台 Linux是支持全球电子商务领导者的首选基础设施，包括亚马逊、eBay、PayPal、沃尔玛以及其他公司  超越Linux Linux基金会利用其支持Linux社区的经验和专业知识来帮助建立，构建和维护一些最关键的开源技术。它所涵盖的内容到今天已经远远的超越了Linux，几乎帮助促进了每一个软件栈的创新。目前Linux基金会所托管的项目，涉及多个层次，如企业IT、嵌入式系统、消费电子、云计算、网络等等。
-这些正在高速成长的项目，正在帮助企业重新塑造可能性，其中包括：
- Hyperledger: 跨行业的区块链技术实现 Automotive Grade Linux ：汽车应用的开放式软件平台 Open Network Automation Platform （ONAP）：实时的、策略驱动的软件自动化的网络功能虚拟化平台 Kubernetes：云原生计算基金会（CNCF）下生产级的容器编排平台  历史 Linux 基金会的历史，最早是追溯到1993年由Patrick D&amp;rsquo;Cruze创建的Linux国际邮件列表，即LI，到2000年LI发展为OSDL，从一个民间组织转变为非盈利的基金会。在2003年，Linux的创始人Linus Torvalds宣布加入了OSDL，这样的话Linus就可以全身心的为维护Linux项目和社区而工作了，人们也再也不同担心Linus去哪家厂商了。
-在2007年的时候，和Free Standards Group进行了合并，正式成立了Linux基金会，Jim Zemlin 担任首席执行总监，一直到今天。
-从此以后，Linux基金会日渐壮大，随着将项目和商业因素的分离，以及开源的日渐繁荣，Linux开展了多项业务，如会议、培训、咨询、子基金会托管、开源项目托管等等。</description>
     </item>
     
   </channel>

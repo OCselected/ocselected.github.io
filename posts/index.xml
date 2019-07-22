@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 14 Jul 2019 16:16:49 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 10:12:32 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>中国的技术公司为何对开源很在意；开源学徒计划；等开源之道一周精选(2019 07 21)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-07-21/</link>
+      <pubDate>Mon, 22 Jul 2019 10:12:32 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-07-21/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 是什么让Docker是如此的重要？ 原文链接：What Makes Docker So Important
+适兕点评：
+ 上周适兕参与了红帽中国的一个客户交流会，讲解RHEL8的一些特性，比如yum 可以支持profile了，我就问那么Docker怎么办？SE告诉我CRI-O可能会更好。是的，Docker依旧是事实上的标准，即使是各家厂商都是分离它，如CNCF的containerd，但是大部分的事实上的技术使用习惯仍然在Docker这里。一旦培养起来，一旦养成习惯，那么就成了创新的基准，没有必要重复造轮子。而Docker又是如此的努力的诠释着Docker该如何使用？从何而来，到哪里去？
+ Wireshark 基金会回应了正在分裂的故事 原文链接：Wireshark Foundation Responds to &amp;lsquo;Fork in the Road&amp;rsquo; Story
+适兕点评：
+ 恰好谈到分裂，这其实是技术人员最后的武器，或底线，ESR 将之比喻为人类的战争、控诉等，在计算机世界的黑客文化当中，忍无可忍之时才去分裂，因为大家都是分裂对自己的伤害，可能需要很长时间才能弥补过来，这是区别于具体的发行版的，仅仅上游本身而言。Wireshark 是非常棒的项目，我们不应该忽略掉它。
+ 开源和AI是如何带我我们探索月球、火星和太空的 原文链接：How open source and AI can take us to the Moon, Mars, and beyond
+适兕点评：
+ 这是一篇激动人心的文章，技术回到关怀人类本身，关注未来福祉。那么开源在其中所起到的关键作用是无可替代的。It sounds like a tall order, but it was this spirit, this willingness to push the boundaries, that made the Apollo missions a success 50 years ago.</description>
+    </item>
     
     <item>
       <title>如何让开发者失去兴趣；如何支持开源软件并保持理智 等之开源之道两周精选(20190701~~20190714)</title>
@@ -2096,31 +2114,6 @@ Kubernetes 已经在发展的迅猛方面超越了历史上所有的开源项目
 这样过了几个月，也招聘到了一些人，早期的这些人也开始对系统有所了解了，这个时候差不多，公司会招到一个产品经理，开始参与项目，开始向系统提一些需求了，然后，公司会要求开发经理第一版什么时候出，销售已经等不及了，让销售们干座着可不行。好！ 那么就开干吧。
 从社区的某个分支正是的克隆下来，开始了产品化之路，要求有：
  界面要更改，不能和上游有任何的相似之处。 全部汉化。 增加xxx功能，这是我们客户明确要求的。 要测试，连续跑30个昼夜，要稳定。 2/3个月的时间够不够？晚餐和路费公司报销。  好吧，这个时候，开发人员的选择不多，产品经理也一样，产品经理这个时候已经开始物色文档人员了，要求是会office,英文可以，最好是有计算机背景。</description>
-    </item>
-    
-    <item>
-      <title>开源之道三周精选(2018 05 06)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-05-06/</link>
-      <pubDate>Sun, 06 May 2018 14:29:35 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-05-06/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 红帽2018峰会有何期待 原文链接：What to expect from Red Hat Summit 2018
-适兕点评：
- 有的时候，我在怀疑每家厂商搞如此的活动的意义。但是从红帽、Google、Apple等等之类的，玩生态的厂家来看，效果还是非常的明显。但是，如果只是自个一家玩，真的是一点意思也没有。
-红帽今年是它的25周年，最让人期待的也就是它收购CoreOS之后的OpenShift平台会如何发展下去。gVisor近来也发布了。容器和容器编排的市场将会竞争更加的激烈。
-不过，Linux、KVM这些底层技术还是值得关注的。
- Google 开源gVisor，容器运行时沙箱 原文链接：Google open sources gVisor, a sandboxed container runtime
-适兕点评：
- 容器的安全性一直被人诟病，但是其优点远远大于这个，于是乎使用者越来越多，那么带来的技术问题就会有人来解决。前有KataContainer，今有gVisor，况且就不说难以上位的iSula、Paunch之类的。
-技术的本质就是解决新问题，引出新问题，如此周而复始。本土的厂商依旧缺乏对开源的认知，即使是华为和阿里，也难以将开源视为一种市场行为，而且是一种完全可量化的。不懂得江湖的意义。这是整个大环境的想法和做法，而开源之道所呼吁的，力量太小。
- 企业如何能够像Netflix、Apple以及Amazon那样进行数字化转型 原文链接：How companies can digitally transform like Netflix, Apple, and Amazon
-适兕点评：
- 这是一个大问题，非常非常大的问题。
-成功的公司，业务找的对，技术支撑也找的对。一切都在正常的决策之中。反而，技术只是最后的一个落地的内容。
- 红帽25年，接下来的规划是？ 原文链接：A (Belated) Happy 25th to Red Hat: So, What Does the Future Hold?
-适兕点评：
- 这是对现任CEO的一个采访，What makes Red Hat different is our offerings; we have free version of everything we do。</description>
     </item>
     
   </channel>

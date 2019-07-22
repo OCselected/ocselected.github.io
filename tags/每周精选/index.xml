@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 14 Jul 2019 16:16:49 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 10:12:32 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>中国的技术公司为何对开源很在意；开源学徒计划；等开源之道一周精选(2019 07 21)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-07-21/</link>
+      <pubDate>Mon, 22 Jul 2019 10:12:32 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-07-21/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 是什么让Docker是如此的重要？ 原文链接：What Makes Docker So Important
+适兕点评：
+ 上周适兕参与了红帽中国的一个客户交流会，讲解RHEL8的一些特性，比如yum 可以支持profile了，我就问那么Docker怎么办？SE告诉我CRI-O可能会更好。是的，Docker依旧是事实上的标准，即使是各家厂商都是分离它，如CNCF的containerd，但是大部分的事实上的技术使用习惯仍然在Docker这里。一旦培养起来，一旦养成习惯，那么就成了创新的基准，没有必要重复造轮子。而Docker又是如此的努力的诠释着Docker该如何使用？从何而来，到哪里去？
+ Wireshark 基金会回应了正在分裂的故事 原文链接：Wireshark Foundation Responds to &amp;lsquo;Fork in the Road&amp;rsquo; Story
+适兕点评：
+ 恰好谈到分裂，这其实是技术人员最后的武器，或底线，ESR 将之比喻为人类的战争、控诉等，在计算机世界的黑客文化当中，忍无可忍之时才去分裂，因为大家都是分裂对自己的伤害，可能需要很长时间才能弥补过来，这是区别于具体的发行版的，仅仅上游本身而言。Wireshark 是非常棒的项目，我们不应该忽略掉它。
+ 开源和AI是如何带我我们探索月球、火星和太空的 原文链接：How open source and AI can take us to the Moon, Mars, and beyond
+适兕点评：
+ 这是一篇激动人心的文章，技术回到关怀人类本身，关注未来福祉。那么开源在其中所起到的关键作用是无可替代的。It sounds like a tall order, but it was this spirit, this willingness to push the boundaries, that made the Apollo missions a success 50 years ago.</description>
+    </item>
     
     <item>
       <title>如何让开发者失去兴趣；如何支持开源软件并保持理智 等之开源之道两周精选(20190701~~20190714)</title>
@@ -2016,27 +2034,6 @@ GitHub 从三个纬度给出了相应的建议：
 适兕点评：
  可视化的未来是开源，或者说已经是开源占据半边天下的了。
 我也不愿意去翻译了： Yet, what is perhaps most remarkable about this brave new world is that so many of these visualizations are either completely open source or are powered primarily by open source libraries, with many of them sharing their code on GitHub and other repositories.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2017 6 25)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-6-25/</link>
-      <pubDate>Sun, 25 Jun 2017 10:47:46 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-6-25/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 初识开源许可证 原文链接：Getting Started with Open Source Licenses
-适兕点评：
- 傻傻分不清楚，是因为没有法律意识。本土去宣传知识产权法，比这个更加的有意义。
-这是一个落后西方文明的地方，尤其是对于奇淫技巧长时间的鄙视，政治要求技术无所隐瞒，天下莫非王土。读书人窃书不叫偷。
-不要悲观，在被人伤害了之后，会有所结果的。
- Cloud Foundry 定位企业级 原文链接：Cloud Foundry makes its mark on the enterprise
-适兕点评：
- 信任和尊重，这些无形的价值，第一次实在是太关键了。而如果开始的时候，没有赢得信任，日后很难再有人关注你。
-不得不说Cloud Foundry 背后的力量强大，VMWare、IBM、Google、现在再加上微软，可是又如何了呢？没有赢得人心。看看他们的主事人怎么解释？基本上是一种无力回天的感觉。
-“Innovation is hard. And we — as a community — are going to explore thing,” Childers said. “Sometimes they are going to bear fruit and sometimes, maybe they don’t.”
-技术再牛逼，没有用户都是白搭。 Mesossphere遇到的是同样的情况，过早的强调了自己的商业化。
- Xen 开源项目:我的死亡的报道严重夸大 原文链接：Xen open source project: Reports of my death are greatly exaggerated</description>
     </item>
     
   </channel>
