@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 22 Jul 2019 10:12:32 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2019 10:25:19 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IBM 为开源社区贡献了用于治愈癌症的人工智能项目；开源贡献的代价等，开源之道一周精选(2019 07 28)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-07-28/</link>
+      <pubDate>Sun, 28 Jul 2019 10:25:19 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-07-28/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 GraphQL 基金会联合 Joint开发基金会一起驱动API consumption 标准 原文链接：GraphQL Foundation and Joint Development Foundation Collaborate to Drive API Consumption Standards
+适兕点评：
+ 围绕一个特定的领域，围绕一个特定的问题，然后通过解决问题的方式，聚集起全球的智慧来，因为这可能是一个公共的问题，GraphQL 就是典型的发展之路，开源不过是最佳的方式之一罢了。这点本土的开源项目应该学习，不是说将代码放在GitHub上就有啥了不起的，而是说你有没有真正的解决一个问题。技术与社会不可分割，我越来越坚信这个了，二者之间是螺旋式上升。如这次的联姻，就是一个”社会”问题，不是纯粹的技术问题。对照着诸如国内腾讯、阿里等公司的做法，就可以看出高下之分了。
+ IBM 为开源社区贡献了用于治愈癌症的人工智能项目 原文链接：IBM gives cancer-killing drug AI project to the open source community
+原文链接：IBM open-sources AI algorithms to help advance cancer research
+适兕点评：
+ 项目的名称叫做PaccMann，INtERAcT，PIMKL,治疗癌症是全人类共同的难题，IBM 尽管在Waston上无法掩盖的失败，那么将一些项目开源，或者还能做点事情，如果直接在内部死掉，那可真的是死掉了。从全人类的角度讲，开源可以节省很多的成本，可以普适世界。但是这恐怕是个商业上的悖论，如果没有经济利益，显示出区别来，那么人类也就失去了任何的创新机会。
+ Google 云发布基于Spinnaker 的持续交付服务 原文链接：Google Cloud makes it easier to set up continuous delivery with Spinnaker
+适兕点评：
+ 这才是开源的正确使用方式，Open Source 服务化，但是也要为上游注入新鲜的活力。这些个公有云厂商在中立的基金会面前是不会做出什么出格的事情了，比如Fork，根据博弈理论，就只能输。而且也会损失掉相应的人才。但是，如果一个项目被单一厂商控制的话，比如 MongoDB、ElasticSearch、PingCAP 这样的“伪”开源项目，那还真的是fork吧，像当年Unix一样，最终受损的是现在的用户。用户会最终做出选择的。JDK就显示出来这样的端倪，让我们拭目以待吧。</description>
+    </item>
     
     <item>
       <title>中国的技术公司为何对开源很在意；开源学徒计划；等开源之道一周精选(2019 07 21)</title>
@@ -2116,24 +2135,6 @@ Open Source has become the de facto standard for developing new networking servi
  为什么基于成功的开源项目的商业产品会失败？ 我很坦诚的交待，即使是现在，如果我置身于某个团队内部，我依然会对项目持乐观的态度，认为基于一个欣欣向荣的成功项目做一款产品能够成功，而且会认为一年内就会成功。比如Linux、OpenStack、Kubernetes等等这些大型的成功的开源项目，而且还是在人数不多的情况下，做出如此的判断。
 很可惜，当我审视我自己所经历的，以及我研究的其它的类似的案例，回顾过去10年内的公司和项目，我知道，90%多的产品都是失败的。
 历史的吊诡之处在于，我还没法说服人。也就是说我无法阻拦很多人去做这件事，甚至只能不甘的去参与其中。明明知道错误的路径，就是无法把很多在此路径上的人拉到迈向成功的路径上，这也是开源之道还能存在的意义。</description>
-    </item>
-    
-    <item>
-      <title>COSCUP 2017参会感受二三则</title>
-      <link>http://www.ocselected.org/posts/event_analysis/coscup_2017_memory/</link>
-      <pubDate>Thu, 24 May 2018 08:34:03 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/event_analysis/coscup_2017_memory/</guid>
-      <description>题记 开源人年会 2018 (以下简称 COSCUP，其全拼是：Conference for Open Source Coders, Users and Promoters)正在积极的筹备当中，依旧是金秋的8月，坐标：台湾科技大学，继续已经成功举办12届的华语开源盛会（注：地点是在台北市，但具体的举办方每年都会有变化。），在即将举办的第十三届，恰逢开源20周年，作为对岸尚在襁褓中的开源社区，怎能不去学习这样一个盛会？谁能告诉我，放眼华夏，哪一个开源会议是有历史脉络可循的？ 想想去年，我在Richard的帮助下，参与了在台湾大学举办的COSCUP 2017，我也是作为演讲分享的人参加的，感触颇多，但又不知该从何说起，大到文化，小到厕所是否放置卫生巾，一时之间哪里讲的清楚，索性根据自己的内心感受，从最触动自己的那部分开讲。
-柯文哲的Keynote分享 过去的我，只是在杂志上读过德国总理上街买菜，英国首相接送孩子上下学，并没有机会去亲历和政府官员的近距离接触，2017年的COSCUP邀请到了台北市市长柯文哲先生做主题演讲，当一位貌不惊人但精神抖擞的老头，没有人清场，也没有人簇拥，从远处走来的时候，不是旁边的人在拍照，我都不知道这是一位重要人物来到了现场。
-另外一个小细节就是，即使是如此的MR Big，也不能延长KeyNote时间，也不可以多回答问题，时间对于大家都是平等的。
-我当时的状态是惊呆了，当理想中的民主就在我身边的时候，我是如此的稀罕。
-闪电演讲5分钟 这是最让我震撼的，这些议题基本上都是临时的灵感迸发，诸如如何让工程师健身、最新最酷的技术展示、个人介绍、从学校到社区等等五花八门，无所不包。
-大约是没有过多的准备，反而更加的精彩，现场气氛非常的热烈，大家都跃跃欲试。脑洞大开的时候，人们可以迸发很多的思想。而这恰是开源的魅力所在——共享思想！
-每一个去COSCUP的人都不能忘记每天下午的闪电演讲！当你和很多有着相近思想的人沟通、交流之后，将脑海中一直以来思考的内容，做了印证也好，找到同感的人也罢，激发出更多的想法，才是真谛！
-各种社群云集 和大陆地区形成反差的是，台湾有着浓厚的社群文化，就拿北京来说吧，大多的所谓的社区是背后某个商业公司自己的社区罢了，每次Meetup之类的都是宣讲产品之类的商业动机。而没有完全的有着共同兴趣而定时定点的聚会和讨论。当然，也吸引着华语圈的其它社群，如香港开源社群、北京Linux用户组等。
-COSCUP 某种程度上就是华语地区的各大开源相关社群的大社群，不过这个集会变成每年一次罢了。人才济济，覆盖的学科也是百花齐放，我个人就遇到一位学习生物科技的开源爱好者，当然，律师、农业、教育等就更不用提了。
-总结 开源20年，开源人年会13年，在开源正在成为主流和显学的2018，你怎么能错过如此重大的一个盛宴？</description>
     </item>
     
   </channel>

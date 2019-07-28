@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 22 Jul 2019 10:12:32 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2019 10:25:19 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IBM 为开源社区贡献了用于治愈癌症的人工智能项目；开源贡献的代价等，开源之道一周精选(2019 07 28)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-07-28/</link>
+      <pubDate>Sun, 28 Jul 2019 10:25:19 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-07-28/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 GraphQL 基金会联合 Joint开发基金会一起驱动API consumption 标准 原文链接：GraphQL Foundation and Joint Development Foundation Collaborate to Drive API Consumption Standards
+适兕点评：
+ 围绕一个特定的领域，围绕一个特定的问题，然后通过解决问题的方式，聚集起全球的智慧来，因为这可能是一个公共的问题，GraphQL 就是典型的发展之路，开源不过是最佳的方式之一罢了。这点本土的开源项目应该学习，不是说将代码放在GitHub上就有啥了不起的，而是说你有没有真正的解决一个问题。技术与社会不可分割，我越来越坚信这个了，二者之间是螺旋式上升。如这次的联姻，就是一个”社会”问题，不是纯粹的技术问题。对照着诸如国内腾讯、阿里等公司的做法，就可以看出高下之分了。
+ IBM 为开源社区贡献了用于治愈癌症的人工智能项目 原文链接：IBM gives cancer-killing drug AI project to the open source community
+原文链接：IBM open-sources AI algorithms to help advance cancer research
+适兕点评：
+ 项目的名称叫做PaccMann，INtERAcT，PIMKL,治疗癌症是全人类共同的难题，IBM 尽管在Waston上无法掩盖的失败，那么将一些项目开源，或者还能做点事情，如果直接在内部死掉，那可真的是死掉了。从全人类的角度讲，开源可以节省很多的成本，可以普适世界。但是这恐怕是个商业上的悖论，如果没有经济利益，显示出区别来，那么人类也就失去了任何的创新机会。
+ Google 云发布基于Spinnaker 的持续交付服务 原文链接：Google Cloud makes it easier to set up continuous delivery with Spinnaker
+适兕点评：
+ 这才是开源的正确使用方式，Open Source 服务化，但是也要为上游注入新鲜的活力。这些个公有云厂商在中立的基金会面前是不会做出什么出格的事情了，比如Fork，根据博弈理论，就只能输。而且也会损失掉相应的人才。但是，如果一个项目被单一厂商控制的话，比如 MongoDB、ElasticSearch、PingCAP 这样的“伪”开源项目，那还真的是fork吧，像当年Unix一样，最终受损的是现在的用户。用户会最终做出选择的。JDK就显示出来这样的端倪，让我们拭目以待吧。</description>
+    </item>
     
     <item>
       <title>中国的技术公司为何对开源很在意；开源学徒计划；等开源之道一周精选(2019 07 21)</title>
@@ -2117,21 +2136,6 @@ Open Source has become the de facto standard for developing new networking servi
 各种社群云集 和大陆地区形成反差的是，台湾有着浓厚的社群文化，就拿北京来说吧，大多的所谓的社区是背后某个商业公司自己的社区罢了，每次Meetup之类的都是宣讲产品之类的商业动机。而没有完全的有着共同兴趣而定时定点的聚会和讨论。当然，也吸引着华语圈的其它社群，如香港开源社群、北京Linux用户组等。
 COSCUP 某种程度上就是华语地区的各大开源相关社群的大社群，不过这个集会变成每年一次罢了。人才济济，覆盖的学科也是百花齐放，我个人就遇到一位学习生物科技的开源爱好者，当然，律师、农业、教育等就更不用提了。
 总结 开源20年，开源人年会13年，在开源正在成为主流和显学的2018，你怎么能错过如此重大的一个盛宴？</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 05 13)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-05-13/</link>
-      <pubDate>Mon, 14 May 2018 07:44:03 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-05-13/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Kubernetes 站在重要的分水岭 原文链接：Kubernetes stands at an important inflection point
-适兕点评：
- “Open source gives us the opportunity to do things we could never do on our own. Diversity of thought and participation is what makes open source so powerful and so innovative,”
-Kubernetes 已经在发展的迅猛方面超越了历史上所有的开源项目，The challenge ahead is to take that early enthusiasm and translate it into more actual business use cases.
-这就是分水岭，再好的口碑也要有实际的使用场景。
- 随着Kubernetes的发展，一个创业生态系统也随之发展 原文链接：As Kubernetes grows, a startup ecosystem develops in its wake</description>
     </item>
     
   </channel>
