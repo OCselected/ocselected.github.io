@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 28 Jul 2019 10:25:19 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2019 17:00:41 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道阅读指南</title>
+      <link>http://www.ocselected.org/posts/ocselected-reading-guide/</link>
+      <pubDate>Wed, 31 Jul 2019 17:00:41 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/ocselected-reading-guide/</guid>
+      <description>** 感谢WHX **
+系统化 路径 从软件的商业化到开源软件的商业化  开源 &amp;ndash; 一部黑客伦理与商业资本相互妥协的融合史 《软件悖论:商业软件的崛起与陨落》 竞争中合作：开源商业化的爱与恨 开源英雄：Peter Fenton，开源界点石成金的风险投资者 根本就没有什么所谓的开源商业模式 这次我们谈谈开源项目得道者多助的Ubuntu犯下的人心不足蛇吞象的严重错误 Docker终于找到了一条光明的商业化道路 开源厂商（中间服务机构）万岁！ 开源软件商业模式之收入来源概览 探索红帽商业模式最初的灵感来源 为开源和商业正名 精心布局的开源 我们无法从开源本身获利  企业如何选择和运营开源  每家公司都应设立开源项目部门（OSPO）！ Linux基金会企业开源指南系列之一——公司如何创建开源项目办公室 Linux基金会企业开源指南系列之二 &amp;ndash; 开始创建开源项目 Linux基金会企业开源指南系列之三&amp;ndash;一份让你彻底理解开源的读书列表 Linux基金会企业开源指南系列之四 ———— 度量开源项目的成功要素 Linux基金会企业开源指南系列之五 —— 公司如何以利益最大化的姿态参与开源社区 Linux基金会企业开源指南系列之六 ———— 开源管理工具集介绍和使用 Linux基金会企业开源指南系列之七 ———— 如何正确的招聘开源人才 Linux基金会企业开源指南系列之八——公司如何正确的使用开源代码 Linux基金会企业开源指南系列之九————公司如何提升开源开发的影响力 Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目 Linux基金会企业开源指南系列之十一 ———— 打造开源社区领导力 Linux基金会企业开源指南系列之十二 ———— 企业开源战略制定 如何为开源项目做市场 在你的项目开源之前应该确认的几件事 大多数成功的开源项目都是用钱砸出来的，你信吗？ 公司如何帮助员工为开源做贡献  个人如何参与开源  如何参与到 Linux 社区中来 如何正确参与开源社区之 Ceph 归零心态，参与开源 如何加入一个技术社区 如何在贡献开源项目的过程中提升自己的技术势力 初入开源世界的企业会犯哪些常见的错误？如何避免？ 开源程序员——从入门到蜕变 敲开开源世界的大门 GitHub 开源指南（开源之道版）  开源的经济学视野  为什么说下一个红帽永远不会出现：开源经济学的启示 得开发者得天下 ———— 开发者是如何征服世界的 开源的黄金时代 —— 《开放与共享》导读与书评 数字化转型时代的主流商业模式 一份被忽略的开源经济学报告 —— 再读 Bruce Perens 红帽成功背后的秘密武器是什么？ 开源中的行为经济学现象 开源20岁了，是该庆祝一下了 成为开源软件供应链本身——学习为什么应该成为供应链的强有力的影响者 开源和软件供应链  开源的社会学、人类学视野  开源开发者内在的素质：匠艺  开源之道 &amp;ndash; COSCon18 主题分享 为什么说企业采用开源的阻力来自工程师？ 开源之道 历史的维度——开源、拿来主义与自主可控的历史对比 开源项目的可持续性发展研究 ——《路与桥——现代世界数字基础设施那些隐藏的劳动》 开放源代码定义之历史篇 拿来主义的陷阱——你真的充分的利用了开源项目了吗？ 东方文化与技术社区 关于开源软件的12条模因 开源软件正在吞噬世界————LinuxCon中国首秀感想录 为何开发人员对开源青睐有加？ ————从匠人的“留名”自我意识说起 开源之道与开源之术 6种使用、发布、参与、支持开源软件的动机 论“回馈社区”的荒诞 自由和开源软件历史上的里程碑：1969～2015  开源和企业管理  工程师和营销人员相互之间能够彼此学习到什么？ 打造精英式开放组织：知易行难 为什么基于成功的开源项目的商业产品会失败？ 赞助开源社区开发是一件双赢的事情 企业建设社区最起码能收获什么 如何成功进入自由开源软件这个新兴市场 为什么说企业应该雇佣开源项目上游贡献者 企业施行内部开源的10个步骤 内部开源系列之二 —— 经典案例 如何在公司内部创建一个InnerSource社区 Google 是如何打造独一无二的开源项目部的 InnerSource 介绍 为什么说你的员工应该去为开源做贡献  开源、非盈利软件基金会、社区运营、管理  （开源项目）治理模式 如何管理开源项目中的即兴贡献者 现代开源项目如何实现贡献者增长（译文） 6条让社区繁荣的实用方法，进而取得项目成功 Apache 之道，开源可持续成功的秘籍 区块链将会如何影响开源 云原生的旭日东升 —— CNCF 2018年度报告解读 Apache 软件基金会未来的5年战略规划 CNCF 是如何工作的 关于Linux基金会的简介 开源的成功理应是什么样子？ Kubernetes 社区是如何运作的系列之三——治理细则 Kubernetes 社区是如何运作的系列之二——康威定律和SIG Kubernetes 社区是如何运作的系列之一——哲学及治理 Apache 是如何运作的？ 开放的 Apache 究竟有多开放?</description>
+    </item>
     
     <item>
       <title>IBM 为开源社区贡献了用于治愈癌症的人工智能项目；开源贡献的代价等，开源之道一周精选(2019 07 28)</title>
@@ -2013,32 +2023,6 @@ EasyStack 也在学习其它的公司，现在外文网站上发表新闻，然�
 享受其中 能够长期参与到社区最最重要到事情莫过于自己能够享受在其中，如果有幸参与到一个充满活力到社区，你将能够有机会去学习、成长、挑战自我、不断进步。是的，最后我要说得是：参与社区从来就不是一件容易的事情，但是它值得你为之奋斗。
 关于作者 Jeremy Garcia 是LinuxQuestions.org的创始人，且是一位热心但现实的开源倡导者。可以关注他的Twitter：@linuxquestions。
 本文由作者Jeremy Garcia 发表在Opensource.com上：How to join a technical community。在开源之道翻译共享。本文在Creative Commons BY-SA 4.0许可证下发布。欢迎转载！</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2017 7 9)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-7-9/</link>
-      <pubDate>Sun, 09 Jul 2017 10:30:56 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-7-9/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 特斯拉使用开源地图平台更新其导航和地图 原文链接：Tesla is updating its maps and navigation with open source mapping platforms
-适兕点评：
- 地图不仅仅是用来导航的！尤其是对于未来的无人驾驶来说。所以特斯拉加强对于开源的地图平台和导航引擎的支持。
-我的第一反应是这个在中国怎么办？中国的问题不仅仅是来自自然或科技本身，而是意识形态、文化本身的问题就一大堆。
-科技可以随便颠覆，就是不能懂生为中国人的优越感。
- GitHub 建议：问你自己能为开源做什么 原文链接：GitHub&amp;rsquo;s Advice to &amp;lsquo;Ask What You Can Do for Open Source&amp;rsquo;
-适兕点评：
- 比我写的文章有感情多了。虽然我也抛析了GitHub的开源星期五的意义所在，但是和这篇饱含情感的文章逊色多了。从一入手，便是高屋建瓴的国家独立！
-GtiHub 一直都在围绕开源做事情，所以对于开源的理解更为深刻。
-但是问题来了，当“他们”成了“我们”之后，该如何定位自己？嗯，不断的去写文章去吧。写代码，组织都可以的。
- 百度的无人驾驶阿波罗系统 原文链接：Baidu Enlists More Than 50 Companies For Open-Source Driverless Tech Project
-原文链接：Baidu offers open-source car software as lure for data
-适兕点评：
- 百度，一直以来都是费正清先生笔下的拿到捕鼠器特权的案例，由于占据了中国的互联网入口，开始出现腐败滋生的丑恶现象。历史终究会给出正确的答案，李彦宏能走多远，历史将会给他客观的评价。
-至于这个阿波罗计划，整个就是以Android的复制，借着开源的名义，试图构筑无人驾驶领域的生态，他的目标依旧是中国的捕鼠器特权，而不是站在世界的创新领域。
-开源不是光喊喊口号的！依旧对百度这家无耻的公司竖起中指！
- 为什么说开源软件对于业务很重要 原文链接：Why Open Source Software is Important for Business</description>
     </item>
     
   </channel>
