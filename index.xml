@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 31 Jul 2019 17:00:41 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2019 18:51:30 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道一周精选(2019 08 04)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-04/</link>
+      <pubDate>Mon, 05 Aug 2019 18:51:30 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-04/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 开源项目在电影&amp;amp;媒体领域证明了自己的价值 原文链接：Open Source projects are proving their value in Movies &amp;amp; Media
+原文链接：Netflix, Amazon Web Services Join Hollywood Open Source Group
+适兕点评：
+ AWS 和 Netflix 加入Academy Software Foundation，OpenTimelineIO成为基金会托管项目，由Pixar贡献。世界万物不是一下子就会出结果的，人类解决问题也不是说一下子就完美的，而是经过不断的尝试，试错，开源能够解决好莱坞的问题吗？随着电影制作的进步，电脑参与的程度越来越高，软件的重用性是行业的同病。Academy Software Foundation 或许是解决之道，我们没法猜测结果，但是总是一种精进！ 而不是某些社会机制必须等待政府，由外行来领导一切。当他们明白过来，在这个加速的时代，已经落后十万八千里了。
+ 微软购买了BlueTalon 原文链接：Microsoft buys a start-up whose software limits access to sensitive data
+适兕点评：
+ BlueTalon 软件可以阻止人们访问公司保留的某些高价值数据。Azure 不断在数据方面加注，云端的竞争将仍然是数据本身而不是软件本身，软件仍然将保持开源的路线。所以，软件的利润会被云厂商逐步的吞噬掉，但一定不是全部。那么保存和处理数据的软件则夹在这二者之间。开放源代码软件以其创新和降低成本的法则，正在慢慢的影响着世界的走向。毋须担心！
+ Zowe，基于开源和DevOps来将大型机民主化 原文链接：With Zowe, open source and DevOps are democratizing the mainframe computer
+适兕点评：
+ democratizing 这个词似乎很多人都在使用，Apple、Microsoft，但是这些商业公司都在极力的避免使用freedom之类的，那么开源究竟是什么了呢？可能外延会更广，但是Democratizing肯定在其中。该文的提及的一个真理确实让人唏嘘不已：The mainframe’s technology may be cutting-edge, but its problems are very human: a generational shift as older mainframers retire, requiring a new cadre of professionals, and the fact that mainframe teams are still largely siloed, since working on z/OS requires a largely specialized skillset.</description>
+    </item>
     
     <item>
       <title>开源之道阅读指南</title>
@@ -2098,30 +2117,6 @@ Open Source has become the de facto standard for developing new networking servi
 适兕点评：
  Heptio CEO 首先发难诟病OpenShift，然后一堆人出来澄清，这就说明了一个问题，OpenShift一家独大，有Kubernetes的RHEL之嫌，引起众多嫉妒。
 要知道“OpenShift, like the other 54 distributions and platforms (and unlike Heptio and the other seven installers) carries patches and so is not vanilla, upstream Kubernetes.</description>
-    </item>
-    
-    <item>
-      <title>开源之道2周精选(2018 05 27)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932%E5%91%A8%E7%B2%BE%E9%80%892018-05-27/</link>
-      <pubDate>Fri, 25 May 2018 13:16:19 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932%E5%91%A8%E7%B2%BE%E9%80%892018-05-27/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 采访：让我们探讨下开放计算项目的数据中心趋势 原文链接：Interview: Discussing data centre trends with Open Compute Project
-适兕点评：
- 随着开源软件的占据主流，开源硬件以OCP为代表的数据中心设计，必将是未来的主流，其实现在就是主流。FB、Google、microsoft等就是证明。
-当然，还有一些挑战。但是OCP在中国同样没有市场，只有自主可控。只有搭便车！没有合作。
- 开源和社区在技术领域的鼓励多样性有所建树 原文链接：Open source and communities essential in spreading diversity in tech
-适兕点评：
- 这是红帽的人力资源高管的一个采访。开源、女性、社区、技术，这些都是大家所关注的。
-成功从来不是偶然，红帽的人才战略绝对是领先的。但是中国区的很是令人失望啊，也有水土不服的时候。
- Tesla 发布了基于开源许可证的软件 原文链接：Tesla releases some of its software to comply with open source licences
-适兕点评：
- 这才是正常的流程，Tesla 也是一家重度软件的公司，也使用了一些开源的软件，如Linux、QT等，然后就有人和他说明了情况，Software Freedom Conservancy，然后，Tesla就回复了这样的情形。
-法律！法律的遵循。这才是文明进步的保证和前提。
- 政府和企业都在青睐红帽和冉冉升起的开源 原文链接：Government, enterprise interest in Red Hat and open source sky rocketing
-适兕点评：
- 开头竟然引用甘地的名言：“First they ignore you, then they laugh at you, then they fight you, then you win.</description>
     </item>
     
   </channel>
