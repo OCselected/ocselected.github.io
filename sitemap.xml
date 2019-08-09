@@ -3,42 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.ocselected.org/posts/</loc>
-    <lastmod>2019-08-09T22:20:57+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/</loc>
-    <lastmod>2019-08-09T22:20:57+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/</loc>
-    <lastmod>2019-08-09T22:20:57+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/</loc>
-    <lastmod>2019-08-09T22:20:57+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%95%85%E4%BA%8B/</loc>
-    <lastmod>2019-08-09T22:20:57+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E8%BD%AF%E4%BB%B6%E4%B9%8B%E5%A4%96/</loc>
-    <lastmod>2019-08-09T22:20:57+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ocselected.org/posts/opensource_of_other_industries/the_story_of_don_berwick/</loc>
     <lastmod>2019-08-09T22:20:57+08:00</lastmod>
   </url>
@@ -46,12 +10,6 @@
   <url>
     <loc>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-04/</loc>
     <lastmod>2019-08-05T18:51:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/</loc>
-    <lastmod>2019-08-05T18:51:30+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -80,32 +38,8 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/%E7%89%B9%E5%88%AB%E7%BA%A6%E7%A8%BF/</loc>
-    <lastmod>2019-07-10T13:33:39+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E5%8F%82%E4%B8%8E/</loc>
-    <lastmod>2019-07-10T13:33:39+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E5%9B%BE%E4%B9%A6%E6%8E%A8%E8%8D%90/</loc>
-    <lastmod>2019-07-01T20:13:22+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ocselected.org/posts/paper_or_book_reading/hackers-book-review/</loc>
     <lastmod>2019-07-01T20:13:22+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/</loc>
-    <lastmod>2019-07-01T20:13:22+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -134,12 +68,6 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%94%BE%E7%BB%84%E7%BB%87/</loc>
-    <lastmod>2019-06-07T16:19:08+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ocselected.org/posts/the_way_of_open_source/build_a_positive_meritocracy/</loc>
     <lastmod>2019-06-07T16:19:08+08:00</lastmod>
   </url>
@@ -160,12 +88,6 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%8B%E7%BB%8D/</loc>
-    <lastmod>2019-05-23T14:33:01+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ocselected.org/posts/foundation_introduce/oss_governance_models/</loc>
     <lastmod>2019-05-23T14:33:01+08:00</lastmod>
   </url>
@@ -173,12 +95,6 @@
   <url>
     <loc>http://www.ocselected.org/posts/community_management/managing-casual-contributors/</loc>
     <lastmod>2019-05-20T18:07:49+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2019-05-20T18:07:49+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -197,20 +113,8 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/</loc>
-    <lastmod>2019-05-11T11:01:51+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ocselected.org/all_about_kuosi/</loc>
     <lastmod>2019-05-11T11:01:51+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E8%B4%A1%E7%8C%AE%E8%80%85/</loc>
-    <lastmod>2019-05-11T11:01:51+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -221,12 +125,6 @@
   <url>
     <loc>http://www.ocselected.org/posts/open-source-economic/why-there-will-never-be-another-redhat-the-economics-of-open-source/</loc>
     <lastmod>2019-05-07T14:31:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E7%BB%8F%E6%B5%8E/</loc>
-    <lastmod>2019-05-07T14:31:32+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -250,12 +148,6 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/%E4%BA%8B%E4%BB%B6%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2019-04-19T16:37:15+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ocselected.org/posts/event_analysis/redhat_enterprise_open_source_survey/</loc>
     <lastmod>2019-04-19T16:37:15+08:00</lastmod>
   </url>
@@ -268,12 +160,6 @@
   <url>
     <loc>http://www.ocselected.org/posts/opensource_and_university/the_story_of_opensource_in_high_school/</loc>
     <lastmod>2019-04-11T15:09:55+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E9%AB%98%E6%A0%A1%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-11T15:09:55+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -394,12 +280,6 @@
   <url>
     <loc>http://www.ocselected.org/posts/opensource_enterprise_guide/setting-an-open-source-strategy/</loc>
     <lastmod>2019-01-22T09:22:53+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%BC%81%E4%B8%9A%E6%8C%87%E5%8D%97/</loc>
-    <lastmod>2019-01-22T09:22:53+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -588,43 +468,13 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2018-07-03T11:40:33+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%94%BE%E5%BC%8F%E5%88%9B%E6%96%B0/</loc>
-    <lastmod>2018-07-03T11:40:33+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ocselected.org/posts/opensource_culture/why_said_obstacle_adoption_oss_is_engineer/</loc>
     <lastmod>2018-07-02T09:13:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%96%87%E5%8C%96/</loc>
-    <lastmod>2018-07-02T09:13:17+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-01/</loc>
     <lastmod>2018-07-01T10:52:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E5%8E%9F%E5%88%99/</loc>
-    <lastmod>2018-06-30T10:08:01+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E5%93%B2%E5%AD%A6/</loc>
-    <lastmod>2018-06-30T10:08:01+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -693,26 +543,8 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/%E6%9C%AC%E5%9C%9F%E4%B9%B1%E8%B1%A1/</loc>
-    <lastmod>2018-05-05T15:12:24+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/topics/</loc>
-    <lastmod>2018-04-27T11:49:36+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ocselected.org/about/</loc>
     <lastmod>2018-04-27T11:49:36+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/topics/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2018-04-27T11:49:36+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -743,12 +575,6 @@
   <url>
     <loc>http://www.ocselected.org/posts/opensource_technology/how-kubernetes-became-solution-migrating-legacy-applications/</loc>
     <lastmod>2018-04-01T12:04:24+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2018-04-01T12:04:24+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -814,12 +640,6 @@
   <url>
     <loc>http://www.ocselected.org/posts/opensource_leader/bruce_perens_open_source_definition/</loc>
     <lastmod>2018-01-30T14:56:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%BA%BA/</loc>
-    <lastmod>2018-01-30T14:56:29+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1038,12 +858,6 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/%E6%8F%90%E4%BA%A4%E4%B8%8A%E6%B8%B8/</loc>
-    <lastmod>2017-09-03T21:59:45+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ocselected.org/posts/opensource_leader/solomon_hykes_and_the_docker_revolution/</loc>
     <lastmod>2017-08-28T21:21:28+08:00</lastmod>
   </url>
@@ -1059,12 +873,6 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/%E5%86%85%E9%83%A8%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2017-08-18T21:22:49+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-8-13/</loc>
     <lastmod>2017-08-13T20:26:40+08:00</lastmod>
   </url>
@@ -1077,12 +885,6 @@
   <url>
     <loc>http://www.ocselected.org/posts/opensource_culture/culture_and_community/</loc>
     <lastmod>2017-08-06T22:30:25+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E6%BC%94%E8%AE%B2%E5%AE%9E%E5%BD%95/</loc>
-    <lastmod>2017-08-06T22:30:25+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1151,12 +953,6 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/innersource/</loc>
-    <lastmod>2017-06-12T21:12:39+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ocselected.org/posts/innersource/use_case_of_innersource/</loc>
     <lastmod>2017-06-12T21:12:39+08:00</lastmod>
   </url>
@@ -1172,12 +968,6 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/%E6%97%B6%E4%BA%8B%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2017-06-06T22:12:03+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-6-4/</loc>
     <lastmod>2017-06-05T11:16:50+08:00</lastmod>
   </url>
@@ -1190,12 +980,6 @@
   <url>
     <loc>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-5-21/</loc>
     <lastmod>2017-05-21T08:57:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E7%9B%B8%E5%85%B3/</loc>
-    <lastmod>2017-05-20T14:27:41+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1379,12 +1163,6 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%89/</loc>
-    <lastmod>2017-01-08T11:10:40+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892016-01-08/</loc>
     <lastmod>2017-01-08T11:10:40+08:00</lastmod>
   </url>
@@ -1417,12 +1195,6 @@
   <url>
     <loc>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93bye-2016-hello-2017/</loc>
     <lastmod>2017-01-01T07:05:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/</loc>
-    <lastmod>2017-01-01T07:05:38+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1708,12 +1480,6 @@
   <url>
     <loc>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-18/</loc>
     <lastmod>2016-10-18T11:06:12+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E7%BB%8F%E5%85%B8%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2016-10-18T11:06:12+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2287,12 +2053,6 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/%E5%81%9C%E6%AD%A2%E7%BF%BB%E8%AF%91/</loc>
-    <lastmod>2016-05-21T09:09:48+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_5/2016_5_21/</loc>
     <lastmod>2016-05-21T09:09:48+08:00</lastmod>
   </url>
@@ -2303,8 +2063,219 @@
   </url>
   
   <url>
+    <loc>http://www.ocselected.org/posts/opensource/open_by_design/</loc>
+    <lastmod>2016-05-20T19:35:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/posts/opensource/where_they_are_now_top_50_open_source_company/</loc>
+    <lastmod>2016-05-16T23:04:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/posts/opensource/milestones_in_free_and_open_source_software_history/</loc>
+    <lastmod>2016-05-12T10:39:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/posts/opensource/you_cant_make_money_from_open_source/</loc>
+    <lastmod>2016-05-07T11:07:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/posts/opensource/why_employees_should_be_contributing_to_open_source/</loc>
+    <lastmod>2016-05-06T18:33:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/topics/</loc>
+    <lastmod>2016-12-25T11:49:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/innersource/</loc>
+    <lastmod>2017-06-12T21:12:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/opensource/</loc>
+    <lastmod>2016-05-07T11:07:40+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/posts/</loc>
+    <lastmod>2019-08-09T22:20:57+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/</loc>
+    <lastmod>2017-06-12T21:12:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/topics/</loc>
+    <lastmod>2016-12-25T11:49:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%89/</loc>
+    <lastmod>2017-01-08T11:10:40+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2019-05-11T11:01:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E4%BA%8B%E4%BB%B6%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2019-04-19T16:37:15+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%81%9C%E6%AD%A2%E7%BF%BB%E8%AF%91/</loc>
+    <lastmod>2016-05-21T09:09:48+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%86%85%E9%83%A8%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2017-08-18T21:22:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%8E%86%E5%8F%B2/</loc>
+    <lastmod>2016-05-12T10:39:17+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%8E%9F%E5%88%99/</loc>
+    <lastmod>2018-06-30T10:08:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%93%B2%E5%AD%A6/</loc>
+    <lastmod>2018-06-30T10:08:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/topics/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2018-04-27T11:49:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2018-07-03T11:40:33+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%9B%BE%E4%B9%A6%E6%8E%A8%E8%8D%90/</loc>
+    <lastmod>2019-07-01T20:13:22+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2019-05-23T14:33:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%94%BE%E5%BC%8F%E5%88%9B%E6%96%B0/</loc>
+    <lastmod>2018-07-03T11:40:33+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%94%BE%E7%BB%84%E7%BB%87/</loc>
+    <lastmod>2019-06-07T16:19:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2016-05-06T18:33:47+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/</loc>
+    <lastmod>2019-08-09T22:20:57+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/</loc>
+    <lastmod>2019-08-09T22:20:57+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%BA%BA/</loc>
+    <lastmod>2018-01-30T14:56:29+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%BC%81%E4%B8%9A%E6%8C%87%E5%8D%97/</loc>
+    <lastmod>2019-01-22T09:22:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E5%93%B2%E5%AD%A6/</loc>
     <lastmod>2016-05-20T08:36:54-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2018-04-01T12:04:24+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%95%85%E4%BA%8B/</loc>
+    <lastmod>2019-08-09T22:20:57+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%96%87%E5%8C%96/</loc>
+    <lastmod>2018-07-02T09:13:17+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E7%9B%B8%E5%85%B3/</loc>
+    <lastmod>2017-05-20T14:27:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E7%BB%8F%E6%B5%8E/</loc>
+    <lastmod>2019-05-07T14:31:32+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E6%8F%90%E4%BA%A4%E4%B8%8A%E6%B8%B8/</loc>
+    <lastmod>2017-09-03T21:59:45+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2315,14 +2286,63 @@
   </url>
   
   <url>
+    <loc>http://www.ocselected.org/tags/%E6%97%B6%E4%BA%8B%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2017-06-06T22:12:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E6%9C%AC%E5%9C%9F%E4%B9%B1%E8%B1%A1/</loc>
+    <lastmod>2018-05-05T15:12:24+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/</loc>
+    <lastmod>2019-08-05T18:51:30+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/</loc>
+    <lastmod>2017-01-01T07:05:38+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E6%BC%94%E8%AE%B2%E5%AE%9E%E5%BD%95/</loc>
+    <lastmod>2017-08-06T22:30:25+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E7%89%B9%E5%88%AB%E7%BA%A6%E7%A8%BF/</loc>
+    <lastmod>2019-07-10T13:33:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E5%8F%82%E4%B8%8E/</loc>
+    <lastmod>2019-07-10T13:33:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2019-05-20T18:07:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E8%BF%90%E8%90%A5/</loc>
     <lastmod>2016-05-20T08:36:54-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/posts/opensource/open_by_design/</loc>
-    <lastmod>2016-05-20T19:35:45+08:00</lastmod>
+    <loc>http://www.ocselected.org/tags/%E7%BB%8F%E5%85%B8%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2016-10-18T11:06:12+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2338,40 +2358,26 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/posts/opensource/where_they_are_now_top_50_open_source_company/</loc>
-    <lastmod>2016-05-16T23:04:20+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2016-05-12T10:39:17+08:00</lastmod>
+    <loc>http://www.ocselected.org/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/</loc>
+    <lastmod>2019-07-01T20:13:22+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/posts/opensource/milestones_in_free_and_open_source_software_history/</loc>
-    <lastmod>2016-05-12T10:39:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/opensource/</loc>
-    <lastmod>2016-05-07T11:07:40+08:00</lastmod>
+    <loc>http://www.ocselected.org/tags/%E8%B4%A1%E7%8C%AE%E8%80%85/</loc>
+    <lastmod>2019-05-11T11:01:51+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/posts/opensource/you_cant_make_money_from_open_source/</loc>
-    <lastmod>2016-05-07T11:07:40+08:00</lastmod>
+    <loc>http://www.ocselected.org/tags/%E8%BD%AF%E4%BB%B6%E4%B9%8B%E5%A4%96/</loc>
+    <lastmod>2019-08-09T22:20:57+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/posts/opensource/why_employees_should_be_contributing_to_open_source/</loc>
-    <lastmod>2016-05-06T18:33:47+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2016-05-06T18:33:47+08:00</lastmod>
+    <loc>http://www.ocselected.org/tags/%E9%AB%98%E6%A0%A1%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2019-04-11T15:09:55+08:00</lastmod>
     <priority>0</priority>
   </url>
   

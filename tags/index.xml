@@ -7,107 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 09 Aug 2019 22:20:57 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jun 2017 21:12:39 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>开源之道</title>
-      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/</link>
-      <pubDate>Fri, 09 Aug 2019 22:20:57 +0800</pubDate>
+      <title>Innersource</title>
+      <link>http://www.ocselected.org/tags/innersource/</link>
+      <pubDate>Mon, 12 Jun 2017 21:12:39 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/</guid>
+      <guid>http://www.ocselected.org/tags/innersource/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>开源故事</title>
-      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%95%85%E4%BA%8B/</link>
-      <pubDate>Fri, 09 Aug 2019 22:20:57 +0800</pubDate>
+      <title>Opensource</title>
+      <link>http://www.ocselected.org/tags/opensource/</link>
+      <pubDate>Sat, 07 May 2016 11:07:40 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%95%85%E4%BA%8B/</guid>
+      <guid>http://www.ocselected.org/tags/opensource/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>软件之外</title>
-      <link>http://www.ocselected.org/tags/%E8%BD%AF%E4%BB%B6%E4%B9%8B%E5%A4%96/</link>
-      <pubDate>Fri, 09 Aug 2019 22:20:57 +0800</pubDate>
+      <title>一周精选</title>
+      <link>http://www.ocselected.org/tags/%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%89/</link>
+      <pubDate>Sun, 08 Jan 2017 11:10:40 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/tags/%E8%BD%AF%E4%BB%B6%E4%B9%8B%E5%A4%96/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>每周精选</title>
-      <link>http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/</link>
-      <pubDate>Mon, 05 Aug 2019 18:51:30 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>特别约稿</title>
-      <link>http://www.ocselected.org/tags/%E7%89%B9%E5%88%AB%E7%BA%A6%E7%A8%BF/</link>
-      <pubDate>Wed, 10 Jul 2019 13:33:39 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E7%89%B9%E5%88%AB%E7%BA%A6%E7%A8%BF/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>社区参与</title>
-      <link>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E5%8F%82%E4%B8%8E/</link>
-      <pubDate>Wed, 10 Jul 2019 13:33:39 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E5%8F%82%E4%B8%8E/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>图书推荐</title>
-      <link>http://www.ocselected.org/tags/%E5%9B%BE%E4%B9%A6%E6%8E%A8%E8%8D%90/</link>
-      <pubDate>Mon, 01 Jul 2019 20:13:22 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E5%9B%BE%E4%B9%A6%E6%8E%A8%E8%8D%90/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>论文阅读</title>
-      <link>http://www.ocselected.org/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/</link>
-      <pubDate>Mon, 01 Jul 2019 20:13:22 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>开放组织</title>
-      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%94%BE%E7%BB%84%E7%BB%87/</link>
-      <pubDate>Fri, 07 Jun 2019 16:19:08 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%94%BE%E7%BB%84%E7%BB%87/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>基金会介绍</title>
-      <link>http://www.ocselected.org/tags/%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%8B%E7%BB%8D/</link>
-      <pubDate>Thu, 23 May 2019 14:33:01 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%8B%E7%BB%8D/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>社区管理</title>
-      <link>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86/</link>
-      <pubDate>Mon, 20 May 2019 18:07:49 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86/</guid>
+      <guid>http://www.ocselected.org/tags/%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%89/</guid>
       <description></description>
     </item>
     
@@ -121,24 +49,6 @@
     </item>
     
     <item>
-      <title>贡献者</title>
-      <link>http://www.ocselected.org/tags/%E8%B4%A1%E7%8C%AE%E8%80%85/</link>
-      <pubDate>Sat, 11 May 2019 11:01:51 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E8%B4%A1%E7%8C%AE%E8%80%85/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>开源经济</title>
-      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E7%BB%8F%E6%B5%8E/</link>
-      <pubDate>Tue, 07 May 2019 14:31:32 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E7%BB%8F%E6%B5%8E/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>事件分析</title>
       <link>http://www.ocselected.org/tags/%E4%BA%8B%E4%BB%B6%E5%88%86%E6%9E%90/</link>
       <pubDate>Fri, 19 Apr 2019 16:37:15 +0800</pubDate>
@@ -148,47 +58,29 @@
     </item>
     
     <item>
-      <title>高校开源</title>
-      <link>http://www.ocselected.org/tags/%E9%AB%98%E6%A0%A1%E5%BC%80%E6%BA%90/</link>
-      <pubDate>Thu, 11 Apr 2019 15:09:55 +0800</pubDate>
+      <title>停止翻译</title>
+      <link>http://www.ocselected.org/tags/%E5%81%9C%E6%AD%A2%E7%BF%BB%E8%AF%91/</link>
+      <pubDate>Sat, 21 May 2016 09:09:48 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/tags/%E9%AB%98%E6%A0%A1%E5%BC%80%E6%BA%90/</guid>
+      <guid>http://www.ocselected.org/tags/%E5%81%9C%E6%AD%A2%E7%BF%BB%E8%AF%91/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>开源企业指南</title>
-      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%BC%81%E4%B8%9A%E6%8C%87%E5%8D%97/</link>
-      <pubDate>Tue, 22 Jan 2019 09:22:53 +0800</pubDate>
+      <title>内部开源</title>
+      <link>http://www.ocselected.org/tags/%E5%86%85%E9%83%A8%E5%BC%80%E6%BA%90/</link>
+      <pubDate>Fri, 18 Aug 2017 21:22:49 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%BC%81%E4%B8%9A%E6%8C%87%E5%8D%97/</guid>
+      <guid>http://www.ocselected.org/tags/%E5%86%85%E9%83%A8%E5%BC%80%E6%BA%90/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>商业模式</title>
-      <link>http://www.ocselected.org/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</link>
-      <pubDate>Tue, 03 Jul 2018 11:40:33 +0800</pubDate>
+      <title>历史</title>
+      <link>http://www.ocselected.org/tags/%E5%8E%86%E5%8F%B2/</link>
+      <pubDate>Thu, 12 May 2016 10:39:17 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>开放式创新</title>
-      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%94%BE%E5%BC%8F%E5%88%9B%E6%96%B0/</link>
-      <pubDate>Tue, 03 Jul 2018 11:40:33 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%94%BE%E5%BC%8F%E5%88%9B%E6%96%B0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>开源文化</title>
-      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%96%87%E5%8C%96/</link>
-      <pubDate>Mon, 02 Jul 2018 09:13:17 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%96%87%E5%8C%96/</guid>
+      <guid>http://www.ocselected.org/tags/%E5%8E%86%E5%8F%B2/</guid>
       <description></description>
     </item>
     
@@ -211,20 +103,65 @@
     </item>
     
     <item>
-      <title>本土乱象</title>
-      <link>http://www.ocselected.org/tags/%E6%9C%AC%E5%9C%9F%E4%B9%B1%E8%B1%A1/</link>
-      <pubDate>Sat, 05 May 2018 15:12:24 +0800</pubDate>
+      <title>商业模式</title>
+      <link>http://www.ocselected.org/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</link>
+      <pubDate>Tue, 03 Jul 2018 11:40:33 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/tags/%E6%9C%AC%E5%9C%9F%E4%B9%B1%E8%B1%A1/</guid>
+      <guid>http://www.ocselected.org/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>开源技术</title>
-      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF/</link>
-      <pubDate>Sun, 01 Apr 2018 12:04:24 +0800</pubDate>
+      <title>图书推荐</title>
+      <link>http://www.ocselected.org/tags/%E5%9B%BE%E4%B9%A6%E6%8E%A8%E8%8D%90/</link>
+      <pubDate>Mon, 01 Jul 2019 20:13:22 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF/</guid>
+      <guid>http://www.ocselected.org/tags/%E5%9B%BE%E4%B9%A6%E6%8E%A8%E8%8D%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基金会介绍</title>
+      <link>http://www.ocselected.org/tags/%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Thu, 23 May 2019 14:33:01 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%8B%E7%BB%8D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开放式创新</title>
+      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%94%BE%E5%BC%8F%E5%88%9B%E6%96%B0/</link>
+      <pubDate>Tue, 03 Jul 2018 11:40:33 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%94%BE%E5%BC%8F%E5%88%9B%E6%96%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开放组织</title>
+      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%94%BE%E7%BB%84%E7%BB%87/</link>
+      <pubDate>Fri, 07 Jun 2019 16:19:08 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%94%BE%E7%BB%84%E7%BB%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开源</title>
+      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90/</link>
+      <pubDate>Fri, 06 May 2016 18:33:47 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开源之道</title>
+      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/</link>
+      <pubDate>Fri, 09 Aug 2019 22:20:57 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/</guid>
       <description></description>
     </item>
     
@@ -238,92 +175,11 @@
     </item>
     
     <item>
-      <title>提交上游</title>
-      <link>http://www.ocselected.org/tags/%E6%8F%90%E4%BA%A4%E4%B8%8A%E6%B8%B8/</link>
-      <pubDate>Sun, 03 Sep 2017 21:59:45 +0800</pubDate>
+      <title>开源企业指南</title>
+      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%BC%81%E4%B8%9A%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Tue, 22 Jan 2019 09:22:53 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/tags/%E6%8F%90%E4%BA%A4%E4%B8%8A%E6%B8%B8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>内部开源</title>
-      <link>http://www.ocselected.org/tags/%E5%86%85%E9%83%A8%E5%BC%80%E6%BA%90/</link>
-      <pubDate>Fri, 18 Aug 2017 21:22:49 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E5%86%85%E9%83%A8%E5%BC%80%E6%BA%90/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>演讲实录</title>
-      <link>http://www.ocselected.org/tags/%E6%BC%94%E8%AE%B2%E5%AE%9E%E5%BD%95/</link>
-      <pubDate>Sun, 06 Aug 2017 22:30:25 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E6%BC%94%E8%AE%B2%E5%AE%9E%E5%BD%95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>InnerSource</title>
-      <link>http://www.ocselected.org/tags/innersource/</link>
-      <pubDate>Mon, 12 Jun 2017 21:12:39 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/innersource/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>时事分析</title>
-      <link>http://www.ocselected.org/tags/%E6%97%B6%E4%BA%8B%E5%88%86%E6%9E%90/</link>
-      <pubDate>Tue, 06 Jun 2017 22:12:03 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E6%97%B6%E4%BA%8B%E5%88%86%E6%9E%90/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>开源相关</title>
-      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E7%9B%B8%E5%85%B3/</link>
-      <pubDate>Sat, 20 May 2017 14:27:41 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E7%9B%B8%E5%85%B3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>一周精选</title>
-      <link>http://www.ocselected.org/tags/%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%89/</link>
-      <pubDate>Sun, 08 Jan 2017 11:10:40 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%89/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>每日阅读</title>
-      <link>http://www.ocselected.org/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/</link>
-      <pubDate>Sun, 01 Jan 2017 07:05:38 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>经典文章</title>
-      <link>http://www.ocselected.org/tags/%E7%BB%8F%E5%85%B8%E6%96%87%E7%AB%A0/</link>
-      <pubDate>Tue, 18 Oct 2016 11:06:12 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E7%BB%8F%E5%85%B8%E6%96%87%E7%AB%A0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>停止翻译</title>
-      <link>http://www.ocselected.org/tags/%E5%81%9C%E6%AD%A2%E7%BF%BB%E8%AF%91/</link>
-      <pubDate>Sat, 21 May 2016 09:09:48 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/tags/%E5%81%9C%E6%AD%A2%E7%BF%BB%E8%AF%91/</guid>
+      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%BC%81%E4%B8%9A%E6%8C%87%E5%8D%97/</guid>
       <description></description>
     </item>
     
@@ -337,6 +193,60 @@
     </item>
     
     <item>
+      <title>开源技术</title>
+      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Sun, 01 Apr 2018 12:04:24 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开源故事</title>
+      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%95%85%E4%BA%8B/</link>
+      <pubDate>Fri, 09 Aug 2019 22:20:57 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%95%85%E4%BA%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开源文化</title>
+      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%96%87%E5%8C%96/</link>
+      <pubDate>Mon, 02 Jul 2018 09:13:17 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%96%87%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开源相关</title>
+      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E7%9B%B8%E5%85%B3/</link>
+      <pubDate>Sat, 20 May 2017 14:27:41 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E7%9B%B8%E5%85%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开源经济</title>
+      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E7%BB%8F%E6%B5%8E/</link>
+      <pubDate>Tue, 07 May 2019 14:31:32 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E7%BB%8F%E6%B5%8E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>提交上游</title>
+      <link>http://www.ocselected.org/tags/%E6%8F%90%E4%BA%A4%E4%B8%8A%E6%B8%B8/</link>
+      <pubDate>Sun, 03 Sep 2017 21:59:45 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E6%8F%90%E4%BA%A4%E4%B8%8A%E6%B8%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>文化</title>
       <link>http://www.ocselected.org/tags/%E6%96%87%E5%8C%96/</link>
       <pubDate>Fri, 20 May 2016 08:36:54 -0700</pubDate>
@@ -346,11 +256,92 @@
     </item>
     
     <item>
+      <title>时事分析</title>
+      <link>http://www.ocselected.org/tags/%E6%97%B6%E4%BA%8B%E5%88%86%E6%9E%90/</link>
+      <pubDate>Tue, 06 Jun 2017 22:12:03 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E6%97%B6%E4%BA%8B%E5%88%86%E6%9E%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>本土乱象</title>
+      <link>http://www.ocselected.org/tags/%E6%9C%AC%E5%9C%9F%E4%B9%B1%E8%B1%A1/</link>
+      <pubDate>Sat, 05 May 2018 15:12:24 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E6%9C%AC%E5%9C%9F%E4%B9%B1%E8%B1%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>每周精选</title>
+      <link>http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/</link>
+      <pubDate>Mon, 05 Aug 2019 18:51:30 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>每日阅读</title>
+      <link>http://www.ocselected.org/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/</link>
+      <pubDate>Sun, 01 Jan 2017 07:05:38 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>演讲实录</title>
+      <link>http://www.ocselected.org/tags/%E6%BC%94%E8%AE%B2%E5%AE%9E%E5%BD%95/</link>
+      <pubDate>Sun, 06 Aug 2017 22:30:25 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E6%BC%94%E8%AE%B2%E5%AE%9E%E5%BD%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>特别约稿</title>
+      <link>http://www.ocselected.org/tags/%E7%89%B9%E5%88%AB%E7%BA%A6%E7%A8%BF/</link>
+      <pubDate>Wed, 10 Jul 2019 13:33:39 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E7%89%B9%E5%88%AB%E7%BA%A6%E7%A8%BF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>社区参与</title>
+      <link>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E5%8F%82%E4%B8%8E/</link>
+      <pubDate>Wed, 10 Jul 2019 13:33:39 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E5%8F%82%E4%B8%8E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>社区管理</title>
+      <link>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Mon, 20 May 2019 18:07:49 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>社区运营</title>
       <link>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E8%BF%90%E8%90%A5/</link>
       <pubDate>Fri, 20 May 2016 08:36:54 -0700</pubDate>
       
       <guid>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E8%BF%90%E8%90%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>经典文章</title>
+      <link>http://www.ocselected.org/tags/%E7%BB%8F%E5%85%B8%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Tue, 18 Oct 2016 11:06:12 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E7%BB%8F%E5%85%B8%E6%96%87%E7%AB%A0/</guid>
       <description></description>
     </item>
     
@@ -373,29 +364,38 @@
     </item>
     
     <item>
-      <title>历史</title>
-      <link>http://www.ocselected.org/tags/%E5%8E%86%E5%8F%B2/</link>
-      <pubDate>Thu, 12 May 2016 10:39:17 +0800</pubDate>
+      <title>论文阅读</title>
+      <link>http://www.ocselected.org/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/</link>
+      <pubDate>Mon, 01 Jul 2019 20:13:22 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/tags/%E5%8E%86%E5%8F%B2/</guid>
+      <guid>http://www.ocselected.org/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>OpenSource</title>
-      <link>http://www.ocselected.org/tags/opensource/</link>
-      <pubDate>Sat, 07 May 2016 11:07:40 +0800</pubDate>
+      <title>贡献者</title>
+      <link>http://www.ocselected.org/tags/%E8%B4%A1%E7%8C%AE%E8%80%85/</link>
+      <pubDate>Sat, 11 May 2019 11:01:51 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/tags/opensource/</guid>
+      <guid>http://www.ocselected.org/tags/%E8%B4%A1%E7%8C%AE%E8%80%85/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>开源</title>
-      <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90/</link>
-      <pubDate>Fri, 06 May 2016 18:33:47 +0800</pubDate>
+      <title>软件之外</title>
+      <link>http://www.ocselected.org/tags/%E8%BD%AF%E4%BB%B6%E4%B9%8B%E5%A4%96/</link>
+      <pubDate>Fri, 09 Aug 2019 22:20:57 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90/</guid>
+      <guid>http://www.ocselected.org/tags/%E8%BD%AF%E4%BB%B6%E4%B9%8B%E5%A4%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>高校开源</title>
+      <link>http://www.ocselected.org/tags/%E9%AB%98%E6%A0%A1%E5%BC%80%E6%BA%90/</link>
+      <pubDate>Thu, 11 Apr 2019 15:09:55 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/tags/%E9%AB%98%E6%A0%A1%E5%BC%80%E6%BA%90/</guid>
       <description></description>
     </item>
     
