@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 09 Aug 2019 22:20:57 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2019 00:14:16 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开放源代码软件的三重境界 ———— 《大教堂与集市》读后感</title>
+      <link>http://www.ocselected.org/posts/the_way_of_open_source/the_three_realm_of_open_source_software/</link>
+      <pubDate>Sat, 10 Aug 2019 00:14:16 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/the_way_of_open_source/the_three_realm_of_open_source_software/</guid>
+      <description>那时，即便我们黑客不去谈什么意识形态，我们一样会改变这个世界！ ———— Eric S.Raymond 在本书的最后一章中如此说。
+ 开源之道2019图书共读历史书评 过去几个月的导读与书评：
+ 《软件悖论:商业软件的崛起与陨落》 Subscribed：为什么说订阅才是塑造贵司的未来的模式，如何实现它 我们正处于开源的黄金时代 —— 《开放与共享》导读与书评 得开发者得天下 ———— 开发者是如何征服世界的 开源开发者内在的素质：匠艺 —— 《匠人》书评与导读 开源 &amp;ndash; 一部黑客伦理与商业资本相互妥协的融合史（《黑客》读后感）  开源之道成员评论 非常奇怪，这样一本“畅销”著作，在开源之道的图书共读小组中竟然没有人做出任何的评论，这是非常令人值得思考和探索的事情。
+各位看官，难道你不觉得奇怪吗？这是被开源软件领域的”圣经”，甚至被媒体如此称道：
+ 本书是开源运动的独立宣言，它清晰、透彻和准确地描述了开源运动的理论与实际应用，对开源软件运动的成功和Linux操作系统的广泛采用起到了至关重要的作用。本书在开源运动中的地位相当于基督教的圣经，用黑客们的话说，这是“黑客藏经阁”的第一收藏。
+ 笔者尝试在本文的末尾回答这一现象，但是不是十分的确定。
+Eric S.Raymond 其人 Eric S.Raymond ，自称为程序员、黑客，但是由于其卓越的写作能力，以及自己对于自由软件的理解，进而创造性的发起开源运动，进而被传统的自由软件开发者所质疑，但是他所开发的程序，无论是Emacs的扩展，还是邮件客户端，均称得上是一名合格的程序员，至于其获得Brooks认可，并称之为天才的观察：以Linux为代表的开源项目开发方法的总结与发现，是软件工程上的卓越成就！毋庸置疑！
+开源之道是非常推崇Raymond的成绩的，无论是个人成就，还是其在软件领域的和开源运动的卓越成绩。他是空手道黑带高手！其将人类学的研究方式应用于软件开发领域实乃创举也。
+《大教堂与集市》其书 准确点说，这不是一本书，而是几篇文章的合集，”大教堂与集市”取之于其中最为重要的一篇论文的名称，以下为开源之道对于内容的导读：
+序 &amp;amp; 前言 序是由知名的基于开源商业成功的公司红帽公司创始人 Bob Young所作，解释了自由软件在社会经济中的合理性：
+ 计算机语言之所以被称之为语言，是因为它们确实是语言。掌握编程语言技能的社会成员（如程序员）可以使用该语言构建和交流思想，从而做一些有利于其他社会成员（包括其他程序员）的事。在现代社会，人们越来越依赖于软件服务，而对这些软件内在知识的法定获取限制（如软件行业长期以来使用的专有软件许可制度），导致自由更少、创新更慢。
+ 在前言中，Raymond 则解释了这本书所要探讨的内容和立论：
+ 本书并没有给出基础理论上的创新，只是描述了这样的事实：开源软件系统性地利用开放式开发和分布式同行评审（peer review），不仅降低了成本，还提高了软件质量。
+ 黑客圈简史 相对于6月份，开源之道共读的图书《黑客》一书专门的阐述，这篇短小的文章则更为笼统的，当然由于时间上的差异，本文相对《黑客》一书，描述了Unix的历史，Internet的兴起，以及对于自由软件的萌芽和发展进行了叙述。黑客所倡导的文化，才是自由和开源的根基，离开这个直接谈软件工程，恐怕任谁也无法将这个故事给讲圆融了。
+ Linux 最重要的特点不是技术上的，而是社会学上的。在Linux被开发出来之前，所有人都认为，如果软件复杂到操作系统这样的程度，就必须要有一个精心协作的团队，团队要比较小，而且紧密互动，不管是以前还是现在，这都是很典型的开发模式。
+ 大教堂与集市 这是本书的核心章节，Raymond 根据自己对fetchmail的实验性的开发，以及Linux的长期观察，从Linux 内核的成功总结出来的软件工程理论，当然有Brooks的深刻影响，以及其它的人类学、社会学、心理学上的解释，但是很少涉及诸如操作系统、C语言、计算机体系结构等相关技术的讨论。
+Raymond 在该论文中，总结出了集市式开发模式（如Linux内核、fetchmail）的19条规律或模式，这些模式深刻的影响了后来软件开发的方法论，正如豆瓣上的一位读者在题为《殊途同归还是分道扬镳》如此评论道：
+ 如今虽然集市模式并没有成为主流，但是可以明显的发现，传统的软件开发模型中注入了大量集市模式的元素，如今流行的Scrum等敏捷方法论中大量借鉴了集市式开发的思想和实践，比如code review、pair programming、self-organize等等。在构建成功软件的路上，大教堂和集市是殊途同归还是分道扬镳，作者没有给出答案，但是从现代软件工程方法论的进化来看两条路在越走越近.</description>
+    </item>
     
     <item>
       <title>软件行业之外的开源故事之一： 医疗界的一则故事</title>
@@ -1288,7 +1314,7 @@ Best part of the book was the discussion of shift towards making money with soft
       <pubDate>Mon, 07 Jan 2019 15:33:33 +0800</pubDate>
       
       <guid>http://www.ocselected.org/posts/planing_and_reflection/2019/planning_and_schedule_of_year/</guid>
-      <description>引子 具体事项 一 /2019-01-03 Linux基金会企业开源指南系列之九——公司如何提升开源开发的影响力 来自英文：Improving Your Open Source Development Impact 二 /2019-01-10 Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目 来自英文：Winding Down an Open Source Project 三 /2019-01-17 Linux基金会企业开源指南系列之十一 —— 在开源社区中树立领导力 来自英文：Building Leadership in an Open Source Community 四/2019-01-31 Linux基金会企业开源指南系列之十二 —— 制定企业开源战略 来自英文：Setting an Open Source Strategy 五/2019-02-07 Apache 基金会未来5年计划 来自英文：Five-year Strategic Plan for the Apache Software Foundation 六/2019-02-13 如何评估一个 Linux 发行版的总体成本 来自英文：Estimating the Total Cost of a Linux Distribution 七/2019-02-15 一份被忽略的开源经济学报告 —— 再读 Bruce Perens 八/2019-02-16 云原生的旭日东升 —— CNCF 2018年度报告解读 九/2019-03-10 区块链将会如何影响开源来自英文：How blockchain will influence open source 十/2019-03-31 如何参与到 Linux 社区中来 来自英文：How to Participate in the Linux Community 十一 来自英文：6 ways a thriving community will help your project succeed 十二 如何决定是否开源您的SaaS解决方案 十三 将SaaS开源之后所面临的可能挑战 十四 现代开源项目如何实现贡献者增长（译文）来自英文：Growing a contributor base in modern open source 十五 来自英文：FOSS as a Part of a Corporate Sustainability Plan 十六 ／2019-04-19 开源之道解读红帽企业开源调查2019 来自英文：红帽企业开源调查2019版 十七 []() 职业生涯 来自英文：Lessons from a brief career in open source 十八 []() 来自英文：6 reasons open source is good for business 十九 []() 来自英文：Why events matter and how to do them right 二十 []() 来自英文：Be a force for good in your community 二十一 [工程师和市场人员相互之间可以学习到什么？]() 来自英文：What engineers and marketers can learn from each other 二十二 []() 来自英文：Open is a means, not a movement 二十三 []() 来自英文：Open core, open perimeter, and the future of enterprise software 二十四 []() 来自英文：Openwashing: adopter beware 二十五 如何管理开源项目中的即兴贡献者 ，来自英文：How to manage casual contributors to open source projects 二十六 []() 来自英文：Why I love technical debt 二十七 []() 来自英文：Asynchronous decision-making: Helping remote teams succeed [ ] 二十八 []() 来自英文：Effective Ways to Get Help from Maintainers</description>
+      <description>引子 具体事项 一 /2019-01-03 Linux基金会企业开源指南系列之九——公司如何提升开源开发的影响力 来自英文：Improving Your Open Source Development Impact 二 /2019-01-10 Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目 来自英文：Winding Down an Open Source Project 三 /2019-01-17 Linux基金会企业开源指南系列之十一 —— 在开源社区中树立领导力 来自英文：Building Leadership in an Open Source Community 四/2019-01-31 Linux基金会企业开源指南系列之十二 —— 制定企业开源战略 来自英文：Setting an Open Source Strategy 五/2019-02-07 Apache 基金会未来5年计划 来自英文：Five-year Strategic Plan for the Apache Software Foundation 六/2019-02-13 如何评估一个 Linux 发行版的总体成本 来自英文：Estimating the Total Cost of a Linux Distribution 七/2019-02-15 一份被忽略的开源经济学报告 —— 再读 Bruce Perens 八/2019-02-16 云原生的旭日东升 —— CNCF 2018年度报告解读 九/2019-03-10 区块链将会如何影响开源来自英文：How blockchain will influence open source 十/2019-03-31 如何参与到 Linux 社区中来 来自英文：How to Participate in the Linux Community 十一 来自英文：6 ways a thriving community will help your project succeed 十二 如何决定是否开源您的SaaS解决方案 十三 将SaaS开源之后所面临的可能挑战 十四 现代开源项目如何实现贡献者增长（译文）来自英文：Growing a contributor base in modern open source 十五 来自英文：FOSS as a Part of a Corporate Sustainability Plan 十六 ／2019-04-19 开源之道解读红帽企业开源调查2019 来自英文：红帽企业开源调查2019版 十七 []() 职业生涯 来自英文：Lessons from a brief career in open source 十八 []() 来自英文：6 reasons open source is good for business 十九 []() 来自英文：Why events matter and how to do them right 二十 []() 来自英文：Be a force for good in your community 二十一 工程师和市场人员相互之间可以学习到什么？ 来自英文：What engineers and marketers can learn from each other 二十二 []() 来自英文：Open is a means, not a movement 二十三 []() 来自英文：Open core, open perimeter, and the future of enterprise software 二十四 []() 来自英文：Openwashing: adopter beware 二十五 如何管理开源项目中的即兴贡献者 ，来自英文：How to manage casual contributors to open source projects 二十六 []() 来自英文：Why I love technical debt 二十七 [不一定非得同步做决策：远程团队成功的秘诀]() 来自英文：Asynchronous decision-making: Helping remote teams succeed [ ] 二十八 []() 来自英文：Effective Ways to Get Help from Maintainers</description>
     </item>
     
     <item>
@@ -2073,21 +2099,6 @@ Open Source has become the de facto standard for developing new networking servi
 各种社群云集 和大陆地区形成反差的是，台湾有着浓厚的社群文化，就拿北京来说吧，大多的所谓的社区是背后某个商业公司自己的社区罢了，每次Meetup之类的都是宣讲产品之类的商业动机。而没有完全的有着共同兴趣而定时定点的聚会和讨论。当然，也吸引着华语圈的其它社群，如香港开源社群、北京Linux用户组等。
 COSCUP 某种程度上就是华语地区的各大开源相关社群的大社群，不过这个集会变成每年一次罢了。人才济济，覆盖的学科也是百花齐放，我个人就遇到一位学习生物科技的开源爱好者，当然，律师、农业、教育等就更不用提了。
 总结 开源20年，开源人年会13年，在开源正在成为主流和显学的2018，你怎么能错过如此重大的一个盛宴？</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 05 13)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-05-13/</link>
-      <pubDate>Mon, 14 May 2018 07:44:03 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-05-13/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Kubernetes 站在重要的分水岭 原文链接：Kubernetes stands at an important inflection point
-适兕点评：
- “Open source gives us the opportunity to do things we could never do on our own. Diversity of thought and participation is what makes open source so powerful and so innovative,”
-Kubernetes 已经在发展的迅猛方面超越了历史上所有的开源项目，The challenge ahead is to take that early enthusiasm and translate it into more actual business use cases.
-这就是分水岭，再好的口碑也要有实际的使用场景。
- 随着Kubernetes的发展，一个创业生态系统也随之发展 原文链接：As Kubernetes grows, a startup ecosystem develops in its wake</description>
     </item>
     
   </channel>
