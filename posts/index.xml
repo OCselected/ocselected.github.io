@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 10 Aug 2019 00:14:16 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2019 00:19:09 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>构建可行的Open Core模式；巨头公司控制着绝大多数的开源项目，这是个问题吗？等开源之道一周精选(2019 08 11)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-11/</link>
+      <pubDate>Sat, 10 Aug 2019 00:19:09 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-11/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 开源正在吞噬世界吗？ 原文链接：Is Open Source Eating The World?
+适兕点评：
+ 是的，开源之道目前主要贡献者适兕也渐渐地转变为一个温和的人了，不再将开源视为锤子，视一切为钉子。开源有其两面性，在人类社会的复杂性面前，开源其实微不足道。甚至是在软件这个领域，尽管开源有着千般好处，万般优点，但是闭源软件过去40年的商业成功，也是无法说服所有人的。所以，二者并存的世界才是更为和谐的存在。本文绝对值得所有人阅读，对于开源是热爱着，并克制着，相信未来，也要兼顾现实。这就是我所追求的境界。
+ Ansible 在核心和社区模块之间的升级、定义出现差异 原文链接：Ansible extends time between upgrades, space between core and community modules
+适兕点评：
+ 上周Jenkins X 发布了新的商业发行版，这是个开源的永恒问题，合作伙伴的模块谁来维护？合作都是有代价的。我非常认同文章的结尾：Ansible is hardly alone is having to reconcile the demands of maintaining a stable code base for enterprise customers, and the challenges of managing an eclectic range of add-ons and modules. Jenkins went through similar soul searching a few years ago, as indeed did Ansible’s parent Red Hat before the creation of the Fedora project and Red Hat Enterprise Linux.</description>
+    </item>
     
     <item>
       <title>开放源代码软件的三重境界 ———— 《大教堂与集市》读后感</title>
@@ -2108,30 +2123,6 @@ CNCF的使命 CNCF 没有偏离自己的主题，核心是解决技术问题：�
 社区的重要性 毫无疑问，红帽为其客户提供的价值均是建立在为开源社区的贡献之上的，这些社区包括我们常见到的社区，也包括那些成功红帽产品所特定的社区。然而，事实上也确实如此，社区对于红帽来说实在是太重要了，以至于都将它写进了红帽公司使命的核心：“成为客户，贡献者和合作伙伴社区的催化剂，以开源方式创造更好的技术”。
 为了培育和推动这些社区，红帽还创建了一个社区架构和领导团队。毫无疑问，红帽最引人注目的是参与到 Fedora 项目（http://fedoraproject.org），Fedora项目是 Red Hat Enterprise Linux 的上游项目。Fedora 项目的使命是通过以下四大基础来推动自由和开源软件项目：
  自由：软件和相关内容在自由的基础上，更进一步，这不仅体现在Linux，而是整体上。 友谊：Fedora社区由来自各行各业的人组成，共同推进自由软件的发展。 特性：许多有利于所有Linux发行版的功能都是从Fedora开始的。 优先，Linux的新特性优先于上游项目Fedora。  Fedora 项目每6个月发布一个版本，其中集成了最新的创新和前沿功能。来自红帽的工程师会从一开始就参与整个开发过程。（尽管，60~70的代码均是由志愿者们所维护），然后，Red Hat将其质量保证资源用于测试，强化和认证这些功能，以确保它们满足企业级互操作性和性能的要求。这些从上游就开始撰写的代码，也是诸如梦工厂、纽约交易所这样的红帽重要客户所运行依赖的代码，同样的过程也适用于红帽参与的其它开源项目，如：Jboss、OpenShift、以及Glusterfs等社区。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 06 10)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-06-10/</link>
-      <pubDate>Mon, 11 Jun 2018 14:25:48 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-06-10/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 为什么你需要理解你的软件供应链 原文链接：Why You Need To Understand Your Software Supply Chain
-适兕点评：
- 从应用的角度来讲，需要和各方的供应商打交道，如果引入开源的话，那么一切都开始变得复杂起来了。自己有法律风险、漏洞风险。
-我个人其实也应该从软件的供应链角度来思考开源和传统的软件供应商的关系。以及现代的云计算平台等。这确实是蛮值得研究的盲区。
-本文其实没有特别说明供应链本身，而是从开源的安全和法律角度来看第三方的软件组件。
- 微软收购GitHub 原文链接：Microsoft takes over GitHub as it expands its open source plan
-原文链接：Success of GitHub deal hinges on Azure&amp;rsquo;s open source appeal
-适兕点评：
- 这是过去一周的新闻热点，就像我很多的开源布道一样，我当然有我自己的观点。
-大家喜欢使用Gmail服务，Google提供很多的免费服务，甚至克里斯安德森还专门写过《免费》一书。GitHub 为个人提供免费的代码托管服务，前提是你的代码是遵循OSI的开源协议下发布。
-而GitHub本身就是一家商业公司，专门的社交和Readme的开发者社区。所以，商业公司的交易，一点都不奇怪。也和开源没有半毛钱关系。GitHub 即使被微软收购了，也要遵守其原先的法律条款，而这个才是根本。
-代码托管平台，从一开始就有很多公司试过。GitHub能走到今天，是因为他的透明度和社交性。
- Linux基金会承认对微软购买 GitHub 的担忧 原文链接：Linux Foundation Acknowledges Concerns About Microsoft’s Purchase of GitHub
-适兕点评：
- 这里面和所有人所担心和带来错觉的一样，其实有一句话就可以解释一切：““However (and I triple checked this with our lawyers), Microsoft does not own Kubernetes or Node.</description>
     </item>
     
   </channel>

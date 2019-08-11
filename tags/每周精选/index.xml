@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 10 Aug 2019 00:14:16 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2019 00:19:09 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>构建可行的Open Core模式；巨头公司控制着绝大多数的开源项目，这是个问题吗？等开源之道一周精选(2019 08 11)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-11/</link>
+      <pubDate>Sat, 10 Aug 2019 00:19:09 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-11/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 开源正在吞噬世界吗？ 原文链接：Is Open Source Eating The World?
+适兕点评：
+ 是的，开源之道目前主要贡献者适兕也渐渐地转变为一个温和的人了，不再将开源视为锤子，视一切为钉子。开源有其两面性，在人类社会的复杂性面前，开源其实微不足道。甚至是在软件这个领域，尽管开源有着千般好处，万般优点，但是闭源软件过去40年的商业成功，也是无法说服所有人的。所以，二者并存的世界才是更为和谐的存在。本文绝对值得所有人阅读，对于开源是热爱着，并克制着，相信未来，也要兼顾现实。这就是我所追求的境界。
+ Ansible 在核心和社区模块之间的升级、定义出现差异 原文链接：Ansible extends time between upgrades, space between core and community modules
+适兕点评：
+ 上周Jenkins X 发布了新的商业发行版，这是个开源的永恒问题，合作伙伴的模块谁来维护？合作都是有代价的。我非常认同文章的结尾：Ansible is hardly alone is having to reconcile the demands of maintaining a stable code base for enterprise customers, and the challenges of managing an eclectic range of add-ons and modules. Jenkins went through similar soul searching a few years ago, as indeed did Ansible’s parent Red Hat before the creation of the Fedora project and Red Hat Enterprise Linux.</description>
+    </item>
     
     <item>
       <title>开放源代码软件的三重境界 ———— 《大教堂与集市》读后感</title>
@@ -2004,34 +2019,6 @@ Peter 在开源界的辉煌战绩 我们可以以列表的形式来展示以下 
  无察觉期：公司对解决方案没有任何的察觉。 探讨期：正在探索解决方案。 定义期：解决方案被定义和执行。 采用期：该解决方案被公司采用。 优化期：该解决方案开始逐步优化和改进。  对于每一个阶段，都要有着明确的期望。举例来讲，如果你想将代码审核带入到公司来，那么在“探讨期”就意味着“一小部分团队正在积极地在非关键的代码进行尝试性的代码审核。”
 执行 有了战略、backlog、和成熟度模型，你已经知道了你要做什么了。接下来就是要真正的动起来——执行。
 6. 交付优先项目 随着backlog的就位，你首先要做的事情就是在你的工作计划当中决定那个项目是优先级较高的。决定这一点取决于最紧迫的工作和目前可用的资源。虽然工作的紧迫性很重要，但资源是这里的真正定义标准 - 巧妇难为无米之炊。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2017 7 30)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-7-30/</link>
-      <pubDate>Sun, 30 Jul 2017 10:57:01 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-7-30/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 如何管理大量的GitHub通知 原文链接：Managing large numbers of GitHub notifications
-适兕点评：
- 我为什么要插入这么一条方法论的内容了呢？开源之道的定位就是上是谈文化和方法论的，不是什么鬼新闻之类的。而恰好GitHub的通知和邮件列表一样，如果不处理，就会被淹没，要么把自己搞得精疲力竭，要么会错失很多。
-是的，这个时代面临的多，而不是匮乏。所以需要精要的处理，有所取舍。
-对通知处理优先级是非常不错的。和生活中其它的事情一样。
- 创业公司Kite是如何尝试毁掉两个开源社区的 原文链接：How startup Kite tried to ruin two open source communities
-适兕点评：
- 用开源软件来赚钱，如果不能脱离售卖许可证这样的思维方式，就根本不会赚到钱。这是典型的对自己和他人双重价值的体现。
-商业的本质是满足客户的真实需求，客户需要解决的是什么问题。你能提供什么，至于交易本身，那是另外一回事，可以灵活过度。
-有很多人的思路是，我都开源了，你为什么不淘腰包。这就好像求爱一样，我都脱了裤子了，她为什么走了？你开源与否是你自己的事情，不是什么高尚、道德情操，而是你自己愿意脱了裤子的。别人买不买单，要看别人是否情愿。在本土开源也罢，西方发达国家也罢，都不是赚钱的筹码。
-除了赚钱的，另外的就是试图控制的。
- 开发者们请求Adobe开源Flash 原文链接：Developers Petition Adobe to Open Source Flash
-适兕点评：
- Adobe将在2020年放弃对Falsh的维护！ Adobe将自己的保守毁掉了一个优秀的工程！但是还是有一些开发者愿意去维护的，毕竟这个世界还有很多的Flash用户的。
-Most people, but not everyone… 之所以这个世界让我们有所希望，是因为总有一些人在坚持理想。
- 测试人员的GitHub 原文链接：GitHub for Testers
-适兕点评：
- 测试人员在GitHub上也能找到自己的效率亮点。
- 专家称：开源的创业将是下一个风口 原文链接：Experts: Open source entrepreneurship the next big thing</description>
     </item>
     
   </channel>
