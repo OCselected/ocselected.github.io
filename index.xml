@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 10 Aug 2019 00:19:09 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2019 11:57:59 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源专家 Dee Kumar 加盟 Armory；为什么购买软件比登天还难？等等 开源之道一周精选(2019 08 18)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-18/</link>
+      <pubDate>Tue, 13 Aug 2019 11:57:59 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-18/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 a16z 播客： 软件开发的未来 原文链接：a16z Podcast: The Future of Software Development
+适兕点评：
+ a16z在2015年上做的一期播客，嘉宾有 Roger Dickey, founder and CEO of Gigster, Slack CMO Bill Macaitis, GitHub Director of Field Services Matthew McCullough, and Joel Spolsky, co-founder and CEO of StackOverflow。 2019年在返回来看这些人，GitHub 卖给了微软，Slack上市、StackOverflow也是现代项目的标配&amp;hellip;&amp;hellip; 播客是开源之道很想做的一件事情，就是找一些有想法的人共同畅聊一下，商讨解决办法，而不是吐槽。
+ Apache 软件基金会2019年度报告 原文链接：Apache Foundation FY2019 Annual Report
+适兕点评：
+ 阅读Apache软件基金会的年度报告是一种享受，有一种道德上的愉悦感，这家慈善组织依靠全球的志愿者，竟然达到如此的成就，2019年更上一层楼，相对比于前几年的报告，有很多的解读，就数据而言，大家直接下载即可，笔者这里主要对大家推荐几个值得关注的点：
+  今年是Apache 软件基金会的20周年，有重大的庆祝活动。 中国是Apache 项目的主要用户！甚至超越美国。 财务仍然紧张，年度盈余仅区区33万美金。 加大基金会赞助的策略，开源社理事长刘天栋先生特别被提及，贡献卓越。 以后会加大全球范围的CDN部署，美国和欧洲以外的地方。 关于公共，尤其是诠释中美贸易战的及时。   毫无疑问，Apache软件基金会下的开放源代码软件项目将会继续以其独特的方式在这个产业立足，无论你怎么看待，它都是现代社会无法忽略的重要力量。
+ 微软影响 Chrome 的首秀 原文链接：Microsoft Has First Major Impact on Chrome</description>
+    </item>
     
     <item>
       <title>构建可行的Open Core模式；巨头公司控制着绝大多数的开源项目，这是个问题吗？等开源之道一周精选(2019 08 11)</title>
@@ -2095,22 +2112,6 @@ Jaime Arredondo 相对Jaime就是籍籍无名之辈了。但是他有一直在�
 适兕点评：
  微软收购GitHub，真是让不明就里的人们兴奋了几天，朋友圈刷屏刷到爆。可是细细的静下心来，看看这样的文章，你才能明白微软再打明天的仗。本文有两个观点我非常的认同:
   Arguably, open source is not an alternative to commercial software. Rather, it is a way to create software collaboratively, and at a global scale. Active contributors in the open source community resolve problems; the source code is visible and can be tweaked and updated by anyone.</description>
-    </item>
-    
-    <item>
-      <title>CNCF 是如何工作的</title>
-      <link>http://www.ocselected.org/posts/foundation_introduce/how_cncf_works/</link>
-      <pubDate>Tue, 19 Jun 2018 13:25:30 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/foundation_introduce/how_cncf_works/</guid>
-      <description>引子 技术创新与社会创新是同等重要的，在人类有限的历史中，二者是相辅相成不可分割的，福特汽车既将制造的步骤划分，也将工人的组织结构进行了调整；贝尔实验室那些无数的创新，不得不说和它的开放的办公环境和平等的文化有关；硅谷成功的秘密，那些历史学家和成功的商人们，从来不仅仅提及某个技术的颠覆，而总是会谈到资本、宽松、鼓励失败等社会创新。反思本土，是否被技术蒙蔽了双眼？是的，应该努力提高自我的认知，在关注技术创新的同时也要关注社会创新，因为现代技术的发展绕不过去的就是协作，一个大型的软件项目工程，参与的人何止千万？该如何组织和协调诸如Kubernetes大规模全球性的协作？在围绕利益分配、政治角逐、文化冲突、技术先进和创新等等方面必须做到应对之道。
-这次开源之道介绍的是CNCF，近年来随着容器编排和微服务发展起来的新一代基金会，随着其坐着火箭般的上升速度以及引起的轰动效应，你不得不关注它背后的运行机理。
-CNCF的使命 CNCF 没有偏离自己的主题，核心是解决技术问题：基金会的使命是创建并推动采用新的计算模式，该模式针对现代分布式系统环境进行了优化，能够扩展至数万个自愈式多租户节点。
-所谓的云原生系统须具备下面这些属性：
- 应用容器化：将软件容器中的应用程序和进程作为独立的应用程序部署单元运行，并作为实现高级别资源隔离的机制。从总体上改进开发者的体验、促进代码和组件重用，而且要为云元是国内应用简化运维工作。 动态管理：由中心化的编排来进行活跃的调度和频繁的管理，从根本上提高机器效率和资源利用率，同时降低与运维相关的成本。 面向微服务：与显式描述的依赖性松散耦合（例如通过服务端点），可以提高应用程序的整体敏捷性和可维护性。CNCF 将塑造技术的发展，推动应用管理的先进技术发展，并通过可靠的接口使技术无处不在，并且易于使用。  CNCF 的定位 CNCF 其实是在开源社区的基础上发挥着作用，应负责：
- 管理项目  确保技术可用于社区并且没有杂七杂八的影响 确保技术的品牌（商标和标识）得到社区成员的关注和使用，特别强调统一的用户体验和高水平的应用程序兼容性  促进生态系统的发展和演进  评估哪些技术可以纳入云原生计算应用的愿景，鼓励社区交付这样的技术，以及集成它们，且要积极的推进总结进度。 提供一种方法来培养各个部分的通用技术标准  推广底层技术和应用定义和管理方法，途径包括：活动和会议、营销（SEM，直接营销）、培训课程和开发人员认证。 通过使技术可访问和可靠来为社区服务。  旨在通过对参考架构进行明确定义的节奏，为每个组成部分提供完全集成和合格的构建。   CNCF 的价值观 CNCF 会极力遵循以下一些原则：
- 快速胜过磨叽，基金会的初衷之一就是让项目快速的发展，从而支持用户能够积极的使用。 开放！ CNCF 是以开放和高度透明为最高准则的，而且是独立于任何的其它团体进行运作的。CNCF根据贡献的内容和优点接受所有的贡献者，且遵循开源的价值观，CNCF输出的技术是可以让所有人使用和受益的，技术社区及其决策应保持高度透明。 公平：CNCF 会极力避免那些不好的影响、不良行为、以及“按需付费”的决策。 强大的技术身份：CNCF 会实现并保持高度的自身技术认同，并将之同步到所有的共享项目中。 清晰的边界：CNCF 制定明确的目标，并在某些情况下，要确定什么不是基金会的目标，并会帮助整个生态系统的运转，让人们理解新创新的重点所在。 可扩展： 能够支持从小型开发人员中心环境到企业和服务提供商规模的所有部署规模。这意味着在某些部署中可能不会部署某些可选组件，但总体设计和体系结构仍应适用。 平台中立：CNCF 所开发的项目并不针对某个特定平台，而是旨在支持各种体系结构和操作系统。  CNCF 的成员 CNCF 设立了白金、黄金、银、最终用户以及学术和非盈利等成员。所有成员申请将由Linux基金会审查，由其决定是否将该申请人归类为最终用户，学术/非营利组织或 出于CNCF成员资格的目的。
- 白金会员的权益：  任命一位（1）代表参加CNCF理事会。 指定一名（1）代表作为理事会任何小组委员会或活动中的有表决权的成员。 享受最显眼的展示位置，包括在网站上。 如果该成员也是经批准的最终用户，则最终用户成员的所有权益仍生效  黄金会员的权益：  每五（5）名金牌成员就任命一名（1）代表参加CNCF理事会，最多三（3）名金牌代表。 如果该成员也是经批准的最终用户，则最终用户成员的所有权益仍生效  银牌会员的权益：  每十（10）名白银成员指定一名（1）代表参加CNCF理事会，最多三名银牌代表。 如果该成员也是经批准的最终用户，则最终用户成员的所有权益仍生效  最终用户权益：  参与下面所述的最终用户咨询社区; 提名一（1）名代表到最终用户技术咨询委员会。  学术和非营利成员：学术和非营利类别的参与分别限于学术和非营利机构，需要理事会批准。学术成员和非营利成员有权将其组织认定为支持CNCF使命的成员以及理事会确定的任何其他权利或利益。  CNCF 理事会 CNCF 理事会负责诸如市场以及其它业务监督，以及CNCF的预算等。CNCF 理事会并不过问技术上的任何决策。会与技术监督委员会合作设定CNCF的总体范围。</description>
     </item>
     
   </channel>
