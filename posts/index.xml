@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 13 Aug 2019 11:57:59 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2019 17:17:57 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>不一定非得同步做决策：远程团队成功的秘诀</title>
+      <link>http://www.ocselected.org/posts/opensource_culture/asynchronous-decision-making/</link>
+      <pubDate>Tue, 13 Aug 2019 17:17:57 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_culture/asynchronous-decision-making/</guid>
+      <description>概要 减少会议数量，还能增加沟通质量不再是纸上谈兵了，本文为你呈现采用异步方式来进行决策，可以达到想要的效果。
+异步决策某种程度上已是一种常见的决策策略了，尤其是对于那些是来自全球各地、分布式的软件团队，异步决策对于这种类型的团队尤其关键。在接下来的叙述中，笔者试图讨论和解释异步决策如何成为远程团队的工具，以及一些有用的原则。
+相信大家都非常熟悉同步决策，显而易见的优点就是参与的人能够进行实时的互动。《黑客与画家》一书的作者Paul Grapam写过一篇博客：创客的时刻表，当我们去打断这些创客们正在做的事情的时候，代价是相当昂贵的，当然，对于远程工作的团队来讲，做同步决策是几乎不可能的，相信有过类似经历的人，一定能够意识到想要实现同步会议的痛苦，各种等待、浪费时间、低效、不断确认等等。
+与此相反的是，我们得接受现实，使用异步决策来进行沟通，这也是很多大型开放源代码项目中所经常采用的策略，举个经典的例子，在Apache软件基金会（ASF，以下均会这么称），也是笔者活动最为频繁的地方，总是尽可能的减少会议，且团队保持一种有效的方式进行推进，Apache 软件基金会旗下的项目，许多都是每年只召开几次会议（甚至干脆根本就没有会议），但开发团队却能够始终如一地生产高质量的开放源代码软件。
+那么异步决策是如何工作的了呢？
+必需的工具 中心化的异步沟通渠道 想要实现异步决策，首要解决的问题就是要拥有中心化的沟通渠道。无论采用何种实现，但有一些功能是必须的，如所有团队成员获得的是相同的信息，要支持线索式的讨论，相关的人在一个线索上讨论，同时忽略在同一频道上讨论的其他主题。不知道大家有没有熟悉海洋无线电，它的工作原理就是，最大范围的使用广播来引起特定人群的注意，想要进一步的讨论就要进入相应的子频道。
+现在仍然有很多的开放源代码项目在使用邮件列表，来作为沟通的中心化渠道，当然，当下的年轻一代的软件开发人员可能会认为这种方法既陈旧又笨重。邮件列表确实需要一定的克制和纪律才能有效的管理繁忙的、具有较高流量的内容，尤其是涉及到比较有意思的条目，每个线索都要坚持一个主题，并要确保主题不会重复。虽然如此，但是目前为止，能够做到正确使用、且与索引存档相结合，邮件列表仍然是最完美的中心化的异步沟通渠道。
+企业团队可能会受益于更现代化的协作工具，这些工具可以更易于使用并提供更强大的多媒体功能。无论使用哪种工具，关键是要创建一个通道，在这个通道中，大量人员可以在各种主题上高效且异步地进行沟通。根据实际观察，想要创建一个内容一致、高度参与的社区，一个繁忙的频道要好过于杂而多的频道。
+共识构建机制 第二，其实不是一个工具了，而是一种精神上的内容，即达成共识，只有有了共识才能够避免出现僵局，进而推动事情往前发展。谁都以为在众多的人当中做出一致的决策是最理想的情况，当这往往是可望而不可及的，退而求其次，我们希望能够达成共识：“在有决定权的人们之间形成有效的广泛共识”。我们知道要求一致同意，或者是否决决策都会阻碍进程的发展，因此，在ASF，使用否决权的场景是被局限于某些情况下的。ASF 的投票机制经过多年而有效的发展，已经得到了世人的认可，也被人们经常所效仿使用，如果某些团队和ASF较类似的话，如并没有权力较为集中的老板，那么在这样松散耦合的团队中建立共识是非常有帮助的。当然，还有一种情形，那就是当共识没有自然出现时，也是非常有效的办法。
+Case 管理系统 共识往往是在项目中心化的沟通渠道中所达成的，这一点我们在前面有所描述，但是对于很复杂的情形而言，可能需要一些第三方的工具来完成，这个工具就是：Case 管理系统，这样的话，大家在中心沟通渠道上用来进行非正式的讨论、头脑风暴诸项，当某些需要决策的内容渐渐浮出水面的时候，就可以引入 Case 管理系统了。
+Case 管理系统能够更为准确的组织决策，当较小的团队，决策也相对较少的情况，是没有必要上这么一个系统。但是情况复杂起来的时候，将一些讨论特定决策的细节以及相关信息保存在特定的地方，对于团队是有非常大的帮助的。
+其实 Case 管理系统并不一定非得是复杂的软件系统，ASF 使用的就是最简单的 issue 追踪，本来是用于基于 Web 界面的跟踪问题和Bug管理的，每个 Case 均在同一个页面中进行讨论和处理，其中也包含所有的评论，以及所有的操作记录。这么做非常使用追踪决策，以及如此决策所走过的所有路径。例如，一些非紧急或复杂的决策可能需要很长时间才能达成结束，将历史记录放在一个地方是有非常大的益处的。尤其是对于新加入的成员，他们可以通过阅读这些 issue 来了解最近做了那些决定，以及那些决定还在讨论当中，都有谁参与了这些决策，以及每个决策的背后的背景，从而让他们能够快速的融入团队。
+成功案例 ASF 董事会有九名成员，他们会在每个月定期的电话会议上做出很多个决策，但是会议不会超过两个小时，之所以能够如此的高效，是因为我们在前期做了非常细致的工作，当然这些工作都是通过异步来做的。这样的好处就是能够让我们将会议的重点放在复杂或者不能确定的事情上，而不是聚焦在那些细枝末节的全部/部分的共识问题上。
+其实类似的会议，在软件产业之外也是屡见不鲜的，如瑞士联邦的例行周会，他们的做法非常的类似于ASF。团队亦是采用异步决策的方式来建立共识，从而为会议做好充分的准备。会议议程由一组颜色编码的列表组成，这些列表指出哪些项目可以快速批准，哪些需要更多讨论，哪些项目预计会较为复杂。就是这样的方式，让仅有7个人组成的委员会，能够在每年处理超过5000多个决策，仔细算算，一年也就50多个星期，他们每周仅开几个小时的会而已。这是非常了不起的成绩。
+依据我个人的经验，可以负责任的说，异步决策机制是值得投入的，工具是现成的，当然也要靠时间来进行验证。它也可以为团队成员带来快乐工作的益处，而这才是任何事情成功的关键所在。
+关于作者 ，Bertrand Delacretaz 是瑞士巴塞尔 Adobe 研究团队的首席科学家。他倾注了大量时间来倡导和实施开放式开发，以此为他的同事提供更高效，更有趣的地理位置分散，且保持高效的团队。Bertrand 同时还是 Apache软件基金会的活跃成员，他在本文写作时（2017）担任ASF基金会董事，即9名成员之一。
+本文由作者Bertrand Delacretaz 发表在Opensource.com上：Asynchronous decision-making: Helping remote teams succeed。本文在Creative Commons BY-SA 4.0许可证下发布。在开源之道精心编译。欢迎转载！</description>
+    </item>
     
     <item>
       <title>开源专家 Dee Kumar 加盟 Armory；为什么购买软件比登天还难？等等 开源之道一周精选(2019 08 18)</title>
@@ -1394,7 +1419,7 @@ Best part of the book was the discussion of shift towards making money with soft
       <pubDate>Mon, 07 Jan 2019 15:33:33 +0800</pubDate>
       
       <guid>http://www.ocselected.org/posts/planing_and_reflection/2019/planning_and_schedule_of_year/</guid>
-      <description>引子 具体事项 一 /2019-01-03 Linux基金会企业开源指南系列之九——公司如何提升开源开发的影响力 来自英文：Improving Your Open Source Development Impact 二 /2019-01-10 Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目 来自英文：Winding Down an Open Source Project 三 /2019-01-17 Linux基金会企业开源指南系列之十一 —— 在开源社区中树立领导力 来自英文：Building Leadership in an Open Source Community 四/2019-01-31 Linux基金会企业开源指南系列之十二 —— 制定企业开源战略 来自英文：Setting an Open Source Strategy 五/2019-02-07 Apache 基金会未来5年计划 来自英文：Five-year Strategic Plan for the Apache Software Foundation 六/2019-02-13 如何评估一个 Linux 发行版的总体成本 来自英文：Estimating the Total Cost of a Linux Distribution 七/2019-02-15 一份被忽略的开源经济学报告 —— 再读 Bruce Perens 八/2019-02-16 云原生的旭日东升 —— CNCF 2018年度报告解读 九/2019-03-10 区块链将会如何影响开源来自英文：How blockchain will influence open source 十/2019-03-31 如何参与到 Linux 社区中来 来自英文：How to Participate in the Linux Community 十一 来自英文：6 ways a thriving community will help your project succeed 十二 如何决定是否开源您的SaaS解决方案 十三 将SaaS开源之后所面临的可能挑战 十四 现代开源项目如何实现贡献者增长（译文）来自英文：Growing a contributor base in modern open source 十五 来自英文：FOSS as a Part of a Corporate Sustainability Plan 十六 ／2019-04-19 开源之道解读红帽企业开源调查2019 来自英文：红帽企业开源调查2019版 十七 []() 职业生涯 来自英文：Lessons from a brief career in open source 十八 []() 来自英文：6 reasons open source is good for business 十九 []() 来自英文：Why events matter and how to do them right 二十 []() 来自英文：Be a force for good in your community 二十一 工程师和市场人员相互之间可以学习到什么？ 来自英文：What engineers and marketers can learn from each other 二十二 []() 来自英文：Open is a means, not a movement 二十三 []() 来自英文：Open core, open perimeter, and the future of enterprise software 二十四 []() 来自英文：Openwashing: adopter beware 二十五 如何管理开源项目中的即兴贡献者 ，来自英文：How to manage casual contributors to open source projects 二十六 []() 来自英文：Why I love technical debt 二十七 [不一定非得同步做决策：远程团队成功的秘诀]() 来自英文：Asynchronous decision-making: Helping remote teams succeed [ ] 二十八 []() 来自英文：Effective Ways to Get Help from Maintainers</description>
+      <description>引子 具体事项 一 /2019-01-03 Linux基金会企业开源指南系列之九——公司如何提升开源开发的影响力 来自英文：Improving Your Open Source Development Impact 二 /2019-01-10 Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目 来自英文：Winding Down an Open Source Project 三 /2019-01-17 Linux基金会企业开源指南系列之十一 —— 在开源社区中树立领导力 来自英文：Building Leadership in an Open Source Community 四/2019-01-31 Linux基金会企业开源指南系列之十二 —— 制定企业开源战略 来自英文：Setting an Open Source Strategy 五/2019-02-07 Apache 基金会未来5年计划 来自英文：Five-year Strategic Plan for the Apache Software Foundation 六/2019-02-13 如何评估一个 Linux 发行版的总体成本 来自英文：Estimating the Total Cost of a Linux Distribution 七/2019-02-15 一份被忽略的开源经济学报告 —— 再读 Bruce Perens 八/2019-02-16 云原生的旭日东升 —— CNCF 2018年度报告解读 九/2019-03-10 区块链将会如何影响开源来自英文：How blockchain will influence open source 十/2019-03-31 如何参与到 Linux 社区中来 来自英文：How to Participate in the Linux Community 十一 来自英文：6 ways a thriving community will help your project succeed 十二 如何决定是否开源您的SaaS解决方案 十三 将SaaS开源之后所面临的可能挑战 十四 现代开源项目如何实现贡献者增长（译文）来自英文：Growing a contributor base in modern open source 十五 来自英文：FOSS as a Part of a Corporate Sustainability Plan 十六 ／2019-04-19 开源之道解读红帽企业开源调查2019 来自英文：红帽企业开源调查2019版 十七 []() 职业生涯 来自英文：Lessons from a brief career in open source 十八 []() 来自英文：6 reasons open source is good for business 十九 []() 来自英文：Why events matter and how to do them right 二十 []() 来自英文：Be a force for good in your community 二十一 工程师和市场人员相互之间可以学习到什么？ 来自英文：What engineers and marketers can learn from each other 二十二 []() 来自英文：Open is a means, not a movement 二十三 []() 来自英文：Open core, open perimeter, and the future of enterprise software 二十四 []() 来自英文：Openwashing: adopter beware 二十五 如何管理开源项目中的即兴贡献者 ，来自英文：How to manage casual contributors to open source projects 二十六 []() 来自英文：Why I love technical debt 二十七 不一定非得同步做决策：远程团队成功的秘诀 来自英文：Asynchronous decision-making: Helping remote teams succeed [ ] 二十八 []() 来自英文：Effective Ways to Get Help from Maintainers</description>
     </item>
     
     <item>
@@ -2095,22 +2120,6 @@ Jaime Arredondo 相对Jaime就是籍籍无名之辈了。但是他有一直在�
 适兕点评：
  微软收购GitHub，真是让不明就里的人们兴奋了几天，朋友圈刷屏刷到爆。可是细细的静下心来，看看这样的文章，你才能明白微软再打明天的仗。本文有两个观点我非常的认同:
   Arguably, open source is not an alternative to commercial software. Rather, it is a way to create software collaboratively, and at a global scale. Active contributors in the open source community resolve problems; the source code is visible and can be tweaked and updated by anyone.</description>
-    </item>
-    
-    <item>
-      <title>CNCF 是如何工作的</title>
-      <link>http://www.ocselected.org/posts/foundation_introduce/how_cncf_works/</link>
-      <pubDate>Tue, 19 Jun 2018 13:25:30 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/foundation_introduce/how_cncf_works/</guid>
-      <description>引子 技术创新与社会创新是同等重要的，在人类有限的历史中，二者是相辅相成不可分割的，福特汽车既将制造的步骤划分，也将工人的组织结构进行了调整；贝尔实验室那些无数的创新，不得不说和它的开放的办公环境和平等的文化有关；硅谷成功的秘密，那些历史学家和成功的商人们，从来不仅仅提及某个技术的颠覆，而总是会谈到资本、宽松、鼓励失败等社会创新。反思本土，是否被技术蒙蔽了双眼？是的，应该努力提高自我的认知，在关注技术创新的同时也要关注社会创新，因为现代技术的发展绕不过去的就是协作，一个大型的软件项目工程，参与的人何止千万？该如何组织和协调诸如Kubernetes大规模全球性的协作？在围绕利益分配、政治角逐、文化冲突、技术先进和创新等等方面必须做到应对之道。
-这次开源之道介绍的是CNCF，近年来随着容器编排和微服务发展起来的新一代基金会，随着其坐着火箭般的上升速度以及引起的轰动效应，你不得不关注它背后的运行机理。
-CNCF的使命 CNCF 没有偏离自己的主题，核心是解决技术问题：基金会的使命是创建并推动采用新的计算模式，该模式针对现代分布式系统环境进行了优化，能够扩展至数万个自愈式多租户节点。
-所谓的云原生系统须具备下面这些属性：
- 应用容器化：将软件容器中的应用程序和进程作为独立的应用程序部署单元运行，并作为实现高级别资源隔离的机制。从总体上改进开发者的体验、促进代码和组件重用，而且要为云元是国内应用简化运维工作。 动态管理：由中心化的编排来进行活跃的调度和频繁的管理，从根本上提高机器效率和资源利用率，同时降低与运维相关的成本。 面向微服务：与显式描述的依赖性松散耦合（例如通过服务端点），可以提高应用程序的整体敏捷性和可维护性。CNCF 将塑造技术的发展，推动应用管理的先进技术发展，并通过可靠的接口使技术无处不在，并且易于使用。  CNCF 的定位 CNCF 其实是在开源社区的基础上发挥着作用，应负责：
- 管理项目  确保技术可用于社区并且没有杂七杂八的影响 确保技术的品牌（商标和标识）得到社区成员的关注和使用，特别强调统一的用户体验和高水平的应用程序兼容性  促进生态系统的发展和演进  评估哪些技术可以纳入云原生计算应用的愿景，鼓励社区交付这样的技术，以及集成它们，且要积极的推进总结进度。 提供一种方法来培养各个部分的通用技术标准  推广底层技术和应用定义和管理方法，途径包括：活动和会议、营销（SEM，直接营销）、培训课程和开发人员认证。 通过使技术可访问和可靠来为社区服务。  旨在通过对参考架构进行明确定义的节奏，为每个组成部分提供完全集成和合格的构建。   CNCF 的价值观 CNCF 会极力遵循以下一些原则：
- 快速胜过磨叽，基金会的初衷之一就是让项目快速的发展，从而支持用户能够积极的使用。 开放！ CNCF 是以开放和高度透明为最高准则的，而且是独立于任何的其它团体进行运作的。CNCF根据贡献的内容和优点接受所有的贡献者，且遵循开源的价值观，CNCF输出的技术是可以让所有人使用和受益的，技术社区及其决策应保持高度透明。 公平：CNCF 会极力避免那些不好的影响、不良行为、以及“按需付费”的决策。 强大的技术身份：CNCF 会实现并保持高度的自身技术认同，并将之同步到所有的共享项目中。 清晰的边界：CNCF 制定明确的目标，并在某些情况下，要确定什么不是基金会的目标，并会帮助整个生态系统的运转，让人们理解新创新的重点所在。 可扩展： 能够支持从小型开发人员中心环境到企业和服务提供商规模的所有部署规模。这意味着在某些部署中可能不会部署某些可选组件，但总体设计和体系结构仍应适用。 平台中立：CNCF 所开发的项目并不针对某个特定平台，而是旨在支持各种体系结构和操作系统。  CNCF 的成员 CNCF 设立了白金、黄金、银、最终用户以及学术和非盈利等成员。所有成员申请将由Linux基金会审查，由其决定是否将该申请人归类为最终用户，学术/非营利组织或 出于CNCF成员资格的目的。
- 白金会员的权益：  任命一位（1）代表参加CNCF理事会。 指定一名（1）代表作为理事会任何小组委员会或活动中的有表决权的成员。 享受最显眼的展示位置，包括在网站上。 如果该成员也是经批准的最终用户，则最终用户成员的所有权益仍生效  黄金会员的权益：  每五（5）名金牌成员就任命一名（1）代表参加CNCF理事会，最多三（3）名金牌代表。 如果该成员也是经批准的最终用户，则最终用户成员的所有权益仍生效  银牌会员的权益：  每十（10）名白银成员指定一名（1）代表参加CNCF理事会，最多三名银牌代表。 如果该成员也是经批准的最终用户，则最终用户成员的所有权益仍生效  最终用户权益：  参与下面所述的最终用户咨询社区; 提名一（1）名代表到最终用户技术咨询委员会。  学术和非营利成员：学术和非营利类别的参与分别限于学术和非营利机构，需要理事会批准。学术成员和非营利成员有权将其组织认定为支持CNCF使命的成员以及理事会确定的任何其他权利或利益。  CNCF 理事会 CNCF 理事会负责诸如市场以及其它业务监督，以及CNCF的预算等。CNCF 理事会并不过问技术上的任何决策。会与技术监督委员会合作设定CNCF的总体范围。</description>
     </item>
     
   </channel>
