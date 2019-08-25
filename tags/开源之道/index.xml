@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 13 Aug 2019 11:57:59 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 14:12:06 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>敏捷的终结，推广开放源代码软件；企业对于开源还没找到重点；等开源之道一周精选(2019 08 25)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-25/</link>
+      <pubDate>Wed, 21 Aug 2019 14:12:06 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-25/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 衡量开放源代码项目健康度的方法论 原文链接：Methodologies for measuring project health
+适兕点评：
+ 我和Frank说，这是我会读上十遍的文章，其实我只读了两遍，剩下的8遍是里面引用的论文，也就是当下人们对于开放源代码项目健康程度的研究成果，是的，人类就是这么好奇，总是想找到确定性，找到规律，只要能不去探索的就尽量不去探索，或许就是这个动力所在。本文的视角还是非常刁钻的，一个健康的项目，究竟是有哪些因素在其作用？贡献度、活跃度、用户数、提交数量、最后更新时间、解决的代码&amp;hellip;&amp;hellip;等等，甚至还给出了一些未来可能研究的方向，如判断项目的稳定(成熟)等。
+ 企业对于开源还没找到重点 原文链接：Enterprises still miss the real point of open source
+适兕点评：
+ 其实这是所有企业都会经历的通病，除非这家企业是新生代，而且天生对于开源的理解都是正常的，无论是常见人们所project和product是不同的，还是Source和software是不一样的，其实就是让人们能够理解，开放源代码的魅力不止于此。问题的精髓就在于:Again, merely using open source isn&amp;rsquo;t enough. Contributions are required.，参与到一个已经可用的软件当中，是有违于人的直觉的，对于恋尸癖来说更是难能可贵。开源之道其实就是在宣扬这样一个道理。
+ Facebook 对开源的大力推动，是如何实现撰写更好的代码以及找到更好的工程师 原文链接：How Facebook’s Massive Open-Source Push Delivers Better Code And Better Engineers
+适兕点评：
+ FaceBook 拥抱开源的理由，即真实的理解了开放源代码三种境界的第三层，FaceBook作为一家社交媒体广告公司，在硬件、编译器、语言、前端框架、AI等等领域的开放源代码项目都有非常不俗的表现，这世上没有无缘无故的成功！OPEN, OPEN, OPEN 但是就是这个，却让所有人止步了。在开放的地方寻找秘籍，确实难为大家了。有的时候，我能够理解把简单的事情搞复杂这件事了。
+ 微软给Google的Chrome提了一条建议，Google接受了 原文链接：Microsoft Suggests A Way To Improve Chrome And Google Listens
+适兕点评：
+ Chromium 是一个非常优秀的项目，而微软新的文化是同理心，非零和游戏，这个世界谁都有饭吃，浏览器大战之后，硝烟散尽之后，输的一方痛快的接受竞争者的开源项目，我上周提到浏览器可能会酝酿出一个基金会来，我依然是这么认为的，如果双方和社区都要继续发展的话。这个事情，会让拥有二元对立思想的很难堪，不是你死我活的场景，尤其是商界，这似乎超出了人们情感认知的范围。Sounds naïve, right?</description>
+    </item>
     
     <item>
       <title>开源专家 Dee Kumar 加盟 Armory；为什么购买软件比登天还难？等等 开源之道一周精选(2019 08 18)</title>
@@ -2056,30 +2077,6 @@ Open Source has become the de facto standard for developing new networking servi
 适兕点评：
  Heptio CEO 首先发难诟病OpenShift，然后一堆人出来澄清，这就说明了一个问题，OpenShift一家独大，有Kubernetes的RHEL之嫌，引起众多嫉妒。
 要知道“OpenShift, like the other 54 distributions and platforms (and unlike Heptio and the other seven installers) carries patches and so is not vanilla, upstream Kubernetes.</description>
-    </item>
-    
-    <item>
-      <title>开源之道2周精选(2018 05 27)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932%E5%91%A8%E7%B2%BE%E9%80%892018-05-27/</link>
-      <pubDate>Fri, 25 May 2018 13:16:19 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932%E5%91%A8%E7%B2%BE%E9%80%892018-05-27/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 采访：让我们探讨下开放计算项目的数据中心趋势 原文链接：Interview: Discussing data centre trends with Open Compute Project
-适兕点评：
- 随着开源软件的占据主流，开源硬件以OCP为代表的数据中心设计，必将是未来的主流，其实现在就是主流。FB、Google、microsoft等就是证明。
-当然，还有一些挑战。但是OCP在中国同样没有市场，只有自主可控。只有搭便车！没有合作。
- 开源和社区在技术领域的鼓励多样性有所建树 原文链接：Open source and communities essential in spreading diversity in tech
-适兕点评：
- 这是红帽的人力资源高管的一个采访。开源、女性、社区、技术，这些都是大家所关注的。
-成功从来不是偶然，红帽的人才战略绝对是领先的。但是中国区的很是令人失望啊，也有水土不服的时候。
- Tesla 发布了基于开源许可证的软件 原文链接：Tesla releases some of its software to comply with open source licences
-适兕点评：
- 这才是正常的流程，Tesla 也是一家重度软件的公司，也使用了一些开源的软件，如Linux、QT等，然后就有人和他说明了情况，Software Freedom Conservancy，然后，Tesla就回复了这样的情形。
-法律！法律的遵循。这才是文明进步的保证和前提。
- 政府和企业都在青睐红帽和冉冉升起的开源 原文链接：Government, enterprise interest in Red Hat and open source sky rocketing
-适兕点评：
- 开头竟然引用甘地的名言：“First they ignore you, then they laugh at you, then they fight you, then you win.</description>
     </item>
     
   </channel>

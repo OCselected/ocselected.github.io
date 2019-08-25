@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 13 Aug 2019 17:17:57 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 14:12:06 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>敏捷的终结，推广开放源代码软件；企业对于开源还没找到重点；等开源之道一周精选(2019 08 25)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-25/</link>
+      <pubDate>Wed, 21 Aug 2019 14:12:06 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-25/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 衡量开放源代码项目健康度的方法论 原文链接：Methodologies for measuring project health
+适兕点评：
+ 我和Frank说，这是我会读上十遍的文章，其实我只读了两遍，剩下的8遍是里面引用的论文，也就是当下人们对于开放源代码项目健康程度的研究成果，是的，人类就是这么好奇，总是想找到确定性，找到规律，只要能不去探索的就尽量不去探索，或许就是这个动力所在。本文的视角还是非常刁钻的，一个健康的项目，究竟是有哪些因素在其作用？贡献度、活跃度、用户数、提交数量、最后更新时间、解决的代码&amp;hellip;&amp;hellip;等等，甚至还给出了一些未来可能研究的方向，如判断项目的稳定(成熟)等。
+ 企业对于开源还没找到重点 原文链接：Enterprises still miss the real point of open source
+适兕点评：
+ 其实这是所有企业都会经历的通病，除非这家企业是新生代，而且天生对于开源的理解都是正常的，无论是常见人们所project和product是不同的，还是Source和software是不一样的，其实就是让人们能够理解，开放源代码的魅力不止于此。问题的精髓就在于:Again, merely using open source isn&amp;rsquo;t enough. Contributions are required.，参与到一个已经可用的软件当中，是有违于人的直觉的，对于恋尸癖来说更是难能可贵。开源之道其实就是在宣扬这样一个道理。
+ Facebook 对开源的大力推动，是如何实现撰写更好的代码以及找到更好的工程师 原文链接：How Facebook’s Massive Open-Source Push Delivers Better Code And Better Engineers
+适兕点评：
+ FaceBook 拥抱开源的理由，即真实的理解了开放源代码三种境界的第三层，FaceBook作为一家社交媒体广告公司，在硬件、编译器、语言、前端框架、AI等等领域的开放源代码项目都有非常不俗的表现，这世上没有无缘无故的成功！OPEN, OPEN, OPEN 但是就是这个，却让所有人止步了。在开放的地方寻找秘籍，确实难为大家了。有的时候，我能够理解把简单的事情搞复杂这件事了。
+ 微软给Google的Chrome提了一条建议，Google接受了 原文链接：Microsoft Suggests A Way To Improve Chrome And Google Listens
+适兕点评：
+ Chromium 是一个非常优秀的项目，而微软新的文化是同理心，非零和游戏，这个世界谁都有饭吃，浏览器大战之后，硝烟散尽之后，输的一方痛快的接受竞争者的开源项目，我上周提到浏览器可能会酝酿出一个基金会来，我依然是这么认为的，如果双方和社区都要继续发展的话。这个事情，会让拥有二元对立思想的很难堪，不是你死我活的场景，尤其是商界，这似乎超出了人们情感认知的范围。Sounds naïve, right?</description>
+    </item>
     
     <item>
       <title>不一定非得同步做决策：远程团队成功的秘诀</title>
@@ -2103,23 +2124,6 @@ Jaime Arredondo 相对Jaime就是籍籍无名之辈了。但是他有一直在�
 从承认弱点到理想世界 人类的终点究竟在哪里？至善至美的世界的存在性在经历几千年的战争、屠杀、蹂躏，已经让人们失去了信心，也甚至将这个问题交给了哲学家们去思考了。与其无法达到妄想的彼岸，不如承认当下，做一些力所能及的事情，尽情的享受人类该有的幸福，偶尔关怀一下正在消失的物种，爱护一下珍稀动物，利用知识和科学去增加粮食的产量，让一些物种更具观赏性，以法律为武器来捍卫人类最后的尊严。
 人性本恶还是善，至今仍在讨论，尽管认知神经学家和基因学家设法去证明，人类的基因并不是人们想象的那么简单，尽管携带的内容很少，但仍然无法从道德上来证明，只能说基因要生存要繁衍，于是会详尽一切办法让自己存活，包括将自己的同类毁灭。
 然而，人类社会仍然没有失去希望，无论是宗教，还是类宗教的世俗国家，都会从意识形态或其它科幻的视角来描绘，人类最后的理想世界终究会到来。没有独裁者，人人各司其职，社会和谐安定。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 06 23)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-06-23/</link>
-      <pubDate>Sat, 23 Jun 2018 16:45:05 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-06-23/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 微软利用AI来降低云计算的电力开销 原文链接：Microsoft is using AI to cut the cloud’s electric bill
-适兕点评：
- 云计算所带来的体系架构的改变也是前所未有的，大型数据中心，如果不能有效降低成本，那么就有可能被巨大的损耗给吞噬掉。除了计算、存储资源的优化和体系架构之外，就数电力了。
-除了拥抱著名的OCP，即开放计算工程，硬件的设计之外，接下来就是算法的问题的。开源不是全部，但是在其中起着至关重要的作用。
- 微软勇敢的闯入了新的世界 原文链接：Brave new world opens up for Microsoft
-适兕点评：
- 微软收购GitHub，真是让不明就里的人们兴奋了几天，朋友圈刷屏刷到爆。可是细细的静下心来，看看这样的文章，你才能明白微软再打明天的仗。本文有两个观点我非常的认同:
-  Arguably, open source is not an alternative to commercial software. Rather, it is a way to create software collaboratively, and at a global scale. Active contributors in the open source community resolve problems; the source code is visible and can be tweaked and updated by anyone.</description>
     </item>
     
   </channel>
