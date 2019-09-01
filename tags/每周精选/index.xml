@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 21 Aug 2019 14:12:06 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 16:08:08 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>为什么没有人为Docker而哭泣？关于软件的锁定与开源；等开源之道一周精选(2019 09 01)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-01/</link>
+      <pubDate>Fri, 30 Aug 2019 16:08:08 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-01/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 可访问性和开放源代码 原文链接：Accessibility and Open Source
+适兕点评：
+ 开源之道在撰写《大教堂与集市》的读后感时，特别说明了开放源代码软件的三重境界，其中第三重就提到开放，而可访问性是其中重要的一个因素。本文给出的 Bootstrap 也是非常典型的例子，当一个项目放在的公众的视线之内时，其实任何的举动都会被放大，开放这个尺度的把控，才是社区经理和运营者的精髓所在。你会将你的开源项目的可访问性置于何种程度？ 放弃控制而施加影响，这一步对于任何人都是挑战，我指的是心理上的，文化上的就看当事者能否意识到了。
+ (2006) 采访红帽CTO Brian Stevens 原文链接：Interview with Red Hat CTO, Brian Stevens
+适兕点评：
+ 13年前的一篇文章，红帽刚刚从打包者的身份走出来，开始有了一些原始的积累，刚刚收购了JBoss中间件，开始往上游进行创新，对开源项目施加影响力，还有一个细节就是当时的红帽还是支持XEN的，收购KVM则是两年以后的事情了。现在看来，红帽当时对自己要走的路是非常之清晰的，并且坚持了，从自己的核心竞争力——文化，从业务模式，往上游的技术发展。后来发生的事情，大家都知道了，颠覆了Unix市场，霸占了金融，早就可很大的壁垒。
+ （2014）如何将 vCloud 工具从开放式编码转变为开放源代码 原文链接：How we moved vCloud Tools from Coding in the Open to Open Source
+适兕点评：
+ 这是英国政府的运维人员的一次经验分享，请不要质疑为什么有些政府不使用开放源代码软件来节省开支，自己去探寻答案。有的时候在言词上的吹毛求疵是有意义的，Coding in the Ope 和 Open Source 究竟有什么差别？在某种文化背景下，差不多就算了，结果下来一日千里。是的，真正做到开放并不容易，这需要从思维上做出根本的改变。
+ IBM 开源 Power架构的遗产：中国将是最大赢家，当然更多是输家 原文链接：IBM&amp;rsquo;s Power-ful open source gift: China wins big, and these are the losers</description>
+    </item>
     
     <item>
       <title>敏捷的终结，推广开放源代码软件；企业对于开源还没找到重点；等开源之道一周精选(2019 08 25)</title>
@@ -1987,25 +2006,6 @@ Rackspace 的商业案例以后要多关注下。
 是的，他就是拥有开源魔力的投资人头衔的 Peter Fenton！
 Peter 在开源界的辉煌战绩 我们可以以列表的形式来展示以下 Peter Fenton的成绩单：
    开源项目 金额 收购 备注     JBoss 3.5亿美元 被红帽收购    SprngSource 4.2亿美元 被VMware收购    Zimbra 3.5亿美元 被Yahoo！收购    FriendFeed  被Facebook收购    Xensource 5亿美元 被Citrix    Quip  被SalesForce收购     目前 Peter Fenton 还在投资的开源公司／项目：Docker（在2011年，那时的Docker还叫做DotCloud，Fenton就已经是其董事会的一员了）、 elasticsearch、Hortonworks、Cockroach lab等。是不是觉得这些项目都很眼熟？没错，它们都是现在处于创新风口的开源公司，拿 Docker 来说，不仅彻底改变了软件的交付模式，还让开源的创新遥遥领先。Docker 公司的“钱”途无量。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2017 8 26)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-8-26/</link>
-      <pubDate>Sat, 26 Aug 2017 08:40:35 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-8-26/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 红帽在其Linux和云平台中开始提供微软的.NET2.0 原文链接：Red Hat adds Microsoft&amp;rsquo;s .NET Core 2.0 to its Linux and cloud offerings
-适兕点评：
- 世事难料！微软在发布了SQL Server for RHEL之后，红帽又发布了在其平台中支持.NET2.0的消息。如此的联姻对于技术的争吵还有什么意义？占据各种阵营是多么傻逼的事情。
-突然想到，我们一直以为的自由，不过是被别人操纵的结果罢了。购物如是，生活如是。想想人真的没有多少选择。
-本文最后一句是亮点：Bill Gates hasn&amp;rsquo;t said anything about this marriage between Linux and Windows technologies.
- 想成为软件行业的影响者吗？加入开源阵营吧 原文链接：Want to be a Software Industry Influencer? Get Involved in Open Source
-适兕点评：
- SD Time最近发布的Top 100 名单里将Linux基金会列为最具创新和影响力的组织之一。和全球最为著名的软件公司并列。
-开源再也不能被忽视！不参与，毋宁死。
- 云计算会驱动开源远离企业 原文链接：The cloud could drive open source out of the enterprise</description>
     </item>
     
   </channel>
