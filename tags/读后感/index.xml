@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>读后感 on 开源之道</title>
+    <link>http://www.ocselected.org/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/</link>
+    <description>Recent content in 读后感 on 开源之道</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 01 Sep 2019 16:57:14 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.ocselected.org/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>开放源代码软件的生产之道</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/the_review_of_producingoss/</link>
+      <pubDate>Sun, 01 Sep 2019 16:57:14 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/the_review_of_producingoss/</guid>
+      <description>要真正理解任何思想，你都需要重建它第一次被表达时的上下文，这样，你就可以理清经历了这么多中间人而保留下来的思想的精髓。 ———— 《软件开发者路线图》
+ 开源之道2019图书共读历史书评 过去几个月的导读与书评：
+ 《软件悖论:商业软件的崛起与陨落》 Subscribed：为什么说订阅才是塑造贵司的未来的模式，如何实现它 我们正处于开源的黄金时代 —— 《开放与共享》导读与书评 得开发者得天下 ———— 开发者是如何征服世界的 开源开发者内在的素质：匠艺 —— 《匠人》书评与导读 开源 &amp;ndash; 一部黑客伦理与商业资本相互妥协的融合史（《黑客》读后感） 开放源代码软件的三重境界 ———— 《大教堂与集市》读后感  开源之道图书共读短评  这是一本所有了解开放源代码软件的人都不应该错过的好书！ &amp;mdash;- 开源之道图书共读发起者 适兕
+Karl 所著的这本精彩纷呈的书，让我都怀疑来了我的沟通技巧是否能够胜任在开源项目中的日常。 &amp;ndash; Steve McInerney
+ 作者 Karl Fogel 其人 Karl Fogel 因为这本被引用最多的书而驰名于开源界。显而易见的是，他是一名优秀的作家。当然就像大多数写开放源代码软件相关书籍的人一样，Karl同时也是一名程序员，他参与过的开放源代码项目列表简直让人崇尚不已，名副其实的黑客一名，我们不妨在这里做个列表：
+ Launchpad，历史相当悠久的项目托管平台，其本身也是开放源代码项目。 Subversion，集中式版本控制系统，目前已捐赠给Apache 基金会。 GNU Emacs，世界上最具扩展性的文本编辑器，Karl维护的包有bookmark.el，mail-hist.el，savepace.el。 更多维护的项目，可参考Karl在OpenHub的聚合账户。  Karl的图书和文章，就非常的多了，如讲解CVS、SVN的书籍，以及解释自由软件等，不过他最为人所知晓的还是我们共读的这本《生成开放源代码软件》。
+Karl本身的工作也是兼具多种身份，他首先是开放技术策略有限公司的合伙人，这是一件为营利性、非营利性、政府等组织提供参与开源项目的咨询和支持服务。在非营利组织方面，Karl创立了QuestionCopyright.org，一家旨在促进公众对版权历史和影响的理解，并鼓励适用于网络世界的基于自由的分发方法，这使得共享信息的成本可降至为零。
+Karl 曾经担任过的非营利组织有：
+ 开放源代码促进会的董事 开放互联网工具项目的成员  现在仍然在担任的非营利组织：
+ 软件自由保护协会的评估委员会成员 Apache软件基金会成员  一言一概之：Karl 是一名兼具技术和社会双重技能的优秀人才！更多详情，请移步其个人站点。
+《生产开源软件》内容介绍  我们这次共读选择的是该书的第二版，第一版在2005年出版，且有相应的中文版。</description>
+    </item>
+    
+  </channel>
+</rss>
