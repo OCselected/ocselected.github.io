@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 30 Aug 2019 16:08:08 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2019 16:38:56 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>世界不是零和游戏：自由软件领袖Richard Stallman走进微软总部做演讲；Homebrew 也将MongoDB从核心库中删除 开源之道一周精选(2019 09 08)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-08/</link>
+      <pubDate>Fri, 06 Sep 2019 16:38:56 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-08/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 DevOps 帮助企业数字化转型的十大理由 原文链接：10 ways DevOps helps digital transformation
+适兕点评：
+ 随着现代社会的分工精细化，影响人们决策购买商品或服务的因素，越发的变得微妙了起来。但是这也让营销成立一门学问，从艺术走向科学。自由软件或开放源代码软件作为商品难以被世人接受和理解，但是，红帽走出了这个困局，也是目前为止唯一走出这个困境的公司，那么不得不说一下红帽对于营销的重视，以及对于相对一部分人的文化传递。opensource.com如是、enterprisersproject.com亦如是，甚至是社区都有专门的principle，DevOps在中国境内就是一堆开源工具的在云计算上的整合，哪里有什么文化、数字化转型可言。但是红帽针对企业的CIO却如此做了。再返回头看看红帽中国，就蛮可怜的了。
+ （2008）LWN.net 十年回顾 原文链接：LWN.net: a ten-year timeline (part 1)
+适兕点评：
+ 最近给在校的大学生们上了一节课，谈到了开放源代码软件的历史，我就直接从1998年这个特别的年份说起，而跳过了以往所有的一切，如果同学们觉得不满意，可以自己去追溯这段历史。那么这引起了我进一步的思考，如果让我去写一部开源的历史的话，我该怎么去写？大量的素材从哪里寻找？某种程度上，这不是简单的一些事件的堆砌，它还包含着技术发展、互联网发展、世界经济、社会氛围等等诸多的因素在里面，这让我难上加难，作为科学的产物：动态、生长、开放、多元。于是查到了这里，LWN的1998年，仍然是重要的。红帽获得重要投资，Linus的第二孩子诞生等等。当然还有1999年，红帽公开IPO，Eric Raymond 和 Richard Stallman 反目、IBM 支持Linux&amp;hellip;&amp;hellip;
+ 华为铤而走险，以百万用户当赌注 原文链接：Huawei&amp;rsquo;s Huge New Google Gamble Risks Losing Millions Of Users
+适兕点评：
+ 来自Forbes的Zak Doffman，针对华为最近在慕尼黑发布的meta30做了一些看法，列出了5大理由，具体我就不进行深入评论了，显然华为是深刻理解Rules的，由于地缘的存在，每一个成功的商家，对于当地的环境、风俗都有深刻的掌控，这是成功的必要条件之一。昨天读了一篇文章，说小女孩喜欢粉红色的衣服，完全是商家的促销作用，儿童行为学家证明了此点。当然，商家的植入，通过故事、电影、现代媒介。所以说开源在其中所起的作用，在商人眼里，还真的不算啥。
+ 开源金融：从稀缺到丰富 原文链接：Open-Source Finance: From Scarcity To Abundance
+适兕点评：
+ 本文的被采访者是开源界的老将：Dr. Marc Fleury，哪位将JBoss卖给红帽的才华横溢的人，颠覆中间件市场的变革者，最近它在搞基于区块链的相关，以及开始相信modern monetary theory (MMT)的一套说辞，关于这个我没有看明白。但是作者在文章的最后写道:&amp;ldquo;I believe that the limits of this movement are not academic or financial or even technical; they&amp;rsquo;re psychological — our own ability to believe in our imagination, our will and our power to manifest our dreams.</description>
+    </item>
     
     <item>
       <title>为什么没有人为Docker而哭泣？关于软件的锁定与开源；等开源之道一周精选(2019 09 01)</title>
@@ -1994,18 +2015,6 @@ Rackspace 的商业案例以后要多关注下。
  这个世界有多少CDN是使用Nginx做的？ 虽然我不知道准确数字，但是可以大胆的猜测，大约在70%左右。
 另外就是Nginx的商业模式值得借鉴。无论公司运营，还是基金会运营，重点是有用户数。只要有了用户基数了，其他收点钱那都是次要的。
  为什么开源项目的成功取决于背后公司的现金多少 原文链接：Why open source success is increasingly dependent on corporate cash</description>
-    </item>
-    
-    <item>
-      <title>开源英雄：Peter Fenton，开源界点石成金的风险投资者</title>
-      <link>http://www.ocselected.org/posts/opensource_leader/peter_fenton_has_magic_open_source_touch/</link>
-      <pubDate>Fri, 08 Sep 2017 22:07:56 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource_leader/peter_fenton_has_magic_open_source_touch/</guid>
-      <description>引子 Docker 的联合创始人皆CTO Solomon Hykes 的就曾表达过商业和开源的关系：开源的项目和产品犹如一枚硬币的两面，是的，没错，开源从诞生之日起，就是青睐于商业的。开源已经快20年了，或许成功的公司或项目你多多少少都听说过一些，如红帽、SpringSource、elasticsearch、Docker等等，但是你是否知道这些成功的开源公司或项目都和一个投资人有关？
-是的，他就是拥有开源魔力的投资人头衔的 Peter Fenton！
-Peter 在开源界的辉煌战绩 我们可以以列表的形式来展示以下 Peter Fenton的成绩单：
-   开源项目 金额 收购 备注     JBoss 3.5亿美元 被红帽收购    SprngSource 4.2亿美元 被VMware收购    Zimbra 3.5亿美元 被Yahoo！收购    FriendFeed  被Facebook收购    Xensource 5亿美元 被Citrix    Quip  被SalesForce收购     目前 Peter Fenton 还在投资的开源公司／项目：Docker（在2011年，那时的Docker还叫做DotCloud，Fenton就已经是其董事会的一员了）、 elasticsearch、Hortonworks、Cockroach lab等。是不是觉得这些项目都很眼熟？没错，它们都是现在处于创新风口的开源公司，拿 Docker 来说，不仅彻底改变了软件的交付模式，还让开源的创新遥遥领先。Docker 公司的“钱”途无量。</description>
     </item>
     
   </channel>
