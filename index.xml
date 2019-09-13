@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 06 Sep 2019 16:38:56 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2019 07:04:10 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>《开源之道》遇上《社会人科技评论》（播客首秀）</title>
+      <link>http://www.ocselected.org/posts/episode_of_open_source/we_and_open_source_software/</link>
+      <pubDate>Fri, 13 Sep 2019 07:04:10 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/episode_of_open_source/we_and_open_source_software/</guid>
+      <description> 引言 人们究竟对开源的依赖程度有多大？人们如何从哪里入手才能走进开源的世界？国内的拥抱开源程度大不大？盗版软件对于人们认识开源起到了什么作用？工具重要吗？可以帮助到更多的人拥抱开源吗？
+《开源之道》遇上《社会人科技评论》，放松的聊点什么。也算是按照年轻人的方式表达一下（据说今年国内的播客才真正流行起来。）。
+  </description>
+    </item>
     
     <item>
       <title>世界不是零和游戏：自由软件领袖Richard Stallman走进微软总部做演讲；Homebrew 也将MongoDB从核心库中删除 开源之道一周精选(2019 09 08)</title>
@@ -2087,24 +2098,6 @@ It&amp;rsquo;s not winner-takes-all, or even winner-takes-most. Such multi-vendo
 适兕点评：
  这是美国的一条新闻，这个世界到处都是平行世界。不用理会，世界大同还有很长的路要走。
  GitHub vs. Bitbucket vs. GitLab：让开发者纠结的Git 原文链接：GitHub vs. Bitbucket vs.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 07 08)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-08/</link>
-      <pubDate>Tue, 10 Jul 2018 08:40:26 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-08/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 SUSE 再易主，这次价值达25亿美金 原文链接：Micro Focus sells off chunk of business to EQT for $2.5bn
-适兕点评：
- 开源是如此的大行其道，即使是SUSE这样的夕阳企业，也被人重新提上日程。可见未来软件成为服务业，绝大多数的软件都须是开源的。也是一个必然的发展。不要小瞧服务业，这是很多产业的支柱：酒店、体育、即使是汽车，后服务市场也占据很大的份额。
-然而，InfoQ却发了一篇非常不专业的文稿。称开源也是蛮有钱的。但是，这或许就是人们对于开源的认知了呢。
- 开源是开放业务吗？ 原文链接：Is open source open for business?
-适兕点评：
- 这是一篇三观非常正确的文章。
-Open source is about collaboration and community. You&amp;rsquo;re not buying opaque software you can&amp;rsquo;t change and improve - you&amp;rsquo;re entering a rich innovative environment that your business could play an active role in. 这句话简直让人震撼。
-Across industries and academia open source collaborative software development has already become the standard.</description>
     </item>
     
   </channel>

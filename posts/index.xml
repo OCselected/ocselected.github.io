@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 06 Sep 2019 16:38:56 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2019 07:04:10 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>《开源之道》遇上《社会人科技评论》（播客首秀）</title>
+      <link>http://www.ocselected.org/posts/episode_of_open_source/we_and_open_source_software/</link>
+      <pubDate>Fri, 13 Sep 2019 07:04:10 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/episode_of_open_source/we_and_open_source_software/</guid>
+      <description> 引言 人们究竟对开源的依赖程度有多大？人们如何从哪里入手才能走进开源的世界？国内的拥抱开源程度大不大？盗版软件对于人们认识开源起到了什么作用？工具重要吗？可以帮助到更多的人拥抱开源吗？
+《开源之道》遇上《社会人科技评论》，放松的聊点什么。也算是按照年轻人的方式表达一下（据说今年国内的播客才真正流行起来。）。
+  </description>
+    </item>
     
     <item>
       <title>世界不是零和游戏：自由软件领袖Richard Stallman走进微软总部做演讲；Homebrew 也将MongoDB从核心库中删除 开源之道一周精选(2019 09 08)</title>
@@ -2088,25 +2099,6 @@ It&amp;rsquo;s not winner-takes-all, or even winner-takes-most. Such multi-vendo
  这是一篇三观非常正确的文章。
 Open source is about collaboration and community. You&amp;rsquo;re not buying opaque software you can&amp;rsquo;t change and improve - you&amp;rsquo;re entering a rich innovative environment that your business could play an active role in. 这句话简直让人震撼。
 Across industries and academia open source collaborative software development has already become the standard.</description>
-    </item>
-    
-    <item>
-      <title>个人做开源商业咨询的清单</title>
-      <link>http://www.ocselected.org/posts/business_model/list_of_open_source_consulting_single_people/</link>
-      <pubDate>Tue, 03 Jul 2018 11:40:33 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/business_model/list_of_open_source_consulting_single_people/</guid>
-      <description> 引子 如何找寻出意义来？如何才能让人心甘情愿的买你的账？
-清单 Shane Curcuru Shane 为企业或社区提供三类服务：
- 自由/开源软件项目品牌 ： 作为曾经的Apache基金会品牌管理V.P，拥有丰富的开源项目品牌经验，有超过200+项目。 社区指导： 在个人和项目均有经验的过来人来说，可以帮助人们迅速的找到开源的贡献的流程。 商业意识： 让企业了解自己所依赖的开源技术、法律以及人员。从而降低商业上的风险。  Shane 有着长长的履历：在1999年，通过发起 Apache Xalan 项目而成为Apache PMC，在2002~2008年一直都有在做ApacheCon 的组织委员，2009年之后，成为ASF的委员，做PR方面的事情。
-从2017年开始做咨询的业务。
-VM Brasseur Vicky，在开源界也算是元老了，也得过开源人物大奖，有着20多年的从业经历。今年也有一本新书出来《开源铸就你的未来》。
-Vicky在生意上有两个方向：
- 企业开源战略规划 个人演讲培训  具体的细节：
- 开源贡献培训 开源业务战略 在公司内使用开源 创立开源项目办公室 将内部的项目开源 开源社区管理和增长 自由和开源软件合规性 Inner Source  要知道，这些都是一个人的事情。
-Jaime Arredondo 相对Jaime就是籍籍无名之辈了。但是他有一直在撰写博客。
-佟辉 远景开源，FOSS Foresight， 最近在网易云音乐上播客，他的业务方向有两个：
- 帮助高校学生/毕业生成为开启开源贡献之旅，让开源贡献为个人事业铺路 提供专业定制化的开源业务咨询服务，帮助企业快速无痛的切换到开源开发中，协助企业完成开发者关系社区的构建和维护。  </description>
     </item>
     
   </channel>
