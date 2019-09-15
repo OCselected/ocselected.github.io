@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 13 Sep 2019 07:04:10 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2019 15:32:09 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kubernetes 的5周年成绩显赫、Java之父James Gosling的开源履历等开源之道精彩评论(2019 09 14)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-14/</link>
+      <pubDate>Fri, 13 Sep 2019 15:32:09 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-14/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 （2008）商业化对开源社区的影响 原文链接：The effects of commercialization on open-source communities
+适兕点评：
+ 起源于一位经济学家对于Gnome社区的研究结论，商业化对于开源社区是件好事，但前提是要防止商业公司将社区给Hajack了，这就看其中的利益均衡和谈判了，这个世界需要商业的运转，甚至起非常关键的作用，去掉这个因素，开源社区就很难走远，仅仅依靠制度、道德、工具是无法走远的，商业在任何部分都起着非常重要的作用。
+ 什么是颠覆式创新？ 原文链接：What Is Disruptive Innovation?
+适兕点评：
+ 创新的路从来就不是想象中那般一帆风顺，创新本身就是一个过程，经过岁月的证明，方能见分晓。开源算不算颠覆式创新？算的，它颠覆了很多既有的市场和模式，甚至是人们的思维方式，开发者的思考路径，而理解创新的前提是理解科学，如果将科学当做巫术，甚至是捆绑人类本身的途径，那么创新就无从谈起。不过是在原地踏步罢了，托马斯.库恩说道：”只有改变了游戏的规则，才能提供另外一种选择。”，既定的游戏规则下，哪里有什么选择，不过是是否服从的可怕境地。
+ Google 工程实践之代码Review 原文链接：How to do a code review
+适兕点评：
+ 类似的方法论是很多人特别渴望获得的，因为这样可以毋须思考，直接实践就可以了，就像市面上流行的《阿里巴巴java语言style》之类的一样，但是仔细瞅的话，我们会看到Google的一些思想，然后根据人和团队，才开发出工具，并约定一些规则。特别认可开头的那段话，代码Review是用来干嘛的，这个文档是用来干嘛的。
+ 敏捷的死亡与超越 原文链接：The Death of Agile and Beyond
+适兕点评：
+ 我曾经和Thoughtworks的一位资深敏捷专家聊过，他对于开源的成绩是不屑一顾的，因为以他在银行等大型业务开发的经验来看，敏捷无疑是帮助企业的，而开放式的开放方式无疑是太不可靠了，但是近来的几篇敏捷专家的文章，在反思他们这么多年来的成绩。敏捷的前提是增加确定性，目的明确，将人分割成无数的孤岛，但是在DevOps、持续交付以及开放源代码的大背景下，敏捷显得过于的倾向于一隅，而不是整体的信息流动。软件工程是应该有所颠覆了。
+ 9本修炼为沟通高手的书籍 原文链接：9 must-read books to make you a stronger communicator
+适兕点评：
+ 沟通，人类协作的第一要务，但是人与人之间的沟通却在不断的加深，在对于企业管理、社区建设、个人修养、家庭幸福方面都是至关重要的能力和技巧，这方面的培养应该重视起来，就像这个社会不仅仅只有技艺，即过分强调能够产生物和产品制造的技术，而更应该加强这方面的修养。有的时候，我觉得组织个关注沟通的小型组织可能对于人们更有益处。
+ 分析观察：开放源代码是伟大的平衡 原文链接：Analyst Watch: Is open source the great equalizer?</description>
+    </item>
     
     <item>
       <title>《开源之道》遇上《社会人科技评论》（播客首秀）</title>
@@ -2085,24 +2110,6 @@ Open source drives a sizable majority of the $200 billion-plus cloud computing m
  For developers, finding new ways to work more efficiently by embracing the open source model is essential if they hope to scale up their capacity to build not only products for the infotainment space, but other aspects of the connected/autonomous vehicles of the near future.
 其实不止于汽车业，任何产业都需要拥抱开源，诸如体育竞技、儿童教学、大学教育等，统统需要引入开源的哲学原则。
  Satya Nadella 和微软是如何重新赢回华尔街的 原文链接：How Satya Nadella and Microsoft won back Wall Street</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 07 15)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-15/</link>
-      <pubDate>Sun, 15 Jul 2018 09:17:14 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-15/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 为什么人们不喜欢只有一家供应商运营的开源项目 原文链接：Why you really don&amp;rsquo;t want just one vendor running an open source project
-适兕点评：
- http://oss.cash/ 目前来说比较全面的商业成功的开源软件公司了。当然红帽是最大的。
-看到这篇文章，我心里有种欣喜，这个世界不止我一人对于开源的商业行为感兴趣，它并不是简简单单的礼物经济，这中间牵扯的问题较多。非单一因素可以解释或覆盖。
-It&amp;rsquo;s not winner-takes-all, or even winner-takes-most. Such multi-vendor open source communities can generate many winners driving huge value for themselves and for their customers. 我比较赞赏这句话，红帽也不过是占据了一小部分罢了。相比于垄断集团的利益，红帽那点利润占据的份额很小。
- 为什么国防部应该先拥抱开源 原文链接：Why DOD Should Look Before Leaping into Open Source
-适兕点评：
- 这是美国的一条新闻，这个世界到处都是平行世界。不用理会，世界大同还有很长的路要走。
- GitHub vs. Bitbucket vs. GitLab：让开发者纠结的Git 原文链接：GitHub vs. Bitbucket vs.</description>
     </item>
     
   </channel>

@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 06 Sep 2019 16:38:56 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2019 15:32:09 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kubernetes 的5周年成绩显赫、Java之父James Gosling的开源履历等开源之道精彩评论(2019 09 14)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-14/</link>
+      <pubDate>Fri, 13 Sep 2019 15:32:09 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-14/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 （2008）商业化对开源社区的影响 原文链接：The effects of commercialization on open-source communities
+适兕点评：
+ 起源于一位经济学家对于Gnome社区的研究结论，商业化对于开源社区是件好事，但前提是要防止商业公司将社区给Hajack了，这就看其中的利益均衡和谈判了，这个世界需要商业的运转，甚至起非常关键的作用，去掉这个因素，开源社区就很难走远，仅仅依靠制度、道德、工具是无法走远的，商业在任何部分都起着非常重要的作用。
+ 什么是颠覆式创新？ 原文链接：What Is Disruptive Innovation?
+适兕点评：
+ 创新的路从来就不是想象中那般一帆风顺，创新本身就是一个过程，经过岁月的证明，方能见分晓。开源算不算颠覆式创新？算的，它颠覆了很多既有的市场和模式，甚至是人们的思维方式，开发者的思考路径，而理解创新的前提是理解科学，如果将科学当做巫术，甚至是捆绑人类本身的途径，那么创新就无从谈起。不过是在原地踏步罢了，托马斯.库恩说道：”只有改变了游戏的规则，才能提供另外一种选择。”，既定的游戏规则下，哪里有什么选择，不过是是否服从的可怕境地。
+ Google 工程实践之代码Review 原文链接：How to do a code review
+适兕点评：
+ 类似的方法论是很多人特别渴望获得的，因为这样可以毋须思考，直接实践就可以了，就像市面上流行的《阿里巴巴java语言style》之类的一样，但是仔细瞅的话，我们会看到Google的一些思想，然后根据人和团队，才开发出工具，并约定一些规则。特别认可开头的那段话，代码Review是用来干嘛的，这个文档是用来干嘛的。
+ 敏捷的死亡与超越 原文链接：The Death of Agile and Beyond
+适兕点评：
+ 我曾经和Thoughtworks的一位资深敏捷专家聊过，他对于开源的成绩是不屑一顾的，因为以他在银行等大型业务开发的经验来看，敏捷无疑是帮助企业的，而开放式的开放方式无疑是太不可靠了，但是近来的几篇敏捷专家的文章，在反思他们这么多年来的成绩。敏捷的前提是增加确定性，目的明确，将人分割成无数的孤岛，但是在DevOps、持续交付以及开放源代码的大背景下，敏捷显得过于的倾向于一隅，而不是整体的信息流动。软件工程是应该有所颠覆了。
+ 9本修炼为沟通高手的书籍 原文链接：9 must-read books to make you a stronger communicator
+适兕点评：
+ 沟通，人类协作的第一要务，但是人与人之间的沟通却在不断的加深，在对于企业管理、社区建设、个人修养、家庭幸福方面都是至关重要的能力和技巧，这方面的培养应该重视起来，就像这个社会不仅仅只有技艺，即过分强调能够产生物和产品制造的技术，而更应该加强这方面的修养。有的时候，我觉得组织个关注沟通的小型组织可能对于人们更有益处。
+ 分析观察：开放源代码是伟大的平衡 原文链接：Analyst Watch: Is open source the great equalizer?</description>
+    </item>
     
     <item>
       <title>世界不是零和游戏：自由软件领袖Richard Stallman走进微软总部做演讲；Homebrew 也将MongoDB从核心库中删除 开源之道一周精选(2019 09 08)</title>
@@ -1992,29 +2017,6 @@ Rackspace 的商业案例以后要多关注下。
  微软为何要重点驱动Linux的创新 原文链接：Why Microsoft will drive serious Linux innovation
 适兕点评：
  一语道破天机：Pigs, in other words, do fly. Microsoft, while maintaining its commitment to Windows, has made the necessary steps to not merely run on Linux but to help shape the future of Linux.</description>
-    </item>
-    
-    <item>
-      <title>开源之道两周精选(2017 9 10)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-9-10/</link>
-      <pubDate>Sun, 10 Sep 2017 11:32:36 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-9-10/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Apache软件基金会对9月5号对Struts漏洞的声明 原文链接：The Apache® Software Foundation Announces
-原文链接：The hackers who broke into Equifax exploited a flaw in open-source server software
-适兕点评：
- 声明，毋宁说是告知，告诉那些个信任上游的人们要及时的更新，不要被心怀叵测的人给利用了。
-类似的问题，大家已经似乎见惯不怪了，开源并不意味着安全，能够让世人聚焦和吸引是一件非常不容易的事情。这个对于开源的安全来说，又是一个案例。安全要始终在心中！
- Google对外公开了其针对开发者的文档风格指南 原文链接：Google publishes its documentation style guide for developers
-适兕点评：
- Google是一家学术性很强的公司，做事有理有据。无论是开源，还是文档，甚至是SRE，都是有胜有色。
-如果我是一家技术的主管，我一定会让人们学习这些指南。其实，就是我现在的身份我也要学习的。
- Nginx 开始超越其服务的根本，启动了应用平台 原文链接：Nginx goes beyond its server roots and launches its application platform
-适兕点评：
- 这个世界有多少CDN是使用Nginx做的？ 虽然我不知道准确数字，但是可以大胆的猜测，大约在70%左右。
-另外就是Nginx的商业模式值得借鉴。无论公司运营，还是基金会运营，重点是有用户数。只要有了用户基数了，其他收点钱那都是次要的。
- 为什么开源项目的成功取决于背后公司的现金多少 原文链接：Why open source success is increasingly dependent on corporate cash</description>
     </item>
     
   </channel>
