@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 13 Sep 2019 15:32:09 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2019 08:08:45 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源公司抱团取暖：商量如何面对云计算巨头的冲击；开源的扩展和持续，制造者和占有者的平衡之道；等开源之道一周精选(2019 09 22)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-22/</link>
+      <pubDate>Mon, 16 Sep 2019 08:08:45 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-22/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 同理心：DevOps的本质 原文链接：Empathy: The Essence of DevOps
+适兕点评：
+ 随着社会分工的精细化，人们越来越难以以直接体验的方式去感受他人的所处、所感、所想，而需要通过想象力、同理心来完成这件事，你必须能够体会到这个社会各个职业想要做到最好，应该怎么去做，持何种态度，即使具体到某一个行业，如信息产业，也需要不同素养和素质的人才，但只要能够称其为一个团体，那么他们一定有共同的目标，同理心不仅是DevOps的本质，也是每个人想实现目的的必修项，否则，几乎难以达成沟通，协作几无可能。
+ 红帽向自由软件基金会发出了一封公开信 原文链接：Open letter to the Free Software Foundation Board of Directors
+适兕点评：
+ 多样化是开源发展的重要基石，当涉及到人类的道德底线的时候，公众是可以做一些事情的。红帽希望自由软件基金会能够在接下来的主席选举中 are more diverse, including from a national, racial and gender perspective. 这一点至关重要！民主真的不是盖的，任何人都有可能犯错，哪怕是创始人！这与某些体制是截然相反的做法。
+ 自由和开源软件的历史 原文链接：History of free and open-source software
+适兕点评：
+ 由于在备课，就回忆一下，维基百科的内容当然不能错过。阅读这篇流水账式的文章，和阅读历史学家，如Daniel J. Boorstin所撰写的美国人三部曲，是不可同日而语的，开源必须放在一个更大的历史背景下，方能读出其意义，犹如现在当下的国际情形，开源能否作为反抗的武器？这是需要深度思考和探寻的，在一个习惯性不问为什么，只关心数字和方法论，然后投其所好的环境下，能否把开源走好？缺乏中立组织，都在downstream做事的情况下，能否发展出良好的生态？
+ FOSSA 获得850万美元A轮 原文链接：FOSSA scores $8.5 million Series A to help enterprise manage open-source licenses
+适兕点评：
+ FOSSA 在2017年创业，种子获得220万美金，旨在帮助开发者管理开源的许可证，一年半的时间以后，又上了一个新的台阶，随着开源的广泛采用，法律是一个必须的过程。反过来再来观看下本土的情形，1.</description>
+    </item>
     
     <item>
       <title>Kubernetes 的5周年成绩显赫、Java之父James Gosling的开源履历等开源之道精彩评论(2019 09 14)</title>
@@ -1993,30 +2014,6 @@ Rackspace 的商业案例以后要多关注下。
  微软以公司赞助的身份加入开源促进会 原文链接：Microsoft joins the Open Source Initiative as a corporate sponsor
 适兕点评：
  微软加入开源不是开玩笑，而是动真格的，历经2年的实践，微软彻底转型为一家云计算的公司，拥抱开源的战略功不可没！</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2017 9 16)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-9-16/</link>
-      <pubDate>Sat, 16 Sep 2017 10:30:33 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-9-16/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 新闻综述：Oracle非正式的杀死了Solaris 原文链接：News Roundup: Oracle unofficially kills off Solaris
-适兕点评：
- Oracle在8年前花了70个亿收购了Sun，然后把所有的产品都一一杀死，员工遣散。这是有多大的仇恨啊？
-文章最后给出的是电影《独立日》的片断。往外星人的电脑上传了一段病毒？什么病毒？有播放器的病毒。
- 企业如何从开源收获最大 原文链接：How companies can make the most from open source
-适兕点评：
- Linux基金会发布了“企业开源指南”，似乎是针对GitHub的“开源指南”的，这次撰写的阵容更加的强大，均是来自业界知名公司的开源办公室的高级管理人员，没有像GitHub那么的接地气。
-开源之道将会为大家逐一呈现。
- Instaclustr 发布了托管的开源即服务平台 原文链接：Instaclustr Launches Managed Open Source-as-a-Service Platform
-适兕点评：
- 其实这也是我所想要做的事情，开源可以以服务的形式提供给客户，正如红帽所做的那样，这样才有机会去创新，去解决现实中人们遇到的问题，然后才有机会去赚取利润。
-开源，商机无限，只是需要深入的挖掘和思考。人们遇到问题了吗？开源本身是最大的获取。那么真的是很大的利益吗？
- 微软为何要重点驱动Linux的创新 原文链接：Why Microsoft will drive serious Linux innovation
-适兕点评：
- 一语道破天机：Pigs, in other words, do fly. Microsoft, while maintaining its commitment to Windows, has made the necessary steps to not merely run on Linux but to help shape the future of Linux.</description>
     </item>
     
   </channel>
