@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 30 Jan 2018 14:56:29 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2019 18:09:12 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1998 年的那场改变世界的 Open Source Summit ———— 十月共读预热文</title>
+      <link>http://www.ocselected.org/posts/opensource_leader/1998-open-source-summit-trip-report/</link>
+      <pubDate>Sun, 22 Sep 2019 18:09:12 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_leader/1998-open-source-summit-trip-report/</guid>
+      <description>引言 开源之道所发起和组织的开源之道共读，在十月份要共读的书就是特别鼎力推荐的《Open Sources: Voices from the Open Source Revolution》，而说起这本书，我们不得不回忆一下20多年前的那场改变世界的聚会：Open Source Summit，由知名媒体人Tim O&amp;rsquo;Reilly发起，当时的会议聚集了顶尖的开源倡导者们，就开源的形式进行的沟通和交流，20多年后再返回来看他们的远见卓识，虽然有点事后拍彩虹马屁的嫌疑，但是却也从证明了这些创造者和践行者的成绩。我们就以当时留下的一张照片来述说一下他们对这个世界所做的贡献：
+他们有：
+ Apache 作者：Brian Behlendorf Python 创始人：Guido van Rossum 《大教堂与集市》作者：Eric S. Raymond Linux与Git创始人：Linus Torvalds Perl 创始人：Larry Wall Sendmail创始人：Eric Allman 开源事务副总裁：Michael Tiemann 计算机科学家、DNS协议设计者：Paul Vixie XScreenSaver 创始人和Mozilla 早期贡献者：Jamie Zawinski  等等。
+下文是对Python的创始人根据当时写的一篇随笔的编译。以让大家能够将想象力适当的扩展一下边界：
+开源峰会旅行报告  作者：Guido van Rossum 编译：开源之道  时间：1998年4月10日，星期五
+就在上个周二，刚刚举办过了 O&amp;rsquo;Reilly Freeware 开源峰会及招待会，我答应大家要写一篇关于此次峰会的报告的，并会发布到Python新闻组，并在这里郑重警告：本文可能带有作者的主管色彩，或许会在事实加上自己的意见———— 请自担风险，另外本文也比预料中的要长了很多，请原谅，因为会议的内容实在是太过于丰富了。
+背景介绍 Tim O&amp;rsquo;Reilly 认为，对于大多数人来说，免费提供的软件对于互联网而言尤其重要，在绝大多数人的眼里，以为互联网是构建在专有软件之上的，如 Solaris，Netscape和Microsoft产品。在这一点上，绝大多数人犯了长久以来人类一直犯的错误，事实上，互联网上很多关键的软件并非是商业的专有产品，如：
+ sendmail 承担着所有电子邮件的80%的运载 BIND 是主要的网络名称和IP地址的转换服务 Apache 是web 服务的头号软件 绝大多数的加密软件是PGP 最流行的脚本语言分别是perl、Tcl、Python 等等  以上所有这些卓越的软件的源代码都是可以自由获取！这究竟是为什么？当然，我们自己是非常清楚自己在干什么的，———— 这是一种伟大的软件开发模式！但是美国的这些公司对于这点的认识速度没有跟上，Netscape 发布 Mozilla源代码或许是一个不错的开始，———— 当这个消息不胫而走的时候，O&amp;rsquo;Reilly 就收到了来自各界的就freeware的询问，于是 O&amp;rsquo;Reilly 以其对于前沿的敏感度，迅速把握这一机会，这是一个推广开源软件的绝佳时机！大众应该得知这一切。</description>
+    </item>
     
     <item>
       <title>Bruce Perens，向全世界宣布“开源”的人</title>

@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 16 Sep 2019 08:08:45 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2019 18:06:42 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>参与开源项目可以找到更合适的工作之5大理由；GNOME 基金会因专利被起诉；开源之道一周精选(2019 09 29)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-29/</link>
+      <pubDate>Sat, 28 Sep 2019 18:06:42 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-29/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 删除自己亲手写的开源代码，因为美国ICE用了！ 原文链接：To fight ‘evil’ ICE, an engineer pulled his code off GitHub
+原文链接：You can&amp;rsquo;t open-source license morality
+原文链接：Open source developers: Stop blocking organizations you don&amp;rsquo;t like
+适兕点评：
+ 我没有想到这个事情搞这么大，整个开源圈都在疯传，甚至超过了Stallman离开GNU的新闻，大约是文化、制度和环境的差异吧，几乎没有什么感觉，在本土的情况，是难以察觉到使用了什么技术的，至于开源与否，有些事确实难以想象，如果让中国政府倡导使用开放源代码软件，至少在墙内开源，这超越任何人的想象力。因为没有基础可以参考，叠加效应便无从想象。
+相比之下，我还是较为赞同Matt Asay的观点：We can&amp;rsquo;t control outcomes and keep our code open source. We can only contribute the best code we can and hope that, on balance, much more good comes of it than bad. It&amp;rsquo;s the price of openness, and it&amp;rsquo;s worth paying.</description>
+    </item>
     
     <item>
       <title>开源公司抱团取暖：商量如何面对云计算巨头的冲击；开源的扩展和持续，制造者和占有者的平衡之道；等开源之道一周精选(2019 09 22)</title>
@@ -1996,24 +2011,6 @@ Rackspace 的商业案例以后要多关注下。
  免费的企业开源指南 原文链接：Free open source guides launched
 适兕点评：
  Creating an Open Source Program by Chris Aniszczyk of Cloud Native Computing Foundation; Jeff McAffer of Microsoft; Will Norris of Google; and Andrew Spyker of Netflix.</description>
-    </item>
-    
-    <item>
-      <title>开源之道二周精选(2017 9 29)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-9-29/</link>
-      <pubDate>Wed, 27 Sep 2017 22:52:21 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-9-29/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 YAHOO的搜索秘密武器开源了 原文链接：VERIZON REVEALS THE SECRETS OF YAHOO SEARCH
-原文链接：Yahoo is giving a critical piece of internal technology to the world &amp;ndash; just like it did with Hadoop
-适兕点评：
- 项目名称Vespa，最出来自于 Alltheweb搜索引擎。
-本文最大的特定是说Yahoo是如何利用Hadoop成功招徕人才的：As more people used Hadoop, it became easier for Yahoo to recruit people who were already familiar with the software. Vespa能否达到Hadoop同样的目的，让我们拭目以待！
-开源总是有目的的，在各种力量和因素平衡之后，取得意料的结果，也算是完满了。
- 微软以公司赞助的身份加入开源促进会 原文链接：Microsoft joins the Open Source Initiative as a corporate sponsor
-适兕点评：
- 微软加入开源不是开玩笑，而是动真格的，历经2年的实践，微软彻底转型为一家云计算的公司，拥抱开源的战略功不可没！</description>
     </item>
     
   </channel>

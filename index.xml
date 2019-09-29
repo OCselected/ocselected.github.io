@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 16 Sep 2019 08:08:45 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2019 18:06:42 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>参与开源项目可以找到更合适的工作之5大理由；GNOME 基金会因专利被起诉；开源之道一周精选(2019 09 29)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-29/</link>
+      <pubDate>Sat, 28 Sep 2019 18:06:42 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-29/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 删除自己亲手写的开源代码，因为美国ICE用了！ 原文链接：To fight ‘evil’ ICE, an engineer pulled his code off GitHub
+原文链接：You can&amp;rsquo;t open-source license morality
+原文链接：Open source developers: Stop blocking organizations you don&amp;rsquo;t like
+适兕点评：
+ 我没有想到这个事情搞这么大，整个开源圈都在疯传，甚至超过了Stallman离开GNU的新闻，大约是文化、制度和环境的差异吧，几乎没有什么感觉，在本土的情况，是难以察觉到使用了什么技术的，至于开源与否，有些事确实难以想象，如果让中国政府倡导使用开放源代码软件，至少在墙内开源，这超越任何人的想象力。因为没有基础可以参考，叠加效应便无从想象。
+相比之下，我还是较为赞同Matt Asay的观点：We can&amp;rsquo;t control outcomes and keep our code open source. We can only contribute the best code we can and hope that, on balance, much more good comes of it than bad. It&amp;rsquo;s the price of openness, and it&amp;rsquo;s worth paying.</description>
+    </item>
+    
+    <item>
+      <title>1998 年的那场改变世界的 Open Source Summit ———— 十月共读预热文</title>
+      <link>http://www.ocselected.org/posts/opensource_leader/1998-open-source-summit-trip-report/</link>
+      <pubDate>Sun, 22 Sep 2019 18:09:12 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_leader/1998-open-source-summit-trip-report/</guid>
+      <description>引言 开源之道所发起和组织的开源之道共读，在十月份要共读的书就是特别鼎力推荐的《Open Sources: Voices from the Open Source Revolution》，而说起这本书，我们不得不回忆一下20多年前的那场改变世界的聚会：Open Source Summit，由知名媒体人Tim O&amp;rsquo;Reilly发起，当时的会议聚集了顶尖的开源倡导者们，就开源的形式进行的沟通和交流，20多年后再返回来看他们的远见卓识，虽然有点事后拍彩虹马屁的嫌疑，但是却也从证明了这些创造者和践行者的成绩。我们就以当时留下的一张照片来述说一下他们对这个世界所做的贡献：
+他们有：
+ Apache 作者：Brian Behlendorf Python 创始人：Guido van Rossum 《大教堂与集市》作者：Eric S. Raymond Linux与Git创始人：Linus Torvalds Perl 创始人：Larry Wall Sendmail创始人：Eric Allman 开源事务副总裁：Michael Tiemann 计算机科学家、DNS协议设计者：Paul Vixie XScreenSaver 创始人和Mozilla 早期贡献者：Jamie Zawinski  等等。
+下文是对Python的创始人根据当时写的一篇随笔的编译。以让大家能够将想象力适当的扩展一下边界：
+开源峰会旅行报告  作者：Guido van Rossum 编译：开源之道  时间：1998年4月10日，星期五
+就在上个周二，刚刚举办过了 O&amp;rsquo;Reilly Freeware 开源峰会及招待会，我答应大家要写一篇关于此次峰会的报告的，并会发布到Python新闻组，并在这里郑重警告：本文可能带有作者的主管色彩，或许会在事实加上自己的意见———— 请自担风险，另外本文也比预料中的要长了很多，请原谅，因为会议的内容实在是太过于丰富了。
+背景介绍 Tim O&amp;rsquo;Reilly 认为，对于大多数人来说，免费提供的软件对于互联网而言尤其重要，在绝大多数人的眼里，以为互联网是构建在专有软件之上的，如 Solaris，Netscape和Microsoft产品。在这一点上，绝大多数人犯了长久以来人类一直犯的错误，事实上，互联网上很多关键的软件并非是商业的专有产品，如：
+ sendmail 承担着所有电子邮件的80%的运载 BIND 是主要的网络名称和IP地址的转换服务 Apache 是web 服务的头号软件 绝大多数的加密软件是PGP 最流行的脚本语言分别是perl、Tcl、Python 等等  以上所有这些卓越的软件的源代码都是可以自由获取！这究竟是为什么？当然，我们自己是非常清楚自己在干什么的，———— 这是一种伟大的软件开发模式！但是美国的这些公司对于这点的认识速度没有跟上，Netscape 发布 Mozilla源代码或许是一个不错的开始，———— 当这个消息不胫而走的时候，O&amp;rsquo;Reilly 就收到了来自各界的就freeware的询问，于是 O&amp;rsquo;Reilly 以其对于前沿的敏感度，迅速把握这一机会，这是一个推广开源软件的绝佳时机！大众应该得知这一切。</description>
+    </item>
     
     <item>
       <title>开源公司抱团取暖：商量如何面对云计算巨头的冲击；开源的扩展和持续，制造者和占有者的平衡之道；等开源之道一周精选(2019 09 22)</title>
@@ -2071,46 +2102,6 @@ Open source drives a sizable majority of the $200 billion-plus cloud computing m
 开源项目办公室所负责的事情形形色色，多种多样，其中包括：
  清楚地传达公司内外的开源战略 是战略的负责人，并监督战略的执行（请参考创建企业开源战略的指南） 促进商业产品和服务中开源的有效使用 确保代码是以高质量、不间断经常的方式向开源社区发布的 与开发人员社区合作，并要监督公司有效地回馈社区 在公司内部培养开源文化 维护开源的许可证合规，要审核和监视  对于公司来说，每家遇到的情况可能不一样，那么开源项目办公室的角色也要根据业务、产品、目标等进行相应的调整。目前还没有一个适用于所有公司的开源项目办公室模板，即使是单个行业的所有公司也是不可能的。这就很大程度上在创建过程中会遇到一些挑战，但是你可以从其它公司所分享的经验中学习，将之糅合以适应贵公司的特定需求。
  &amp;ldquo;在企业应用开源，是没有一套万能钥匙的，我是没法告诉你‘我所说的就是灵丹妙药，包治百病’。&amp;rdquo; - Jeff McAffer, 微软开源项目办公室总监.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 08 12)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-08-12/</link>
-      <pubDate>Mon, 13 Aug 2018 10:45:12 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-08-12/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 为什么说 GNU/Linux 没有在PC桌面有所建树是一件好事情 原文链接：Why the Failure to Conquer the Desktop Was Great for GNU/Linux
-适兕点评：
- 本文跟题目没有多大关系，图片也没有太多关系，这就是IT的作者离技术越来越远的原因，Linux Journal要死掉是有原因的。
-因为文章没有思考的独立观点。但是看看也无妨。
- GOOGLE面临中国跨越审查的障碍 原文链接：GOOGLE FACES HURDLES IN CHINA BEYOND CENSORSHIP
-适兕点评：
- 这篇文章和开源有何关系？准确点说是没有任何关系的。我也不知道为何会出现在我订阅的Google新闻报道里，虽然文章里出现了Open Source 这个词汇。但是它讲的是中国政府和Google之间的关系，Google 要在利益与原则之间进行权衡，中国要在稳定压倒一切之间，不惜抵抗到底。
-伴随着开源的流行，本土必然出现更多的开源使用者和搭便车者。
- 宜家的开源 Delaktig 沙发的设计改来改去 原文链接：Ikea’s ‘open source’ Delaktig sofa is designed to be built and rebuilt again and again
-适兕点评：
- 开源究竟在软件之外的地方该如何发展？The term “open source” is usually used to refer to software that is distributed free of charge to users who can adapt it at will.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 08 05)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-08-05/</link>
-      <pubDate>Sun, 05 Aug 2018 12:55:17 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-08-05/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 来自人工智能、自动驾驶、区块链、云计算等众多领域22家厂商加入Linux基金会 原文链接：Twenty-Two Organizations From AI, Automotive, Blockchain, Cloud and More Join The Linux Foundation and Invest in Open Source Technology
-适兕点评：
- 开源究竟能发展成什么样子？资本的大量加入，到底对基金会本身的冲击有多大？在大量公司参与的情况下，仅仅展示是否能够满足？
-反过来，很多厂商是处于一种非常不稳定的情形，往往是市场部一时心血来潮而投了点钱，一年下来，ROI计算很低的时候，下一年基本上就不干了。这才是问题的所在。看来ROI的那个研究还是应该做下去的，对企业蛮有帮助的。
- 微软收购GitHub这件事对于开发者社区意味着什么？ 原文链接：What Does Microsoft&amp;rsquo;s GitHub Acquisition Mean For The Developer Community?
-适兕点评：
- 不同的人有不同的看法，微软已经不是过去的微软了。所以算历史的旧账没有任何的意义。倒是往前看的观点比较值得关注和赞赏。
- Serverless 公司 A轮融资1千万美金 原文链接：Serverless, Inc. lands $10M Series A to build serverless developers platform
-适兕点评：
- 2015年成立，拥有20多个人的小团队。三年之后才拿到1千万，这对于中国本土的团队来讲简直不可思议。
- 《开放革命》书评：数字时代的所有权 原文链接：The Open Revolution, book review: Ownership in the digital age</description>
     </item>
     
   </channel>

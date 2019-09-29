@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 16 Sep 2019 08:08:45 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2019 18:06:42 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>参与开源项目可以找到更合适的工作之5大理由；GNOME 基金会因专利被起诉；开源之道一周精选(2019 09 29)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-29/</link>
+      <pubDate>Sat, 28 Sep 2019 18:06:42 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-29/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 删除自己亲手写的开源代码，因为美国ICE用了！ 原文链接：To fight ‘evil’ ICE, an engineer pulled his code off GitHub
+原文链接：You can&amp;rsquo;t open-source license morality
+原文链接：Open source developers: Stop blocking organizations you don&amp;rsquo;t like
+适兕点评：
+ 我没有想到这个事情搞这么大，整个开源圈都在疯传，甚至超过了Stallman离开GNU的新闻，大约是文化、制度和环境的差异吧，几乎没有什么感觉，在本土的情况，是难以察觉到使用了什么技术的，至于开源与否，有些事确实难以想象，如果让中国政府倡导使用开放源代码软件，至少在墙内开源，这超越任何人的想象力。因为没有基础可以参考，叠加效应便无从想象。
+相比之下，我还是较为赞同Matt Asay的观点：We can&amp;rsquo;t control outcomes and keep our code open source. We can only contribute the best code we can and hope that, on balance, much more good comes of it than bad. It&amp;rsquo;s the price of openness, and it&amp;rsquo;s worth paying.</description>
+    </item>
+    
+    <item>
+      <title>1998 年的那场改变世界的 Open Source Summit ———— 十月共读预热文</title>
+      <link>http://www.ocselected.org/posts/opensource_leader/1998-open-source-summit-trip-report/</link>
+      <pubDate>Sun, 22 Sep 2019 18:09:12 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_leader/1998-open-source-summit-trip-report/</guid>
+      <description>引言 开源之道所发起和组织的开源之道共读，在十月份要共读的书就是特别鼎力推荐的《Open Sources: Voices from the Open Source Revolution》，而说起这本书，我们不得不回忆一下20多年前的那场改变世界的聚会：Open Source Summit，由知名媒体人Tim O&amp;rsquo;Reilly发起，当时的会议聚集了顶尖的开源倡导者们，就开源的形式进行的沟通和交流，20多年后再返回来看他们的远见卓识，虽然有点事后拍彩虹马屁的嫌疑，但是却也从证明了这些创造者和践行者的成绩。我们就以当时留下的一张照片来述说一下他们对这个世界所做的贡献：
+他们有：
+ Apache 作者：Brian Behlendorf Python 创始人：Guido van Rossum 《大教堂与集市》作者：Eric S. Raymond Linux与Git创始人：Linus Torvalds Perl 创始人：Larry Wall Sendmail创始人：Eric Allman 开源事务副总裁：Michael Tiemann 计算机科学家、DNS协议设计者：Paul Vixie XScreenSaver 创始人和Mozilla 早期贡献者：Jamie Zawinski  等等。
+下文是对Python的创始人根据当时写的一篇随笔的编译。以让大家能够将想象力适当的扩展一下边界：
+开源峰会旅行报告  作者：Guido van Rossum 编译：开源之道  时间：1998年4月10日，星期五
+就在上个周二，刚刚举办过了 O&amp;rsquo;Reilly Freeware 开源峰会及招待会，我答应大家要写一篇关于此次峰会的报告的，并会发布到Python新闻组，并在这里郑重警告：本文可能带有作者的主管色彩，或许会在事实加上自己的意见———— 请自担风险，另外本文也比预料中的要长了很多，请原谅，因为会议的内容实在是太过于丰富了。
+背景介绍 Tim O&amp;rsquo;Reilly 认为，对于大多数人来说，免费提供的软件对于互联网而言尤其重要，在绝大多数人的眼里，以为互联网是构建在专有软件之上的，如 Solaris，Netscape和Microsoft产品。在这一点上，绝大多数人犯了长久以来人类一直犯的错误，事实上，互联网上很多关键的软件并非是商业的专有产品，如：
+ sendmail 承担着所有电子邮件的80%的运载 BIND 是主要的网络名称和IP地址的转换服务 Apache 是web 服务的头号软件 绝大多数的加密软件是PGP 最流行的脚本语言分别是perl、Tcl、Python 等等  以上所有这些卓越的软件的源代码都是可以自由获取！这究竟是为什么？当然，我们自己是非常清楚自己在干什么的，———— 这是一种伟大的软件开发模式！但是美国的这些公司对于这点的认识速度没有跟上，Netscape 发布 Mozilla源代码或许是一个不错的开始，———— 当这个消息不胫而走的时候，O&amp;rsquo;Reilly 就收到了来自各界的就freeware的询问，于是 O&amp;rsquo;Reilly 以其对于前沿的敏感度，迅速把握这一机会，这是一个推广开源软件的绝佳时机！大众应该得知这一切。</description>
+    </item>
     
     <item>
       <title>开源公司抱团取暖：商量如何面对云计算巨头的冲击；开源的扩展和持续，制造者和占有者的平衡之道；等开源之道一周精选(2019 09 22)</title>
@@ -2038,42 +2069,6 @@ Open source drives a sizable majority of the $200 billion-plus cloud computing m
  For developers, finding new ways to work more efficiently by embracing the open source model is essential if they hope to scale up their capacity to build not only products for the infotainment space, but other aspects of the connected/autonomous vehicles of the near future.
 其实不止于汽车业，任何产业都需要拥抱开源，诸如体育竞技、儿童教学、大学教育等，统统需要引入开源的哲学原则。
  Satya Nadella 和微软是如何重新赢回华尔街的 原文链接：How Satya Nadella and Microsoft won back Wall Street</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 07 15)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-15/</link>
-      <pubDate>Sun, 15 Jul 2018 09:17:14 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-15/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 为什么人们不喜欢只有一家供应商运营的开源项目 原文链接：Why you really don&amp;rsquo;t want just one vendor running an open source project
-适兕点评：
- http://oss.cash/ 目前来说比较全面的商业成功的开源软件公司了。当然红帽是最大的。
-看到这篇文章，我心里有种欣喜，这个世界不止我一人对于开源的商业行为感兴趣，它并不是简简单单的礼物经济，这中间牵扯的问题较多。非单一因素可以解释或覆盖。
-It&amp;rsquo;s not winner-takes-all, or even winner-takes-most. Such multi-vendor open source communities can generate many winners driving huge value for themselves and for their customers. 我比较赞赏这句话，红帽也不过是占据了一小部分罢了。相比于垄断集团的利益，红帽那点利润占据的份额很小。
- 为什么国防部应该先拥抱开源 原文链接：Why DOD Should Look Before Leaping into Open Source
-适兕点评：
- 这是美国的一条新闻，这个世界到处都是平行世界。不用理会，世界大同还有很长的路要走。
- GitHub vs. Bitbucket vs. GitLab：让开发者纠结的Git 原文链接：GitHub vs. Bitbucket vs.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 07 08)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-08/</link>
-      <pubDate>Tue, 10 Jul 2018 08:40:26 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-08/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 SUSE 再易主，这次价值达25亿美金 原文链接：Micro Focus sells off chunk of business to EQT for $2.5bn
-适兕点评：
- 开源是如此的大行其道，即使是SUSE这样的夕阳企业，也被人重新提上日程。可见未来软件成为服务业，绝大多数的软件都须是开源的。也是一个必然的发展。不要小瞧服务业，这是很多产业的支柱：酒店、体育、即使是汽车，后服务市场也占据很大的份额。
-然而，InfoQ却发了一篇非常不专业的文稿。称开源也是蛮有钱的。但是，这或许就是人们对于开源的认知了呢。
- 开源是开放业务吗？ 原文链接：Is open source open for business?
-适兕点评：
- 这是一篇三观非常正确的文章。
-Open source is about collaboration and community. You&amp;rsquo;re not buying opaque software you can&amp;rsquo;t change and improve - you&amp;rsquo;re entering a rich innovative environment that your business could play an active role in. 这句话简直让人震撼。
-Across industries and academia open source collaborative software development has already become the standard.</description>
     </item>
     
   </channel>
