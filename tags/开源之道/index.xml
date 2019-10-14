@@ -7,10 +7,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 03 Oct 2019 10:54:49 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2019 17:19:40 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开放源代码是如何吞噬软件的</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/book_review_of_hosas/</link>
+      <pubDate>Fri, 11 Oct 2019 17:19:40 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/book_review_of_hosas/</guid>
+      <description>远大的志向、疲乏的心身，加上心浮气躁，我已准备好随时可能接踵而至的精神崩溃。 —————— 爱德华.威尔逊《缤纷的生命》
+ 开源之道2019图书共读历史书评 过去八个月的导读与书评：
+ 《软件悖论:商业软件的崛起与陨落》 Subscribed：为什么说订阅才是塑造贵司的未来的模式，如何实现它 我们正处于开源的黄金时代 —— 《开放与共享》导读与书评 得开发者得天下 ———— 开发者是如何征服世界的 开源开发者内在的素质：匠艺 —— 《匠人》书评与导读 开源 &amp;ndash; 一部黑客伦理与商业资本相互妥协的融合史（《黑客》读后感） 开放源代码软件的三重境界 ———— 《大教堂与集市》读后感 开放源代码软件的生产之道  开源之道图书共读短评  Gordon 以技术布道师和行业分析师的角度探究了开源，以更为广阔的角度来探讨软件的现状和未来！挖掘开源之所以被历史所承认背后的驱动力！一定能让你觉得眼前一亮！不过，你可能读之前需要一些准备知识。 &amp;ndash; 适兕 开源之道图书共读活动发起人
+ 作者 Gordon Haff 其人 关于和蔼可亲的Gordon Haff，相信大家并不陌生，我们在开源之道解读红帽企业开源调查报告2019一文中专门做过介绍。这里就再详细介绍一番。
+Gordon 是在红帽担任技术布道师，他常常在各种技术场合下做演讲，当然也是很多线上媒体（Enterprisers Projec 、Opensource.com、 connections、TechTarget）的作者，他也经营着自己的播客———— CloudyChat，有很多的相关专家出没，
+内容介绍 书的内容非常的接地气，没有博士们的学究气，也没有高深的技术难题，可以说这本书是开源之道2019年图书共读当中最为浅显易懂的一本书。老少咸宜！
+全书共分7章，顺序表达、一气呵成！丝毫没有拖泥带水的现象。以下内容就是开源之道为大家缩减后的内容。
+第一章：自由和开源软件的源头 软件是从什么时候？在哪里？出现的，软件最初的形态是什么样的？何时从硬件分离出来的？AT&amp;amp;T 收取Unix的授权费用是怎么回事？
+以上这些标志性事件，在该章中均有所描述。看官可以像浏览关键的图片一样，将这个源头给搞清楚。
+ 历史是治病的良方。 ———— 丹尼尔.布尔斯廷
+ 第二章：从“free”到“open source” 四两拨千斤的将这两个纠缠不清的词汇说清楚，“free software” 从此未在书中出现。本章作者交待了即使是软件“open source”了，相关的许可授权、合规性仍然是存在的，这依旧是一个讲究法的世界，不可以无法无天或佛法无边的。
+并顺带的提了一下关于开放源代码软件的上、游，项目与产品，乃至参与开放源代码项目的一些参考材料和注意事项。
+第三章：开放源代码开发模式 这是很多人达成的共识，开源的核心意义就是开放式的开放模式，本章详述了有关分布式协作、治理模式、共同体成员的形成、如何吸引新的成员、交流的重要性！！！看起来似乎没什么，透明才是精要。
+第四章：开放源代码何以立身？ 为何是开放源代码的复兴？这个要追溯到过去，以及现实社会和科学世界的理论：创新、协作和沟通、参与、激励、衡量。 开源之道以为这章是本书的精华所在。</description>
+    </item>
+    
+    <item>
+      <title>开源不止是瞎哔哔，拥抱SaaS 还是很厉害的；开源也要打假；等，开源之道一周精选(2019 10 13)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-13/</link>
+      <pubDate>Wed, 09 Oct 2019 22:32:43 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-13/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 Ken Thompson的 Unix 主机密码 原文链接：Ken Thompson&amp;rsquo;s Unix password
+适兕点评：
+ 在早几年的BSD 3的源码当中，包含了一些开发者的个人密码：/etc/passwd，这些都是Unix的创始人或早期的开发者，都是大名鼎鼎的顶级开发者：Dennis Ritchie, Ken Thompson, Brian W. Kernighan, Steve Bourne and Bill Joy.KenThompson 的密码最为复杂，现如今也在强大的计算强力破解了：ZghOT0eRm4U9s:p/q2-q4!，关于国际象棋的故事！Ken Thompson本身就有国际象棋计算的背景。 有意义的事情总是经年累月而成的！
+ 开源不止是瞎哔哔，拥抱SaaS 还是很厉害的 原文链接：Not just a barking dog: Open-source developers grow to embrace software as a service
+适兕点评：
+ 来自MARK ALBERTSON的一篇文章，开头引言颇为精彩，说到了Unix下的一个邮件通知的程序Biff，借以讽刺多年以来，开源总是雷声大雨点小，没见几家赚到钱的。但是话锋一转，发现一些投资者开始关注开源，并探索出了开源即服务的非常好的模式来。甚至引用了a16z的最新一篇分析报告。虽然作者潜移默化还是不怎么看好开源，但是所列举的数据似乎最后态度也有所转变。未来总是让人充满期待！否则还能怎么样？
+ 2019年最佳开源软件（InfoWorld） 原文链接：The best open source software of 2019
+适兕点评：
+ 从云原生到大数据处理，再到机器学习框架，开源占据了最为领先和创新的领域，InfoWorld 虽然没有公布为何这么选的细节，但足以证明开源的崛起，在看看这些软件背后的公司和基金会，小众只要参与的机会了，精英们从全球的各个角落来搜寻人才，这才是开源及其社区发生开发模式革命的真正利器之所在。软件本身还不足以说明什么，这不过是一个过渡性的结果罢了，未来还会有更多的结果！
+ Extreme 为 Linux基金会送上StackStorm 这份大礼 原文链接：Extreme Gifts StackStorm to Linux Foundation</description>
+    </item>
     
     <item>
       <title>开源技术可以解决贸易战？Richard Stallman 给微软的十条公开建议，等开源之道一周精选(2019 10 06)</title>
@@ -2025,49 +2066,6 @@ Open source drives a sizable majority of the $200 billion-plus cloud computing m
  宜家的开源 Delaktig 沙发的设计改来改去 原文链接：Ikea’s ‘open source’ Delaktig sofa is designed to be built and rebuilt again and again
 适兕点评：
  开源究竟在软件之外的地方该如何发展？The term “open source” is usually used to refer to software that is distributed free of charge to users who can adapt it at will.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 08 05)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-08-05/</link>
-      <pubDate>Sun, 05 Aug 2018 12:55:17 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-08-05/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 来自人工智能、自动驾驶、区块链、云计算等众多领域22家厂商加入Linux基金会 原文链接：Twenty-Two Organizations From AI, Automotive, Blockchain, Cloud and More Join The Linux Foundation and Invest in Open Source Technology
-适兕点评：
- 开源究竟能发展成什么样子？资本的大量加入，到底对基金会本身的冲击有多大？在大量公司参与的情况下，仅仅展示是否能够满足？
-反过来，很多厂商是处于一种非常不稳定的情形，往往是市场部一时心血来潮而投了点钱，一年下来，ROI计算很低的时候，下一年基本上就不干了。这才是问题的所在。看来ROI的那个研究还是应该做下去的，对企业蛮有帮助的。
- 微软收购GitHub这件事对于开发者社区意味着什么？ 原文链接：What Does Microsoft&amp;rsquo;s GitHub Acquisition Mean For The Developer Community?
-适兕点评：
- 不同的人有不同的看法，微软已经不是过去的微软了。所以算历史的旧账没有任何的意义。倒是往前看的观点比较值得关注和赞赏。
- Serverless 公司 A轮融资1千万美金 原文链接：Serverless, Inc. lands $10M Series A to build serverless developers platform
-适兕点评：
- 2015年成立，拥有20多个人的小团队。三年之后才拿到1千万，这对于中国本土的团队来讲简直不可思议。
- 《开放革命》书评：数字时代的所有权 原文链接：The Open Revolution, book review: Ownership in the digital age</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 07 29)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-29/</link>
-      <pubDate>Mon, 30 Jul 2018 17:25:37 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-29/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 推出开源计划不过是想赢得下一场竞争——量子计算罢了 原文链接：Launching Open Source Initiatives Is the Next Battleground In Quantum Computing
-适兕点评：
- 微软推出Q#开源项目，这不，Google 推出了Criq量子计算开源项目。
-正如我原来所说，开源是爱好者和人才的战场，学习的成本正在降低，但是，机会均等，并不等于结果均等。
- LibreOffice 入住微软软件商店——收费的哦 原文链接：Free, open source office suite LibreOffice arrives in the Microsoft Store &amp;ndash; with a price tag
-适兕点评：
- 消费者有自主权！ 这是做企业的最起码的尊重。
-这个世界不是零和游戏。
- 为什么说开源对于软件开发越发的重要 原文链接：Exclusive: Why open source is critical to software development
-适兕点评：
- 尽管是Pivotal的私有看法。但是却是非常正确的。
- 开源认证：准备考试篇 原文链接：Open Source Certification: Preparing for the Exam
-适兕点评：
- Linux基金会的关于开源技术技能的认证。其实我对这篇文章的内容没什么兴趣。我是很欣赏这句话： “Open source is the new normal in tech today, with open components and platforms driving mission-critical processes at organizations everywhere.</description>
     </item>
     
   </channel>

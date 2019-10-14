@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 03 Oct 2019 10:54:49 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2019 22:32:43 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源不止是瞎哔哔，拥抱SaaS 还是很厉害的；开源也要打假；等，开源之道一周精选(2019 10 13)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-13/</link>
+      <pubDate>Wed, 09 Oct 2019 22:32:43 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-13/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 Ken Thompson的 Unix 主机密码 原文链接：Ken Thompson&amp;rsquo;s Unix password
+适兕点评：
+ 在早几年的BSD 3的源码当中，包含了一些开发者的个人密码：/etc/passwd，这些都是Unix的创始人或早期的开发者，都是大名鼎鼎的顶级开发者：Dennis Ritchie, Ken Thompson, Brian W. Kernighan, Steve Bourne and Bill Joy.KenThompson 的密码最为复杂，现如今也在强大的计算强力破解了：ZghOT0eRm4U9s:p/q2-q4!，关于国际象棋的故事！Ken Thompson本身就有国际象棋计算的背景。 有意义的事情总是经年累月而成的！
+ 开源不止是瞎哔哔，拥抱SaaS 还是很厉害的 原文链接：Not just a barking dog: Open-source developers grow to embrace software as a service
+适兕点评：
+ 来自MARK ALBERTSON的一篇文章，开头引言颇为精彩，说到了Unix下的一个邮件通知的程序Biff，借以讽刺多年以来，开源总是雷声大雨点小，没见几家赚到钱的。但是话锋一转，发现一些投资者开始关注开源，并探索出了开源即服务的非常好的模式来。甚至引用了a16z的最新一篇分析报告。虽然作者潜移默化还是不怎么看好开源，但是所列举的数据似乎最后态度也有所转变。未来总是让人充满期待！否则还能怎么样？
+ 2019年最佳开源软件（InfoWorld） 原文链接：The best open source software of 2019
+适兕点评：
+ 从云原生到大数据处理，再到机器学习框架，开源占据了最为领先和创新的领域，InfoWorld 虽然没有公布为何这么选的细节，但足以证明开源的崛起，在看看这些软件背后的公司和基金会，小众只要参与的机会了，精英们从全球的各个角落来搜寻人才，这才是开源及其社区发生开发模式革命的真正利器之所在。软件本身还不足以说明什么，这不过是一个过渡性的结果罢了，未来还会有更多的结果！
+ Extreme 为 Linux基金会送上StackStorm 这份大礼 原文链接：Extreme Gifts StackStorm to Linux Foundation</description>
+    </item>
     
     <item>
       <title>开源技术可以解决贸易战？Richard Stallman 给微软的十条公开建议，等开源之道一周精选(2019 10 06)</title>
@@ -1976,29 +1995,6 @@ AI 应该是什么样子的？统治这个世界？
 The iPhone, which arrived in 2007, changed all of that. Since then, data traffic on AT&amp;amp;T&amp;rsquo;s network has increased more than 2,500-fold. To meet those demands cost effectively, AT&amp;amp;T needed to operate more like Facebook and Google, which use cheap hardware powered by open-source software to support billions of users around the world.
 随着开源的潮流来临，AT&amp;amp;T需要放宽视野，加入这个潮流。至于项目本身，其实并不重要。Linux基金会也有失败的项目，不是吗？
  为什么说现在是微软和Google在领导这开源的这场革命 原文链接：Why Microsoft and Google are now leading the open source revolution</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选（2017-10-29）</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-10-29/</link>
-      <pubDate>Sun, 29 Oct 2017 14:24:50 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-10-29/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 2017年20家最具价值开源解决方案提供商 原文链接：20 Most Promising Open Source Solution Providers - 2017
-适兕点评：
- 采用开源的企业越发的多，是否给诸多的供应商或服务商带来机会了呢？虽然本文所列出的均是应用软件如ERP、CRM等，基础设施厂商占的比重则少的可怜。这和我固定的井底之蛙的思维有关。
-有句话叫：“你手里拿着锤子，眼里就只有钉子。” 所以要刻意训练自己的视野，不断的尝试其它领域，让自己能够有足够的思考素材。
-开源不仅仅是指基础设施，还有很多地方开源更能发挥创新。
- Rackspace 结束了对开源项目打折扣的托管 原文链接：Rackspace ends discount hosting for open source projects
-适兕点评：
- Rackspace 对于开源的影响，包括OpenStack的贡献，后来的犹豫和踌蹰，再到各种危机。
-其实我现在开始好奇这家公司的决策者，到底是个什么样的角色？对待开源从爱到恨，再到放弃。再看AWS和Azure、Google，则是拥抱开源，相互抢夺开发者。
-Rackspace 的商业案例以后要多关注下。
- 为什么批评亚马逊在开放源代码“坏”是毫无意义的 原文链接：Why it&amp;rsquo;s pointless to criticize Amazon for being &amp;lsquo;bad&amp;rsquo; at open source
-适兕点评：
- 嗯，最近看到开源界有些人在谴责AWS对待开源的态度。这篇文章分析的非常中肯，我特别喜欢其中的三段，直接摘抄：
-开源是让所有公司受益的大于付出的：You know, like every single company on earth, inside or outside of tech, probably even including Red Hat.</description>
     </item>
     
   </channel>

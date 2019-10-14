@@ -7,10 +7,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 03 Oct 2019 10:54:49 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2019 17:19:40 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开放源代码是如何吞噬软件的</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/book_review_of_hosas/</link>
+      <pubDate>Fri, 11 Oct 2019 17:19:40 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/book_review_of_hosas/</guid>
+      <description>远大的志向、疲乏的心身，加上心浮气躁，我已准备好随时可能接踵而至的精神崩溃。 —————— 爱德华.威尔逊《缤纷的生命》
+ 开源之道2019图书共读历史书评 过去八个月的导读与书评：
+ 《软件悖论:商业软件的崛起与陨落》 Subscribed：为什么说订阅才是塑造贵司的未来的模式，如何实现它 我们正处于开源的黄金时代 —— 《开放与共享》导读与书评 得开发者得天下 ———— 开发者是如何征服世界的 开源开发者内在的素质：匠艺 —— 《匠人》书评与导读 开源 &amp;ndash; 一部黑客伦理与商业资本相互妥协的融合史（《黑客》读后感） 开放源代码软件的三重境界 ———— 《大教堂与集市》读后感 开放源代码软件的生产之道  开源之道图书共读短评  Gordon 以技术布道师和行业分析师的角度探究了开源，以更为广阔的角度来探讨软件的现状和未来！挖掘开源之所以被历史所承认背后的驱动力！一定能让你觉得眼前一亮！不过，你可能读之前需要一些准备知识。 &amp;ndash; 适兕 开源之道图书共读活动发起人
+ 作者 Gordon Haff 其人 关于和蔼可亲的Gordon Haff，相信大家并不陌生，我们在开源之道解读红帽企业开源调查报告2019一文中专门做过介绍。这里就再详细介绍一番。
+Gordon 是在红帽担任技术布道师，他常常在各种技术场合下做演讲，当然也是很多线上媒体（Enterprisers Projec 、Opensource.com、 connections、TechTarget）的作者，他也经营着自己的播客———— CloudyChat，有很多的相关专家出没，
+内容介绍 书的内容非常的接地气，没有博士们的学究气，也没有高深的技术难题，可以说这本书是开源之道2019年图书共读当中最为浅显易懂的一本书。老少咸宜！
+全书共分7章，顺序表达、一气呵成！丝毫没有拖泥带水的现象。以下内容就是开源之道为大家缩减后的内容。
+第一章：自由和开源软件的源头 软件是从什么时候？在哪里？出现的，软件最初的形态是什么样的？何时从硬件分离出来的？AT&amp;amp;T 收取Unix的授权费用是怎么回事？
+以上这些标志性事件，在该章中均有所描述。看官可以像浏览关键的图片一样，将这个源头给搞清楚。
+ 历史是治病的良方。 ———— 丹尼尔.布尔斯廷
+ 第二章：从“free”到“open source” 四两拨千斤的将这两个纠缠不清的词汇说清楚，“free software” 从此未在书中出现。本章作者交待了即使是软件“open source”了，相关的许可授权、合规性仍然是存在的，这依旧是一个讲究法的世界，不可以无法无天或佛法无边的。
+并顺带的提了一下关于开放源代码软件的上、游，项目与产品，乃至参与开放源代码项目的一些参考材料和注意事项。
+第三章：开放源代码开发模式 这是很多人达成的共识，开源的核心意义就是开放式的开放模式，本章详述了有关分布式协作、治理模式、共同体成员的形成、如何吸引新的成员、交流的重要性！！！看起来似乎没什么，透明才是精要。
+第四章：开放源代码何以立身？ 为何是开放源代码的复兴？这个要追溯到过去，以及现实社会和科学世界的理论：创新、协作和沟通、参与、激励、衡量。 开源之道以为这章是本书的精华所在。</description>
+    </item>
+    
+    <item>
+      <title>开源不止是瞎哔哔，拥抱SaaS 还是很厉害的；开源也要打假；等，开源之道一周精选(2019 10 13)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-13/</link>
+      <pubDate>Wed, 09 Oct 2019 22:32:43 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-13/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 Ken Thompson的 Unix 主机密码 原文链接：Ken Thompson&amp;rsquo;s Unix password
+适兕点评：
+ 在早几年的BSD 3的源码当中，包含了一些开发者的个人密码：/etc/passwd，这些都是Unix的创始人或早期的开发者，都是大名鼎鼎的顶级开发者：Dennis Ritchie, Ken Thompson, Brian W. Kernighan, Steve Bourne and Bill Joy.KenThompson 的密码最为复杂，现如今也在强大的计算强力破解了：ZghOT0eRm4U9s:p/q2-q4!，关于国际象棋的故事！Ken Thompson本身就有国际象棋计算的背景。 有意义的事情总是经年累月而成的！
+ 开源不止是瞎哔哔，拥抱SaaS 还是很厉害的 原文链接：Not just a barking dog: Open-source developers grow to embrace software as a service
+适兕点评：
+ 来自MARK ALBERTSON的一篇文章，开头引言颇为精彩，说到了Unix下的一个邮件通知的程序Biff，借以讽刺多年以来，开源总是雷声大雨点小，没见几家赚到钱的。但是话锋一转，发现一些投资者开始关注开源，并探索出了开源即服务的非常好的模式来。甚至引用了a16z的最新一篇分析报告。虽然作者潜移默化还是不怎么看好开源，但是所列举的数据似乎最后态度也有所转变。未来总是让人充满期待！否则还能怎么样？
+ 2019年最佳开源软件（InfoWorld） 原文链接：The best open source software of 2019
+适兕点评：
+ 从云原生到大数据处理，再到机器学习框架，开源占据了最为领先和创新的领域，InfoWorld 虽然没有公布为何这么选的细节，但足以证明开源的崛起，在看看这些软件背后的公司和基金会，小众只要参与的机会了，精英们从全球的各个角落来搜寻人才，这才是开源及其社区发生开发模式革命的真正利器之所在。软件本身还不足以说明什么，这不过是一个过渡性的结果罢了，未来还会有更多的结果！
+ Extreme 为 Linux基金会送上StackStorm 这份大礼 原文链接：Extreme Gifts StackStorm to Linux Foundation</description>
+    </item>
     
     <item>
       <title>开源技术可以解决贸易战？Richard Stallman 给微软的十条公开建议，等开源之道一周精选(2019 10 06)</title>
@@ -2058,46 +2099,6 @@ Tidelift 这家公司能否完成很多人都难以完成的事情，它既不�
  规划项目 一旦你启动了自己的开源计划，那么接下来就要考虑很多细节性的内容，从而将此开源的计划变成现实的成果。那么现在就让我们考虑下如何按部就班的实现，首当其冲的就是决定发布或捐赠那些代码。
 决定发布或捐赠那些代码 对于开源一个项目来说，你首要决定的就是从下面二者之间作出抉择：
  贵司自己来创建、发布、维护项目的方方面面 捐赠项目给现有的中立基金会来维护和管理  如果说是在考虑将贵司现成的项目开源，则需要考虑另外的一个问题：是将项目所有的代码都开源了呢？还是只开源部分内容？</description>
-    </item>
-    
-    <item>
-      <title>开源之道三周精选(2018 09 02)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-09-02/</link>
-      <pubDate>Sat, 01 Sep 2018 08:02:52 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-09-02/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Linux 基金会：加速开源创新 原文链接：The Linux Foundation: Accelerating Open Source Innovation
-适兕点评：
- Linux 基金会在2018年的发展是前所未有的！ 连好莱坞都找上门来。软件的发展超乎我们的一般直觉，企业开发软件的成本和创新遇到了前所未有的难题，面对业务的加速变化，项目的循环周期缩短的周期领开发者们瞠目结舌。 但是在中国本土，如此的一切却显得麻木、迟钝。甚至开源之道竟然难以维系。坚持到啥时候算啥时候吧，但愿我是错的。
- storj 实验室为开源创建了盈利的机会 原文链接：Storj Labs to create revenue opportunities for open source
-原文链接：Storj Labs forges open-source vendors and cloud services alliance
-适兕点评：
- 云计算到底是不是开源的杀手？Redis 更改协议的事件绝非是普通的事件。那么Storj所搞得这个联盟到底意味着什么？也值得我们持续的跟进。
-商业和开源，需要一个伦理学家来诠释这一切。
-Open source drives a sizable majority of the $200 billion-plus cloud computing market, but very little of that revenue currently makes its way directly back to open-source projects and companies.</description>
-    </item>
-    
-    <item>
-      <title>Linux基金会企业开源指南系列之一——公司如何创建开源项目办公室</title>
-      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/creating-an-open-source-program/</link>
-      <pubDate>Sun, 19 Aug 2018 23:46:09 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/creating-an-open-source-program/</guid>
-      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
-如何创建开源项目办公室 处于中心位置的开源项目办公室是在公司内部成立的一个指定的部门，用户开源的支持、培育、共享、诠释、以及增长，通过这样一个机构，企业可以明确地建立和执行开源战略，为其公司的决策层、开发人员、营销人员以及其他员工提供必要的工具，从而让开源帮助公司在运营中取得成功。
-本文的目标是帮助读者理清楚为什么、以及如何在公司的内部去建立这样的一个部门，进而去管理开源的使用，更为重要的是会告诉读者如何去让公司的开发者去参与到外部的开源项目中去。开源办公室所涉及到的类别有：角色和职责、公司结构、开源管理项目的因素、如何选择和雇佣开源项目经理等等。
-目录
- 为什么要创建开源项目办公室 开源项目办公室的角色 举例：Google的开源项目办公室 建立开源办公室 项目结构 管理角色 建立政策和流程 写在最后 开源项目工作招聘清单举例 鸣谢  Why create an open source program office 当今的时代，开源软件已经是企业使用的主流形式，几乎囊括了所有的行业：零售、金融、汽车等等。然而，这些企业的执行领导和决策者们却并不了解开源本身。
-这样就引来了一个大问题，开源软件的使用和管理采用传统的业务规划行不通，尽管企业在其它方面可能一直以来都运营的非常顺利和成功。开源创新有其自身独特的一套方法论，甚至和传统的企业流程还有点格格不入，其中最大的一个不同点就是开源的开发是协作和透明的，而传统的软件和企业则往往采用的是封闭的和专有的。对于很多企业来讲，采用开源的方法需要更改固有的做法，往往会遇到极大的困难和障碍。
-解决以上问题就是设立开源项目办公室的最大优势。通过创建开源项目办公室，企业可以启用、精简、组织等方式来看待开源的利用，从而直接和企业的长期业务规划齐头并进。开源项目办公室旨在成为公司级别的开源运营和架构的核心，帮助将所有必需的组件集中到一起。
-这其中包括代码的使用、分发、选型、审计以及其它的政策，乃至培训开发者、确保法律上的合规性、以及激励和构建社区的参与。开源项目办公室还要做公司内外部的所有和开源相关的布道和沟通。
- &amp;ldquo;每家公司都应该成立一个开源项目办公室，其要有一个合理而雄心勃勃的计划来影响软件生态系统的各个部门。如果企业要加大其影响力的话、清晰的传达开源的消息、最大限度的发挥项目的影响力、或者是提高其产品开发的效率，开源项目办公室无论在哪个方面，都可以很好的发挥相应的效用。John Mark Walker 开源创业者网络（OSEN）的创始人 &amp;ldquo;
- The role of the open source program office 归根结底，开源项目办公室是要体现出其价值的，其要在公司内部鼓励开源的使用、参与贡献、以及创造，从而让公司获得战略上的优势。
-一个成功的开源项目办公室可以通过为开发者及其团队建立流程，从而为企业在使用开源方面获得巨大收益。它能够鼓励编码的标准、组织的实践、流程的建立、以及优良工具集的使用。同时，开源项目办公室可以帮助开发者避免或消除不必要的、呆板的流程，以帮助项目顺利的开发等等
-开源项目办公室所负责的事情形形色色，多种多样，其中包括：
- 清楚地传达公司内外的开源战略 是战略的负责人，并监督战略的执行（请参考创建企业开源战略的指南） 促进商业产品和服务中开源的有效使用 确保代码是以高质量、不间断经常的方式向开源社区发布的 与开发人员社区合作，并要监督公司有效地回馈社区 在公司内部培养开源文化 维护开源的许可证合规，要审核和监视  对于公司来说，每家遇到的情况可能不一样，那么开源项目办公室的角色也要根据业务、产品、目标等进行相应的调整。目前还没有一个适用于所有公司的开源项目办公室模板，即使是单个行业的所有公司也是不可能的。这就很大程度上在创建过程中会遇到一些挑战，但是你可以从其它公司所分享的经验中学习，将之糅合以适应贵公司的特定需求。
- &amp;ldquo;在企业应用开源，是没有一套万能钥匙的，我是没法告诉你‘我所说的就是灵丹妙药，包治百病’。&amp;rdquo; - Jeff McAffer, 微软开源项目办公室总监.</description>
     </item>
     
   </channel>
