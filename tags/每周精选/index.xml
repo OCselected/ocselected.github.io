@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Oct 2019 22:32:43 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2019 16:02:32 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>微软已经是一家开源公司；开源：从共同体到商业化，等，开源之道一周精选(2019 10 20)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-20/</link>
+      <pubDate>Wed, 16 Oct 2019 16:02:32 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-20/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 开源：从共同体到商业化 原文链接：Open Source: From Community to Commercialization
+适兕点评：
+ 这是一篇让我佩服的五体投地的文章，投资人的角度来看开源软件的商业化能力，以及能够完成什么。开源之道曾经翻译过作者的一篇关于文章：为什么说下一个红帽永远不会出现：开源经济学的启示，在开放式方法崛起的今天，产生更好的、质量更高、更安全的开源软件，商业化是萃取精英的不错的手段，就像有关知识付费的故事，牛有四个胃一样，总有人想直接跨过繁琐的链条！强烈推荐阅读。
+ 如何通过贡献开源项目获得职业生涯的突破 原文链接：How to advance your career by contributing to open source projects
+适兕点评：
+ 大多数时候，我们是在和偏见做对抗，这个偏见不仅来自人类社会，也来自自身的心理，更让人沮丧的是，有的时候连偏见都谈不上，只是认知不够而已。如何获得一份可以胜任的工作，这是一个难以三言两语说清楚的问题，正如开源之道费尽口舌，也不过是想和大家阐述清楚开源的价值罢了。开源对于一名开发者而言究竟意味着什么？不是什么拿来就用，核心意义在于开源为开发者提供了一个能够表现自己意义的机会。 不过这又牵扯出另外一个问题，那就是关于志愿做事这件事，先免费做事，然后坐下来谈，这样的事情，和中国“斗米恩、担米仇”，本质是严重对立冲突的。我在努力思考和调查这个现象。
+ 为了绿色环保，能源行业开始拥抱开源 原文链接：To Go Green, the Energy Industry Goes Open Source
+适兕点评：
+ https://github.com/OSGP ，开源智能网格平台，正在往Linux基金会旗下的能够子基金会转移。开源之道可以慢慢的感受到开源的演进，逐步在各行各业发挥作用，软件的开发从来就不是什么一劳永逸的事情，而是在不断演化的过程，这个过程必须开源，因为它是思维的产物，不是一座桥，也不是一栋大楼。而且工程化水平也没有达到医院、制造等行业，craftman 之下的开源，如何合理的核算成本，这大概是每位管理者的难题。
+ 到 Stack Overflow上拷贝的代码，导致GitHub的项目漏洞频发 原文链接：Copying Codes From Stack Overflow Leads To Vulnerable GitHub Projects
+适兕点评：
+ “天下文章一大抄”，这个道理没错，程序员都是懒惰的，人都是懒惰的。本文其实写的一般，倒是它引用的论文，看起来蛮精彩的，学者们绞尽脑汁研究代码复用的优势和劣势。这依然不能阻挡人们使用代码snpieet的决心，复制粘贴才是程序的主流。论文推荐阅读。
+ GitLab 获得2亿6千八百万E轮融资 原文链接：GitLab nets $268 million, plus more funding news for San Francisco software companies</description>
+    </item>
     
     <item>
       <title>开源不止是瞎哔哔，拥抱SaaS 还是很厉害的；开源也要打假；等，开源之道一周精选(2019 10 13)</title>
@@ -1980,21 +2002,6 @@ AI 应该是什么样子的？统治这个世界？
 国人“一万年太久，只争朝夕。” 为了短期利益，可以毁坏一切规则。
 引用一段话：“OpenStack fails its user base if it simply delivers innovation without integration.”
  多数公司并不能找到开源社区这根线索，这里给大家一点明示 原文链接：Most companies can&amp;rsquo;t buy an open source community clue.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2017 11 05)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-11-05/</link>
-      <pubDate>Sun, 05 Nov 2017 14:23:18 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-11-05/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 AT&amp;amp;T 加入了开源的人工智能战争 原文链接：AT&amp;amp;T JOINS THE OPEN-SOURCE ARTIFICIAL-INTELLIGENCE ARMS RACE
-适兕点评：
- 连线的文章，我喜欢读，是因为它能够在很小的篇幅就说明问题，来龙去脉。不过本文的核心还是这一段话：
-The iPhone, which arrived in 2007, changed all of that. Since then, data traffic on AT&amp;amp;T&amp;rsquo;s network has increased more than 2,500-fold. To meet those demands cost effectively, AT&amp;amp;T needed to operate more like Facebook and Google, which use cheap hardware powered by open-source software to support billions of users around the world.
-随着开源的潮流来临，AT&amp;amp;T需要放宽视野，加入这个潮流。至于项目本身，其实并不重要。Linux基金会也有失败的项目，不是吗？
- 为什么说现在是微软和Google在领导这开源的这场革命 原文链接：Why Microsoft and Google are now leading the open source revolution</description>
     </item>
     
   </channel>

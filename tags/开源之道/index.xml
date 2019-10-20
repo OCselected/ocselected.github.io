@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 11 Oct 2019 17:19:40 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2019 16:02:32 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>微软已经是一家开源公司；开源：从共同体到商业化，等，开源之道一周精选(2019 10 20)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-20/</link>
+      <pubDate>Wed, 16 Oct 2019 16:02:32 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-20/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 开源：从共同体到商业化 原文链接：Open Source: From Community to Commercialization
+适兕点评：
+ 这是一篇让我佩服的五体投地的文章，投资人的角度来看开源软件的商业化能力，以及能够完成什么。开源之道曾经翻译过作者的一篇关于文章：为什么说下一个红帽永远不会出现：开源经济学的启示，在开放式方法崛起的今天，产生更好的、质量更高、更安全的开源软件，商业化是萃取精英的不错的手段，就像有关知识付费的故事，牛有四个胃一样，总有人想直接跨过繁琐的链条！强烈推荐阅读。
+ 如何通过贡献开源项目获得职业生涯的突破 原文链接：How to advance your career by contributing to open source projects
+适兕点评：
+ 大多数时候，我们是在和偏见做对抗，这个偏见不仅来自人类社会，也来自自身的心理，更让人沮丧的是，有的时候连偏见都谈不上，只是认知不够而已。如何获得一份可以胜任的工作，这是一个难以三言两语说清楚的问题，正如开源之道费尽口舌，也不过是想和大家阐述清楚开源的价值罢了。开源对于一名开发者而言究竟意味着什么？不是什么拿来就用，核心意义在于开源为开发者提供了一个能够表现自己意义的机会。 不过这又牵扯出另外一个问题，那就是关于志愿做事这件事，先免费做事，然后坐下来谈，这样的事情，和中国“斗米恩、担米仇”，本质是严重对立冲突的。我在努力思考和调查这个现象。
+ 为了绿色环保，能源行业开始拥抱开源 原文链接：To Go Green, the Energy Industry Goes Open Source
+适兕点评：
+ https://github.com/OSGP ，开源智能网格平台，正在往Linux基金会旗下的能够子基金会转移。开源之道可以慢慢的感受到开源的演进，逐步在各行各业发挥作用，软件的开发从来就不是什么一劳永逸的事情，而是在不断演化的过程，这个过程必须开源，因为它是思维的产物，不是一座桥，也不是一栋大楼。而且工程化水平也没有达到医院、制造等行业，craftman 之下的开源，如何合理的核算成本，这大概是每位管理者的难题。
+ 到 Stack Overflow上拷贝的代码，导致GitHub的项目漏洞频发 原文链接：Copying Codes From Stack Overflow Leads To Vulnerable GitHub Projects
+适兕点评：
+ “天下文章一大抄”，这个道理没错，程序员都是懒惰的，人都是懒惰的。本文其实写的一般，倒是它引用的论文，看起来蛮精彩的，学者们绞尽脑汁研究代码复用的优势和劣势。这依然不能阻挡人们使用代码snpieet的决心，复制粘贴才是程序的主流。论文推荐阅读。
+ GitLab 获得2亿6千八百万E轮融资 原文链接：GitLab nets $268 million, plus more funding news for San Francisco software companies</description>
+    </item>
     
     <item>
       <title>开放源代码是如何吞噬软件的</title>
@@ -2046,26 +2068,6 @@ Open source drives a sizable majority of the $200 billion-plus cloud computing m
 开源项目办公室所负责的事情形形色色，多种多样，其中包括：
  清楚地传达公司内外的开源战略 是战略的负责人，并监督战略的执行（请参考创建企业开源战略的指南） 促进商业产品和服务中开源的有效使用 确保代码是以高质量、不间断经常的方式向开源社区发布的 与开发人员社区合作，并要监督公司有效地回馈社区 在公司内部培养开源文化 维护开源的许可证合规，要审核和监视  对于公司来说，每家遇到的情况可能不一样，那么开源项目办公室的角色也要根据业务、产品、目标等进行相应的调整。目前还没有一个适用于所有公司的开源项目办公室模板，即使是单个行业的所有公司也是不可能的。这就很大程度上在创建过程中会遇到一些挑战，但是你可以从其它公司所分享的经验中学习，将之糅合以适应贵公司的特定需求。
  &amp;ldquo;在企业应用开源，是没有一套万能钥匙的，我是没法告诉你‘我所说的就是灵丹妙药，包治百病’。&amp;rdquo; - Jeff McAffer, 微软开源项目办公室总监.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 08 12)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-08-12/</link>
-      <pubDate>Mon, 13 Aug 2018 10:45:12 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-08-12/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 为什么说 GNU/Linux 没有在PC桌面有所建树是一件好事情 原文链接：Why the Failure to Conquer the Desktop Was Great for GNU/Linux
-适兕点评：
- 本文跟题目没有多大关系，图片也没有太多关系，这就是IT的作者离技术越来越远的原因，Linux Journal要死掉是有原因的。
-因为文章没有思考的独立观点。但是看看也无妨。
- GOOGLE面临中国跨越审查的障碍 原文链接：GOOGLE FACES HURDLES IN CHINA BEYOND CENSORSHIP
-适兕点评：
- 这篇文章和开源有何关系？准确点说是没有任何关系的。我也不知道为何会出现在我订阅的Google新闻报道里，虽然文章里出现了Open Source 这个词汇。但是它讲的是中国政府和Google之间的关系，Google 要在利益与原则之间进行权衡，中国要在稳定压倒一切之间，不惜抵抗到底。
-伴随着开源的流行，本土必然出现更多的开源使用者和搭便车者。
- 宜家的开源 Delaktig 沙发的设计改来改去 原文链接：Ikea’s ‘open source’ Delaktig sofa is designed to be built and rebuilt again and again
-适兕点评：
- 开源究竟在软件之外的地方该如何发展？The term “open source” is usually used to refer to software that is distributed free of charge to users who can adapt it at will.</description>
     </item>
     
   </channel>
