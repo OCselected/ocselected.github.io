@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.ocselected.org/posts/community_management/chaoss_metrics_201908_learning/</loc>
+    <lastmod>2019-10-24T18:06:47+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.ocselected.org/posts/opensource_leader/what-open-source-community-means-me/</loc>
     <lastmod>2019-10-20T17:18:41+08:00</lastmod>
   </url>
@@ -2202,7 +2207,7 @@
   
   <url>
     <loc>http://www.ocselected.org/posts/</loc>
-    <lastmod>2019-10-20T17:18:41+08:00</lastmod>
+    <lastmod>2019-10-24T18:06:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2267,14 +2272,14 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2019-09-12T16:27:21+08:00</lastmod>
+    <loc>http://www.ocselected.org/topics/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2018-04-27T11:49:36+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/topics/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2018-04-27T11:49:36+08:00</lastmod>
+    <loc>http://www.ocselected.org/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2019-09-12T16:27:21+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2310,7 +2315,7 @@
   
   <url>
     <loc>http://www.ocselected.org/</loc>
-    <lastmod>2019-10-20T17:18:41+08:00</lastmod>
+    <lastmod>2019-10-24T18:06:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2430,7 +2435,7 @@
   
   <url>
     <loc>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2019-05-20T18:07:49+08:00</lastmod>
+    <lastmod>2019-10-24T18:06:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   

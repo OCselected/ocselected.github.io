@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 20 Oct 2019 17:18:41 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2019 18:06:47 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源软件项目的定性和定量分析指标 ———— CHAOSS 指标解析</title>
+      <link>http://www.ocselected.org/posts/community_management/chaoss_metrics_201908_learning/</link>
+      <pubDate>Thu, 24 Oct 2019 18:06:47 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/community_management/chaoss_metrics_201908_learning/</guid>
+      <description>“科学管理在实质上要求任何一个具体机构或机构中的工人及管理人员进行一场全面的心理革命，没有这样的心理革命，科学管理就不存在。” ———— 泰勒 《科学管理原理》
+ 引言 笔者最近阅读了CHAOSS 在8月份发布的开源软件项目的量化指标，颇受启发，于是索性将所想所得和大家分享一番，开源之道走过了这几年，抽丝剥茧，一直试图找到和大家探讨的话题，一同解决令人困惑的难题，但是缺少必要的积累，一直倾向于定性的探索和研究，鉴于知识背景和视野的不同，于是很难找到让大家感兴趣的话题，甚至某位朋友善意的提醒：“多讲点实在的”，多年过去了，我也终于对关于定性的问题有了一些理解和认识，那么这也意味着是该集中起来做些定量的指标衡量的事情了。
+当然，伴随着科技的进步，很多人开始迷信数据，比如流行GitHub star数量、fork数量等等，这尤其体现在某些公司做考核之用，非常的实惠。但是这并不是开源之道所看重的，尽管量化指标很重要，正如红帽开源项目办公室的高级首席社区架构师Brian Proffitt（同时也是CHAOSS的治理委员会成员）所言，你有了指标和衡量，就一定保证Community是健康的吗？对此开源之道是颇为赞同的，一直以来坚持在没有搞清楚性质之前，不要去迷信数据的缘由。
+如果搞清楚了定性的问题，那么量化指标是自然而然的事情，毕竟这是一个科学管理为王的世界。所以开源之道接下来会有意的写一些关于指标量化方面的文章和知识输出。
+什么是CHAOSS？ 开源的重要是不言而喻的，大家默认都是承认开源对于我们所生活的世界的重要性的，也是可以看得到的，唯一的问题就是所有权下的经济形式限制了很多人的思考模式，如何从中获利？需不需要承担其中的道德责任？更有甚者便是随着开源生态的形成，问题反而更多，大家对其的关注度越来越高。例如：
+ 开源的贡献者想知道那些开源项目具有影响力，自己该往哪个方向努力？ 开源Community则希望能够吸收到更多的成员、确保始终如一的质量、以及奖励那些做出重大贡献的成员。 拥抱开源的公司则希望知道那些Community和软件项目是值得合作的？通过交流能够产生一定的影响，以及想评估自己的员工在开源当中的工作。 开源非盈利组织，如基金会则希望能够识别出Community的需求，最好能做到积极的响应，进一步评估自身的工作，以促进community的良性发展  所有的这些问题，都是需要一些数据和指标来进行衡量的。当然也是所有开源Community所必需的内容。
+为了解决这些问题，CHAOSS 应运而生，开发开源的指标、方法论、以及相应的软件项目，旨在让开源项目能够良性的发展且具有可持续性，通过衡量开源项目的健康度和可持续性，进一步，CHAOSS 会寻求提高开源项目健康度和可持续性的可操作性，进而让所有的利益相关者能够做出更加明智的决策，而不是在盲人摸象般的行进。
+CHAOSS 的目标 目前来说，有三类目标：
+ 建立与实施无关的度量标准，以衡量Community活跃度、贡献以及健康度 开发和集成相应的开源软件，来分析Community的开发 构建可复制的项目健康报告  CHAOSS 是Linux基金会下的项目。区分了两个委员会和五大工作组。委员会主要区分为指标委员会和软件委员会。顾名思义，指标委员会即是实现上述目标一的决策机构。
+五大工作组的任务和方向 工作组的目标即完善开源Community相关的指标，并确保其可以使用相应的软件可以实现。使用 GitHub 的项目进行组织和管理，具体的有：
+ 多样性和包容性：目的是在开放源代码项目中引入经验以衡量一致性和包容性，并在可能的情况下获得软件的支撑。 Evolution指标（用于软件开发项目）：专注于开源项目的生命周期， 通用指标：所有的用于Community和开源相关的指标均在这个工作组进行，除非需要特别的对待进而分离出更多的工作组。 经济价值：围绕开源项目和Community的相关经济活动。 风险评估：重点关注与开源风险有关的指标。  解析指标 让我们回到CHAOSS在2019年8月份发布的指标本身上，总结起来可以使用下面这个表格来涵盖所有的内容：
+   指标项 （尝试回答的）问题 开源之道注解     组织多样性 何谓贡献者的组织多样性？    不同的参会票 在会议中，如何设置不同的票来体现多样性和包容性？ 例如女性贡献者   在会议上的行为准则 在会议中，行为准则体现出多样性和包容性。    家庭友好程度 使家庭能够一起参加会议，进而阐释会议的多样性和包容性    项目行为准则 项目行为准则如何支持多样性和包容性？    导师制度 我们的导师制度在支持项目的多样性和包容性方面的效果如何？    代码变更 在指定时间段内对源代码进行了哪些更改？    代码变更行数 在特定时间段内对源代码进行的所有更改中的代码行数（添加、删除的都算）的总和是多少？    Review 在一个时间段内，有哪些对项目进行更改的review请求    已接受的 Review 在代码的变更中有多少已经接受的review    新建issue 在一个时间段内，有多少新建的issue？    issue活跃度 在一个时间段内，有多少issue是保持活跃的？    关闭的issue 在一个时间段内，有多少是已经处理完毕的issue    Elephant Factor Community的工作分布均匀程度如何?</description>
+    </item>
     
     <item>
       <title>开源 Community 对我来说意味着什么（译文）</title>
@@ -2091,24 +2111,6 @@ Facebook 和 Google 在开源项目展示有着非常良好的标杆效果。
 Tidelift 这家公司能否完成很多人都难以完成的事情，它既不是基金会，也不是社区知名人士，即 &amp;ldquo;We couldn&amp;rsquo;t understand why something like this didn&amp;rsquo;t exist, so we created it,&amp;rdquo; says Tidelift CEO Donald Fischer, a former executive at Red Hat who founded the company with other open source veterans.
 拭目以待吧，这在天朝是简直不可思议。
  为什么阿里巴巴会和 MariaDB达成协议？云平台面临新的战争 原文链接：Why Alibaba&amp;rsquo;s deal with MariaDB might open up a new front in the cloud wars</description>
-    </item>
-    
-    <item>
-      <title>Linux基金会企业开源指南系列之三--一份让你彻底理解开源的读书列表</title>
-      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/open_source_reading_list/</link>
-      <pubDate>Sun, 16 Sep 2018 22:50:51 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/open_source_reading_list/</guid>
-      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
-开源阅读列表 本阅读列表大名鼎鼎的 TODO Group 社区针对开源办公室相关人员所强烈推荐的图书列表。
-英文原版：New Frontiers in Open Innovation, OUP Oxford, Henry William Chesbrough 著 (2014）
-中文版：开放式创新:创新方法论之新语境,复旦大学出版社,亨利·切萨布鲁夫(Henry (作者), Chesbrough) (作者), 维姆·范哈弗贝克(Wim (作者), Vanhaverbeke) (作者), 乔·韦斯特(Joel (作者), West)等 ,第1版 (2016年6月1日)
-关于企业界开放式创新的研究课题新的发现和思考。
-开放式创新是一种新出现的管理范式，强调在创新过程中，运用超越企业边界的内外部知识来引入新事物。在理解和从事开放式创新过程中，我们会面对各种各样的困惑，如公司怎样才能走出传统的知识封锁，超越其组织管理的边界？企业怎样才能敞开吸收来自外部的知识？企业怎样才能向外部提供对方需要的知识？
-英文版：The Open Organization: Igniting Passion and Performance, Harvard Business Review 出版社, Jim Whitehurst 著 (2015)
-中文版：开放式组织,机械工业出版社; 第1版 (2016年9月8日),Jim Whitehurst (作者), 王洋 (译者)
-在《开放式组织》中，开放源代码的巨人——红帽公司的总裁和CEO &amp;ndash; 吉姆·怀特赫斯特根据他在开源领域的亲身经历，绘出了一份领导力的蓝图。通过真实记录他从传统经理人转变为 “首席问题解决者”的过程，吉姆清晰地展示了如何让员工、合作伙伴和客户热情高涨地参与到社区当中，如何借此点燃大家的热情、鼓励创新，从而在真正的开放、合作和共同使命的基础上，将现代企业带向成功。 《开放式组织》写给大公司、小公司、成熟型公司、艰难成长的创业型公司的领导者和期待成为领导者的人们，展示如何打造一个新型的开放式组织模式，获得当今企业必须具备的速度和灵活性。
-以下内容是著名社区opensource.com根据 开放式组织 专门写的几个系列，以小书的形式发布，目前有5本，可以自由浏览。汇总地址：开放式组织小书系列，以下分别介绍：</description>
     </item>
     
   </channel>
