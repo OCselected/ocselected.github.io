@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 20 Oct 2019 17:18:41 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2019 17:02:12 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fedora 在招收新人方面又出新招；企业的开源之路，等开源之道一周精选(2019 10 27)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-27/</link>
+      <pubDate>Sat, 26 Oct 2019 17:02:12 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-27/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 为什么说应该雇佣 DevOps的拥抱者，而不是所谓的专家 原文链接：Why you should hire DevOps enablers, not experts
+适兕点评：
+ 知识的迭代和技术的发展，单靠所谓的经验已经非常难以胜任当下的大多数岗位，因为过去的情景很难再现！无论是DevOps，还是开源，其实没有什么所谓的专家，重要的是有一个开放的学习态度，驱动力才是王道，这在国内的教育的体系里显得特别的明显，这是一个知识体系陈旧的世界，这是一个试图静止一切的世界，
+ Fedora 在招收新人方面又出新招 原文链接：Fedora Join is trying a new people focused workflow for newcomers
+适兕点评：
+ Community 招收新成员是所有社区的难题，除了一部分是公司的员工之外，面向全球互联网招募志愿者或贡献者是一件非常难的事情，有的时候需要那么一点道德的高度，有的时候需要一些价值观的传播，更多的时候需要金钱的支撑，使用同理心思维来考虑一下，你为什么要参加这个Community？希望达成什么目的？兴趣、爱好、价值观、认同感、归属感、学习、解决问题、薪水&amp;hellip;&amp;hellip;无穷无尽的问题摆在Community的建设面前，尽管我有非常好的秘诀，但是大部分人听了这个秘诀之后就放弃了。Fedora这篇文章的初衷，我非常的认同：Not the tasks, not the processes, the people. 不关注人本身，而下发任务这些事情，就是操之过急的表现。
+ 贸易战下的滥觞：华为用户的更多坏消息 原文链接：New Huawei Google Confirmation: More Bad News For Users
+原文链接：Huawei exec acknowledges it&amp;rsquo;s struggling without Google support
+适兕点评：
+ Google就Android下的服务对华为实施了封锁这件事情，非常清晰的表明，开源战略还是要从软件本身，即技术上来考虑，然后才是考虑消费者Community、开发者Community，PR是最后才考虑的事情，将一分事情适当的渲染一下，不可以本末倒置。软件栈仿若星球的表面生态，适宜于人和其它大部分生物的生存空间其实并不多，但是和人的食物链直接相关的也就那么少数的几样。Android 作为移动端操作系统，从技术上其实可以分成很多个块，你要抢占那个Community，从而让自己无限接近消费者群体，这才是应该去思考的内容。
+ 开放和开源：一家面向所有人的新Community诞生 原文链接：Open and Open Source: A New Community for All</description>
+    </item>
     
     <item>
       <title>开源 Community 对我来说意味着什么（译文）</title>
@@ -1992,25 +2012,6 @@ Apache 基金会，秉承为公益事业提供软件这样一个使命，在过�
 文化分析 谈到文化，有几个方面：
  只许州官点灯，不需百姓防火。这就正如Niclas Hedhman先生在上午的Keynote中所提到的一样，我们的文化中遵从权威，总是某些等级上说了算，这个大家可以很好的理解。 刻舟求剑，这是我自己的发现，非常地常见，就是说他是静态地看这个问题，无论你是基与开源的项目或者软件做事情，或者是你基于开源软件做一个商业产品，或者是把它当作第三方，去做一个事情，均是从上游切出一个分支，基于这个分支蒙头做事，而上游社区的项目是一直不断的发展的方，但是我们一定会做这样一件事情，前段时间Linux发了4.4，我基于这个做事情，或者我基于个开发，然后这几个人就开始做这个事情，到半年或一年之后，发生了什么情况？上游已经发了2个版本，已经5点几了，发现我自己的东西没有它全，或者是我这边也修了bug，要付出的代价非常大，因为有的接口变了。这种现象太常见了，你环顾下四周到处都是。 历史包袱，本土的人们是不相信完美的，大家不相信公共的，没有人相信真的是会实现的，没有人相信那个东西真的能成真，因为有失败的案例。 公地悲剧，就是说我为什么要去做贡献。 读书人窃书，不叫偷。我们对知识产权太陌生，不管是开源软件也好，还是专有软件也好，它的前提是承认这个软件是谁写的，但是我们我们国家，盗版的软件或者盗版的光碟或者盗版的书籍，这些根深蒂固的对于知识产权的漠视非常严重，开源软件，不管什么协议，应该说就说这段代码是我写的。但是我们不，我们会看到很多笑话，比如说拿USB驱动去申请国家专利，这个是现象，比如说“我们首创”，这是很可怕的事情，要慢慢的改变。 对于创新的恐惧，我们的文化还是缺少创新，我们只会跟着别人改。认为自己是对的就一直走下去，这种精神是开源人员特别需要的，有的东西就是需要时间去证明的，比如说开源从1998年到现在20多年，如果说没有这种敢于直面的精神，是很难做的。 教会徒弟，饿死师傅。最大的障碍，在公司推行参与到社区，最大的障碍是来自于研发人员本身，这个是我原来没有想到的。其实远比这个复杂的多，比如说一个老板说我要大数据的解决方案，问一个项目总监，5个月能不能做？可以，然后他确实是从上游拿一个项目来，然后改一该就ok，如果半年之后有人问，你这么做是有巨大的损失，瞬时了多少钱，丧失了多少市场机会，丧失了多少影响力，首先这个研发人员就站出来批评你，这个东西是我做的，不是你做的，不是开源社区的事情。就回到了之前拿钱算的事情来，我从上游社区拿了一个价值500万的项目，然后我投入了10个人，花了20万就解决了。当这个东西功能非常完善，能解决一部分问题的时候，这个时候他就成为最大的阻力去不做这件事情，直到一年之后这个项目失败，甚至是亏损。这是我看到的一些案例，当然还有其他的。你会发现做这么一件Upstream First简单的事情，大家都能看到利益的事情，却非常非常难。  总结 最后和大家周知一下，青云最近开源了一款很酷的上游项目，扫描二维码可以了解。感谢青云QingCloud开源为我这次演讲提供的赞助。
 这次就跟大家分享这么多，最后，希望大家去积极参与到上游，无论是你个人，还是你所在的公司，要把那些显而易见的好处讲给你的老板和讲给你自己听，现在你在开源社区里面以Upstream First的心态做事情，你的职业生涯会更好，你的公司也受益良多。谢谢大家！</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2017 11 19)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-11-19/</link>
-      <pubDate>Sun, 19 Nov 2017 11:46:01 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-11-19/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 微软加强开源的数据存储，开始支持Databbricks、Cassandra、MariaDB 原文链接：Microsoft &amp;lsquo;Connects&amp;rsquo; With Open Source Databricks, Cassandra, MariaDB
-适兕点评：
- 微软参与开源，已经渐成气候。关系型数据库、非关系性数据库、大数据、BI、GVFS&amp;hellip;&amp;hellip;
-我能说什么？云计算就该这么玩&amp;hellip;.. combines the best of Databricks and Azure to help customers accelerate innovation with one-click set up, streamlined workflows and an interactive workspace
- Amazon 加入由 FB和微软联合的AI平台 原文链接：Amazon joins Facebook and Microsoft in support of open-source AI platform
-适兕点评：
- 在这个领域没有人看好Apple,Apple的秘方文化，AI似乎是Google的成功的表征？就是因为开源？
-文章中指出：“When it comes to AI: sharing is caring.” 人类在科技的进步中，寿命在延长、死亡率在降低、更加的健康，而科学的发展是将分类越发的细节化，那么开放成为吸引人们的主要手段，需要让更多人了解和喜欢上，越是讳莫如深的技术，越应该进行普及和布道。人们面临的多，都在进行无尽的选择困难折磨。所以早早的植入某些观念更加的重要。
-AI 应该是什么样子的？统治这个世界？
- 开源的力量：为什么GitLab要遵从开发者原创认证进而让开发者受益 原文链接：The power of open source: Why GitLab’s move to a Developer Certificate of Origin benefits the developer community</description>
     </item>
     
   </channel>

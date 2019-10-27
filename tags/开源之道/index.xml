@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 20 Oct 2019 17:18:41 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2019 17:02:12 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fedora 在招收新人方面又出新招；企业的开源之路，等开源之道一周精选(2019 10 27)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-27/</link>
+      <pubDate>Sat, 26 Oct 2019 17:02:12 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-27/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 为什么说应该雇佣 DevOps的拥抱者，而不是所谓的专家 原文链接：Why you should hire DevOps enablers, not experts
+适兕点评：
+ 知识的迭代和技术的发展，单靠所谓的经验已经非常难以胜任当下的大多数岗位，因为过去的情景很难再现！无论是DevOps，还是开源，其实没有什么所谓的专家，重要的是有一个开放的学习态度，驱动力才是王道，这在国内的教育的体系里显得特别的明显，这是一个知识体系陈旧的世界，这是一个试图静止一切的世界，
+ Fedora 在招收新人方面又出新招 原文链接：Fedora Join is trying a new people focused workflow for newcomers
+适兕点评：
+ Community 招收新成员是所有社区的难题，除了一部分是公司的员工之外，面向全球互联网招募志愿者或贡献者是一件非常难的事情，有的时候需要那么一点道德的高度，有的时候需要一些价值观的传播，更多的时候需要金钱的支撑，使用同理心思维来考虑一下，你为什么要参加这个Community？希望达成什么目的？兴趣、爱好、价值观、认同感、归属感、学习、解决问题、薪水&amp;hellip;&amp;hellip;无穷无尽的问题摆在Community的建设面前，尽管我有非常好的秘诀，但是大部分人听了这个秘诀之后就放弃了。Fedora这篇文章的初衷，我非常的认同：Not the tasks, not the processes, the people. 不关注人本身，而下发任务这些事情，就是操之过急的表现。
+ 贸易战下的滥觞：华为用户的更多坏消息 原文链接：New Huawei Google Confirmation: More Bad News For Users
+原文链接：Huawei exec acknowledges it&amp;rsquo;s struggling without Google support
+适兕点评：
+ Google就Android下的服务对华为实施了封锁这件事情，非常清晰的表明，开源战略还是要从软件本身，即技术上来考虑，然后才是考虑消费者Community、开发者Community，PR是最后才考虑的事情，将一分事情适当的渲染一下，不可以本末倒置。软件栈仿若星球的表面生态，适宜于人和其它大部分生物的生存空间其实并不多，但是和人的食物链直接相关的也就那么少数的几样。Android 作为移动端操作系统，从技术上其实可以分成很多个块，你要抢占那个Community，从而让自己无限接近消费者群体，这才是应该去思考的内容。
+ 开放和开源：一家面向所有人的新Community诞生 原文链接：Open and Open Source: A New Community for All</description>
+    </item>
     
     <item>
       <title>开源 Community 对我来说意味着什么（译文）</title>
@@ -2062,24 +2082,6 @@ Tidelift 这家公司能否完成很多人都难以完成的事情，它既不�
  规划项目 一旦你启动了自己的开源计划，那么接下来就要考虑很多细节性的内容，从而将此开源的计划变成现实的成果。那么现在就让我们考虑下如何按部就班的实现，首当其冲的就是决定发布或捐赠那些代码。
 决定发布或捐赠那些代码 对于开源一个项目来说，你首要决定的就是从下面二者之间作出抉择：
  贵司自己来创建、发布、维护项目的方方面面 捐赠项目给现有的中立基金会来维护和管理  如果说是在考虑将贵司现成的项目开源，则需要考虑另外的一个问题：是将项目所有的代码都开源了呢？还是只开源部分内容？</description>
-    </item>
-    
-    <item>
-      <title>开源之道三周精选(2018 09 02)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-09-02/</link>
-      <pubDate>Sat, 01 Sep 2018 08:02:52 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-09-02/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Linux 基金会：加速开源创新 原文链接：The Linux Foundation: Accelerating Open Source Innovation
-适兕点评：
- Linux 基金会在2018年的发展是前所未有的！ 连好莱坞都找上门来。软件的发展超乎我们的一般直觉，企业开发软件的成本和创新遇到了前所未有的难题，面对业务的加速变化，项目的循环周期缩短的周期领开发者们瞠目结舌。 但是在中国本土，如此的一切却显得麻木、迟钝。甚至开源之道竟然难以维系。坚持到啥时候算啥时候吧，但愿我是错的。
- storj 实验室为开源创建了盈利的机会 原文链接：Storj Labs to create revenue opportunities for open source
-原文链接：Storj Labs forges open-source vendors and cloud services alliance
-适兕点评：
- 云计算到底是不是开源的杀手？Redis 更改协议的事件绝非是普通的事件。那么Storj所搞得这个联盟到底意味着什么？也值得我们持续的跟进。
-商业和开源，需要一个伦理学家来诠释这一切。
-Open source drives a sizable majority of the $200 billion-plus cloud computing market, but very little of that revenue currently makes its way directly back to open-source projects and companies.</description>
     </item>
     
   </channel>

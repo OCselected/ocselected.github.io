@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 24 Oct 2019 18:06:47 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2019 17:02:12 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fedora 在招收新人方面又出新招；企业的开源之路，等开源之道一周精选(2019 10 27)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-27/</link>
+      <pubDate>Sat, 26 Oct 2019 17:02:12 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-27/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 为什么说应该雇佣 DevOps的拥抱者，而不是所谓的专家 原文链接：Why you should hire DevOps enablers, not experts
+适兕点评：
+ 知识的迭代和技术的发展，单靠所谓的经验已经非常难以胜任当下的大多数岗位，因为过去的情景很难再现！无论是DevOps，还是开源，其实没有什么所谓的专家，重要的是有一个开放的学习态度，驱动力才是王道，这在国内的教育的体系里显得特别的明显，这是一个知识体系陈旧的世界，这是一个试图静止一切的世界，
+ Fedora 在招收新人方面又出新招 原文链接：Fedora Join is trying a new people focused workflow for newcomers
+适兕点评：
+ Community 招收新成员是所有社区的难题，除了一部分是公司的员工之外，面向全球互联网招募志愿者或贡献者是一件非常难的事情，有的时候需要那么一点道德的高度，有的时候需要一些价值观的传播，更多的时候需要金钱的支撑，使用同理心思维来考虑一下，你为什么要参加这个Community？希望达成什么目的？兴趣、爱好、价值观、认同感、归属感、学习、解决问题、薪水&amp;hellip;&amp;hellip;无穷无尽的问题摆在Community的建设面前，尽管我有非常好的秘诀，但是大部分人听了这个秘诀之后就放弃了。Fedora这篇文章的初衷，我非常的认同：Not the tasks, not the processes, the people. 不关注人本身，而下发任务这些事情，就是操之过急的表现。
+ 贸易战下的滥觞：华为用户的更多坏消息 原文链接：New Huawei Google Confirmation: More Bad News For Users
+原文链接：Huawei exec acknowledges it&amp;rsquo;s struggling without Google support
+适兕点评：
+ Google就Android下的服务对华为实施了封锁这件事情，非常清晰的表明，开源战略还是要从软件本身，即技术上来考虑，然后才是考虑消费者Community、开发者Community，PR是最后才考虑的事情，将一分事情适当的渲染一下，不可以本末倒置。软件栈仿若星球的表面生态，适宜于人和其它大部分生物的生存空间其实并不多，但是和人的食物链直接相关的也就那么少数的几样。Android 作为移动端操作系统，从技术上其实可以分成很多个块，你要抢占那个Community，从而让自己无限接近消费者群体，这才是应该去思考的内容。
+ 开放和开源：一家面向所有人的新Community诞生 原文链接：Open and Open Source: A New Community for All</description>
+    </item>
     
     <item>
       <title>开源软件项目的定性和定量分析指标 ———— CHAOSS 指标解析</title>
@@ -2096,21 +2116,6 @@ Facebook 和 Google 在开源项目展示有着非常良好的标杆效果。
  “我倾向于根据社区的痛点来寻找衡量指标，并尝试改良这些指标以提升社区的质量。” – Sarah Novotny, Kubernetes 社区经理，来自 Google
  除了绩效基准指标之外，在为项目设定目标时，还需要考虑以下几点：
  战略调整: 所设定的目标是否与核心业务战略、产品目标以及其他内部业务目标保持一致？ 控制级别: 项目经理是否可以直接控制结果？或是项目经理、工程人员、法律人员或其他职能人员共同控制？设定控制范围内可实现的目标。 项目的差异化: 不同的项目应该根据自己的实际情况而设定相应的目标，这要具体的取决于项目目的、社区组成、技术栈等等因素。举例来说，Facebook 一度意识到 JavaScript 的项目会经常性的频繁的创建分支，在多次的重复之后，事后获得的教训就是这些分支的指标毫无意义，对于衡量项目的健康度没有顶点帮助。 数量和质量: 并非所有目标都应与数字挂钩。改进项目流程的质量是非常重要的，甚至要远远比数量更为重要。因为有时候会发现，仅仅是达到了所规定的数字目标，并不就意味着项目质量没有问题。也有的时候，一个小的项目，数量上并没有什么让人惹眼的增长，但是因为有过硬的质量而充满光明的前途。   “你拥有半打数量的贡献者，以及一打不是维护者的活跃人士，但是拥有健康的讨论、PR也会得到及时的处理、重要的功能特性有着完整而清晰的表达。这本身就表示这是一个正在成长的健康的社区，但是，它可能并没有值得炫耀的star数量和fork的次数，但是那样又如何，这一切并不能阻止这是一个有着良好商机的优秀项目。所以我更加的倾向于考虑社区如何与其自身互动、如何发展和指导新的领导者、以及如何解决到现有的难题。” &amp;ndash; Sarah Novotny, Kubernetes 社区经理，来自 Google</description>
-    </item>
-    
-    <item>
-      <title>开源之道两周精选(2018 10 07)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-10-07/</link>
-      <pubDate>Sun, 07 Oct 2018 19:18:25 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-10-07/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 独立的开源项目开发者如何获得报酬? 原文链接：&amp;lsquo;NETFLIX FOR OPEN SOURCE&amp;rsquo; WANTS DEVELOPERS TO GET PAID
-适兕点评：
- 连线的文章，从来都不会让人感到失望。 开始以一个引人入胜的故事，然后提出问题，然后有人开始试图解决这个问题。具体点是什么。
-Tidelift 这家公司能否完成很多人都难以完成的事情，它既不是基金会，也不是社区知名人士，即 &amp;ldquo;We couldn&amp;rsquo;t understand why something like this didn&amp;rsquo;t exist, so we created it,&amp;rdquo; says Tidelift CEO Donald Fischer, a former executive at Red Hat who founded the company with other open source veterans.
-拭目以待吧，这在天朝是简直不可思议。
- 为什么阿里巴巴会和 MariaDB达成协议？云平台面临新的战争 原文链接：Why Alibaba&amp;rsquo;s deal with MariaDB might open up a new front in the cloud wars</description>
     </item>
     
   </channel>
