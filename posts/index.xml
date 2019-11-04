@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 26 Oct 2019 17:02:12 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2019 15:35:26 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>COSCon&#39;19 在华东师范大学火热举办；资助开源开发可能并不像您想的那么复杂，等开源之道一周精选(2019 11 03)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-03/</link>
+      <pubDate>Thu, 31 Oct 2019 15:35:26 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-03/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 COSCon&amp;rsquo;19 在华东师范大学火热举办 原文链接：开源大爱，无问西东
+适兕点评：
+ 一年一聚，共同探讨和交流关于开源的进展，也是当下开源发展的风向标了。几乎有你想了解的关于开源的一切，如果看官错过了这次盛会，那么不妨去回顾一下视频。
+ 无处话凄凉：Linus Torvalds称自己再也不是程序员了 原文链接：Linus Torvalds: &amp;lsquo;I&amp;rsquo;m not a programmer anymore&amp;rsquo;
+原文链接：Linus Torvalds: &amp;ldquo;Git proved I could be more than a one-hit wonder.&amp;rdquo;
+适兕点评：
+ Linus 的大多数的工作是合并其他kernel开发者的补丁，自己已经很少写了，我们看不出他是出于调侃，还是颇感失望。正如本文的记者所言，他已经为我们做了很多了！作为全球最成功的开源项目Linux和Git，他是当之无愧的众神之王。但是，人是有极限的，历史是要不断往前滚动的，还需要有更加年轻、聪明的人出现，继续创新！ 对于社交的恐惧，以及人际关系的梳理，让Linus对于人们所诋毁的Linux是Unix的克隆耿耿于怀，谦逊到自己的技术没有足够的好。人总是在不断的进行和心魔、偏见做斗争。希望他越来越好！
+ ![]()
+软件自由保护协会要找特斯拉谈谈 原文链接：Calling all Tesla owners: let&amp;rsquo;s discuss the source code for the GPLed parts of your car!
+适兕点评：
+ 开源圈内，法律永远是大事，特斯拉使用了GPL授权下的代码，就有人开始找上门了，软件自由保护协会可是开源之道密切关注的组织。开源之路想要在中国这片古老的大地上开花结果，遵守许可证协议相关的法律是充要条件，没有这个其它一切都是空谈。
+ GraphQL 基金会启动交互的Landscape 原文链接：GraphQL Foundation Launches Interactive Landscape and Welcomes New Members from Open Source Summit Europe</description>
+    </item>
     
     <item>
       <title>Fedora 在招收新人方面又出新招；企业的开源之路，等开源之道一周精选(2019 10 27)</title>
@@ -2096,15 +2117,6 @@ GNU 的作用客观的讲，如果没有的话，就没有开源的今天。但�
 适兕点评：
  Berners-Lee transformed the world once. It would take a brave man to bet against his doing it again.
 But if Solid might seem like a hopelessly ambitious and idealistic project, 我只想说的是，对抗权威的存在，一直都有人在。</description>
-    </item>
-    
-    <item>
-      <title>一切都是关于时间</title>
-      <link>http://www.ocselected.org/posts/the_way_of_open_source/first_all_about_time/</link>
-      <pubDate>Fri, 12 Oct 2018 18:28:14 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/the_way_of_open_source/first_all_about_time/</guid>
-      <description> 墙上的时钟与中央处理器的时钟 中国历史上的关于时间的描述 现代人为什么注重时间？ 时间就是金钱/价值 </description>
     </item>
     
   </channel>
