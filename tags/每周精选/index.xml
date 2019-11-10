@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 31 Oct 2019 15:35:26 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2019 15:40:44 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>在STEM大潮下如何利用开源来吸引学生；未来的创新在于协作，等，开源之道一周精选(2019 11 10)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-10/</link>
+      <pubDate>Sat, 09 Nov 2019 15:40:44 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-10/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 微软声明已经准备好为OpenJDK做出贡献 原文链接：Microsoft Announces It&amp;rsquo;s Ready to Contribute to OpenJDK 
+适兕点评：
+ 每个开源项目背后都连接着不计其数的Community，而云计算作为计算和存储方式的转变，想要在这不计其数的community站稳脚跟，作出颠覆性的动作，当然首要的任务是认识community、融入community，然后发动一场革命。如果不能首先从技术和人文来理解开源，那么之后的商业、生态基本上都是望洋兴叹了。微软显然从同理心的角度深刻的理解了此中玄机，甚至在开发者的汇集点——代码托管平台来下手，虽然其下各个开源项目的Elephant factor都有待商榷，但是它具备下潜的可能性，比如这个签署Oracle贡献者协议。
+ CIO角色：CIO如何在新环境下获得竞争优势 原文链接：CIO Role: How the new rules of competitive advantage empower CIOs
+适兕点评：
+ enterprisersproject.com上的文章偏商业管理，但是将开源潜伏在日常的行文当中，这就是红帽的高明之处，虽然opensource.com变成了一个三流的技术站点，但是随着开源在商业上的认知升级，enterprisersproject.com 逐渐显露出一些高质量的文章了，会探讨信息的本质：锁定与服务、开放与管理、心理与决策。开源之道会持续跟踪该站点的文章。
+ 书评：《增长文化：现代经济的起源》 原文链接：书评：《增长文化：现代经济的起源》
+适兕点评：
+ 乔尔·莫基尔 是一位成绩斐然的历史经济学家，在《技术的本质》一书中，作者推崇备至，然而，还没有中文版出版，相应的外文引进也没有见。理解经济行为是一个非常重要的学习过程，就开源而言，可以对于18世界的中国与欧洲，为什么中国没有产生类似RedHat、MongoDB这样的开源软件服务提供商？为什么中国没有类似Apache、Linux等非营利的基金会？为什么中国没有任何一所大学孵化出靠谱的基础设施软件？为什么没有个像样的Community来进行讨论和决策？大概离开这个领域，或许才能找到改造的路径。
+ Salesforce 是如何利用区块链来去中心化其数据的 原文链接：How Salesforce Is Using Blockchain To Decentralize Data &amp;amp; Hyperledger’s Role
+适兕点评：
+ 这是一篇Hyperledger自己撰写的软文，由其基金会执行总监 Brian Behlendorf亲自站台，最近中国大陆又掀起了区块链的狂潮，所有人都去迎合这股试图夺回世界领先的技术。然而，要理性的看待，当然去科创板、新三板赚钱则另外考虑。 Brian Behlendorf的话是非常棒的：“There&amp;rsquo;s still a lot of people who want to see the world converge on just one blockchain technology, one protocol or one stack,They think there’ll just be one mainnet to rule them all.</description>
+    </item>
     
     <item>
       <title>COSCon&#39;19 在华东师范大学火热举办；资助开源开发可能并不像您想的那么复杂，等开源之道一周精选(2019 11 03)</title>
@@ -1986,26 +2007,6 @@ IBM 这家公司，云计算时代的堕落者。几乎做啥都失败。静待�
  有没有点哗众取宠的感觉？11位当中，本土的人很少听说。摘抄一些语录，聊以自慰：
 &amp;ldquo;Using open source can encourage creativity, increase agility, allow you to learn from outside your own company and attract talent engaged and networked in the community.&amp;rdquo; It has been my experience that most of the vulnerabilities are identified in custom code, not in open source libraries.&amp;rdquo;
 开源是如此的重要，以至于占据的比例是如此之高。开源更安全，但是这也要看用开源的人。不是吗？</description>
-    </item>
-    
-    <item>
-      <title>Apache 2017 年度报告</title>
-      <link>http://www.ocselected.org/posts/event_analysis/2017_apache_annual_report/</link>
-      <pubDate>Sat, 25 Nov 2017 21:42:04 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/event_analysis/2017_apache_annual_report/</guid>
-      <description>引子 年底了大家似乎都开始做总结，回顾一年的工作成果的时候了，就在前不久，我们做了Linux 内核开发报告2017版的报道，无独有偶。这不 Apache 基金会发布了一份过去一个财年的总结报告。那我们就来解读一番， Apache 在过去的一年里有何成绩。当然，主要的目的是希望能够看清趋势，在2018年或许更远的未来，能够做一些有意义的事情。
-附：Apache 2017财年年度报告
-摘要 Apache 项目是当今这个软件世界的中流砥柱！从人工智能、机器学习、大数据到构建管理、云计算、内容管理、DevOps、IoT以及边缘计算，移动端、服务端、web的服务框架等等，Apache的项目囊括了所有的这些领域。
-Apache 软件应用程序对于我们所生活的世界起着举足轻重的作用。从获得普利策奖的足足有2.6TB巴拿马文件调查，到美国联邦航空管理局的全部的信息管理系统，再到在Netflix每天捕获 500B 个事件，再到劳埃德银行集团实现的实时金融服务，以及简化Android/Blackberry/iOS/Ubuntu/Windows/Windows Phone/OS X 平台上的移动应用开发，以处理Facebook的300PB数据仓库，乃至为Apple, Disney, Huawei, Tata,等公司提供的云计算。 这些故事的背后，都有着Apache软件的驱动力量。
-而每一天，来自世界各地越来越多的开发者、解决方案架构师、独立用户、教育工作者、研究学者、公司、政府部门、以及爱好者，都在选择Apache软件来开发工具、程序库、框架、可视化程序、最终用户的生产解决方案等等。
-Apache 基金会，秉承为公益事业提供软件这样一个使命，在过去的一年里有如下几件值得一提的事情：
- 整个 apache.org 站点每周的访问量是 3千5百万。 web的请求来源囊括了这个星球上所有接入互联网的国家。 Apache OpenOffice 的下载量突破2亿。 Apache Groovy 在年初的前4个月下载量突破1千2百万。 每个月有接近300位新的代码贡献者，有300~400位提交issue。  之所以Apache能够有如此巨大的力量，其背后是有着多样化的项目来推动的。ASF 的代码量超过1亿（共1.5亿），已经开发了超过65,000人年，价值70亿美元。Apache OpenOffice每天为个人用户和组织用户带来超过2500万美元的价值。Apache许可证是最受欢迎的的开源许可证之一，基于Apache许可证发布的的软件已经超过数百万款项目，并允许其再进行发布和使用。
-18年以来，基于ASF强有力的领导下，apache way 所主导的社区，一直以来都是引领创新的标志，并不受任何商业公司的影响。将在未来Apache将继续保持这样，值得人们信赖的开源软件社区，并非常欢迎你的参与和支持！
-项目状况 首先我们关注的是，分布在这个世界上的国家，都有哪些国家在使用Apache的项目，根据下载量的分布，我们获得如下图所示的内容：
-令人似乎稍欣慰的一点是，中国是全球首屈一指的Apahce项目重度使用用户，超越北美。
-哪些无数个 Apache 优秀的项目我这里就不一一列出了，你可能耳能生详的Tomcat、Hadoop、Subversion、CloudStack等等，它现在总共拥有182个顶级的项目，还有59个正在孵化中。我们这里不妨看看过去一年中最具亮点的项目：
- Apache Commons：成立于2007年，旗下有40多个项目，Apache Commons是Java语言库和组件的实际领导者，用途非常的广泛。 Apache Spark： 2013年晋升为顶级项目，是用于快速、灵活的处理和分析PB级数据的引擎，隶属于Apache Hadoop 生态系统中的一员。 Apache HTTPserver： 在过去的21年一直都是业界的标准，Apache最古老的项目，驱动着目前很多互联网的站点和数字资产。 Apache Fineract：第一个由Apache财务技术部门开发的项目，在今年的8月孵化为顶级项目。 Apache OpenOffice： 2012年Apache基金会接手之后，这是目前世界上最受欢迎的免费的办公套件，去年一年的下载量是3千6百万。下载由SourceForge所提供。（这个值得注意。）  对于这个世界，我们必须用一种动态的视角来看，新陈代谢、进化是必然的趋势，我们需要看孵化的项目，以观察未来的动向，我们看退休的项目，退出历史舞台，寻找生命力短暂的原因。</description>
     </item>
     
   </channel>

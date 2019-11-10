@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 31 Oct 2019 15:35:26 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2019 15:40:44 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>在STEM大潮下如何利用开源来吸引学生；未来的创新在于协作，等，开源之道一周精选(2019 11 10)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-10/</link>
+      <pubDate>Sat, 09 Nov 2019 15:40:44 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-10/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 微软声明已经准备好为OpenJDK做出贡献 原文链接：Microsoft Announces It&amp;rsquo;s Ready to Contribute to OpenJDK 
+适兕点评：
+ 每个开源项目背后都连接着不计其数的Community，而云计算作为计算和存储方式的转变，想要在这不计其数的community站稳脚跟，作出颠覆性的动作，当然首要的任务是认识community、融入community，然后发动一场革命。如果不能首先从技术和人文来理解开源，那么之后的商业、生态基本上都是望洋兴叹了。微软显然从同理心的角度深刻的理解了此中玄机，甚至在开发者的汇集点——代码托管平台来下手，虽然其下各个开源项目的Elephant factor都有待商榷，但是它具备下潜的可能性，比如这个签署Oracle贡献者协议。
+ CIO角色：CIO如何在新环境下获得竞争优势 原文链接：CIO Role: How the new rules of competitive advantage empower CIOs
+适兕点评：
+ enterprisersproject.com上的文章偏商业管理，但是将开源潜伏在日常的行文当中，这就是红帽的高明之处，虽然opensource.com变成了一个三流的技术站点，但是随着开源在商业上的认知升级，enterprisersproject.com 逐渐显露出一些高质量的文章了，会探讨信息的本质：锁定与服务、开放与管理、心理与决策。开源之道会持续跟踪该站点的文章。
+ 书评：《增长文化：现代经济的起源》 原文链接：书评：《增长文化：现代经济的起源》
+适兕点评：
+ 乔尔·莫基尔 是一位成绩斐然的历史经济学家，在《技术的本质》一书中，作者推崇备至，然而，还没有中文版出版，相应的外文引进也没有见。理解经济行为是一个非常重要的学习过程，就开源而言，可以对于18世界的中国与欧洲，为什么中国没有产生类似RedHat、MongoDB这样的开源软件服务提供商？为什么中国没有类似Apache、Linux等非营利的基金会？为什么中国没有任何一所大学孵化出靠谱的基础设施软件？为什么没有个像样的Community来进行讨论和决策？大概离开这个领域，或许才能找到改造的路径。
+ Salesforce 是如何利用区块链来去中心化其数据的 原文链接：How Salesforce Is Using Blockchain To Decentralize Data &amp;amp; Hyperledger’s Role
+适兕点评：
+ 这是一篇Hyperledger自己撰写的软文，由其基金会执行总监 Brian Behlendorf亲自站台，最近中国大陆又掀起了区块链的狂潮，所有人都去迎合这股试图夺回世界领先的技术。然而，要理性的看待，当然去科创板、新三板赚钱则另外考虑。 Brian Behlendorf的话是非常棒的：“There&amp;rsquo;s still a lot of people who want to see the world converge on just one blockchain technology, one protocol or one stack,They think there’ll just be one mainnet to rule them all.</description>
+    </item>
     
     <item>
       <title>COSCon&#39;19 在华东师范大学火热举办；资助开源开发可能并不像您想的那么复杂，等开源之道一周精选(2019 11 03)</title>
@@ -2100,23 +2121,6 @@ Microsoft has &amp;ldquo;prolific Linux kernel developers, but primarily just fo
 开源是社区，准确的说是技术社区，社区的文化由来以久，商业公司建立社区也有不短的历史：IT公司构建技术社区也是非常的成功，比如微软的MSDN、Oracle 的java社区等等，但是本土是很少有围绕开源技术成立真正意义上的社区的，最大的一个弊病就是不是以人为单位，而是某些公司的市场营销活动。社区很关键，社区是开源技术成功的必要条件。
 现在我们讨论的时候，经常会讨论到开源软件基金会：FSF、Apache、Linux、Python、Gnome、OpenStack、CNCF 等等，讲这个我可以简单谈论下最近的单一厂商发起的开源项目更改许可证的事件，Redis、MongoDB，类似这样单独厂商发起的项目，很难获得其它商业公司的参与，这是一个伦理问题,正如 Nathen Harvey 在 Information Week 中的文章中指出了三个问题：
  “项目应该由商业的赞助商驱动还是外围的贡献者驱动？商业利益是否应该凌驾于社区的意愿之上？该如何以及在哪里为商业实体和开源社区之间划上一个明确的界线？”</description>
-    </item>
-    
-    <item>
-      <title>开源之道两周精选(2018 10 14)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-10-14/</link>
-      <pubDate>Fri, 12 Oct 2018 22:19:50 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-10-14/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 GNU 35周年了 原文链接：Happy Birthday, GNU: Why I still love GNU 35 years later
-适兕点评：
- 或许了解历史的人会觉得悲凉，甚至有点惋惜，但是世界就是这样，要往前发展，不管你做一件事情的目的有多么高的道德立场，如果你没有得到别人的帮助，那么就是失败的。
-GNU 的作用客观的讲，如果没有的话，就没有开源的今天。但是仅止于此，让它坚守在哪里！
- Time Berners-Lee 创建了新项目，去中心化的互联网 原文链接：Tim Berners-Lee unveils Solid, a framework to decentralize the internet and give back control to users
-适兕点评：
- Berners-Lee transformed the world once. It would take a brave man to bet against his doing it again.
-But if Solid might seem like a hopelessly ambitious and idealistic project, 我只想说的是，对抗权威的存在，一直都有人在。</description>
     </item>
     
   </channel>
