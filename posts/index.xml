@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 09 Nov 2019 15:40:44 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2019 21:05:02 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GitHub CEO 说：开源已经胜利，开源完蛋了吗？等，开源之道一周精选(2019 11 17)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-17/</link>
+      <pubDate>Thu, 14 Nov 2019 21:05:02 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-17/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 什么是开放源代码？ 原文链接：What is open source?
+适兕点评：
+ 即使是如红帽这样的上市公司，也要常常来正名、阐释开源，更何况贫乏荒芜的中国，更是要时不时的提醒，文化是一个慢慢适应、慢慢渗透的过程，绝非当下学习即可成熟运用。所以传播开源文化是需要一定的耐心的。同侪评审、共同体、透明等等这样不言而喻的开源哲学原则，该如何才能让人们接受？而本土大多是接受工具伊始，然后慢慢地进入惰性。向伟大的美国红帽学习，不断的完善、诠释开源思想、知识和价值。
+ mirantis收购Docker企业平台业务 原文链接：Mirantis Acquires Docker Enterprise Platform Business
+原文链接：After selling enterprise biz, Docker lands $35M investment and new CEO
+适兕点评：
+ Mirantis 这家公司等于说是被OpenStack生态圈给差点没有折腾死，将中国的业务外包，害人害己，收购了一家人心不足蛇吞象的东欧公司，然后又回到了自己的老路上————出售人工服务。嗯，这下可好，自己走的是Kubernetes业务，接盘Docker——众人推墙倒。这应该是一场资本的抵消，而不是真正意义上的商业或技术收购。更加和开源没有半毛钱的关系。但是这都是两家试图从开源中获得经济效益的公司，过分的在意自己的市场，过分的侵害共同体，终于毁于自己制造的一切。
+ 开源软件中的社会变化 原文链接：Social Change in Open Source Software
+适兕点评：
+ 一位来自Intel的老兵，对于开源也有着独特的理解，Amy Occhialino 从自己的职业生涯中所悟出来的道理， “Change doesn’t happen all at once, it’s incremental, one person doing one thing every day. ” 她对Community的理解真是到位啊，也对于人类的变革没有国内那份急躁的野心，恨不能今天搞个联盟，明天就出结果。可能是历史原因造成的，过分的想急于证明自己，没有400年科学积累，就想急于的挣脱西方的文明带来的刺激。
+ 看 CD Foundation 如何衡量项目及其社区的增长？ 原文链接：How do we measure the growth of CD Foundation projects and their communities?</description>
+    </item>
     
     <item>
       <title>在STEM大潮下如何利用开源来吸引学生；未来的创新在于协作，等，开源之道一周精选(2019 11 10)</title>
@@ -2127,23 +2147,6 @@ Microsoft has &amp;ldquo;prolific Linux kernel developers, but primarily just fo
 虽然说各个项目的治理模式有着千差万别，但是综述起来，它们还是有一些共同点的：
  领导者： 一个项目，必须要有人承担起决策的事情，如特性、发布、以及日常活动。最为极端的情况，某些开源项目就仅仅是一个人，比如 Linus Torvalds，作为内核的创始人，对于Linux Kernel相关的任何事务都拥有最终话语权。然而在另外的一些项目中，可能有一个或多个委员会负责项目的各个方面，如 Node.js 项目采用的是核心技术委员会机制（the Core Technical Committee）。 维护者： 大多数开源项目的领导者（上一条）会将一些决策委托给负责维护项目特定部分的开发者，而在大型项目中，这些维护人员还可能将其中部分工作委托给其他负责人员。例如，Linus Torvalds将 Linux Kernel 文件系统的相关决策权就委托给 Jonathan Corbet。 提交者： 有一些开源项目还会设置一组可以直接提交代码到主干的人，他们已经证明了自己可以胜任工作并且靠谱，而且往往并不是先去提交给维护者去进行审核。当然，作为提交者，仍然对于代码没有最终的决定权，维护者或项目的领导者如果发现了什么，还是可以将提交的内容打回去的。 贡献者： 有很多人为开源项目贡献代码、文档、以及其它事项，这些贡献通常都需要更为有经验的提交者或维护者进行审核之后方能合并的。这也就意味着贡献者的决定权范围更小一些。 使用者： 其实从某种程度上讲，开源项目的实际使用者才是对项目的成长和开发是最为重要的，这些使用者或者称用户的人们，为项目提供了终极目标，并且帮助项目持续的进化，他们作为社区成员最具价值的部分莫过于针对功能提供反馈、报告缺陷、并建议些什么。  社区对于开源项目来说，犹如古人说的：“水能载舟亦能覆舟”，社区对于开源项目的成功至关重要，但是若是做的不好的话，它同样可以让一个项目置于死地。所以，要努力的去建设一个强大的、充满活力的且多样化的开源社区，这是项目的成功充分必要条件。以上列出的这些角色也是属于社区的一个部分而已，这里未列出的其它重要角色还有文档、营销人员、技术支持等等。
 贡献是怎么进行的 贡献的流程要视具体的项目而定，可谓是五花八门，缤纷世界。这里仅列举其中一些较为典型的例子：</description>
-    </item>
-    
-    <item>
-      <title>开源之道两周精选(2018 10 28)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-10-28/</link>
-      <pubDate>Sat, 27 Oct 2018 07:26:41 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-10-28/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Azure 是如何成为开源软件的运行之云的 原文链接：How Azure became the place for open source in the cloud
-适兕点评：
- 是的，要对微软的改变产生敬畏之心。这对于很多自由软件爱好者是难以承受的，这个世界一直都在变化！你根本无法被动的获得一切，甚至是道德的制高点。
-平台是赚钱的，商家是获利的。然而不得不佩服微软的执行力和决策能力。
- MongoDB 将其许可证做了更换 原文链接：MongoDB switches up its open-source license
-原文链接：MongoDB introduces the Server Side Public License for open source
-适兕点评：
- 早有几年就有人预言公有云提供商将是开源软件的杀手，果不其然，尤其在亚洲国家（中国）是巨大的搭便车者，MongoDB 的CTO 这段论断非常的准确：“The market is increasingly consuming software as a service, creating an incredible opportunity to foster a new wave of great open source server-side software. Unfortunately, once an open source project becomes interesting, it is too easy for cloud vendors who have not developed the software to capture all of the value but contribute nothing back to the community,” 国内提供基于开源栈的云公司不少。这下好了，云计算时代要有所变化，这个世界没有什么一成不变的事情。</description>
     </item>
     
   </channel>
