@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 14 Nov 2019 21:05:02 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 16:48:06 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源天使 ———— GitHub 赞助功能的缔造者： Devon Zuegel </title>
+      <link>http://www.ocselected.org/posts/opensource_leader/open-source-angel-devon-zuegel/</link>
+      <pubDate>Wed, 20 Nov 2019 16:48:06 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_leader/open-source-angel-devon-zuegel/</guid>
+      <description>引言 作为拥有GitHub账户数量庞大的国家，中国对于开源的贡献实在是可圈可点，适兕经常会遇到说”中国人很穷，大家都还在为生活疲于奔命，哪里有时间为人类伟大的事业做贡献。“之类的观点，但是细心的观察之下，发现了这个结论是站不住脚的，更多原因如技术实力偏弱、视野狭窄等才更为妥帖，其中还有一个颇为重要的发现，那就是中国亦缺乏赞助者文化，放眼世界，赞助计划如 Google 的编程夏令营、Linux 基金会的 CrossCommunity 计划、欧盟的 bug 悬赏项目，而作为世界中的一员，中国不仅在赞助方面寥寥，在实际参与到一线的项目中，也是乏善可陈。这是值得探究和思考的问题之一，也是一个需要长远认真对待的内容。当下解决的就是介绍下当前世界上其他的一些做法，他们是如何思考和行动的？那么不妨从这个世界上最大的开源代码托管仓库平台———— GitHub 旗下的赞助功能说起。当然，事情都是由人来推动的，那么我们就先从这位天使说起。
+GitHub Sponsor 是什么？ 在2019年5月23日，GitHub 推出了赞助的功能，也就是以项目为中介平台，有钱的主可以通过 GitHub 赞助直接给开发者一定的资金，GitHub 尽可能的做一些匹配的工作，如赞助商或个人对那些项目和开发者比较感兴趣，或者是反过来。当时推出时，还是引起来非常之大的轰动的：
+ 这个世界是运行在开源之上的，开源的背后真正的推动者，是那些——项目的维护者、设计师、开发者、研究人员、教师、作家、领导者等等，来自全球的个人或团队，其中资金是一项不错的能够让他们持续进行发展的有效方式，GitHub 作为一款代码托管平台，能够让这些卓越的人们获得资金，以让开源更加的可持续发展。
+ GitHub 不收取任何的中介费 开源是 GitHub 的生命动力，这是这些构件我们现在所享用的数字基础设施的开发者们让这个共同体（community）更加的强大，为了感谢他们所贡献的价值，GitHub 不会对其中的赞助双方收取任何的费用，保证赞助者和开发者之间的赞助费是100%无任何损耗。
+全球的支持 只要是 GitHub 在当地开展了相应的业务，GitHub 赞助都会提供相应的支持。
+ 我们均是这个世界的软件团体的一部分。能够扩大这个团体是 GitHub 使命的核心部分，也因此而能够为全世界的开发人员提供这一新的工具而感到无比的自豪。 ———— GitHub 赞助产品团队
+ 所有的贡献都是被认可的 有很多贡献是无法体现的那么直观明了的，比如代码 review，而 GitHub 赞助功能旨在能够照顾到所有的贡献：代码、文档、领导力、做导师、设计等等所有的方式，一句话：为开源做出贡献的任何人都值得获得赞助。
+提供另外一种可能的方式 GitHub 赞助是试图找到现有方式之外的另外一种可能为开源做出贡献的方式：为打造和维护人员提供财务上的支持。理由很简单：为个人提供资金有助于他们继续从事重要的工作，进而扩大对开源参与的机会，当然了，得到世界的认可也很关键。GitHub 的任何用户均可以选择去资助一位开源的贡献者。
+无缝集成到 GitHub 现有的流程 赞助功能是无缝集成到现有的流程当中的，无论是在有人回答了你的问题、对 issue 进行了规整、合并了PR等等，你都可以看到这些贡献者的 profile，然后赞助他们。
+在2019年11月14日的时候，GitHub 赞助功能正式发布，去掉了测试的标签，且新增了对30个国家的支持。这样的方式是否能够生效，我们暂时还未可知，但是一定是对开源贡献的鼓励和必要补充。当然，作为开源之道的疑惑，那就是国人们经常说的是因为没有钱，所以中国开发者贡献少的原因吗？
+GitHub Sponsor 背后推动者 如此重大的功能，究竟是谁推动和缔造的？她究竟是如何想的？让我们带着这样的问题，深挖一下。原来是她：
+她的名字叫做：Devon Zuepel，一位热爱写作（文章和代码）的思考者！她在其博客中如此介绍自己：
+ 对我而言最重要的事情，莫过于释放人的潜力，因此对激励设计、思维工具、和人类赖以生存的城市有很多积极的思考。
+ 一位充满活力的年轻女士！也是非常的多才多艺：软件工程师、专栏作家、社会活动家、政策制定者、记者。业余生活也非常的丰富。更多关于城市建设、个人信条、观点和洞见，请移步她的个人博客：https://devonzuegel.</description>
+    </item>
     
     <item>
       <title>GitHub CEO 说：开源已经胜利，开源完蛋了吗？等，开源之道一周精选(2019 11 17)</title>
@@ -1772,7 +1794,7 @@ Best part of the book was the discussion of shift towards making money with soft
       <pubDate>Mon, 07 Jan 2019 15:33:33 +0800</pubDate>
       
       <guid>http://www.ocselected.org/posts/planing_and_reflection/2019/planning_and_schedule_of_year/</guid>
-      <description>引子 具体事项 一 /2019-01-03 Linux基金会企业开源指南系列之九——公司如何提升开源开发的影响力 来自英文：Improving Your Open Source Development Impact 二 /2019-01-10 Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目 来自英文：Winding Down an Open Source Project 三 /2019-01-17 Linux基金会企业开源指南系列之十一 —— 在开源社区中树立领导力 来自英文：Building Leadership in an Open Source Community 四/2019-01-31 Linux基金会企业开源指南系列之十二 —— 制定企业开源战略 来自英文：Setting an Open Source Strategy 五/2019-02-07 Apache 基金会未来5年计划 来自英文：Five-year Strategic Plan for the Apache Software Foundation 六/2019-02-13 如何评估一个 Linux 发行版的总体成本 来自英文：Estimating the Total Cost of a Linux Distribution 七/2019-02-15 一份被忽略的开源经济学报告 —— 再读 Bruce Perens 八/2019-02-16 云原生的旭日东升 —— CNCF 2018年度报告解读 九/2019-03-10 区块链将会如何影响开源来自英文：How blockchain will influence open source 十/2019-03-31 如何参与到 Linux 社区中来 来自英文：How to Participate in the Linux Community 十一 来自英文：6 ways a thriving community will help your project succeed 开源治理模式OSS Governance Models 打造精英式开放组织：知易行难，来自英文：Building a positive meritocracy: It&amp;rsquo;s harder than it sounds 来自英文：Why There Will Never Be Another Red Hat: The Economics of Open Source 十四 现代开源项目如何实现贡献者增长（译文）来自英文：Growing a contributor base in modern open source 1998 年的那场改变世界的Open Source Summit Trip Report 二十一 工程师和市场人员相互之间可以学习到什么？ 来自英文：What engineers and marketers can learn from each other 二十五 如何管理开源项目中的即兴贡献者 ，来自英文：How to manage casual contributors to open source projects 二十三 []() 来自英文：Open core, open perimeter, and the future of enterprise software 三十九 Apache 之道，让开源持续成功的秘籍 来自英文：The Apache Way to Sustainable Open Source Success 二十七 不一定非得同步做决策：远程团队成功的秘诀 来自英文：Asynchronous decision-making: Helping remote teams succeed 开放源代码软件行业之外的故事之一 &amp;ndash; 一则医疗界的故事 十六 ／2019-04-19 开源之道解读红帽企业开源调查2019 来自英文：红帽企业开源调查2019版 [x] 开放源代码社区对于我意味着什么？ 来自英文： What the open source community means to me</description>
+      <description>引子 具体事项 一 /2019-01-03 Linux基金会企业开源指南系列之九——公司如何提升开源开发的影响力 来自英文：Improving Your Open Source Development Impact 二 /2019-01-10 Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目 来自英文：Winding Down an Open Source Project 三 /2019-01-17 Linux基金会企业开源指南系列之十一 —— 在开源社区中树立领导力 来自英文：Building Leadership in an Open Source Community 四/2019-01-31 Linux基金会企业开源指南系列之十二 —— 制定企业开源战略 来自英文：Setting an Open Source Strategy 五/2019-02-07 Apache 基金会未来5年计划 来自英文：Five-year Strategic Plan for the Apache Software Foundation 六/2019-02-13 如何评估一个 Linux 发行版的总体成本 来自英文：Estimating the Total Cost of a Linux Distribution 七/2019-02-15 一份被忽略的开源经济学报告 —— 再读 Bruce Perens 八/2019-02-16 云原生的旭日东升 —— CNCF 2018年度报告解读 九/2019-03-10 区块链将会如何影响开源来自英文：How blockchain will influence open source 十/2019-03-31 如何参与到 Linux 社区中来 来自英文：How to Participate in the Linux Community 十一 来自英文：6 ways a thriving community will help your project succeed 十二开源治理模式OSS Governance Models 十三打造精英式开放组织：知易行难，来自英文：Building a positive meritocracy: It&amp;rsquo;s harder than it sounds 十四 现代开源项目如何实现贡献者增长（译文）来自英文：Growing a contributor base in modern open source 十五 来自英文：Why There Will Never Be Another Red Hat: The Economics of Open Source 十六 1998 年的那场改变世界的Open Source Summit Trip Report 十七 工程师和市场人员相互之间可以学习到什么？ 来自英文：What engineers and marketers can learn from each other 十八 如何管理开源项目中的即兴贡献者 ，来自英文：How to manage casual contributors to open source projects 十九 Open Core 和基于 API 的服务，商业软件如何搭上开源的顺风车 来自英文：Open core, open perimeter, and the future of enterprise software 二十 Apache 之道，让开源持续成功的秘籍 来自英文：The Apache Way to Sustainable Open Source Success 二十一 不一定非得同步做决策：远程团队成功的秘诀 来自英文：Asynchronous decision-making: Helping remote teams succeed 二十二 开放源代码软件行业之外的故事之一 &amp;ndash; 一则医疗界的故事 二十三 ／2019-04-19 开源之道解读红帽企业开源调查2019 来自英文：红帽企业开源调查2019版 二十四 开放源代码社区对于我意味着什么？ 来自英文： What the open source community means to me 二十五 开源不是什么?</description>
     </item>
     
     <item>
@@ -2094,15 +2116,6 @@ GNU 的作用客观的讲，如果没有的话，就没有开源的今天。但�
 适兕点评：
  Berners-Lee transformed the world once. It would take a brave man to bet against his doing it again.
 But if Solid might seem like a hopelessly ambitious and idealistic project, 我只想说的是，对抗权威的存在，一直都有人在。</description>
-    </item>
-    
-    <item>
-      <title>一切都是关于时间</title>
-      <link>http://www.ocselected.org/posts/the_way_of_open_source/first_all_about_time/</link>
-      <pubDate>Fri, 12 Oct 2018 18:28:14 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/the_way_of_open_source/first_all_about_time/</guid>
-      <description> 墙上的时钟与中央处理器的时钟 中国历史上的关于时间的描述 现代人为什么注重时间？ 时间就是金钱/价值 </description>
     </item>
     
   </channel>
