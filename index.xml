@@ -35,6 +35,31 @@ GitHub Sponsor 背后推动者 如此重大的功能，究竟是谁推动和缔�
     </item>
     
     <item>
+      <title>Magento 开源项目提交者策略；开源模式如何加速未来的数字化营销；等，开源之道一周精选(2019 11 24)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-24/</link>
+      <pubDate>Wed, 20 Nov 2019 11:28:18 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-24/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 ![]()
+风险投资商对开源许可的阵阵寒意 原文链接：Venture Capital Shill
+适兕点评：
+ 其实在技术人员一门心思扎进程序的世界之时，这个世界的另外一些维护秩序的人————律师，一直在捍卫着围绕开源相关的法律问题，比如这名Kyle E. Mitchell，撰文在批判自由软件律师Bradley Kuhn，然后争执商业化友好程度，以及新发布的许可证是否有正当性和合法性的争辩。这就是开源巨大冰山下潜伏的东西：法律基因！是否合法适兕无法评价，只能拭目以待。
+ 随口说开源第一期（马全一和林旅强） 原文链接：Episode Zero – 漫谈 Free Software 和 Open Source 的关系、Copyright 和 License 的关系
+适兕点评：
+ 可能的事情起源是受Python大妈周琦的感染，马全一在COSCon&amp;rsquo;19上见到了我们几个争吵，以及大妈喜欢录音的习惯，于是开始搞播客。比较随意一点就开始讨论了，关于这两个人的谈话内容，强烈建议大家去听听。开源之道非常高兴看到这样的情形，道长是一位资深的技术人员，也开始关注开源的文化，真是让人欣慰啊，希望越来越多的人关注这些。
+ ![]()
+开源软件：透明组织沟通的高效方式 原文链接：Open Source Software: A Model For Transparent Organizational Communication
+适兕点评：
+ 如果让你形容开源当下在软件产业的崛起，既简洁明了又综合丰富，该如何形容？ 我想很多人都会提到：开放、透明、协作、沟通，这就是人类协作的本质，软件本身的特性以及历史的发展，以这样的方式开发是最完备的，即使是出现了共同体的出现，也是为了能够做到这样的理想境界。人与人之间的沟通特别体现在社会分工的异化上，即使分到了相同的工，依然因为背景、文字、符号、言谈、行为的不同而产生分歧。开放，让别人有深入了解你的机会，是唯一的途径。
+ Coherence获250万美元种子，旨在打造游戏开发开源平台 原文链接：Coherence raises $2.5 million for open source platform to democratize connected game development
+适兕点评：
+ 开源之道为什么关注开源软件厂商的融资情况？因为资本看到了软件当下的现状，作为信息商品的软件，正在变得不再让人们那么的新鲜，它正在常态化，而源代码本身就是专业受训过的开发者们关注的事情，开发者之间利用互联网来共享和炫耀技能和成就，乃至创新，这就是常态。而开源之道也相信，随着开源软件公司越来越融到更多的钱，公司数量也越来越多，也就不会在怎么关注了，会转移视线的，而且就在不远的将来。
+ ![]()
+电子自动化设计项目 KiCad 加入 Linux 基金会 原文链接：KiCad Joins Linux Foundation to Advance Electronic Design Automation</description>
+    </item>
+    
+    <item>
       <title>GitHub CEO 说：开源已经胜利，开源完蛋了吗？等，开源之道一周精选(2019 11 17)</title>
       <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-17/</link>
       <pubDate>Thu, 14 Nov 2019 21:05:02 +0800</pubDate>
@@ -2126,23 +2151,6 @@ These days, you can’t have a successful open source project without setting up
 创建一个仪表盘 除了配备完适当的工具之外，贵司还应有一个集中的仪表盘来展示实时的监控和跟踪有关开源项目的进展情况。绝大多数公司在这之前就有相应的应用，那么能够将开源的这些工具集成起来也是最好不过了。没有的话也没有关系，创建或采用一个新的！
  “对于整体的仪表盘来说，实现它的方式实在是太多了，而对于公司如何展现开发者相关信息这是真正的艺术。有些同仁们会打造出非常酷炫的显示效果，其实没什么必要，重要的是中心位置上能展现关键的内容，最好是和现有的仪表程序能够和谐共存，这个唯一存在的价值就是让人们能够一目了然的了解开源项目的健康度、各项指标等。” – Chris Aniszczyk, 云原生计算基金会首席运营官
  工具集的基本要素 有关管理开源项目和项目的报表的工具越来越多了起来，而且这个趋势非常的明显。如果贵司是开源的刚刚入行者，那么一些基本的工具对于聚焦初步的研究是很有益处的。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 11 11)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-11/</link>
-      <pubDate>Sat, 10 Nov 2018 15:38:12 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-11/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Kubernetes 的世界发生了一件事情：VMware 收购了 Heptio 原文链接：The Kubernetes World: VMware Acquires Heptio
-适兕点评：
- 专业的分析师，从Marketing角度来讲，无利不起早，眼看着容器的世界要把虚拟化的世界吞噬掉，VMware像任何一家历史上的公司一样不会轻易放弃的。对于Heptio来说未必是件好事情。
-好吧，技术所能解决的和它所遇到的问题会同样的多，直到下一次颠覆式的创新。
- 微软或许是GitHub贡献者最多的厂家，但是它其实是自利的 原文链接：Microsoft may be the world&amp;rsquo;s largest open source contributor, but developers don&amp;rsquo;t care&amp;ndash;yet
-适兕点评：
- 微软拥抱开源确实是个新手，毕竟才短短4年的时光，但是钱可以掩盖一切，尤其是给那些年轻人而言，人人都在往前看，没有人回顾历史算旧账。但是你不能不知道。
-Microsoft has &amp;ldquo;prolific Linux kernel developers, but primarily just for Hyper-V, which makes Linux run well on Azure. A lot of their contributions (and Amazon&amp;rsquo;s as well) are self-serving like that. It doesn&amp;rsquo;t build as much goodwill as TensorFlow or Kubernetes.</description>
     </item>
     
   </channel>

@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 14 Nov 2019 21:05:02 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 11:28:18 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Magento 开源项目提交者策略；开源模式如何加速未来的数字化营销；等，开源之道一周精选(2019 11 24)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-24/</link>
+      <pubDate>Wed, 20 Nov 2019 11:28:18 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-24/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 ![]()
+风险投资商对开源许可的阵阵寒意 原文链接：Venture Capital Shill
+适兕点评：
+ 其实在技术人员一门心思扎进程序的世界之时，这个世界的另外一些维护秩序的人————律师，一直在捍卫着围绕开源相关的法律问题，比如这名Kyle E. Mitchell，撰文在批判自由软件律师Bradley Kuhn，然后争执商业化友好程度，以及新发布的许可证是否有正当性和合法性的争辩。这就是开源巨大冰山下潜伏的东西：法律基因！是否合法适兕无法评价，只能拭目以待。
+ 随口说开源第一期（马全一和林旅强） 原文链接：Episode Zero – 漫谈 Free Software 和 Open Source 的关系、Copyright 和 License 的关系
+适兕点评：
+ 可能的事情起源是受Python大妈周琦的感染，马全一在COSCon&amp;rsquo;19上见到了我们几个争吵，以及大妈喜欢录音的习惯，于是开始搞播客。比较随意一点就开始讨论了，关于这两个人的谈话内容，强烈建议大家去听听。开源之道非常高兴看到这样的情形，道长是一位资深的技术人员，也开始关注开源的文化，真是让人欣慰啊，希望越来越多的人关注这些。
+ ![]()
+开源软件：透明组织沟通的高效方式 原文链接：Open Source Software: A Model For Transparent Organizational Communication
+适兕点评：
+ 如果让你形容开源当下在软件产业的崛起，既简洁明了又综合丰富，该如何形容？ 我想很多人都会提到：开放、透明、协作、沟通，这就是人类协作的本质，软件本身的特性以及历史的发展，以这样的方式开发是最完备的，即使是出现了共同体的出现，也是为了能够做到这样的理想境界。人与人之间的沟通特别体现在社会分工的异化上，即使分到了相同的工，依然因为背景、文字、符号、言谈、行为的不同而产生分歧。开放，让别人有深入了解你的机会，是唯一的途径。
+ Coherence获250万美元种子，旨在打造游戏开发开源平台 原文链接：Coherence raises $2.5 million for open source platform to democratize connected game development
+适兕点评：
+ 开源之道为什么关注开源软件厂商的融资情况？因为资本看到了软件当下的现状，作为信息商品的软件，正在变得不再让人们那么的新鲜，它正在常态化，而源代码本身就是专业受训过的开发者们关注的事情，开发者之间利用互联网来共享和炫耀技能和成就，乃至创新，这就是常态。而开源之道也相信，随着开源软件公司越来越融到更多的钱，公司数量也越来越多，也就不会在怎么关注了，会转移视线的，而且就在不远的将来。
+ ![]()
+电子自动化设计项目 KiCad 加入 Linux 基金会 原文链接：KiCad Joins Linux Foundation to Advance Electronic Design Automation</description>
+    </item>
     
     <item>
       <title>GitHub CEO 说：开源已经胜利，开源完蛋了吗？等，开源之道一周精选(2019 11 17)</title>
@@ -1999,35 +2024,6 @@ IBM 这家公司，云计算时代的堕落者。几乎做啥都失败。静待�
 适兕点评：
  一篇不错的夸赞Linux成绩的文章，总结的视角还是不错的。但是对于熟悉Linux的人来说，这些内容不过是房间里的大象罢了。
  阿里巴巴云和百度成为CNCF会员 原文链接：Alibaba Cloud, Baidu embrace open source as CNCF members</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2017 12 03)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-12-03/</link>
-      <pubDate>Sun, 03 Dec 2017 10:49:45 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-12-03/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Linux四大公司针对开源许可更改了一些政策 原文链接：&amp;lsquo;Big four&amp;rsquo; Linux companies shift open-source licensing policies
-适兕点评：
- 法律我懂得不是很多，GPLv2，Linux一直以来得以成功的许可协议。
-但是，现在商业的力量太强大了，似乎没有它搞不定的事情。
-唯有静观其变。商业的过分强调，对于项目和社区未必是一件过好的事情。过了就不好了，适可而止。
- 开源正在成为新的职位热捧对象 原文链接：The new workspace currency is open source
-适兕点评：
- 是的，如今这个年头，如果你是在某开源项目社区混为一个维护者之类，简直成了热门的香饽饽，众多公司会争相挖你。比如OpenStack基金会董事这样的政治席位都被抬到了莫名的高度。
-正如上一篇所阅读的，开源过于亲近商业，最终的结局就是被寡头垄断。开源的民主化就付之东流。
-有的时候，看待一件事物，好像是相同的。当开源的技能，被众多的公司视为价值体现的时候，“师夷长技以制夷”的思维何时改变？
- Instaclustr在 AWS re:Invent 2017上亮相 原文链接：Instaclustr Showcasing New Open Source-as-a-Service Platform at AWS re:Invent 2017
-适兕点评：
- 开源即服务，一家澳大利亚的公司。这样的商业模式是可行的。但是，必须是和用户的业务所整合的。而不是基础设施这块。
-所有的人都在利用开源的基础设施服务，所有的公司都是开源基础设施的寄生虫，即使有贡献，也是凤毛麟角。这就可以解释，为什么很少人愿意在基础设施方面去投资。
-二、三线城市的代理商，转型利用开源做解决方案，就是最大的成功，至少他们帮助用户解决了问题，赚到了一定的利润。使用开源本身就是一种功劳。
- Linux桌面的政治 原文链接：The politics of the Linux desktop
-适兕点评：
- Linux桌面，多年以来一直都没有任何的重大突破，主要还是缺乏稳定的版本。其实也是更新过于频繁的缘故。
-人们如何才能够耐得住寂寞？和性子，然后再也不激进的进行更新。
- 微软和开源——一个勇敢的新世界 原文链接：Microsoft and Open Source - A &amp;lsquo;Brave New World&amp;rsquo;</description>
     </item>
     
   </channel>

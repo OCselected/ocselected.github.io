@@ -35,6 +35,31 @@ GitHub Sponsor 背后推动者 如此重大的功能，究竟是谁推动和缔�
     </item>
     
     <item>
+      <title>Magento 开源项目提交者策略；开源模式如何加速未来的数字化营销；等，开源之道一周精选(2019 11 24)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-24/</link>
+      <pubDate>Wed, 20 Nov 2019 11:28:18 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-24/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 ![]()
+风险投资商对开源许可的阵阵寒意 原文链接：Venture Capital Shill
+适兕点评：
+ 其实在技术人员一门心思扎进程序的世界之时，这个世界的另外一些维护秩序的人————律师，一直在捍卫着围绕开源相关的法律问题，比如这名Kyle E. Mitchell，撰文在批判自由软件律师Bradley Kuhn，然后争执商业化友好程度，以及新发布的许可证是否有正当性和合法性的争辩。这就是开源巨大冰山下潜伏的东西：法律基因！是否合法适兕无法评价，只能拭目以待。
+ 随口说开源第一期（马全一和林旅强） 原文链接：Episode Zero – 漫谈 Free Software 和 Open Source 的关系、Copyright 和 License 的关系
+适兕点评：
+ 可能的事情起源是受Python大妈周琦的感染，马全一在COSCon&amp;rsquo;19上见到了我们几个争吵，以及大妈喜欢录音的习惯，于是开始搞播客。比较随意一点就开始讨论了，关于这两个人的谈话内容，强烈建议大家去听听。开源之道非常高兴看到这样的情形，道长是一位资深的技术人员，也开始关注开源的文化，真是让人欣慰啊，希望越来越多的人关注这些。
+ ![]()
+开源软件：透明组织沟通的高效方式 原文链接：Open Source Software: A Model For Transparent Organizational Communication
+适兕点评：
+ 如果让你形容开源当下在软件产业的崛起，既简洁明了又综合丰富，该如何形容？ 我想很多人都会提到：开放、透明、协作、沟通，这就是人类协作的本质，软件本身的特性以及历史的发展，以这样的方式开发是最完备的，即使是出现了共同体的出现，也是为了能够做到这样的理想境界。人与人之间的沟通特别体现在社会分工的异化上，即使分到了相同的工，依然因为背景、文字、符号、言谈、行为的不同而产生分歧。开放，让别人有深入了解你的机会，是唯一的途径。
+ Coherence获250万美元种子，旨在打造游戏开发开源平台 原文链接：Coherence raises $2.5 million for open source platform to democratize connected game development
+适兕点评：
+ 开源之道为什么关注开源软件厂商的融资情况？因为资本看到了软件当下的现状，作为信息商品的软件，正在变得不再让人们那么的新鲜，它正在常态化，而源代码本身就是专业受训过的开发者们关注的事情，开发者之间利用互联网来共享和炫耀技能和成就，乃至创新，这就是常态。而开源之道也相信，随着开源软件公司越来越融到更多的钱，公司数量也越来越多，也就不会在怎么关注了，会转移视线的，而且就在不远的将来。
+ ![]()
+电子自动化设计项目 KiCad 加入 Linux 基金会 原文链接：KiCad Joins Linux Foundation to Advance Electronic Design Automation</description>
+    </item>
+    
+    <item>
       <title>GitHub CEO 说：开源已经胜利，开源完蛋了吗？等，开源之道一周精选(2019 11 17)</title>
       <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-17/</link>
       <pubDate>Thu, 14 Nov 2019 21:05:02 +0800</pubDate>
@@ -2099,23 +2124,6 @@ Microsoft has &amp;ldquo;prolific Linux kernel developers, but primarily just fo
 开源是社区，准确的说是技术社区，社区的文化由来以久，商业公司建立社区也有不短的历史：IT公司构建技术社区也是非常的成功，比如微软的MSDN、Oracle 的java社区等等，但是本土是很少有围绕开源技术成立真正意义上的社区的，最大的一个弊病就是不是以人为单位，而是某些公司的市场营销活动。社区很关键，社区是开源技术成功的必要条件。
 现在我们讨论的时候，经常会讨论到开源软件基金会：FSF、Apache、Linux、Python、Gnome、OpenStack、CNCF 等等，讲这个我可以简单谈论下最近的单一厂商发起的开源项目更改许可证的事件，Redis、MongoDB，类似这样单独厂商发起的项目，很难获得其它商业公司的参与，这是一个伦理问题,正如 Nathen Harvey 在 Information Week 中的文章中指出了三个问题：
  “项目应该由商业的赞助商驱动还是外围的贡献者驱动？商业利益是否应该凌驾于社区的意愿之上？该如何以及在哪里为商业实体和开源社区之间划上一个明确的界线？”</description>
-    </item>
-    
-    <item>
-      <title>开源之道两周精选(2018 10 14)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-10-14/</link>
-      <pubDate>Fri, 12 Oct 2018 22:19:50 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-10-14/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 GNU 35周年了 原文链接：Happy Birthday, GNU: Why I still love GNU 35 years later
-适兕点评：
- 或许了解历史的人会觉得悲凉，甚至有点惋惜，但是世界就是这样，要往前发展，不管你做一件事情的目的有多么高的道德立场，如果你没有得到别人的帮助，那么就是失败的。
-GNU 的作用客观的讲，如果没有的话，就没有开源的今天。但是仅止于此，让它坚守在哪里！
- Time Berners-Lee 创建了新项目，去中心化的互联网 原文链接：Tim Berners-Lee unveils Solid, a framework to decentralize the internet and give back control to users
-适兕点评：
- Berners-Lee transformed the world once. It would take a brave man to bet against his doing it again.
-But if Solid might seem like a hopelessly ambitious and idealistic project, 我只想说的是，对抗权威的存在，一直都有人在。</description>
     </item>
     
   </channel>
