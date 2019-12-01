@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 26 Nov 2019 22:38:20 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 10:47:35 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源是如何改变一切的（又一次）；合作伙伴营销的兴起与开源的角色；等，开源之道一周精选(2019 12 01)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-01/</link>
+      <pubDate>Wed, 27 Nov 2019 10:47:35 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-01/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 产品营销的科学 ———— 红帽产品行销总监访谈 原文链接：The Science of Product Marketing
+适兕点评：
+ 开源是深入渗透到红帽的方方面面的，其中也包括营销。同理心、内容为王、超越数据本身，嗯，开源之道笃信产生价值的地方不止于将软件授权，其实，即使如中国法律淡薄的地域，售卖软件也绝非是许可证授权这么简单。注重关系、注重面对面的沟通、注重人情，哪里只是授权那么的简单，只不过是对犯法这件事没有禁止和惩罚所致。你不能永远奢望所有人都能经受的住诱惑。毕竟走捷径是人的天性。这么说的话，这位行销总监是位洞悉人性的大师。
+ 关于云和开源必须知道的五件事 原文链接：Top 5 things to know about open source and the cloud
+适兕点评：
+ 云计算平台和运行其上的开源项目，为用户提供服务，这是一个需要历史来证明的持久战，究竟谁能让世界更加的创新，我们需要等待一段时间，但其中商业在其中会是一股颇为强大的力量。如果说这些原则上大家可以达成共识的话，其实就没有那么多的困惑。当然这是需要一个历程的，知识往往是经济的绊脚石。
+ 富士通成为最新的 OpenChain 2.0 合格公司 原文链接：Fujitsu is the Latest OpenChain 2.0 Conformant Company
+适兕点评：
+ 法律是可以获得巨大的经济回报的，在开放源代码软件中显得尤其的重要，这是之所以其能够经济有效的运转起来的基石，Linux基金会旗下的OpenChain是需要很多公司需要关注的内容。在中国往往有一个错误的认知，那就是不出海，我就可以不遵守开源许可证的内容，也就是说现行的OSI认证的许可证在中国是不能够生效的，地缘政治的保护往往会伤害更为长久的利益。什么时候中国人能够将自己的认知提高到世界的高度，那才是正常的经济、法律、文明的秩序。眼下就是个盗窃贼。
+ KubeCon 展示了 Kubernetes 的巨大，但是它是独角兽吗？ 原文链接：KubeCon Showed Kubernetes Is Big, but Is It a Unicorn?
+适兕点评：
+ People like to to see horses, but people want to see a unicorn.</description>
+    </item>
     
     <item>
       <title>从科学的开放精神来看开源</title>
@@ -19,7 +40,7 @@
       
       <guid>http://www.ocselected.org/posts/opensource_culture/open-science-means-open-source-or-least-it-should/</guid>
       <description>引言 开源想要在现实社会中彻底的站稳脚跟，可能除了现在技术上的成绩和经济上的奇迹，还要从更为宽泛的伟大出发，例如和科学的关系。本期文章，我们就译自 Glyn Moody 的大作，看看 Glyn 是如何为开源提升更高的使命和意识的，而不用牵带更多的强迫和激进。
-为何说开源其实发生在1965年 各位知识渊博的看官，你认为开源是从什么开始的？是1998年2月份Christine Peterson所定义的吗？还是 Richard Stallman 在1989年所描绘的 GNU GPL 下的 &amp;ldquo;subroutinized&amp;rdquo;？亦或者是更早些时候的1985年，Richard Stallman 所创建的GNU Emacs 许可证？还是1665年3月6日这天所发生的如下声明了呢？
+为何说开源其实发生在1665年 各位知识渊博的看官，你认为开源是从什么开始的？是1998年2月份Christine Peterson所定义的吗？还是 Richard Stallman 在1989年所描绘的 GNU GPL 下的 &amp;ldquo;subroutinized&amp;rdquo;？亦或者是更早些时候的1985年，Richard Stallman 所创建的GNU Emacs 许可证？还是1665年3月6日这天所发生的如下声明了呢？
  鉴于促进哲学问题的发展，没有什么比促进传播哲学更为必要的了，即通过他人的发现或实践来应用哲学研究和努力。因为我们以为需要做一些媒介的工作，从而作为满足那些从事此类研究的人们的最合适的方法，进而对于学习和获得进步会感到由衷的高兴，并使得他们充分的了解英国、这个世界，这同样也需要坚持不懈的去研究、劳作、保持好奇的尝试、并享受其中所学到知识，作为最终的发现和表现：最终，这样的作品必须清晰、真实地传达出来，并经得起推敲，作为有用的知识，人们便会进一步的进行探究，精益求精、孜孜不倦、进而授业解惑、激励他人，持续的为改进自然知识，完善所有哲学艺术和科学的宏伟设计做出贡献。
  上面这段文字节选自1665年的《哲学交流（Philosophical Transactions）》创刊号，该杂志是我们世界上存在的最为古老的杂志，历史很多重要的成果都是在该杂志上发表的，如牛顿、史蒂夫.霍金、约翰·赫歇尔爵士等等。值得大题特提的是，该杂志同样确立了我们今天视为理所当然的关键科学原则，其中就包括：常规的技术和成果的分享，以让其他人可以基于其基础进行发展，这不就是我们所熟悉的开源吗？
 关于开放科学 尽管科学精神倡导和发明了我们所称之为开源的方法，但是颇具吊诡的是，科学共同体们目前正在试图重新发现开放性，而他们称之为开放科学（open science）。随着历史的进步，人们渐渐意识到那些传统的、模拟（analog）的科学方法正在经历不小的变化，即数字化技术，它将对科学发展带来根本性的变革。
@@ -2134,21 +2155,6 @@ In Subscribed, you&amp;rsquo;ll learn how these companies made the shift, and ho
  所以，招募开发者策略的第一步是将金钱激励考虑妥当了，因为只有搞定了它才能接着往下走。这是贵司开源项目的敲门砖。其可以帮助贵司招募到各种技能层次水平的开源开发人员。
 足够的人才储备对于满足贵司的开源目标是相当的重要一环，其中包括是否有足够的能力为贵司所依赖的开源项目上游做贡献、以及贵司自己开源的技术和社区的增长。这就是需要一个战略、一整套的流程，以及可实现的目标。
 开源作为招募工具 在我们深入介绍招聘战略之前，先来讨论一下为何说参与开源才是有效的招募工具，当然不仅仅只招募到了就完事了，留住这些顶级的人才也是一件非常有挑战的事（我们会在下一个章节详谈）。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 11 18)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-18/</link>
-      <pubDate>Sun, 18 Nov 2018 08:39:44 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-18/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
- 开源之道每周精选，将暂停5周，我们年底见！
- 文章点评 Ceph 存储项目成立独立开源基金会 原文链接：The Ceph storage project gets a dedicated open-source foundation
-适兕点评：
- 其实，我很想花时间八卦一下Ceph为什么最终选择了Linux基金会，而不是OpenStack基金会。不过一切都无关紧要了，OpenStack的教训值得所有的基金会吸取，被国人玩坏的。好的没有啥影响力，坏的传遍，国人接下来的目标还有Apache基金会，CNCF基金会，究竟是谁最终会被淘汰出局，我们还需要拭目以待。anyway，这也是开源之道重点关注的内容：
-These days, you can’t have a successful open source project without setting up a foundation that manages the many diverging interests of the community and so it’s maybe no surprise that Ceph is now getting its own foundation.
- Facebook 的 GraphSQL 也拥有了自己的软件基金会 原文链接：Facebook’s GraphQL gets its own open-source foundation</description>
     </item>
     
   </channel>

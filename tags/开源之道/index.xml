@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 20 Nov 2019 16:48:06 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 10:47:35 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源是如何改变一切的（又一次）；合作伙伴营销的兴起与开源的角色；等，开源之道一周精选(2019 12 01)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-01/</link>
+      <pubDate>Wed, 27 Nov 2019 10:47:35 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-01/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 产品营销的科学 ———— 红帽产品行销总监访谈 原文链接：The Science of Product Marketing
+适兕点评：
+ 开源是深入渗透到红帽的方方面面的，其中也包括营销。同理心、内容为王、超越数据本身，嗯，开源之道笃信产生价值的地方不止于将软件授权，其实，即使如中国法律淡薄的地域，售卖软件也绝非是许可证授权这么简单。注重关系、注重面对面的沟通、注重人情，哪里只是授权那么的简单，只不过是对犯法这件事没有禁止和惩罚所致。你不能永远奢望所有人都能经受的住诱惑。毕竟走捷径是人的天性。这么说的话，这位行销总监是位洞悉人性的大师。
+ 关于云和开源必须知道的五件事 原文链接：Top 5 things to know about open source and the cloud
+适兕点评：
+ 云计算平台和运行其上的开源项目，为用户提供服务，这是一个需要历史来证明的持久战，究竟谁能让世界更加的创新，我们需要等待一段时间，但其中商业在其中会是一股颇为强大的力量。如果说这些原则上大家可以达成共识的话，其实就没有那么多的困惑。当然这是需要一个历程的，知识往往是经济的绊脚石。
+ 富士通成为最新的 OpenChain 2.0 合格公司 原文链接：Fujitsu is the Latest OpenChain 2.0 Conformant Company
+适兕点评：
+ 法律是可以获得巨大的经济回报的，在开放源代码软件中显得尤其的重要，这是之所以其能够经济有效的运转起来的基石，Linux基金会旗下的OpenChain是需要很多公司需要关注的内容。在中国往往有一个错误的认知，那就是不出海，我就可以不遵守开源许可证的内容，也就是说现行的OSI认证的许可证在中国是不能够生效的，地缘政治的保护往往会伤害更为长久的利益。什么时候中国人能够将自己的认知提高到世界的高度，那才是正常的经济、法律、文明的秩序。眼下就是个盗窃贼。
+ KubeCon 展示了 Kubernetes 的巨大，但是它是独角兽吗？ 原文链接：KubeCon Showed Kubernetes Is Big, but Is It a Unicorn?
+适兕点评：
+ People like to to see horses, but people want to see a unicorn.</description>
+    </item>
     
     <item>
       <title>开源天使 ———— GitHub 赞助功能的缔造者： Devon Zuegel </title>
@@ -2098,32 +2119,6 @@ Microsoft has &amp;ldquo;prolific Linux kernel developers, but primarily just fo
 原文链接：MongoDB introduces the Server Side Public License for open source
 适兕点评：
  早有几年就有人预言公有云提供商将是开源软件的杀手，果不其然，尤其在亚洲国家（中国）是巨大的搭便车者，MongoDB 的CTO 这段论断非常的准确：“The market is increasingly consuming software as a service, creating an incredible opportunity to foster a new wave of great open source server-side software. Unfortunately, once an open source project becomes interesting, it is too easy for cloud vendors who have not developed the software to capture all of the value but contribute nothing back to the community,” 国内提供基于开源栈的云公司不少。这下好了，云计算时代要有所变化，这个世界没有什么一成不变的事情。</description>
-    </item>
-    
-    <item>
-      <title>开源之道 -- COSCon18 主题分享</title>
-      <link>http://www.ocselected.org/posts/the_way_of_open_source/coscon18_shared_topic/</link>
-      <pubDate>Sat, 20 Oct 2018 14:23:59 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/the_way_of_open_source/coscon18_shared_topic/</guid>
-      <description>引子  我相信对世界进行更多的探索是值得的，哪怕它只会让我们明白我们懂得太少。对我们有益的一点事要时刻牢记：虽然我们由于各自所知的不同而参差多态，但总的来说我们的无知并无差别。 ———— 卡尔. 波普尔
- 如果是这样看似没有逻辑似的穷举，是不是会有让人疲惫的感觉？那是因为我没有去找一根线索来串起来，而这根线索往往才是一篇文章的灵魂。
-演讲内容实录 接下来由我给大家分享一些有关开源的个人心得与体会，我一般称自己为开源信徒，或开源布道师，目前是一位自由职业者，除了日常的学习之外，就是参与贡献开源的事情，比如我本身也是开源社 &amp;ndash; 草根社区的执委会成员。
-今天的演讲分享灵感来自于前不久远在大西洋彼岸的开源会议——OSCON 2018， 由O&amp;rsquo;Reilly的创始人Tim O&amp;rsquo;reilly 的主题演讲其中的一张slide所吸引，这是我不止一次看到开源界的“歪果仁”使用《道德经》的话来讲事情。感谢O&amp;rsquo;reilly 对我的影响。
-在往远说一点，我怎么对开源本身产生了兴趣，我做工程师很多年，从Linux到虚拟化再到IaaS，然后失败了几次，在2015年底的时候，组织了一次社区关于文化的活动，作了一次演讲，也写了一篇文章。那就是这篇：《为什么基于成功的开源项目商业产品会失败？》，从那之后，渐渐的兴趣开始有了转变，开始研究具体的技术之外的东西，开始布道、撰文、阅读各种学术论文。关于具体的怎么做开源等详细的细节，大家可以订阅我的博客《开源之道》，也就是 The way of open source。这个是公众号，是博客的内容镜像。注意这样一个蛮奇特的现象。等一下我会提到。
-接下来，我们来聊聊开源，以下纯粹是个人的认知与体会。那就是在我这三年的布道经历中，当我和人们讨论开源的时候，我们究竟在讨论什么？
-首先是各种具体的实现细节，诸如数据表示、算法、通信、信息论、控制论等等，这样的人很少，几乎难以见到。
-然后是具体的各种各样的开源项目：gcc、Linux、Apache、Hadoop、TensorFlow以及很多很多是我在这里念几天都念不完的。谈这个是最多的，因为浅显，所以念下名字，大体是做什么的，属于什么范畴，这个几乎占据了所有的讨论。
-开源是软件工程，同样是OSI的提出者，天才般的Eric.s.Raymand，撰写了Linux为什么会成功，基于社区的协作模式是可靠的，比如著名的Linus定律：“如果有足够多的眼球，Bug就无处藏身！”。随着社区的协作模式日渐发展，康威定律也渐渐的被证实，分布式、模块化、共识等等，开源的软件工程是可以的。尽管这个所谓的工程是和日常见到的有着完全不同的概念。比如开源的项目，是不会有初期投入多少人，预计什么时间完成，一切都是未知的方式进行的。然而，它真的可以成功。
-开源是公共物品吗？这更多是一个思考，是我们可以随时享用，不需要任何付出和维护的吗？政府在这里的作用是什么? 作为基础设施的开源软件，正如我在开源书籍推荐 ————《路与桥——现代世界数字基础设施那些隐藏的劳动》一文所描述，开源的项目是隐藏着巨大的危机的。openssl事件可能众所周知，但是想这样的项目还有很多，比如NTP。
-还有大家比较关心的一点，在经济学家眼里开源意味着什么？开源是（开放、共享、回馈）经济学，毕竟这里代表着先进的生产力。在这里给大家举个例子，来自哈佛商学院的Nagles最新研究成果：参与到上游对于竞争是弊大于利的。而且所列举的例子也是能够在现实中找到实例的。他最新的论文叫做：&amp;ldquo;Learning by Contributing: Gaining Competitive Advantage Through Contribution to Crowdsourced Public Goods.&amp;rdquo; 推荐有相关兴趣的同学阅读一下。
-开源是自我奉献，这里有很多值得大家注意的地方，乌托邦从来都只是活在人们的幻想中的，你真的想要自由，要准备好付出很大的代价。请大家一定要注意，开源不是什么情怀，开源从诞生的那天起就是妥协的结果，是自由与商业妥协的结果，或者叫做换一种方式实现自由。特别是年轻人，如果有人在利用开源和你谈情怀，你一定要小心了。最好是阅读一下相关的背景，搞清楚其中的利害关系。
-开源是知识产权，这也是我们非常值得关注的地方，由于特殊的文化背景原因，我们生活的这篇土地上，对于知识产权是个大难题，我的一贯主张是没有知识产权，你就不可能有开源，知识产权是开源的充分条件。你读书人窃书不叫偷，随意copy不留名，这种事情只会带来伤害。
- 现实一点都不重要，认知决定一切。 &amp;ndash; Graham Moore 《The Last days of Night》
- 开源是空手套白狼，这个是错误的认知，但是非常的常见，也是一些公司主管商务的人最大的认知误区，尤其是非常看重短期利益的人，开源就是他们能够快速的圈钱工具。尽管他们最终付出了很大的代价，但事后往往也不会考虑是因为这方面的原因。
-开源是社区，准确的说是技术社区，社区的文化由来以久，商业公司建立社区也有不短的历史：IT公司构建技术社区也是非常的成功，比如微软的MSDN、Oracle 的java社区等等，但是本土是很少有围绕开源技术成立真正意义上的社区的，最大的一个弊病就是不是以人为单位，而是某些公司的市场营销活动。社区很关键，社区是开源技术成功的必要条件。
-现在我们讨论的时候，经常会讨论到开源软件基金会：FSF、Apache、Linux、Python、Gnome、OpenStack、CNCF 等等，讲这个我可以简单谈论下最近的单一厂商发起的开源项目更改许可证的事件，Redis、MongoDB，类似这样单独厂商发起的项目，很难获得其它商业公司的参与，这是一个伦理问题,正如 Nathen Harvey 在 Information Week 中的文章中指出了三个问题：
- “项目应该由商业的赞助商驱动还是外围的贡献者驱动？商业利益是否应该凌驾于社区的意愿之上？该如何以及在哪里为商业实体和开源社区之间划上一个明确的界线？”</description>
     </item>
     
   </channel>

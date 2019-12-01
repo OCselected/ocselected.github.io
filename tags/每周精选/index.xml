@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 20 Nov 2019 11:28:18 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 10:47:35 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源是如何改变一切的（又一次）；合作伙伴营销的兴起与开源的角色；等，开源之道一周精选(2019 12 01)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-01/</link>
+      <pubDate>Wed, 27 Nov 2019 10:47:35 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-01/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 产品营销的科学 ———— 红帽产品行销总监访谈 原文链接：The Science of Product Marketing
+适兕点评：
+ 开源是深入渗透到红帽的方方面面的，其中也包括营销。同理心、内容为王、超越数据本身，嗯，开源之道笃信产生价值的地方不止于将软件授权，其实，即使如中国法律淡薄的地域，售卖软件也绝非是许可证授权这么简单。注重关系、注重面对面的沟通、注重人情，哪里只是授权那么的简单，只不过是对犯法这件事没有禁止和惩罚所致。你不能永远奢望所有人都能经受的住诱惑。毕竟走捷径是人的天性。这么说的话，这位行销总监是位洞悉人性的大师。
+ 关于云和开源必须知道的五件事 原文链接：Top 5 things to know about open source and the cloud
+适兕点评：
+ 云计算平台和运行其上的开源项目，为用户提供服务，这是一个需要历史来证明的持久战，究竟谁能让世界更加的创新，我们需要等待一段时间，但其中商业在其中会是一股颇为强大的力量。如果说这些原则上大家可以达成共识的话，其实就没有那么多的困惑。当然这是需要一个历程的，知识往往是经济的绊脚石。
+ 富士通成为最新的 OpenChain 2.0 合格公司 原文链接：Fujitsu is the Latest OpenChain 2.0 Conformant Company
+适兕点评：
+ 法律是可以获得巨大的经济回报的，在开放源代码软件中显得尤其的重要，这是之所以其能够经济有效的运转起来的基石，Linux基金会旗下的OpenChain是需要很多公司需要关注的内容。在中国往往有一个错误的认知，那就是不出海，我就可以不遵守开源许可证的内容，也就是说现行的OSI认证的许可证在中国是不能够生效的，地缘政治的保护往往会伤害更为长久的利益。什么时候中国人能够将自己的认知提高到世界的高度，那才是正常的经济、法律、文明的秩序。眼下就是个盗窃贼。
+ KubeCon 展示了 Kubernetes 的巨大，但是它是独角兽吗？ 原文链接：KubeCon Showed Kubernetes Is Big, but Is It a Unicorn?
+适兕点评：
+ People like to to see horses, but people want to see a unicorn.</description>
+    </item>
     
     <item>
       <title>Magento 开源项目提交者策略；开源模式如何加速未来的数字化营销；等，开源之道一周精选(2019 11 24)</title>
@@ -1999,31 +2020,6 @@ Ted,adidas是如何玩开源的？本文是难得一见的好文。
 行业要不断的吸引人才，征的人才的青睐，方能在未来施展放大招。Apple的跟风，能够决胜千里否？
  OpenContrail 项目代码托管给了Linux基金会 原文链接：Juniper Networks Reinforces Longstanding Commitment to Open Source by Moving OpenContrail&amp;rsquo;s Codebase to the Linux Foundation
 原文链接：Juniper Networks&amp;rsquo; OpenContrail software defined network joins The Linux Foundation</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2017 12 10)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-12-10/</link>
-      <pubDate>Mon, 11 Dec 2017 21:21:25 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-12-10/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 OpenStack基金会发布新的开源容器项目 原文链接：OpenStack Foundation announces new open source container project
-适兕点评：
- 完全个人观点，并不看好这个项目，拼凑的事情，放在国人手里，就会成为争夺控制权的大戏。其中的协调和原则非常的难以处理。
-无论是从技术上，还是社区讲都是不合理的。对于Hyper来说是个又一次获得资本的好机会，对于IOS部门来说，就是一个鸡肋。
- IBM 和 Pivotal 合作开发应用开发工具 原文链接：IBM, Pivotal collaborate on tools for app development
-适兕点评：
- Spring Boot，云原生应用、微服务似乎大家都要在这里拼的一份。于是联盟、开源、搞点事情。
-IBM 这家公司，云计算时代的堕落者。几乎做啥都失败。静待明天中国区拆减人员。
- 2018，将是开源桌面、浏览器和办公套件的丰收之年 原文链接：2018: The year of the open source desktop, browser, and office suite
-适兕点评：
- 无论任何时候，我们都需要尊重这些坚持者，在金钱笼罩开源的时代，依然有人坚守独立的阵营。
-正是因为这些坚守者，我们才能够进行无限而贪婪的剥削。
- Linux 再也不容忽视 原文链接：Linux then, and why you should learn it now
-适兕点评：
- 一篇不错的夸赞Linux成绩的文章，总结的视角还是不错的。但是对于熟悉Linux的人来说，这些内容不过是房间里的大象罢了。
- 阿里巴巴云和百度成为CNCF会员 原文链接：Alibaba Cloud, Baidu embrace open source as CNCF members</description>
     </item>
     
   </channel>
