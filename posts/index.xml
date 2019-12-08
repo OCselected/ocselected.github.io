@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 Nov 2019 10:47:35 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 11:01:05 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源的基金会时代，开发者是拯救自然灾害的超级英雄，等；开源之道一周精选(2019 12 08)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-08/</link>
+      <pubDate>Fri, 06 Dec 2019 11:01:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-08/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 数字化转型员工所面临的三大痛点 原文链接：Digital transformation: 3 people pain points
+适兕点评：
+ 很多时候，我会遇到说拥抱开源是因为没有解决温饱问题，开源需要非常多的激励（钱），后来我发现，说这些话的人，即使给他们钱，也不会拥抱开源，大多数时候是从开源中的一味的获取，并对开源厌恶至极，因为会揭穿他们。其实，拥抱开源从正确的认知开始，从人类的同理心上讲来识别合作的益处，比如企业在现代化IT——数字化转型，为什么要拥抱开源是正确的选择。从人才、管理、风险、成本等诸多角度来思考，而不是眼中只有对手。
+ 阿里巴巴开始在开源发力 原文链接：Alibaba’s growing open source stature
+适兕点评：
+ 这是一篇阿里巴巴的Alink的公关文，我在去年他们收购Flink背后的团队之后，阿里巴巴吹自己的Blink，曾经做过强烈的批判，这次又来一个Alink，竟然要在同一个地方摔倒两次。不过话说回来，强势的如日中天的阿里巴巴，哪里瞧得上开源共同体的影响力，阿里巴巴对于开源的认知还处于自身的开发成本能够承担，创新成本有整个业界领头羊和开源共同体撑腰，所以反过来轻视开源是很正常的思考方式。Flink Community 将会被阿里巴巴生吞活剥，直到整个共同体完全就是大象元素。alibaba强大的公共团队也让本土的其它组织单位羡慕不已。
+ 开放 FinTech 论坛 2019 召开 原文链接：Open FinTech forum 2019
+适兕点评：
+ 嗯，金融行业很重要，Linux基金会也在此发力，但是这也是个保守的行业，当然事情要对比着看，linux基金会在讨论什么，本土的在讨论什么？这是有很大区别的。所谓的没有对比就没有伤害通常可以找到无数的例子。构建可持续的开源共同体，这确实是我思考的问题，Linux基金会也在积极地推进。
+ 微软 GitHub 考虑在中国扩张 原文链接：Microsoft’s GitHub mulls expansion in China
+适兕点评：
+ 微软的COO 来中国分别在上海、深圳、北京低调的办理了三场会议，然后百度战略入资了Gitee，是不是这些事情都纯属巧合了呢？如果说这个世界充满了推动者的力量的话，那么这几件事情就是明证，GitHub 作为一家社交媒体，其实和Twitter、FaceBook没啥区别，甚至更为厉害，因为它交流的内容更多，协作的力量更为强大。而后者我们是知道结果的，GitHub 肯定是进军不了中国的，哪怕是卖企业版都非常的玄乎。平安云的代理业绩不知道如何，9月份之后就没啥消息了，一些商业的活动也都取消了。静观其变吧。
+ 开发者路线图 原文链接：Developer Roadmaps
+适兕点评：
+ 这个世界上有没有什么直达的路径，犹如现实世界的a点到b点，甚至是捷径？这大概是很多年轻人都在思考的问题，开源之道图书线下活动的交流2019深圳站，来宾分享了他在深圳大学的授课经验，非常值得借鉴，如果能够给到非双一流的大学生们非常好的路径，而不是告诉他们探索的方法和可能感兴趣的内容，会更能俘获他们的内心，因为现实不允许他们有太多的思考，往开源的架子上赶就好了。嗯，我也在深刻的思考这件事，那么开发者路线图或许是蛮大的帮助。
+ 开发者是拯救自然灾害的超级英雄 原文链接：Coders are the new superheroes of natural disasters</description>
+    </item>
     
     <item>
       <title>开源是如何改变一切的（又一次）；合作伙伴营销的兴起与开源的角色；等，开源之道一周精选(2019 12 01)</title>
@@ -2138,21 +2163,6 @@ In Subscribed, you&amp;rsquo;ll learn how these companies made the shift, and ho
  所以，招募开发者策略的第一步是将金钱激励考虑妥当了，因为只有搞定了它才能接着往下走。这是贵司开源项目的敲门砖。其可以帮助贵司招募到各种技能层次水平的开源开发人员。
 足够的人才储备对于满足贵司的开源目标是相当的重要一环，其中包括是否有足够的能力为贵司所依赖的开源项目上游做贡献、以及贵司自己开源的技术和社区的增长。这就是需要一个战略、一整套的流程，以及可实现的目标。
 开源作为招募工具 在我们深入介绍招聘战略之前，先来讨论一下为何说参与开源才是有效的招募工具，当然不仅仅只招募到了就完事了，留住这些顶级的人才也是一件非常有挑战的事（我们会在下一个章节详谈）。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 11 18)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-18/</link>
-      <pubDate>Sun, 18 Nov 2018 08:39:44 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-18/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
- 开源之道每周精选，将暂停5周，我们年底见！
- 文章点评 Ceph 存储项目成立独立开源基金会 原文链接：The Ceph storage project gets a dedicated open-source foundation
-适兕点评：
- 其实，我很想花时间八卦一下Ceph为什么最终选择了Linux基金会，而不是OpenStack基金会。不过一切都无关紧要了，OpenStack的教训值得所有的基金会吸取，被国人玩坏的。好的没有啥影响力，坏的传遍，国人接下来的目标还有Apache基金会，CNCF基金会，究竟是谁最终会被淘汰出局，我们还需要拭目以待。anyway，这也是开源之道重点关注的内容：
-These days, you can’t have a successful open source project without setting up a foundation that manages the many diverging interests of the community and so it’s maybe no surprise that Ceph is now getting its own foundation.
- Facebook 的 GraphSQL 也拥有了自己的软件基金会 原文链接：Facebook’s GraphQL gets its own open-source foundation</description>
     </item>
     
   </channel>

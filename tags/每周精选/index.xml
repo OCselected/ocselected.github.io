@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 Nov 2019 10:47:35 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 11:01:05 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源的基金会时代，开发者是拯救自然灾害的超级英雄，等；开源之道一周精选(2019 12 08)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-08/</link>
+      <pubDate>Fri, 06 Dec 2019 11:01:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-08/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 数字化转型员工所面临的三大痛点 原文链接：Digital transformation: 3 people pain points
+适兕点评：
+ 很多时候，我会遇到说拥抱开源是因为没有解决温饱问题，开源需要非常多的激励（钱），后来我发现，说这些话的人，即使给他们钱，也不会拥抱开源，大多数时候是从开源中的一味的获取，并对开源厌恶至极，因为会揭穿他们。其实，拥抱开源从正确的认知开始，从人类的同理心上讲来识别合作的益处，比如企业在现代化IT——数字化转型，为什么要拥抱开源是正确的选择。从人才、管理、风险、成本等诸多角度来思考，而不是眼中只有对手。
+ 阿里巴巴开始在开源发力 原文链接：Alibaba’s growing open source stature
+适兕点评：
+ 这是一篇阿里巴巴的Alink的公关文，我在去年他们收购Flink背后的团队之后，阿里巴巴吹自己的Blink，曾经做过强烈的批判，这次又来一个Alink，竟然要在同一个地方摔倒两次。不过话说回来，强势的如日中天的阿里巴巴，哪里瞧得上开源共同体的影响力，阿里巴巴对于开源的认知还处于自身的开发成本能够承担，创新成本有整个业界领头羊和开源共同体撑腰，所以反过来轻视开源是很正常的思考方式。Flink Community 将会被阿里巴巴生吞活剥，直到整个共同体完全就是大象元素。alibaba强大的公共团队也让本土的其它组织单位羡慕不已。
+ 开放 FinTech 论坛 2019 召开 原文链接：Open FinTech forum 2019
+适兕点评：
+ 嗯，金融行业很重要，Linux基金会也在此发力，但是这也是个保守的行业，当然事情要对比着看，linux基金会在讨论什么，本土的在讨论什么？这是有很大区别的。所谓的没有对比就没有伤害通常可以找到无数的例子。构建可持续的开源共同体，这确实是我思考的问题，Linux基金会也在积极地推进。
+ 微软 GitHub 考虑在中国扩张 原文链接：Microsoft’s GitHub mulls expansion in China
+适兕点评：
+ 微软的COO 来中国分别在上海、深圳、北京低调的办理了三场会议，然后百度战略入资了Gitee，是不是这些事情都纯属巧合了呢？如果说这个世界充满了推动者的力量的话，那么这几件事情就是明证，GitHub 作为一家社交媒体，其实和Twitter、FaceBook没啥区别，甚至更为厉害，因为它交流的内容更多，协作的力量更为强大。而后者我们是知道结果的，GitHub 肯定是进军不了中国的，哪怕是卖企业版都非常的玄乎。平安云的代理业绩不知道如何，9月份之后就没啥消息了，一些商业的活动也都取消了。静观其变吧。
+ 开发者路线图 原文链接：Developer Roadmaps
+适兕点评：
+ 这个世界上有没有什么直达的路径，犹如现实世界的a点到b点，甚至是捷径？这大概是很多年轻人都在思考的问题，开源之道图书线下活动的交流2019深圳站，来宾分享了他在深圳大学的授课经验，非常值得借鉴，如果能够给到非双一流的大学生们非常好的路径，而不是告诉他们探索的方法和可能感兴趣的内容，会更能俘获他们的内心，因为现实不允许他们有太多的思考，往开源的架子上赶就好了。嗯，我也在深刻的思考这件事，那么开发者路线图或许是蛮大的帮助。
+ 开发者是拯救自然灾害的超级英雄 原文链接：Coders are the new superheroes of natural disasters</description>
+    </item>
     
     <item>
       <title>开源是如何改变一切的（又一次）；合作伙伴营销的兴起与开源的角色；等，开源之道一周精选(2019 12 01)</title>
@@ -1994,32 +2019,6 @@ Ted,adidas是如何玩开源的？本文是难得一见的好文。
  名称是够哗众取宠的，但是内容却是实在的。就是你要建立社区，赢得人们的时间和注意力。
 如果不是下周总结一年的文章，这篇就是我下周要发布的文章。
  开源在Dropbox的进化 原文链接：The Evolution of Open Source at Dropbox</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2017 12 17)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-12-17/</link>
-      <pubDate>Sun, 17 Dec 2017 15:25:42 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-12-17/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 开源领导工作的一年总结 原文链接：A year in the life of an Open Source Lead
-适兕点评：
- 这是一份来自英国政府的做开源相关工作的一个总结。讨论英国政府在发起来政府未来使用的代码都将开源的计划以来，作为其中的关键决策人的一年历程。
-政府做开源这件事，似乎事情的本质有变了许多，也复杂了许多，相比商业来说，开源还很是美好和单纯，毕竟是商业的吗。
-是的，开源不仅仅是方法论的事情，这要是在体制完全不同的国家，会发生寻租的概率会更大。
- 开源数据库是如何解锁快速计算的 原文链接：How Open Source Databases Unlock Faster Computing
-适兕点评：
- 大数据的整个生态都是基于开源软件和项目的，Kubernetes 下的容器革命（微服务、DevOps）同样也是如此。
-我有的时候在思考，在如此一个开源默认的时代，如何找到自己的合适的位置？或者是从公司的角度讲，如何能够赚点自己的想要的工资？
-此文的大数据下的各种数据库IO问题，实乃高而精妙。
- Apple 开源了其机器学习软件Turi 原文链接：Apple Releases Turi ML Software as Open Source
-适兕点评：
- 机器学习是默认开源的年代。商业公司在竞争，而人才的竞争才是本源。
-最近一位中兴的员工跳楼了，大致是因为拆员的原因，是的，通信行业会是IT行业的前车之鉴，再风光也不可能一直风光下去，进化论在哪个行业都有效。
-行业要不断的吸引人才，征的人才的青睐，方能在未来施展放大招。Apple的跟风，能够决胜千里否？
- OpenContrail 项目代码托管给了Linux基金会 原文链接：Juniper Networks Reinforces Longstanding Commitment to Open Source by Moving OpenContrail&amp;rsquo;s Codebase to the Linux Foundation
-原文链接：Juniper Networks&amp;rsquo; OpenContrail software defined network joins The Linux Foundation</description>
     </item>
     
   </channel>
