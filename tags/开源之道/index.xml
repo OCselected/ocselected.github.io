@@ -38,6 +38,20 @@
     </item>
     
     <item>
+      <title>开源之道解读 Liunx 基金会开源办公室调查报告</title>
+      <link>http://www.ocselected.org/posts/event_analysis/2019_open_source_program_survey_result/</link>
+      <pubDate>Fri, 06 Dec 2019 10:56:16 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/event_analysis/2019_open_source_program_survey_result/</guid>
+      <description>引言 开源之道曾经专门关注过有关开源项目办公室的相关内容，并翻译了一下文章，如：
+ 公司如何创建开源项目办公室 每家公司都应设立开源项目部门（OSPO）！ 开源之道阅读指南  也说明开源之道早几年就开始关注这样一种企业处理开源共同体的方式，那么到2019年，基于这个的方法论，已经发展的颇为成熟，Linux 旗下的 TODOGroup 的活跃度就是最大的明证。接下来我们就看看今年的调查：
+摘要 本次调查的原始数据，可以点击这里下载。
+参与本次调查的人有2700+之多，这些人所在公司的规模也颇具代表性，其中21%的所在公司是员工超过10000人的大型公司，39%的人所在公司是员工少于250人的中小型企业。开发人员和软件工程师占受访者的43％，其中至少36％担任与IT相关的角色。
+与去年相比，参加2019年调查的人数是2018年的三倍多，但许多调查结果与去年同期保持一致。这表明，与Linux基金会的 TODOGroup 有关的早期采用者的人数颇多，但并没有对2018年的结果造成任何不妥。换句话说，本次调查所代表的是较为广泛的企业，而并非是所谓的开源的忠实用户们所组成。总而言之，这次调查是不带有任何偏见的结果。
+主要亮点  设置开源项目办公室已经被广泛的采用，当前已经不再是早期摸索阶段。 在2,700名研究参与者中，超过一半（52％）拥有正式或非正式开源项目办公室，或者他们的公司计划创建一个计划，比去年减少了一个百分点。尽管该研究的样本量增加了三倍，但许多研究结果以及其人口统计学特征与去年相比仍然非常相似。我们认为这是对去年报告的一个验证。 对于开源项目办公室已经较为明确 ，开源项目办公室的首要任务任然是开放源代码文化的传播，但是，结果表明，将文化定义为部门之间的交互而不是一般的数字化转型和敏捷性时，不太可能将其视为收益。与去年相比，促进在商业产品和服务中有效使用开源的责任从被提及的第五位上升到了第二位。 招聘开源开发者已经是一个迫在眉睫的问题了 ，设立开源项目办公室的主要优势就是可以招聘到优秀的人才，就所关心的关于招聘和留用开源开发者的程度，已经从去年的31%上升到了36%。其中正在设立开源项目办公室的公司中，有42%的公司成他们都有雇佣开发人员从事开源项目的案例，而这在去年是33%。 公司高度重视其开源基金会会员资格 ，在23％的基金会成员或赞助者中，有57％表示他们的组织从投资中获得了高价值；相比之下，只有7％的客户认为价值较低。 **与开源软件实践相关的代码质量 ** ，参加OSS管理计划的参与者中有41％表示，这些计划负责确保向开源社区提供高质量且频率颇高的发布，在开放式问题中，许多受访者讨论了OSS计划制定的代码审查流程如何对代码质量产生积极影响。 对于开源圈 Citizenship 对于购买决策的影响没有共识 ，29％的受访者表示，他们对公司开放源代码参与的看法对他们组织的采购决策有很大影响，但32％的受访者说，这对公司的采购决策影响很小。  图表展示 开放源代码在企业中已是稀松平常 企业内部已经拥有开源项目办公室会雇佣更多开源开发者 技术和电信公司相对来说建立了开源项目办公室 开源项目办公室的优势 开源项目办公室的责任 开源项目办公室的益处 招聘对于开源项目办公室颇具挑战 上市时间不再是OSPO成功的首要标准 资源短缺已经不是公司不建立开源项目办公室的理由 速度，灵活性和更低的成本是开源的最大优势 公司高度重视其开源基金会会员资格 雇用开源开发人员是开源项目办公室的首要任务 对于开源圈 Citizenship 对于购买决策的影响没有共识 72％ 参与调查的人们认为 Google 是高于平均水平的开源 Citizen 上游贡献的被人们点赞最多的是 Intel 和微软，而被👎的是 AWS 大型科技公司在开放源代码 Citizen 指标方面表现出色 开源 Citizen 身份在与共同体息息相关的公司之间的购买决策中具有很大的影响力 许可证 本次调查结果基于CC-BY-SA v4.0许可证。</description>
+    </item>
+    
+    <item>
       <title>近距离看开源是什么？有什么？</title>
       <link>http://www.ocselected.org/posts/paper_or_book_reading/book_review_of_mitfoss/</link>
       <pubDate>Wed, 04 Dec 2019 16:05:27 +0800</pubDate>
@@ -2104,28 +2118,6 @@ These days, you can’t have a successful open source project without setting up
 适兕点评：
  微软拥抱开源确实是个新手，毕竟才短短4年的时光，但是钱可以掩盖一切，尤其是给那些年轻人而言，人人都在往前看，没有人回顾历史算旧账。但是你不能不知道。
 Microsoft has &amp;ldquo;prolific Linux kernel developers, but primarily just for Hyper-V, which makes Linux run well on Azure. A lot of their contributions (and Amazon&amp;rsquo;s as well) are self-serving like that. It doesn&amp;rsquo;t build as much goodwill as TensorFlow or Kubernetes.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 11 05)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-05/</link>
-      <pubDate>Sun, 04 Nov 2018 12:46:56 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-05/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 IBM 以高达340亿美金的高额收购了红帽 原文链接：IBM BUYING OPEN SOURCE SPECIALIST RED HAT FOR $34 BILLION
-适兕点评：
- 这无疑是上周最大的新闻。开源之道保持一贯的观点，随着云计算的成熟，整个软件的模式都要转变，开源成为重要的生产方式和能力。如果谁不能把握住这个机遇，都可能在未来失去优势。AWS的颓势已经非常的明显。IBM 抢夺红帽，无疑是获得了至宝！一点都不贵。问题在于红帽的文化能否保留？IBM是否会自己把这些钱打了水漂。
-开源开发者的又一圣地是否要沦落？拭目以待！
- GitHub 和开源软件是如何利用代码来帮助人们的 原文链接：How Github, and open source software, helps solve social issues with code
-适兕点评：
- GitHub 的构建未来系列宣传，这个比开源本身更加的有趣，来自全球各地的少数人，为了让世界更加美好而走在一起。还有什么事情比这个更让人振奋人心的事情？
-不得不说，纳德拉收购GitHub的背后理念！无人能敌！
- 为何说HortonWorks和Cloudera 的合并更为的强大 原文链接：Why Hortonworks and Cloudera Are Stronger Together
-适兕点评：
- 资本的介入比单纯的技术更为让人着迷。现在的开源，不懂点商业模式，真的没法和人们聊天。如果你没有读过《the last day of night》，想想通用电气的合并史。是会简单的理解为滴滴合并uber在中国这样的弱爆了的思维模式。
-开源也罢，先进也罢，商业的本质是提供人类起居用得着的东西。Hadoop远不是最先进的，但是它能够实在的解决问题。所以的它的商机仍然在。这是一个知识社会，知识是无用的？开源本身的发展，不是三言两语可以说明的，无论是软件本身，还是围绕它产生的文化、思维、商业、法律都形成了大量的知识。如果有人有兴趣持续的研究他们，那么这个人会没有未来？
- 是什么让IBM收购红帽？这又意味着什么？ 原文链接：What Does IBM’s Acquisition of Red Hat Mean for Open Source?</description>
     </item>
     
   </channel>
