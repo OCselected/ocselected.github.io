@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 06 Dec 2019 11:01:05 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2019 10:52:11 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道两周精选(2019 12 22)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-15/</link>
+      <pubDate>Mon, 09 Dec 2019 10:52:11 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-15/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 关于 AWS re:Invent 2019的五件事 原文链接：Five Things to Take Away From re:Invent 2019
+适兕点评：
+ Stephen O&amp;rsquo;Grady 我喜爱的科技作家之一，针对刚刚开完的 re：Invent 所进行的评论，关于开源、平台、芯片等的思考，中立、犀利、扼要。Stephen O&amp;rsquo;Grady 的每篇文章我都不会放过，尤其是对于开源的认知，切入点是重要的开发者和商业因素，无可比拟的洞见非常之常见。AWS 最近丢了一个大单，而且也在开源和代码托管平台上频频失误。商业的东西确实很微妙，成功的时候看起来做什么都对，下坡路的时候往往却是由那些看起来微不足道的小事引起的。
+ 不要去学习编码了，学习自动化吧 原文链接：Don’t Learn to Code — Learn to Automate
+适兕点评：
+ 软件的发展是越发的庞大了啊，技术的累积效应已经彰显其庞大的力量了，作为一个代码工作者，该如何准确的定位自己？基于人工智能的编码正在逐渐取代人类，甚至写出的代码更加的健壮。犹如现代的社会分工运作，没有人知道自己今天吃的某颗花生米是从哪里来的，经过了什么工序，
+ 亚马逊，谷歌，微软：谁才是最环保的云 原文链接：Amazon, Google, Microsoft: Here&amp;rsquo;s Who Has the Greenest Cloud
+适兕点评：
+ 环保问题还是至关重要的，美国作为科技最为领先的地缘国家，在能耗问题上一直领先，但是随之而来的问题是，随着科技的普适化，世界带来更多的能耗，空气污染、气候变暖、饮用水、能源损耗等等。其中云计算的大力发展，将会逐步增加这些。那么谁才能笑到最后？nobody！
+ ![]()
+GitHub 赞助团队招聘开发者项目经理 原文链接：Developer Program Manager for GitHub Sponsors
+适兕点评：
+ 通过招聘贴看公司的定位和战略可能是常见的伎俩，不过通常情况下，这些公司是不会放什么烟雾弹的。这个开发者经理也似乎在佐证我的猜测：开源共同体的崛起与资讯媒体/技术社区的坠落。 一名技术人员几乎在开源的项目中就可以获得一切，技术、洞察力、学习、社交、视野拓展，为什么要回去那些放些无聊的媒介文章了呢？
+ ![]()
+开源和人工智能：政府准备好了吗 原文链接：Open Source and AI: Ready for primetime in government?</description>
+    </item>
     
     <item>
       <title>开源的基金会时代，开发者是拯救自然灾害的超级英雄，等；开源之道一周精选(2019 12 08)</title>
@@ -2121,24 +2145,6 @@ Only time will tell.
 适兕点评：
  好文，云计算深刻的改变了软件的分发模式！云计算究竟是开源的敌人还是好友，这要看厂家自己如何理解人才和市场，本文算是把来龙去脉给讲清楚了。推荐阅读。
 But cloud computing has changed nearly all of the assumptions around how modern businesses should build and manage the technology they need to compete in the 21st century.</description>
-    </item>
-    
-    <item>
-      <title>开源之道共读图书列表（2019版）</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/2019_book_lists/</link>
-      <pubDate>Sun, 02 Dec 2018 06:16:31 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/2019_book_lists/</guid>
-      <description>共读之申明篇 本文列举的是2019年所精心选择的12本开源相关图书，关于共读的初衷，以及参与方式，请看官移步：开源之道图书和文献共读申明，有更多详细的内容。
-2019 第一季度 主题：软件的形态、商业化以及开源软件的商业化的合理性探讨 2019 年1月 第一期 英文版：The Software Paradox：商业软件市场的崛起与陨落, O’Reilly Media, Stephen O’Grady 著(2015)
-内容提要：
- 来自 RedMonk 的分析，学习下为何商业软件市场已经改变。
-每一家公司都是软件公司，软件对于现代企业是越发的重要，但是围绕软件来赚取利润却越来越难了！这其中究竟蕴含着什么道理？公有云提供商的巨头们是否会是基于开源项目的商业软件公司的杀手？软件的商品化的历程又是如何？为什么说开发者逐步的占据决策链的顶端？基于开源项目的商业公司为何更改许可协议？如果你带着这些问题，不妨深入阅读这本优质的小书《软件悖论》。
- 开源之道推荐短评：
- 通过软件商品化的历程，进而诠释为何开源成为云计算时代的主流模式。
- 更多内容，请参考完整版开源之道共读导读与书评：《软件悖论:商业软件的崛起与陨落》。
-2019 年2月 第二期 Subscribed: Why the Subscription Model Will Be Your Company&amp;rsquo;s Future - and What to Do About It
-In Subscribed, you&amp;rsquo;ll learn how these companies made the shift, and how you can transform your own product into a valuable service with a practical, step-by-step framework.</description>
     </item>
     
   </channel>

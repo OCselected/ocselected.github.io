@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 06 Dec 2019 11:01:05 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2019 10:52:11 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道两周精选(2019 12 22)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-15/</link>
+      <pubDate>Mon, 09 Dec 2019 10:52:11 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-15/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 关于 AWS re:Invent 2019的五件事 原文链接：Five Things to Take Away From re:Invent 2019
+适兕点评：
+ Stephen O&amp;rsquo;Grady 我喜爱的科技作家之一，针对刚刚开完的 re：Invent 所进行的评论，关于开源、平台、芯片等的思考，中立、犀利、扼要。Stephen O&amp;rsquo;Grady 的每篇文章我都不会放过，尤其是对于开源的认知，切入点是重要的开发者和商业因素，无可比拟的洞见非常之常见。AWS 最近丢了一个大单，而且也在开源和代码托管平台上频频失误。商业的东西确实很微妙，成功的时候看起来做什么都对，下坡路的时候往往却是由那些看起来微不足道的小事引起的。
+ 不要去学习编码了，学习自动化吧 原文链接：Don’t Learn to Code — Learn to Automate
+适兕点评：
+ 软件的发展是越发的庞大了啊，技术的累积效应已经彰显其庞大的力量了，作为一个代码工作者，该如何准确的定位自己？基于人工智能的编码正在逐渐取代人类，甚至写出的代码更加的健壮。犹如现代的社会分工运作，没有人知道自己今天吃的某颗花生米是从哪里来的，经过了什么工序，
+ 亚马逊，谷歌，微软：谁才是最环保的云 原文链接：Amazon, Google, Microsoft: Here&amp;rsquo;s Who Has the Greenest Cloud
+适兕点评：
+ 环保问题还是至关重要的，美国作为科技最为领先的地缘国家，在能耗问题上一直领先，但是随之而来的问题是，随着科技的普适化，世界带来更多的能耗，空气污染、气候变暖、饮用水、能源损耗等等。其中云计算的大力发展，将会逐步增加这些。那么谁才能笑到最后？nobody！
+ ![]()
+GitHub 赞助团队招聘开发者项目经理 原文链接：Developer Program Manager for GitHub Sponsors
+适兕点评：
+ 通过招聘贴看公司的定位和战略可能是常见的伎俩，不过通常情况下，这些公司是不会放什么烟雾弹的。这个开发者经理也似乎在佐证我的猜测：开源共同体的崛起与资讯媒体/技术社区的坠落。 一名技术人员几乎在开源的项目中就可以获得一切，技术、洞察力、学习、社交、视野拓展，为什么要回去那些放些无聊的媒介文章了呢？
+ ![]()
+开源和人工智能：政府准备好了吗 原文链接：Open Source and AI: Ready for primetime in government?</description>
+    </item>
     
     <item>
       <title>开源的基金会时代，开发者是拯救自然灾害的超级英雄，等；开源之道一周精选(2019 12 08)</title>
@@ -2101,23 +2125,6 @@ These days, you can’t have a successful open source project without setting up
 创建一个仪表盘 除了配备完适当的工具之外，贵司还应有一个集中的仪表盘来展示实时的监控和跟踪有关开源项目的进展情况。绝大多数公司在这之前就有相应的应用，那么能够将开源的这些工具集成起来也是最好不过了。没有的话也没有关系，创建或采用一个新的！
  “对于整体的仪表盘来说，实现它的方式实在是太多了，而对于公司如何展现开发者相关信息这是真正的艺术。有些同仁们会打造出非常酷炫的显示效果，其实没什么必要，重要的是中心位置上能展现关键的内容，最好是和现有的仪表程序能够和谐共存，这个唯一存在的价值就是让人们能够一目了然的了解开源项目的健康度、各项指标等。” – Chris Aniszczyk, 云原生计算基金会首席运营官
  工具集的基本要素 有关管理开源项目和项目的报表的工具越来越多了起来，而且这个趋势非常的明显。如果贵司是开源的刚刚入行者，那么一些基本的工具对于聚焦初步的研究是很有益处的。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 11 11)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-11/</link>
-      <pubDate>Sat, 10 Nov 2018 15:38:12 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-11/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Kubernetes 的世界发生了一件事情：VMware 收购了 Heptio 原文链接：The Kubernetes World: VMware Acquires Heptio
-适兕点评：
- 专业的分析师，从Marketing角度来讲，无利不起早，眼看着容器的世界要把虚拟化的世界吞噬掉，VMware像任何一家历史上的公司一样不会轻易放弃的。对于Heptio来说未必是件好事情。
-好吧，技术所能解决的和它所遇到的问题会同样的多，直到下一次颠覆式的创新。
- 微软或许是GitHub贡献者最多的厂家，但是它其实是自利的 原文链接：Microsoft may be the world&amp;rsquo;s largest open source contributor, but developers don&amp;rsquo;t care&amp;ndash;yet
-适兕点评：
- 微软拥抱开源确实是个新手，毕竟才短短4年的时光，但是钱可以掩盖一切，尤其是给那些年轻人而言，人人都在往前看，没有人回顾历史算旧账。但是你不能不知道。
-Microsoft has &amp;ldquo;prolific Linux kernel developers, but primarily just for Hyper-V, which makes Linux run well on Azure. A lot of their contributions (and Amazon&amp;rsquo;s as well) are self-serving like that. It doesn&amp;rsquo;t build as much goodwill as TensorFlow or Kubernetes.</description>
     </item>
     
   </channel>
