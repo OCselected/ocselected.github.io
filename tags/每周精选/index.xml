@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 09 Dec 2019 10:52:11 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 12:35:41 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源软件是如何接管世界的；客户驱动的开源是软件的未来；等开源之道一周精选(2019 12 29)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-29/</link>
+      <pubDate>Sun, 29 Dec 2019 12:35:41 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-29/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 五角大楼希望在针对华为的对抗中采用开源5G计划 原文链接：Pentagon wants open-source 5G plan in campaign against Huawei
+适兕点评：
+ 开源是可以被商业所利用的，无论从哪个角度来讲，总是一种对垄断的平衡。
+ Hugging Face 获1千5百万美金融资以扩展其开源的对话AI软件 原文链接：Hugging Face Raises $15 million to Expand its Open Source Software on Conversational AI
+适兕点评：
+ 万物兼开源，尤其是可能在未来帮助人类的人工智能，当然，随着其学习能力的增强，也可能会超越人类，那么人工智能的开源是必须的，在这点上，贪婪的商人似乎是必须做出让步，如果他们的算法不能够公布于世，不能经过充分的沟通和认识，那么将会可能是危险的。
+ ![]()
+一份Go语言的训练读物 原文链接：gotraining/readme
+适兕点评：
+ 为什么说 GitHub 和开源共同体是所有咨询类的杀手？看了这份收集材料，各位觉得CSDN之类的还有机会吗？从人类学和社会学的角度来讲，GitHub 以及围绕其衍生的共同体，是迄今为止人类协作最舒适的环境。可能是开发者还没有完全感受到共同体的力量，不急，待我慢慢告诉大家。
+ IBM 的三个改变世界的开源项目 原文链接：An IBM CTO tells us about three open source projects with the power to change the world
+适兕点评：
+ IBM 放弃了Swift 语言，这似乎没什么大不了的，Swift的创始人愤而出走，是因为Apple对于开源项目的态度。Swift 的穷途末路指日可待，但是Apple对于高端人才的吸引和激发，有其另外一套神秘的法则，我们不得而知。但是IBM这家老朽公司，频频失算，不得不归功于其官僚和僵化，它还有未来吗？</description>
+    </item>
     
     <item>
       <title>开源之道两周精选(2019 12 22)</title>
@@ -1986,21 +2008,6 @@ AWS 在 Kubernetes 和 人工智能两步期连续失事，当然会重视起开
 这也是开源之道只有几个人关注的重要原因之一。而且目前面临的囧境是开源默认的时代，除了布道之外，还得肩负让人们分辨是非的能力。尤以那些大的利维坦式的公司为戒。
 开源，它可以体现在创新、工程、设计乃至维护上，无论是康威定律、还是DevOps，都离不开其倡导的理念，那就是信息的公开与透明、自由分享等。
 所有，布道之路任重而道远。还需要砥砺前行。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2017 12 31)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-12-31/</link>
-      <pubDate>Sun, 31 Dec 2017 12:32:59 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892017-12-31/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 前进！迈向开源之年-2018 原文链接：Onwards! To the Year of Open Source
-适兕点评：
- 这是AWS开源部门的一个总结！我能够感同身受的看到他们工作的艰辛。但是只要努力的去做，总是会有结果的。
-2018 is the year of open source. It marks the 20th anniversary of open source, and of founding organizations like the Open Source Initiative (OSI), and events like OSCON. There will be sharing of stories and celebration throughout the year.
-一件事情在坚持了20年之后，终于开始从亚文化走出来，迈向远大前程。
- Apple Lisa 操作系统将在明年开源 原文链接：Apple Lisa OS code will be made open source next year</description>
     </item>
     
   </channel>

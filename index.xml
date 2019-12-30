@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 09 Dec 2019 10:52:11 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 12:35:41 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源软件是如何接管世界的；客户驱动的开源是软件的未来；等开源之道一周精选(2019 12 29)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-29/</link>
+      <pubDate>Sun, 29 Dec 2019 12:35:41 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-29/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 五角大楼希望在针对华为的对抗中采用开源5G计划 原文链接：Pentagon wants open-source 5G plan in campaign against Huawei
+适兕点评：
+ 开源是可以被商业所利用的，无论从哪个角度来讲，总是一种对垄断的平衡。
+ Hugging Face 获1千5百万美金融资以扩展其开源的对话AI软件 原文链接：Hugging Face Raises $15 million to Expand its Open Source Software on Conversational AI
+适兕点评：
+ 万物兼开源，尤其是可能在未来帮助人类的人工智能，当然，随着其学习能力的增强，也可能会超越人类，那么人工智能的开源是必须的，在这点上，贪婪的商人似乎是必须做出让步，如果他们的算法不能够公布于世，不能经过充分的沟通和认识，那么将会可能是危险的。
+ ![]()
+一份Go语言的训练读物 原文链接：gotraining/readme
+适兕点评：
+ 为什么说 GitHub 和开源共同体是所有咨询类的杀手？看了这份收集材料，各位觉得CSDN之类的还有机会吗？从人类学和社会学的角度来讲，GitHub 以及围绕其衍生的共同体，是迄今为止人类协作最舒适的环境。可能是开发者还没有完全感受到共同体的力量，不急，待我慢慢告诉大家。
+ IBM 的三个改变世界的开源项目 原文链接：An IBM CTO tells us about three open source projects with the power to change the world
+适兕点评：
+ IBM 放弃了Swift 语言，这似乎没什么大不了的，Swift的创始人愤而出走，是因为Apple对于开源项目的态度。Swift 的穷途末路指日可待，但是Apple对于高端人才的吸引和激发，有其另外一套神秘的法则，我们不得而知。但是IBM这家老朽公司，频频失算，不得不归功于其官僚和僵化，它还有未来吗？</description>
+    </item>
     
     <item>
       <title>开源之道两周精选(2019 12 22)</title>
@@ -2124,27 +2146,6 @@ Best part of the book was the discussion of shift towards making money with soft
  微软是如何实现绝地重生的 原文链接：How Microsoft bounced back
 适兕点评：
  本文从商业的角度回顾了微软从失败到重新回到最具价值公司顶峰的历程，开放式的哲学真的不是盖的。啥也不说了，引用一句文中的总结： “Satya Nadella really didn’t change that much in terms of products, but he did change the perception. Azure is now the second-largest cloud provider, and will probably be No. 1 soon. That is simply moving traditional Microsoft customers from on-premise servers to Azure cloud servers, but the impact is huge both in terms of revenue and market cap.</description>
-    </item>
-    
-    <item>
-      <title>开源之道两周精选(2018 11 30)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-11-30/</link>
-      <pubDate>Tue, 25 Dec 2018 13:48:35 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-11-30/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 量子计算才是定义我们未来的技术，不是什么人工智能 原文链接：Quantum computing, not AI, will define our future
-适兕点评：
- 其实每项科技都要经历一个时间的沉淀，而这恰恰是本土教育的缺失。去阅读一些科技史的时候，会发现，本土的人不是缺乏才能，而是缺乏足够的耐心去做某些事。没有哪项科学成就是一夜之间就成功的，必须经过长时间的不断尝试，方才可能有所小成。量子计算对于中国来说是一个和同步世界的机会，就像20年前的开源一样，就看接下来的人是否耐得住性子。
-另外本文值得阅读的观点是从人性化的观点来出发，这才是打动人心的根本，也是人们愿意去追随和挖掘的事情。
- IBM 收购红帽必须做三件事方能组织公司的下坡路 原文链接：Three Things IBM Must Do To Keep Red Hat Acquisition From Sinking The Company
-适兕点评：
- 是的，看事情不可以单独的看这个事情的本身。而是要联系起来，连贯的看。我并不相信IBM是一家愿意收购一群叛逆而开放的人的。不知道红帽的员工怎么想。
-Only time will tell.
- 为什么有些开源的公司开始考虑更多的封闭策略 原文链接：Why some open-source companies are considering a more closed approach
-适兕点评：
- 好文，云计算深刻的改变了软件的分发模式！云计算究竟是开源的敌人还是好友，这要看厂家自己如何理解人才和市场，本文算是把来龙去脉给讲清楚了。推荐阅读。
-But cloud computing has changed nearly all of the assumptions around how modern businesses should build and manage the technology they need to compete in the 21st century.</description>
     </item>
     
   </channel>
