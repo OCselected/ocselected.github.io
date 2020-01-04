@@ -84,6 +84,40 @@ GitHub 赞助团队招聘开发者项目经理 原文链接：Developer Program 
     </item>
     
     <item>
+      <title>打造归属感的共同体</title>
+      <link>http://www.ocselected.org/posts/community_management/the-art-of-community-building-belonging/</link>
+      <pubDate>Fri, 06 Dec 2019 11:00:01 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/community_management/the-art-of-community-building-belonging/</guid>
+      <description>**“Great things are not done by impulse, but by a series of small things brought together.” **
+​ — Vincent Van Gogh
+ 开源之道按 适兕在年底的时候，也会和大多数人一样，总结一下过去的一年得失，然后寄希望于接下来的一年。那么当开源大行其道的时候，似乎一下子全民开源起来了，开源之道能做点什么了呢？不如直击核心: 共同体！
+开篇致敬Jono Bacon 的著作，加上开源之道的重译。希望在接下来的一年探索中能有所收获，当然也是对自己研究开源的一次收敛，博大精深之余，须对宏大理论有所提防。务实一点没有什么不好。
+共同体的艺术 (本文节选自《The Art of Community》一书，原书作者以第一人称进行撰写，下文同。本文的翻译也大量的借鉴了该书的简体中文版《社区运营的艺术》。)
+手表滴滴答答地走过了下午6点，我知道有麻烦了。首先，我迟到了，可并非当下很时髦的那种迟到。事实上，那时候的我，是如此的老土，足以令人目瞪口呆。长头发，身穿印着铁娘子的T恤，宽松的迷彩裤，再加上一件庞大臃肿的皮夹克。我离开父母家，坐进我那辆小货车，上面装饰着夸张的喇叭和树形的空气净化器，小货车缓慢前进了。
+“缓慢前进”是乐观的说法。事实上，我陷入到车流中，英格兰南部几科一半的车都汇集到一起，一辆接一辆，这些却引起了我的好奇心，在这个寒冷的英格兰冬日里，是迈克尔·道格拉斯的那部电影有可能真的成为现实？
+这并没有舒缓我的紧张。作为一个相当外向而焦虑的年轻人，紧张通常不是我的菜，但今晚，我有点吃定它们了。
+今晚是不同的。今晚我要做一些不寻常的事情，它们看起来像个好主意 。。。。我沿着机动车道，开了不到30分钟，乐声轰鸣，由于设备良好，我的“Number of Beast&amp;rdquo;盒式录音带，展现出貌似高保真的音乐效果。
+值得庆幸的是，这世上最长的机械长龙空出了一个缺口。在意识到这点之前，我发觉自已到了一个从未来过的城市，站在一条从未来过的街道上，将要步入一间满是陌生命的房间，这些都是由一个简单的符号关联起来的&amp;mdash;&amp;mdash;一只企鹅。
+一个小时前，那只企鹅看起来是如此的友善好客。它是一个标志，囊括了它所代表的所有活动，这些活动将我们从精神到心录聚集在一起，建立起一个系统，来驱动新一代的技术和自由；在陌生的街区 、陌生的城市，陌生的人们组成用户小组，来庆祝这个驱动力。可当我站在那儿，已经按下门铃时，我还未清晰地意识到这些；相反，在走进那个我既想进去又不想进去的地方时，乔纳森·E·J·培根的大脑正在未雨绸缪，预备迎接最终的无可比拟的不适感。
+然后，门开了，一个非常和善，叫作尼尔的小伙子欢迎我来到他家。
+共同体是一个有趣的怪兽。大多数人&amp;mdash;&amp;ndash;他们在电视上观看达人秀，偶尔去昂贵的餐馆里奢侈一顿&amp;mdash;&amp;ndash;不大理解像尼尔这样的人。到底是什么让这个家伙打开家门，免费招待从网上认识的一群陌生人？他为什么要花一个晚上的进间来喝茶，对着某个叫 “emacs” 的东西开玩笑？他为什么要自掏腰包去资助那些网上资源，比如宣传单/邮件列表和网站？他为什么要为小组成员提供图书借阅服务，甚至提供茶和饼干？
+尼尔的妻子就是实在无法理解这些的人之一。她有些困惑，把我们称作他的“网友”。今晚，尼尔的另外一个重要决定是，要拜访一个久违的（或者可能是忽视的）朋友，而不是假坟对你有兴趣总围着你转的人。
+协作驱动的伦理 但是尼尔是位普通人。至少，在开源、自由软件、自由文化的世界里，他是一位普通人。在世界上有很多类似尼尔这样的人，他们成立小组、建立邮件列表、筹划会议、偶尔找个地方聚聚，讨论些诸如志趣相投、习俗、思维习惯之类的理念。
+在过去的10~15年间，我们看到了许多技术和艺术上的自由文化，这些内容对于人们的思想意识是颠覆性的震撼。整个“共同体”都是类似尼尔这样的人驱动的，他们自愿投入到“共同体”这一社会实体，而且是相当紧密的团结在一起的。
+在自由文化世界之外，也有许多这样的&amp;rdquo;尼尔&amp;rdquo;，他们是那些帮助贫穷不幸的人们的教会组织；他们是在共同体所举办的“邻里守望和上门送餐”项目中，向周围人伸出双手的那些人；在公共基础设施、工艺品展销会上，也有他们的身影。他们是志愿者、践行者、热心的分享者，从事的职业有健身教练、编织达人、瑜伽、空手道选手&amp;hellip;&amp;hellip;
+当我第一次走进尼尔的客厅，最令我着迷的是：协作驱动伦理，当时的我还是一脸懵逼，但是那天晚上的经历教给我和启发我的也很激动，那就是和一群秉持共同理念，以完全志愿的方式，为理念而奋斗，这种兴奋是多么的可遇而不可求。
+在我的世界里，这个伦理远远超过了自由文化、自由软件、数字版权以及打破数字鸿沟，因为该伦理可以很高尚，如倡导世界和平；也可以很普通，如在互联网上分享小猫玩吉他的照片。共同体的重要性不在于某个活动的形式，而在于如何去团结人们，使他们和携手并进。
+从本质上讲，《共同体的艺术》是经过仔细筛选关于如何创建共同体的一系列方法和心得。这本书是我从自己的职业生涯以及个人经历所提炼的经验、观察和思考的集合。我的目标是，将我脑中的意念、意象，转化成有实际意义的文字符号。
+然而，作为读者，你需要从更为广义的角度来看待这本书，尤其是打算成为共同体的领导者和组织者的话。当然，你要切实的消化书里的内容，然后根据自己的实际情况而形成自己的观点。一定要记住，实践才是王道，理论只是向导指南。
+共同体基本上说是一门软科学。如果和编程做对比的话，不确定性更多，但是路径的选择和多样性恰是其魅力所在。
+共同体的本质 2004年2月26日，我和三个朋友共同发起了 “LugRadio”的音频节目，请读者周知，本书中会沿用大量关于“LugRadio”的故事，作为一个播客，“LugRadio” 是一个关于开源、自由文化，而且是较为有趣、轻松的。我们都是首次做播客，所以一切都是新奇的。
+“LugRadio” 产生的地方，我们称之为“工作室”，其实就是一个堆满二手录音设备的卧室，我们四个人，外加四个摇摇晃晃的麦克风，就这么开始了，第一集我们聊了大约有半个小时，其中有一些冷笑话，还有一些书评之类的，没有任何的后期制作。在当年，这样的播客对于大家来说还是新奇的，然而，颇让我们意外的是，四年之后，当我们决定要关闭这个播客的时候，它的下载量已经超过了200万次了，这点，我们还是颇为自豪的。
+“LugRadio” 播出以后，我们几个做了一些开源圈里大家日常都在做的事情，诸如建立论坛、维基、IRC 频道等，这样做的目的就是希望能够通过各式各样的渠道，让大家能够聚集起来。嗯，就允许我先来聊聊第一个上线的论坛。
+论坛上线之后，陆陆续续的有人加入进来，其中第22个成员就是一个较为典型的例子，他真人叫做 Ben Thorp，网络 ID 叫 mrben，是一位生活在苏格兰的英国人。是一位对开源颇为热心的爱好者，不经意的访问了“LugRadio” 论坛，然后觉得挺合口味，然后就在论坛活跃了四年，在这期间 mrben 几乎每天都在论坛里泡着，统计下来，共发布了超过3000个帖子，当然也是IRC频道、维基页面的活跃贡献者，甚至还为节目专门制作了镜像下载站点，mrben 可以算是“LugRadio”的忠实粉丝了，他一直都活跃在论坛里，伴随着“LugRadio”走过始终。</description>
+    </item>
+    
+    <item>
       <title>开源之道解读 Liunx 基金会开源办公室调查报告</title>
       <link>http://www.ocselected.org/posts/event_analysis/2019_open_source_program_survey_result/</link>
       <pubDate>Fri, 06 Dec 2019 10:56:16 +0800</pubDate>
@@ -2089,6 +2123,19 @@ Best part of the book was the discussion of shift towards making money with soft
     </item>
     
     <item>
+      <title>开源之道2020年计划表</title>
+      <link>http://www.ocselected.org/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</link>
+      <pubDate>Mon, 07 Jan 2019 15:33:33 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</guid>
+      <description>具体事项 一、 共同体的艺术：打造归属感 Come from English :The Art of Community: Building Belonging [ ] 开放源代码软件行业之外的故事之二 &amp;ndash;关于城市交通]() ,参考资料：Why Los Angeles decided to open source its future
+ [ ] 来自英文：FOSS as a Part of a Corporate Sustainability Plan
+ [ ] []() 职业生涯 来自英文：Lessons from a brief career in open source
+ [ ] []() 来自英文：6 reasons open source is good for business
+ [ ] []() 来自英文：Why events matter and how to do them right</description>
+    </item>
+    
+    <item>
       <title>Linux基金会企业开源指南系列之九————公司如何提升开源开发的影响力</title>
       <link>http://www.ocselected.org/posts/opensource_enterprise_guide/improve-open-source-dev-impact/</link>
       <pubDate>Thu, 03 Jan 2019 09:00:10 +0800</pubDate>
@@ -2115,42 +2162,6 @@ Best part of the book was the discussion of shift towards making money with soft
   改进的常见领域 改进开源项目中开发者的生产力和效率，开源办公室能够努力的地方有这么三块：文化、流程和工具。其中在每个具体的领域又有相应的细则需要来处理，从而满足不同的开源模式。
 开源团队在企业环境中所面临的特殊挑战 文化 文化上的挑战是大家不得不面对的一个事实，它的根源在于传统软件开发实践和开源开发的需求之间巨大的落差，落差可以通过雇佣开源的专家，或者是找那些熟悉开源开发模式的人为贵司进行培训来进行弥补。
  “我们的目标是为开源工程师提供足够的时间来履行对上游的责任，以让他们能够成长，进而让三星拥有充足的开源领导力。” – Ibrahim Haddad，三星美国研究院研发副总裁兼开源小组负责人</description>
-    </item>
-    
-    <item>
-      <title>开源之道一月精选(2018 12 31)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-12-31/</link>
-      <pubDate>Wed, 02 Jan 2019 10:30:15 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-12-31/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 2018年开源重大的8个里程碑 原文链接：The 8 biggest open source milestones in 2018
-适兕点评：
- 说实话，以后开源界真的很难吸引人们的眼球了，因为它正在成为默认的内容。这个新闻非常的厉害的，排名第一的kernel新的行为准则，意味着“招安”的彻底成功。亚文化被彻底的归为主流。规则正在改变。
- 微软是如何实现绝地重生的 原文链接：How Microsoft bounced back
-适兕点评：
- 本文从商业的角度回顾了微软从失败到重新回到最具价值公司顶峰的历程，开放式的哲学真的不是盖的。啥也不说了，引用一句文中的总结： “Satya Nadella really didn’t change that much in terms of products, but he did change the perception. Azure is now the second-largest cloud provider, and will probably be No. 1 soon. That is simply moving traditional Microsoft customers from on-premise servers to Azure cloud servers, but the impact is huge both in terms of revenue and market cap.</description>
-    </item>
-    
-    <item>
-      <title>开源之道两周精选(2018 11 30)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-11-30/</link>
-      <pubDate>Tue, 25 Dec 2018 13:48:35 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-11-30/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 量子计算才是定义我们未来的技术，不是什么人工智能 原文链接：Quantum computing, not AI, will define our future
-适兕点评：
- 其实每项科技都要经历一个时间的沉淀，而这恰恰是本土教育的缺失。去阅读一些科技史的时候，会发现，本土的人不是缺乏才能，而是缺乏足够的耐心去做某些事。没有哪项科学成就是一夜之间就成功的，必须经过长时间的不断尝试，方才可能有所小成。量子计算对于中国来说是一个和同步世界的机会，就像20年前的开源一样，就看接下来的人是否耐得住性子。
-另外本文值得阅读的观点是从人性化的观点来出发，这才是打动人心的根本，也是人们愿意去追随和挖掘的事情。
- IBM 收购红帽必须做三件事方能组织公司的下坡路 原文链接：Three Things IBM Must Do To Keep Red Hat Acquisition From Sinking The Company
-适兕点评：
- 是的，看事情不可以单独的看这个事情的本身。而是要联系起来，连贯的看。我并不相信IBM是一家愿意收购一群叛逆而开放的人的。不知道红帽的员工怎么想。
-Only time will tell.
- 为什么有些开源的公司开始考虑更多的封闭策略 原文链接：Why some open-source companies are considering a more closed approach
-适兕点评：
- 好文，云计算深刻的改变了软件的分发模式！云计算究竟是开源的敌人还是好友，这要看厂家自己如何理解人才和市场，本文算是把来龙去脉给讲清楚了。推荐阅读。
-But cloud computing has changed nearly all of the assumptions around how modern businesses should build and manage the technology they need to compete in the 21st century.</description>
     </item>
     
   </channel>

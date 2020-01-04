@@ -1269,6 +1269,19 @@ Linux最引人注目的特性之一就是让所有的开发人员都可以访问
     </item>
     
     <item>
+      <title>开源之道2020年计划表</title>
+      <link>http://www.ocselected.org/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</link>
+      <pubDate>Mon, 07 Jan 2019 15:33:33 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</guid>
+      <description>具体事项 一、 共同体的艺术：打造归属感 Come from English :The Art of Community: Building Belonging [ ] 开放源代码软件行业之外的故事之二 &amp;ndash;关于城市交通]() ,参考资料：Why Los Angeles decided to open source its future
+ [ ] 来自英文：FOSS as a Part of a Corporate Sustainability Plan
+ [ ] []() 职业生涯 来自英文：Lessons from a brief career in open source
+ [ ] []() 来自英文：6 reasons open source is good for business
+ [ ] []() 来自英文：Why events matter and how to do them right</description>
+    </item>
+    
+    <item>
       <title>开源之道一月精选(2018 12 31)</title>
       <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-12-31/</link>
       <pubDate>Wed, 02 Jan 2019 10:30:15 +0800</pubDate>
@@ -1987,27 +2000,6 @@ AWS 在 Kubernetes 和 人工智能两步期连续失事，当然会重视起开
       <guid>http://www.ocselected.org/posts/planing_and_reflection/2018/planning_and_schedule_of_year/</guid>
       <description>引子 2017年的尝试，也就是每周一篇文章，然后发送到公众号上。50多篇文章，就这么坚持下来了，还见了那么点效果。那么2018年，则需要更多的努力。除了每周一篇文章之外，还需要做一些事情。
 具体事项 一 /2017/12-20 开源文化 社区管理 扩张社区贡献者的几种办法 来自英文：5 ways to expand your project&amp;rsquo;s contributor base 二 /2018/01-10 开源文化 商业模式 赞助开源社区开发是一件双赢的事情 来自英文：Sponsored development is a win-win for users and developers 三 /2018/01-17 开源20年，是该庆祝一下了 四 /2018-01-24 开放源代码定义之历史篇 五 ／2018-01-31 开源人物 Bruce Perens，第一位向世界说出“开源”的英雄 来自维基百科 Bruce Perens 六 /2018-02-07 社区管理 Kubernetes 社区是如何运作的系列之一——哲学及治理 七 /2018-02-28 基金会介绍 开放的 Apache 究竟有多开放? 八 /2018-03-07 社区管理 Kubernetes 社区是如何运作的系列之二——康威定律和SIG 九 /2018-03-15 图书阅读 开源书籍推荐 ————《路与桥——现代世界数字基础设施那些隐藏的劳动》 十 /2018-03-21 社区管理 Kubernetes 社区是如何运作的系列之三——SIG 治理细则 十一 /2018-03-28 开源文化 开源的成功理应是什么样子？ 十二 /2018-04-04 开源指南 GitHub 开源指南系列之一——如何参与开源？ 十三 /2018-04-11 开源指南 GitHub 开源指南系列之二——如何创建一个开源项目 十四 /2018-04-18 开源指南 GitHub 开源指南系列之三——为项目寻找合适的用户 十五 /2018-04-25 开源指南 GitHub 开源指南系列之四——打造受欢迎的开源社区 十六 /2018-05-02 开源指南 GitHub 开源指南系列之五——开源项目维护者最佳实践 十七 /2018-05-09 开源指南 GitHub 开源指南系列之六——领导力和治理 十八 /2018-05-16 开源指南 GitHub 开源指南系列之七——谈谈个人如何在开源的贡献中赚取金钱上的报酬 十九 /2018-05-23 开源指南 GitHub 开源指南系列之八——聊聊开源的社会行为守则 二十 /2018-05-30 开源指南 GitHub 开源指南系列之九——开源项目/社区的度量 二十一 /2018-06-13 开源指南 GitHub 开源指南系列之十——开源中的法律知识 二十一 /2018-06-21 基金会探秘 Apache 基金会是如何运作的 二十二 ／2018-06-27 社区治理 精心布局的开源 二十三 ／2018-07-04 开源文化 开源的最大阻力竟然是技术人员 二十四 ／2018-07-11 Linux基金会介绍 二十五 ／2018-07-18 基金会探秘 CNCF 基金会是如何运作的 二十六 ／2018-07-25 商业模式 红帽成功背后的秘密武器是什么？ 来自英文：What is the secret of Red Hat&amp;rsquo;s Success?</description>
-    </item>
-    
-    <item>
-      <title>开源之道 2017 年数据报告</title>
-      <link>http://www.ocselected.org/posts/planing_and_reflection/2017/2017_ttoos_data_analysis/</link>
-      <pubDate>Sun, 07 Jan 2018 12:24:02 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/planing_and_reflection/2017/2017_ttoos_data_analysis/</guid>
-      <description>引子 凡事兼有效果与过程，那么有个度量的话，就会知道自己在哪里。
-关于网站 因为网站是简体中文，并以博客的形式发布，拥有独立的域名以及GitHub空间，以下图片显示的是网站的访问量，由于没有什么入口，可以看出几乎没有什么流量。大部分的SEO还是Google的。
-至于 Github 就更惨了，没有star，也没有clone，issue是我自己提交的一个，PR也是zero。不过这也说明，我们还没有正式的开始，一切都只是在尝试。
-关于微信公众号 相对上面网站的统计，微信就是一个十足的囚禁之地，但是大多数的国人愿意被绑架。你还不能远离，因为你要拯救。
-微信可以获得统计的数据：
-   能够量化的内容 数量（单位）     总共发布文章数 56   阅读数超过1000的文章数 6   总共获得的赞赏金额 82.66   关注用户数 947    花费时间 每周一篇文章，或翻译，或撰写，适兕个人大概需要花费3~4个小时，如果是每周精选的话，就会超过7个小时。
-排版是麻烦花生沫，每篇大约需要40分钟到1小时，一年下来也是近50个小时。
-目前为止，仅让一名大学生翻译了一篇文章，review花费了不少时间。
-宣传 个人演讲和朋友圈。
-意义何在？ 这是我有时候会问的问题，国人是不在乎方法论的，哲学思辨的只有道德和古老的传统，开源往往更加的关注技术本身，而目前的状况是所有的公司或个人都在吃着开源是免费使用和分发这点红利。
-这也是开源之道只有几个人关注的重要原因之一。而且目前面临的囧境是开源默认的时代，除了布道之外，还得肩负让人们分辨是非的能力。尤以那些大的利维坦式的公司为戒。
-开源，它可以体现在创新、工程、设计乃至维护上，无论是康威定律、还是DevOps，都离不开其倡导的理念，那就是信息的公开与透明、自由分享等。
-所有，布道之路任重而道远。还需要砥砺前行。</description>
     </item>
     
   </channel>

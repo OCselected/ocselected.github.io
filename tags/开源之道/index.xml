@@ -1950,6 +1950,19 @@ Best part of the book was the discussion of shift towards making money with soft
     </item>
     
     <item>
+      <title>开源之道2020年计划表</title>
+      <link>http://www.ocselected.org/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</link>
+      <pubDate>Mon, 07 Jan 2019 15:33:33 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</guid>
+      <description>具体事项 一、 共同体的艺术：打造归属感 Come from English :The Art of Community: Building Belonging [ ] 开放源代码软件行业之外的故事之二 &amp;ndash;关于城市交通]() ,参考资料：Why Los Angeles decided to open source its future
+ [ ] 来自英文：FOSS as a Part of a Corporate Sustainability Plan
+ [ ] []() 职业生涯 来自英文：Lessons from a brief career in open source
+ [ ] []() 来自英文：6 reasons open source is good for business
+ [ ] []() 来自英文：Why events matter and how to do them right</description>
+    </item>
+    
+    <item>
       <title>Linux基金会企业开源指南系列之九————公司如何提升开源开发的影响力</title>
       <link>http://www.ocselected.org/posts/opensource_enterprise_guide/improve-open-source-dev-impact/</link>
       <pubDate>Thu, 03 Jan 2019 09:00:10 +0800</pubDate>
@@ -2105,21 +2118,6 @@ In Subscribed, you&amp;rsquo;ll learn how these companies made the shift, and ho
  所以，招募开发者策略的第一步是将金钱激励考虑妥当了，因为只有搞定了它才能接着往下走。这是贵司开源项目的敲门砖。其可以帮助贵司招募到各种技能层次水平的开源开发人员。
 足够的人才储备对于满足贵司的开源目标是相当的重要一环，其中包括是否有足够的能力为贵司所依赖的开源项目上游做贡献、以及贵司自己开源的技术和社区的增长。这就是需要一个战略、一整套的流程，以及可实现的目标。
 开源作为招募工具 在我们深入介绍招聘战略之前，先来讨论一下为何说参与开源才是有效的招募工具，当然不仅仅只招募到了就完事了，留住这些顶级的人才也是一件非常有挑战的事（我们会在下一个章节详谈）。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 11 18)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-18/</link>
-      <pubDate>Sun, 18 Nov 2018 08:39:44 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-11-18/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
- 开源之道每周精选，将暂停5周，我们年底见！
- 文章点评 Ceph 存储项目成立独立开源基金会 原文链接：The Ceph storage project gets a dedicated open-source foundation
-适兕点评：
- 其实，我很想花时间八卦一下Ceph为什么最终选择了Linux基金会，而不是OpenStack基金会。不过一切都无关紧要了，OpenStack的教训值得所有的基金会吸取，被国人玩坏的。好的没有啥影响力，坏的传遍，国人接下来的目标还有Apache基金会，CNCF基金会，究竟是谁最终会被淘汰出局，我们还需要拭目以待。anyway，这也是开源之道重点关注的内容：
-These days, you can’t have a successful open source project without setting up a foundation that manages the many diverging interests of the community and so it’s maybe no surprise that Ceph is now getting its own foundation.
- Facebook 的 GraphSQL 也拥有了自己的软件基金会 原文链接：Facebook’s GraphQL gets its own open-source foundation</description>
     </item>
     
   </channel>
