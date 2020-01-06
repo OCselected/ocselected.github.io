@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 29 Dec 2019 12:35:41 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 12:37:17 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>从开源软件的代码中淘金、2019 开源技术的7个改变世界的时刻、等开源之道一周精选(2020 01 05)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-01-05/</link>
+      <pubDate>Sun, 29 Dec 2019 12:37:17 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-01-05/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 大妈周琦自传 原文链接：我是如何成为大妈的
+原文链接：自怼圈
+适兕点评：
+ 因为Python和豆瓣的关系，很早以前就听过大妈的演讲，我的开源之路也颇受大妈的影响，比如Trac的使用、演讲和主持的突破等等。国内的文化和社会难以产生开源相关的人才，大妈的自我成长和突破路程，是非常值得借鉴的。如独立思考、敢于摸索和突破、寻找适合自己的圈子等等，均应该列入如何成为一名开源人。
+ 从开源软件的代码中淘金 原文链接：There’s Money To Be Made In Taming Open Source Software Code
+适兕点评：
+ 这是一篇介绍Sonatype及其CEO Wayne Jackson的文章，推荐一读，开源之道特别关注是Wayne Jackson 的供应链背景，以及其联合创始人在丰田的经历。这对于软件的理解非同一般，运行在现代信息世界的每一行代码，都应该有相应的供应链，同这些传统的经济一样，IT世界更加依赖于全球的协作。Maven 的世界，就是对供应链的最佳注解。
+ 对不起鲍尔默，开源打你脸了 原文链接：Sorry Steve, Open Source beat you
+适兕点评：
+ 呵呵，微软的前任CEO，斯蒂芬鲍尔默现在经常是开源调侃的对象了，这已经不是什么新鲜的事情了，世界总是在发展的，开源以其合理性终于在世界站稳了脚跟。CNBC的那部纪录片，将进一步推动开源的发展，越发的不可收拾。
+ ![]()
+linux 和开源说了算：2019年的5大事件 原文链接：Linux and open-source rules: 2019&amp;rsquo;s five biggest stories show why
+原文链接: Why 2019 was the year of Linux and open-source software
+适兕点评：
+ 红帽被IBM收购、Kubernetes、微软成为开源公司&amp;hellip;&amp;hellip; 这些都是冰山露出水面的一小部分，开源成功真正的核心是什么？在哪里？这些人是基于政治的？企业的？法律的？宗教的？谁能说清楚？这点尤其让我觉得值得大写特写。也是值得深入挖掘的。</description>
+    </item>
     
     <item>
       <title>开源软件是如何接管世界的；客户驱动的开源是软件的未来；等开源之道一周精选(2019 12 29)</title>
@@ -1990,16 +2014,6 @@ AWS 在 Kubernetes 和 人工智能两步期连续失事，当然会重视起开
  万物皆开源，只有开源才能够赢得人们的信任和青睐，也能够获得更多的反馈。
 但是，为什么软件成为了开源的先驱？是因为微软、Oracle这样的公司赚取的钱过于多？掌控了整个信息时代？
  开源促进会（OSI）20年 原文链接：20 years of the Open Source Initiative (OSI)</description>
-    </item>
-    
-    <item>
-      <title>开源之道2018年计划表</title>
-      <link>http://www.ocselected.org/posts/planing_and_reflection/2018/planning_and_schedule_of_year/</link>
-      <pubDate>Sun, 07 Jan 2018 15:33:33 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/planing_and_reflection/2018/planning_and_schedule_of_year/</guid>
-      <description>引子 2017年的尝试，也就是每周一篇文章，然后发送到公众号上。50多篇文章，就这么坚持下来了，还见了那么点效果。那么2018年，则需要更多的努力。除了每周一篇文章之外，还需要做一些事情。
-具体事项 一 /2017/12-20 开源文化 社区管理 扩张社区贡献者的几种办法 来自英文：5 ways to expand your project&amp;rsquo;s contributor base 二 /2018/01-10 开源文化 商业模式 赞助开源社区开发是一件双赢的事情 来自英文：Sponsored development is a win-win for users and developers 三 /2018/01-17 开源20年，是该庆祝一下了 四 /2018-01-24 开放源代码定义之历史篇 五 ／2018-01-31 开源人物 Bruce Perens，第一位向世界说出“开源”的英雄 来自维基百科 Bruce Perens 六 /2018-02-07 社区管理 Kubernetes 社区是如何运作的系列之一——哲学及治理 七 /2018-02-28 基金会介绍 开放的 Apache 究竟有多开放? 八 /2018-03-07 社区管理 Kubernetes 社区是如何运作的系列之二——康威定律和SIG 九 /2018-03-15 图书阅读 开源书籍推荐 ————《路与桥——现代世界数字基础设施那些隐藏的劳动》 十 /2018-03-21 社区管理 Kubernetes 社区是如何运作的系列之三——SIG 治理细则 十一 /2018-03-28 开源文化 开源的成功理应是什么样子？ 十二 /2018-04-04 开源指南 GitHub 开源指南系列之一——如何参与开源？ 十三 /2018-04-11 开源指南 GitHub 开源指南系列之二——如何创建一个开源项目 十四 /2018-04-18 开源指南 GitHub 开源指南系列之三——为项目寻找合适的用户 十五 /2018-04-25 开源指南 GitHub 开源指南系列之四——打造受欢迎的开源社区 十六 /2018-05-02 开源指南 GitHub 开源指南系列之五——开源项目维护者最佳实践 十七 /2018-05-09 开源指南 GitHub 开源指南系列之六——领导力和治理 十八 /2018-05-16 开源指南 GitHub 开源指南系列之七——谈谈个人如何在开源的贡献中赚取金钱上的报酬 十九 /2018-05-23 开源指南 GitHub 开源指南系列之八——聊聊开源的社会行为守则 二十 /2018-05-30 开源指南 GitHub 开源指南系列之九——开源项目/社区的度量 二十一 /2018-06-13 开源指南 GitHub 开源指南系列之十——开源中的法律知识 二十一 /2018-06-21 基金会探秘 Apache 基金会是如何运作的 二十二 ／2018-06-27 社区治理 精心布局的开源 二十三 ／2018-07-04 开源文化 开源的最大阻力竟然是技术人员 二十四 ／2018-07-11 Linux基金会介绍 二十五 ／2018-07-18 基金会探秘 CNCF 基金会是如何运作的 二十六 ／2018-07-25 商业模式 红帽成功背后的秘密武器是什么？ 来自英文：What is the secret of Red Hat&amp;rsquo;s Success?</description>
     </item>
     
   </channel>
