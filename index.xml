@@ -45,6 +45,19 @@ L: 没有，相反我非常的高兴，有那么多人受益。
     </item>
     
     <item>
+      <title>开源之道2020年计划表</title>
+      <link>http://www.ocselected.org/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</link>
+      <pubDate>Tue, 07 Jan 2020 15:33:33 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</guid>
+      <description>引言 2019年是开源的重要转折之年，开源文化中重要的斗争对象——微软，俨然180度的大转弯，云计算也深谙开源，无论是AWS，还是阿里云，都将开源拿的死死的，当然还有Kubernetes这样颠覆式的技术平台展示出它的威力&amp;hellip;&amp;hellip;
+2019年的开源之道也是收获颇丰，企业培训、撰写教材、协助华师大开源课程、图书共读共同体建设和内容输出、Community Leadership development 小组成立、X-lab 开放实验室开源导师、OpenI/O 开发者大会分论坛出品人等，至少开源之道影响了一些人，圈内人渐渐知道了适兕的努力。
+2020年，适兕会加倍努力，除了每周一篇文章、每周开源评论之外，还要外加一个关于开源共同体领导力相关的文章输出，当然这都算在自己的业余时间之外，自己的养家糊口的工作也是需要更加的努力。
+加油！功不唐捐！
+具体事项 开源共同体内容： 共同体的艺术：打造归属感 Come from English :The Art of Community: Building Belonging Measuring the performance of a community manager Real open source projects take mentoring seriously []() 来自英文：红帽社区知识库 参考资料：When Metrics Go Wrong 参考资料：Balancing Makers and Takers to scale and sustain Open Source  开源其它内容 二、Our Founders look back on 20 Years of the ASF! 开放源代码软件行业之外的故事之二 &amp;ndash;关于城市交通]() ,参考资料：Why Los Angeles decided to open source its future [ ] [开放源代码软件行业之外的故事之三 &amp;ndash; 开放农业的故事]() ,参考资料：Could open source agriculture revolutionize the industry?</description>
+    </item>
+    
+    <item>
       <title>从开源软件的代码中淘金、2019 开源技术的7个改变世界的时刻、等开源之道一周精选(2020 01 05)</title>
       <link>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-01-05/</link>
       <pubDate>Sun, 29 Dec 2019 12:37:17 +0800</pubDate>
@@ -1710,7 +1723,9 @@ Apache 项目在很多领域里都是成功的，这要归功于我们所遵守�
       <pubDate>Fri, 15 Mar 2019 13:40:02 +0800</pubDate>
       
       <guid>http://www.ocselected.org/posts/paper_or_book_reading/2020_book_lists/</guid>
-      <description>共读之规则 本文列举的是2020年所精心选择的开源相关图书，以及如下规则：
+      <description>那些对自身所处环境缺乏知识和理解的人，通常其思想自由也会受到限制，进而就会在他们的行为选择方面产生影响。有限的知识限制了自由的思想。
+​ ———— Joel Charon 《Ten Questions： A Sociological Perspective》
+ 共读之规则 本文列举的是2020年所精心选择的开源相关图书，以及如下规则：
 1. 读者可以根据自己的兴趣、问题求解、思考来选择开源相关图书 2. 读者可以自行组织共读小组（可选：撰写读后感或短评） 3. 开源之道图书共读发起人适兕会按照自己的路径进行阅读和撰写读后感，读者可自由选择是否follow 4. 读者根据自身情况组织线下交流活动，并决定是否记录当时的讨论 关于共读的初衷，以及参与方式，请看官移步：开源之道图书和文献共读申明，有更多详细的内容。
 2020 主题一：开放式组织  2020，毫无疑问仍将是开源之年，开源在协作、工程、管理、创新、经济效益方面仍将保持增长，这个季度我们不妨放开月度一本的规划，一个季度读6本小书，试试效果如何。开放式组织小书系列，
  英文版：The Open Organization Field Guide
@@ -1725,9 +1740,9 @@ Apache 项目在很多领域里都是成功的，这要归功于我们所遵守�
 英文版：The Open Organization Workbook
 此书直译为中文是：《开放组织工作手记》，该书的编写汇集了30多位专家的真知灼见，他们的角色有企业管理者、教育工作者、技术大拿、咨询师、等等。该书提供了将透明度，包容性，适应性，协作和社区原则付诸实践的具体和可行的战略。
 开源之道推荐短评：
-  更多内容，请参考完整版开源之道共读导读与书评：[]()
-英文版：The Open Organization Guide for Educators
-What if we could build classrooms, departments, or entire educational institutions on the same values that power open source communities?</description>
+ 相信我，开源的文化是可以习得的，而且有方法。
+ 更多内容，请参考完整版开源之道共读导读与书评：[]()
+英文版：The Open Organization Guide for Educators</description>
     </item>
     
     <item>
@@ -2163,28 +2178,6 @@ Best part of the book was the discussion of shift towards making money with soft
 原文链接：Tidelift: We Support the Long Tail of Open Source Projects
 适兕点评：
  前红帽CEO的开源理解，不过还是路与桥给的灵感。“Our bottom line is that open source doesn’t just need ‘funding.’ It needs a business model that works for creators and users alike, at massive scale.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 01 06)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-06/</link>
-      <pubDate>Mon, 07 Jan 2019 22:26:04 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-06/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Linux基金会网络进一步加强开源网络 原文链接：LF Networking Moving Forward to Consolidate Open Source Networking Efforts
-适兕点评：
- 说实话，这一年的网络子基金会没什么进步，网络毕竟都是从传统的电信厂商过来的，标准的争夺根深蒂固，难以改变。所以，开源的方式在他们看来就是标准的再争夺。所以偏离了当年成立基金会的主旨。再过一年可能项目就各奔东西了。
- 来自Linux的洞察：2019我最期待什么 原文链接：From The Linux Perspective: What I Am Most Looking Forward To In 2019
-适兕点评：
- 这么具体的一系列的功能特性对于很多项目真是一件奢侈的事情，但是Linux就是这样。日渐成熟的Linux！
- 区块链进化：新形势需要新模式 原文链接：Blockchain evolution: New results require new models
-适兕点评：
- 唯有创新才是出路，是的，区块链绝对是革命性的产物，但是它也在很多领域破坏现有的秩序，那么就会有一些困难。假以时日，这可能是赢得人类社会信任。
- 2018年关于Linux和开源的5个顶级故事 原文链接：The top 5 Linux and open-source stories of 2018
-适兕点评：
- 我这两天也在思考、总结去年一年开源的动向。当然我更加关注本土的进展。但是不知道从何而起。
- 树莓派洞见：35美金的计算机改变世界的故事 原文链接：Inside the Raspberry Pi: The story of the $35 computer that changed the world</description>
     </item>
     
   </channel>
