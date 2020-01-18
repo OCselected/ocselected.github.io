@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 08 Jan 2020 10:28:50 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2020 10:22:46 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Open Core 的系列读物整理</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/reading-list-of-open-core/</link>
+      <pubDate>Sat, 18 Jan 2020 10:22:46 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/reading-list-of-open-core/</guid>
+      <description> 引言 书籍 1. 《信息规则：网络经济的策略指导》 推荐理由：
+ 本书会告诉你，信息的商业规则，以及开源为什么是合理的，而且是长久不衰的。
+ 2. 《软件悖论：商业软件的崛起与陨落》 推荐理由：
+ 请阅读开源之道的书评：http://ocselected.org/posts/paper_or_book_reading/the-software-paradox-book-review/
+ 3.《Milestones: The Story of WordPress》 推荐理由：
+ WordPress 是如何从不完全开源走上完美的商业之路的。
+ 文章 https://redmonk.com/sogrady/2019/01/25/open-source-cloud-apis/ https://redmonk.com/sogrady/2018/12/21/cycles-oss/ https://a16z.com/2019/10/04/commercializing-open-source/ http://tom.preston-werner.com/2011/11/22/open-source-everything.html https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source
+https://www.linux.com/news/software-eating-networking-facebook-says-yes/
+https://www.forbes.com/sites/jonobacon/2019/08/05/weaving-open-core-that-works/#2c2131a63e47
+https://coss.media/open-core-definition-examples-tradeoffs/
+视频  https://www.youtube.com/watch?v=c9SJAPxU5bs&amp;amp;feature=emb_logo https://www.youtube.com/watch?v=G6ZupYzr_Zg  论文 </description>
+    </item>
     
     <item>
       <title>拥抱开源，需要跨越那些鸿沟？ ————《Open Life —— 有关开源的哲学》读后感</title>
@@ -2161,28 +2180,6 @@ Best part of the book was the discussion of shift towards making money with soft
 原文链接：Tidelift: We Support the Long Tail of Open Source Projects
 适兕点评：
  前红帽CEO的开源理解，不过还是路与桥给的灵感。“Our bottom line is that open source doesn’t just need ‘funding.’ It needs a business model that works for creators and users alike, at massive scale.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 01 06)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-06/</link>
-      <pubDate>Mon, 07 Jan 2019 22:26:04 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-06/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Linux基金会网络进一步加强开源网络 原文链接：LF Networking Moving Forward to Consolidate Open Source Networking Efforts
-适兕点评：
- 说实话，这一年的网络子基金会没什么进步，网络毕竟都是从传统的电信厂商过来的，标准的争夺根深蒂固，难以改变。所以，开源的方式在他们看来就是标准的再争夺。所以偏离了当年成立基金会的主旨。再过一年可能项目就各奔东西了。
- 来自Linux的洞察：2019我最期待什么 原文链接：From The Linux Perspective: What I Am Most Looking Forward To In 2019
-适兕点评：
- 这么具体的一系列的功能特性对于很多项目真是一件奢侈的事情，但是Linux就是这样。日渐成熟的Linux！
- 区块链进化：新形势需要新模式 原文链接：Blockchain evolution: New results require new models
-适兕点评：
- 唯有创新才是出路，是的，区块链绝对是革命性的产物，但是它也在很多领域破坏现有的秩序，那么就会有一些困难。假以时日，这可能是赢得人类社会信任。
- 2018年关于Linux和开源的5个顶级故事 原文链接：The top 5 Linux and open-source stories of 2018
-适兕点评：
- 我这两天也在思考、总结去年一年开源的动向。当然我更加关注本土的进展。但是不知道从何而起。
- 树莓派洞见：35美金的计算机改变世界的故事 原文链接：Inside the Raspberry Pi: The story of the $35 computer that changed the world</description>
     </item>
     
   </channel>

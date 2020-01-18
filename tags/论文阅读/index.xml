@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 08 Jan 2020 10:28:50 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2020 10:22:46 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Open Core 的系列读物整理</title>
+      <link>http://www.ocselected.org/posts/paper_or_book_reading/reading-list-of-open-core/</link>
+      <pubDate>Sat, 18 Jan 2020 10:22:46 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/paper_or_book_reading/reading-list-of-open-core/</guid>
+      <description> 引言 书籍 1. 《信息规则：网络经济的策略指导》 推荐理由：
+ 本书会告诉你，信息的商业规则，以及开源为什么是合理的，而且是长久不衰的。
+ 2. 《软件悖论：商业软件的崛起与陨落》 推荐理由：
+ 请阅读开源之道的书评：http://ocselected.org/posts/paper_or_book_reading/the-software-paradox-book-review/
+ 3.《Milestones: The Story of WordPress》 推荐理由：
+ WordPress 是如何从不完全开源走上完美的商业之路的。
+ 文章 https://redmonk.com/sogrady/2019/01/25/open-source-cloud-apis/ https://redmonk.com/sogrady/2018/12/21/cycles-oss/ https://a16z.com/2019/10/04/commercializing-open-source/ http://tom.preston-werner.com/2011/11/22/open-source-everything.html https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source
+https://www.linux.com/news/software-eating-networking-facebook-says-yes/
+https://www.forbes.com/sites/jonobacon/2019/08/05/weaving-open-core-that-works/#2c2131a63e47
+https://coss.media/open-core-definition-examples-tradeoffs/
+视频  https://www.youtube.com/watch?v=c9SJAPxU5bs&amp;amp;feature=emb_logo https://www.youtube.com/watch?v=G6ZupYzr_Zg  论文 </description>
+    </item>
     
     <item>
       <title>拥抱开源，需要跨越那些鸿沟？ ————《Open Life —— 有关开源的哲学》读后感</title>
