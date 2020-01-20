@@ -32,6 +32,30 @@ https://coss.media/open-core-definition-examples-tradeoffs/
     </item>
     
     <item>
+      <title>Facebook 开源2019年盘点；经营开源共同体的真相；等开源之道两周精选(2020 01 19)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-01-12/</link>
+      <pubDate>Thu, 09 Jan 2020 11:57:57 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-01-12/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 如何管理那些难以量化的绩效 原文链接：Managing Performance When It’s Hard to Measure
+适兕点评：
+ 来自红帽CEO Jim的文章，这其实是一个企业如何有效的融合开源共同体的典型做法，正如Bruce Lee有名的Quotes：”Be Water,My friend“，公司的管理方式也是千变万化，根据人、社会、习俗、教育程度、宗教等等一些因素而发展出来的提高生产力的方式，开源共同体究竟如何和公司这类社会组织共存，要灵活运用！世界不可能是单一的形式！
+ ![]()
+开源的生命力 原文链接：Open source is here to stay
+适兕点评：
+ 红帽创始人Bob Young 的一篇反驳文，这是20年前的一篇文章，现在回过头来看，无疑是千真万确的。可是读历史是需要同理心的，也就是说能够带入当时的情景的，2000当然是WinTel的天下了！Apple 衰落，互联网崛起。不得不服Bob Young 洞悉人性之处。这篇文章永远的载入了史册。
+ 开放式组织：新的商业之道 原文链接：Open Organization: A new way to business
+适兕点评：
+ 自组织的社会，大概率人们都是比较向往的，但是现实中很难找的到，因为自组织的团体通常会被人类的本能打败：贪婪、懒惰、封闭等，然而，开源共同体这个自组织竟然开发出了复杂的软件项目，这真是奇怪，而且还有家公司想在商业上也复制这样的文化。那么这本书就是介绍这个的。
+ 企业洞察：红帽和公有云 原文链接：Enterprise Insights: Red Hat And The Public Cloud
+适兕点评：
+ 在公有云日渐推出自身的基于开源的产品和服务之时，基于开源项目售卖服务，似乎看起来已经是穷途末路了，比如Amazon 推出第二代Linux，而红帽就面临非常强大的挤压。这个关系如何破解？红帽的前途将何去何从？消费者在未来该如何选择开源？共同体究竟要置何种位置？
+ ![]()
+遇见微软全新Edge：请你走开，Google 原文链接：Meet the new Microsoft Edge: Your move, Google</description>
+    </item>
+    
+    <item>
       <title>拥抱开源，需要跨越那些鸿沟？ ————《Open Life —— 有关开源的哲学》读后感</title>
       <link>http://www.ocselected.org/posts/paper_or_book_reading/henrik_ingo_open_life/</link>
       <pubDate>Wed, 08 Jan 2020 10:28:50 +0800</pubDate>
@@ -2103,24 +2127,6 @@ Only time will tell.
 适兕点评：
  好文，云计算深刻的改变了软件的分发模式！云计算究竟是开源的敌人还是好友，这要看厂家自己如何理解人才和市场，本文算是把来龙去脉给讲清楚了。推荐阅读。
 But cloud computing has changed nearly all of the assumptions around how modern businesses should build and manage the technology they need to compete in the 21st century.</description>
-    </item>
-    
-    <item>
-      <title>开源之道共读图书列表（2019版）</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/2019_book_lists/</link>
-      <pubDate>Sun, 02 Dec 2018 06:16:31 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/2019_book_lists/</guid>
-      <description>共读之申明篇 本文列举的是2019年所精心选择的12本开源相关图书，关于共读的初衷，以及参与方式，请看官移步：开源之道图书和文献共读申明，有更多详细的内容。
-2019 第一季度 主题：软件的形态、商业化以及开源软件的商业化的合理性探讨 2019 年1月 第一期 英文版：The Software Paradox：商业软件市场的崛起与陨落, O’Reilly Media, Stephen O’Grady 著(2015)
-内容提要：
- 来自 RedMonk 的分析，学习下为何商业软件市场已经改变。
-每一家公司都是软件公司，软件对于现代企业是越发的重要，但是围绕软件来赚取利润却越来越难了！这其中究竟蕴含着什么道理？公有云提供商的巨头们是否会是基于开源项目的商业软件公司的杀手？软件的商品化的历程又是如何？为什么说开发者逐步的占据决策链的顶端？基于开源项目的商业公司为何更改许可协议？如果你带着这些问题，不妨深入阅读这本优质的小书《软件悖论》。
- 开源之道推荐短评：
- 通过软件商品化的历程，进而诠释为何开源成为云计算时代的主流模式。
- 更多内容，请参考完整版开源之道共读导读与书评：《软件悖论:商业软件的崛起与陨落》。
-2019 年2月 第二期 Subscribed: Why the Subscription Model Will Be Your Company&amp;rsquo;s Future - and What to Do About It
-In Subscribed, you&amp;rsquo;ll learn how these companies made the shift, and how you can transform your own product into a valuable service with a practical, step-by-step framework.</description>
     </item>
     
   </channel>

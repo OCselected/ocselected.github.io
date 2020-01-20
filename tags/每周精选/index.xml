@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 07 Jan 2020 15:33:33 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2020 11:57:57 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Facebook 开源2019年盘点；经营开源共同体的真相；等开源之道两周精选(2020 01 19)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-01-12/</link>
+      <pubDate>Thu, 09 Jan 2020 11:57:57 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-01-12/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 如何管理那些难以量化的绩效 原文链接：Managing Performance When It’s Hard to Measure
+适兕点评：
+ 来自红帽CEO Jim的文章，这其实是一个企业如何有效的融合开源共同体的典型做法，正如Bruce Lee有名的Quotes：”Be Water,My friend“，公司的管理方式也是千变万化，根据人、社会、习俗、教育程度、宗教等等一些因素而发展出来的提高生产力的方式，开源共同体究竟如何和公司这类社会组织共存，要灵活运用！世界不可能是单一的形式！
+ ![]()
+开源的生命力 原文链接：Open source is here to stay
+适兕点评：
+ 红帽创始人Bob Young 的一篇反驳文，这是20年前的一篇文章，现在回过头来看，无疑是千真万确的。可是读历史是需要同理心的，也就是说能够带入当时的情景的，2000当然是WinTel的天下了！Apple 衰落，互联网崛起。不得不服Bob Young 洞悉人性之处。这篇文章永远的载入了史册。
+ 开放式组织：新的商业之道 原文链接：Open Organization: A new way to business
+适兕点评：
+ 自组织的社会，大概率人们都是比较向往的，但是现实中很难找的到，因为自组织的团体通常会被人类的本能打败：贪婪、懒惰、封闭等，然而，开源共同体这个自组织竟然开发出了复杂的软件项目，这真是奇怪，而且还有家公司想在商业上也复制这样的文化。那么这本书就是介绍这个的。
+ 企业洞察：红帽和公有云 原文链接：Enterprise Insights: Red Hat And The Public Cloud
+适兕点评：
+ 在公有云日渐推出自身的基于开源的产品和服务之时，基于开源项目售卖服务，似乎看起来已经是穷途末路了，比如Amazon 推出第二代Linux，而红帽就面临非常强大的挤压。这个关系如何破解？红帽的前途将何去何从？消费者在未来该如何选择开源？共同体究竟要置何种位置？
+ ![]()
+遇见微软全新Edge：请你走开，Google 原文链接：Meet the new Microsoft Edge: Your move, Google</description>
+    </item>
     
     <item>
       <title>开源之道2020年计划表</title>
@@ -1991,29 +2015,6 @@ AWS 在 Kubernetes 和 人工智能两步期连续失事，当然会重视起开
 适兕点评：
  这就是中立于厂商的好处，开源可以独立发出自己的声音，用户才是最后的受益者。
 我们从技术上讲，芯片厂商为了提高性能而出现了一些漏洞，无可厚非，即是解决即可。公关也是要做的。但是Linus更希望快速一点，安全无小事，Intel应该表现的更加开放一些。不仅仅是依靠自己的力量。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 01 07)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-01-07/</link>
-      <pubDate>Sun, 07 Jan 2018 22:08:52 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-01-07/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 为什么我们需要 RISC-V 的处理器 原文链接：Why we need RISC-V
-原文链接: Why Intel x86 must die: Our cloud-centric future depends on open source chips
-适兕点评：
- 上周整个技术圈都被X86架构的重大漏洞刷屏了，具体是什么，Spectre and Meltdown，那么Intel据说损失110亿美元，Linus甚至都出面说Intel你应该直面问题而不是搞公关。
-是的，这个世界不能让Intel一家独占了，ARM和SPARC仍然需要坚强的生存下来。开源的目的是什么？不是像国内，总是制造寡头。
- Google找到了Kubernetes的成功秘诀，但这只是整个故事的一部分而已 原文链接：Google found success with Kubernetes, but that’s only part of the story
-适兕点评：
- 题目有点拗口，但是相信很多人都能够正确的理解。Kubernetes是如此的成功，以至于人们措手不及，不知道该如何处置。云原生基础设施和云原生应用，似乎离本土的业务还相差甚远，甚至都没有经历过容器化这样一个历程，那么究竟是把握未来呢？还是掌控现在？
-我曾经写过Goldberg的文章，Kubernetes的社区建设只是他们的起步阶段而已，而整个生态才是他们的根本目标！驾驭标准则驾驭世界。
- 开源的义肢腿 原文链接：Open Source Prosthetic Leg, with Elliott Rouse
-适兕点评：
- 万物皆开源，只有开源才能够赢得人们的信任和青睐，也能够获得更多的反馈。
-但是，为什么软件成为了开源的先驱？是因为微软、Oracle这样的公司赚取的钱过于多？掌控了整个信息时代？
- 开源促进会（OSI）20年 原文链接：20 years of the Open Source Initiative (OSI)</description>
     </item>
     
   </channel>

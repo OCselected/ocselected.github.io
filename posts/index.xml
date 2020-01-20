@@ -32,6 +32,30 @@ https://coss.media/open-core-definition-examples-tradeoffs/
     </item>
     
     <item>
+      <title>Facebook 开源2019年盘点；经营开源共同体的真相；等开源之道两周精选(2020 01 19)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-01-12/</link>
+      <pubDate>Thu, 09 Jan 2020 11:57:57 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-01-12/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 如何管理那些难以量化的绩效 原文链接：Managing Performance When It’s Hard to Measure
+适兕点评：
+ 来自红帽CEO Jim的文章，这其实是一个企业如何有效的融合开源共同体的典型做法，正如Bruce Lee有名的Quotes：”Be Water,My friend“，公司的管理方式也是千变万化，根据人、社会、习俗、教育程度、宗教等等一些因素而发展出来的提高生产力的方式，开源共同体究竟如何和公司这类社会组织共存，要灵活运用！世界不可能是单一的形式！
+ ![]()
+开源的生命力 原文链接：Open source is here to stay
+适兕点评：
+ 红帽创始人Bob Young 的一篇反驳文，这是20年前的一篇文章，现在回过头来看，无疑是千真万确的。可是读历史是需要同理心的，也就是说能够带入当时的情景的，2000当然是WinTel的天下了！Apple 衰落，互联网崛起。不得不服Bob Young 洞悉人性之处。这篇文章永远的载入了史册。
+ 开放式组织：新的商业之道 原文链接：Open Organization: A new way to business
+适兕点评：
+ 自组织的社会，大概率人们都是比较向往的，但是现实中很难找的到，因为自组织的团体通常会被人类的本能打败：贪婪、懒惰、封闭等，然而，开源共同体这个自组织竟然开发出了复杂的软件项目，这真是奇怪，而且还有家公司想在商业上也复制这样的文化。那么这本书就是介绍这个的。
+ 企业洞察：红帽和公有云 原文链接：Enterprise Insights: Red Hat And The Public Cloud
+适兕点评：
+ 在公有云日渐推出自身的基于开源的产品和服务之时，基于开源项目售卖服务，似乎看起来已经是穷途末路了，比如Amazon 推出第二代Linux，而红帽就面临非常强大的挤压。这个关系如何破解？红帽的前途将何去何从？消费者在未来该如何选择开源？共同体究竟要置何种位置？
+ ![]()
+遇见微软全新Edge：请你走开，Google 原文链接：Meet the new Microsoft Edge: Your move, Google</description>
+    </item>
+    
+    <item>
       <title>拥抱开源，需要跨越那些鸿沟？ ————《Open Life —— 有关开源的哲学》读后感</title>
       <link>http://www.ocselected.org/posts/paper_or_book_reading/henrik_ingo_open_life/</link>
       <pubDate>Wed, 08 Jan 2020 10:28:50 +0800</pubDate>
@@ -2166,20 +2190,6 @@ Best part of the book was the discussion of shift towards making money with soft
  “当你开启项目时，你需要尝试赢得人们的信任，消除他们对于加入项目的疑虑，而且放心的使用你的代码。在这之后，如果你说：‘大家好，这个项目可能无法继续了。‘ 这对于信任一点帮助都没有。而你应该说，如果有一天，项目可能不得不结束，您将会尽全力去解决问题， 并且应该保证您不会将用户弃之不顾。告诉他们，您会告知他们您的每一步工作的内容。在进行项目转交时，给他们时间去适应，您还需要努力帮助完成项目转交时可能有所帮助。” – Dr. David A. Wheeler，Linux基金会核心基础设施研究 （CII）开源专家和两个项目的领导者。
  决定您何时结束、转交或退出一个开源项目 无论什么原因，都可能遇到这样的几种情形：开源项目需要终结、需要转交给其它实体单位、亦或者是贵司决定从某参与的项目中退出，无论哪种情况，都要做出决断的。至于原因吗，有可能是贵司的目标发生了变化，也有可能是项目和新的方向不再匹配，又或者是项目的关键人物/团队离开了公司，亦或是项目的成长情况：参与度、更新周期、采用的下降等因素所导致。也有可能是因为在关于项目未来发展的问题上，社区成员之间出现了分歧，这些使项目看起来需要做出一些改变。
 分歧会影响新项目的方向 在项目的社区内部如果发生了严重的分歧 ———— 不管这个分歧是什么，关于技术也罢，许可协议等等 ———— 你都得考虑项目需要分离，让对不同方面感兴趣的人们做他们认为重要的事情！我们可以回顾一个例子，就分离这件事对于1991年创建 Linux的开发者 Linus Torvalds 来说触动很大，Torvalds 一直以来都是基于Minix进行开发的，Minix 以一款类Unix的小型操作系统，其内核由Andrew S. Tanenbaum所开发，主要是用来教学。随着项目的发展，和Torvalds对其范围和愿景的不同，Torvalds 将项目从 Minix 分离出来创建了日后重要的开源项目Linux。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 01 13)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-13/</link>
-      <pubDate>Sun, 13 Jan 2019 12:29:49 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-13/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 开源变现创业公司TideliftB轮融资2500万美金 原文链接：Open source monetization startup Tidelift raises $25m series B
-原文链接：These former Red Hat employees just got $25 million to try to find a new business model for open-source software
-原文链接：Tidelift: We Support the Long Tail of Open Source Projects
-适兕点评：
- 前红帽CEO的开源理解，不过还是路与桥给的灵感。“Our bottom line is that open source doesn’t just need ‘funding.’ It needs a business model that works for creators and users alike, at massive scale.</description>
     </item>
     
   </channel>
