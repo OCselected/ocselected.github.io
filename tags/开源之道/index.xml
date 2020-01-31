@@ -58,6 +58,20 @@ https://www.forbes.com/sites/forbestechcouncil/2020/01/17/enterprise-insights-re
     </item>
     
     <item>
+      <title>Apache 基金会创始成员访谈录 ———— 回顾 Apache 20年历程！</title>
+      <link>http://www.ocselected.org/posts/foundation_introduce/asf-founders-look-back-on-20-years/</link>
+      <pubDate>Thu, 09 Jan 2020 12:01:53 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/foundation_introduce/asf-founders-look-back-on-20-years/</guid>
+      <description>引言 刚刚过去的2019年是 Apache 基金会成立的20周年，来自Apache 基金会的Sally Khudairi搞了一件事，那就是找找当年的创始成员，除了祝贺之外，就是想听听这些人是持什么样的态度。
+Sameer Parekh Brenn, Mark Cox, Lars Eilebrecht, Jim Jagielski, Aram Mirzadeh, Bill Stoddard, Randy Terbush, and Dirk-Willem van Gulik,
+问题：你第一次参与Apache HTTP 服务是什么时间？做什么？ Mark：  1993年，我还在读博士，当时为 NCSA web 服务撰写一些特性以及修复一些Bug，而且也会修一些安全方面的工作，在1995年四月我收到了 Brian Behlendorf 的邀请，他希望我加入到 Apache 的核心开发团队中，其实大家都是那时候的 Apache 开发小组才刚刚成立了几周不到。
+ Randy：  起先我是遇到了一些均使用 NCSA web 服务的小伙伴们，如果我没有记错的话，在1994年末，我开始和其他人交换一些想法和补丁，从而使得 NCSA web 服务能够满足日益增长的扩展服务。
+ Dirk:  我本人在 NCSA web 服务的早期阶段就开始参与了，当时我在研究所工作，当时需要一些特定的功能，如希望可以将巨大的卫星图像上较小的地理子集能够作为图像提供，这样的方式对于当时来说还有些新奇的，因为当时正常的做法是：填写表格 -&amp;gt; 发传真过去 -&amp;gt; 等上几个月，直到索大的胶带盒子送到 -&amp;gt; 然后，将需要数周或数月的时间来加载这些磁带并仅提取所需的区域。
+ Jim:  是在1995年，起初是将之移植到 Apple 的旧的Unix 系统、A/UX上，写些补丁、增加些功能、修复bug，也会做些配置和构建工作。</description>
+    </item>
+    
+    <item>
       <title>Facebook 开源2019年盘点；经营开源共同体的真相；等开源之道两周精选(2020 01 19)</title>
       <link>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-01-12/</link>
       <pubDate>Thu, 09 Jan 2020 11:57:57 +0800</pubDate>
@@ -2117,21 +2131,6 @@ Best part of the book was the discussion of shift towards making money with soft
   改进的常见领域 改进开源项目中开发者的生产力和效率，开源办公室能够努力的地方有这么三块：文化、流程和工具。其中在每个具体的领域又有相应的细则需要来处理，从而满足不同的开源模式。
 开源团队在企业环境中所面临的特殊挑战 文化 文化上的挑战是大家不得不面对的一个事实，它的根源在于传统软件开发实践和开源开发的需求之间巨大的落差，落差可以通过雇佣开源的专家，或者是找那些熟悉开源开发模式的人为贵司进行培训来进行弥补。
  “我们的目标是为开源工程师提供足够的时间来履行对上游的责任，以让他们能够成长，进而让三星拥有充足的开源领导力。” – Ibrahim Haddad，三星美国研究院研发副总裁兼开源小组负责人</description>
-    </item>
-    
-    <item>
-      <title>开源之道一月精选(2018 12 31)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-12-31/</link>
-      <pubDate>Wed, 02 Jan 2019 10:30:15 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-12-31/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 2018年开源重大的8个里程碑 原文链接：The 8 biggest open source milestones in 2018
-适兕点评：
- 说实话，以后开源界真的很难吸引人们的眼球了，因为它正在成为默认的内容。这个新闻非常的厉害的，排名第一的kernel新的行为准则，意味着“招安”的彻底成功。亚文化被彻底的归为主流。规则正在改变。
- 微软是如何实现绝地重生的 原文链接：How Microsoft bounced back
-适兕点评：
- 本文从商业的角度回顾了微软从失败到重新回到最具价值公司顶峰的历程，开放式的哲学真的不是盖的。啥也不说了，引用一句文中的总结： “Satya Nadella really didn’t change that much in terms of products, but he did change the perception. Azure is now the second-largest cloud provider, and will probably be No. 1 soon. That is simply moving traditional Microsoft customers from on-premise servers to Azure cloud servers, but the impact is huge both in terms of revenue and market cap.</description>
     </item>
     
   </channel>

@@ -79,6 +79,20 @@ https://www.forbes.com/sites/forbestechcouncil/2020/01/17/enterprise-insights-re
     </item>
     
     <item>
+      <title>Apache 基金会创始成员访谈录 ———— 回顾 Apache 20年历程！</title>
+      <link>http://www.ocselected.org/posts/foundation_introduce/asf-founders-look-back-on-20-years/</link>
+      <pubDate>Thu, 09 Jan 2020 12:01:53 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/foundation_introduce/asf-founders-look-back-on-20-years/</guid>
+      <description>引言 刚刚过去的2019年是 Apache 基金会成立的20周年，来自Apache 基金会的Sally Khudairi搞了一件事，那就是找找当年的创始成员，除了祝贺之外，就是想听听这些人是持什么样的态度。
+Sameer Parekh Brenn, Mark Cox, Lars Eilebrecht, Jim Jagielski, Aram Mirzadeh, Bill Stoddard, Randy Terbush, and Dirk-Willem van Gulik,
+问题：你第一次参与Apache HTTP 服务是什么时间？做什么？ Mark：  1993年，我还在读博士，当时为 NCSA web 服务撰写一些特性以及修复一些Bug，而且也会修一些安全方面的工作，在1995年四月我收到了 Brian Behlendorf 的邀请，他希望我加入到 Apache 的核心开发团队中，其实大家都是那时候的 Apache 开发小组才刚刚成立了几周不到。
+ Randy：  起先我是遇到了一些均使用 NCSA web 服务的小伙伴们，如果我没有记错的话，在1994年末，我开始和其他人交换一些想法和补丁，从而使得 NCSA web 服务能够满足日益增长的扩展服务。
+ Dirk:  我本人在 NCSA web 服务的早期阶段就开始参与了，当时我在研究所工作，当时需要一些特定的功能，如希望可以将巨大的卫星图像上较小的地理子集能够作为图像提供，这样的方式对于当时来说还有些新奇的，因为当时正常的做法是：填写表格 -&amp;gt; 发传真过去 -&amp;gt; 等上几个月，直到索大的胶带盒子送到 -&amp;gt; 然后，将需要数周或数月的时间来加载这些磁带并仅提取所需的区域。
+ Jim:  是在1995年，起初是将之移植到 Apple 的旧的Unix 系统、A/UX上，写些补丁、增加些功能、修复bug，也会做些配置和构建工作。</description>
+    </item>
+    
+    <item>
       <title>Facebook 开源2019年盘点；经营开源共同体的真相；等开源之道两周精选(2020 01 19)</title>
       <link>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-01-12/</link>
       <pubDate>Thu, 09 Jan 2020 11:57:57 +0800</pubDate>
@@ -2176,27 +2190,6 @@ Linux操作系统是当今计算中最流行的开源操作系统，在2008年�
 企业通常会遇到一些相类似的问题，如多个部门是如何采用开源项目的、贡献到上游社区采用不同的方式、内部创建的开源项目也是不同理念。那么开发一个标准集对于这些混乱的场景是很有帮助的。
 来自 Autodesk 的开放总监 Martin 分享道：“在 Autodesk，我们对于贡献上游采用的是一个流程，作为一个工程师我将之流程化，我并不希望出现为了只有5行代码的缺陷修复，需要参考 500页的文档，以及十几种不同的流程，所以我与合规团队一起工作，将工作流程简化到极致，以让工程师们可以在合理的时间内完成它。 同样，公司内部创建开源项目也采用了同样办法。“”
 每个公司最好在自己的开源治理政策和流程中制定详细的处理法则，从而实现最适合自己公司实际运作的方式;也要实际上反映社区这个层次的最佳治理。但是，请一定注意，不同的开源活动需要制定不同的流程，没有什么”一招打遍天下的功夫”。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 01 20)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-20/</link>
-      <pubDate>Sat, 19 Jan 2019 11:30:00 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-20/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 开源正式物联网安全加固的关键 原文链接：Open source may be the key to securing IoT
-适兕点评：
- WhiteSource写的软文，开源和安全的关系，其实和原来闭源和安全的关系是一样的，不过这样防御和对抗过起招来更加的透明化而已！但是对于小白用户来说，只有用户界面，软件和代码乃至数据对于人们真的那么的在乎吗？法律何在？政治何在？社会又何在？
- Apple 的 FoundationDB 开源其 CloudKit 后的数据库层 原文链接：Apple’s FoundationDB open sources the database layer behind CloudKit
-适兕点评：
- 去你4月份开源的Apple NoSQL 项目，然后慢慢的开源周边其它的内容，软件的发展已经不是一个项目就是一个技术栈的局面了，而是一个项目仅仅是庞大架构中的一小部分，也就是说人们看到某些公司的几十个项目，不过是整体的冰山一角罢了。基本没啥用。Apple 是一家非常善于利用开源的商业公司！他们运营的开源项目理应分析学习。
- 开源虚拟化平台重要指南 原文链接：The essential guide to open source virtualization platforms
-适兕点评：
- Xen、KVM、基础的虚拟化技术，成就了虚拟化云计算时代！但是历史不是一下子就被取而代之的，而是慢慢的交叠期，拥抱前沿即走向下一个时代，没有则继续留在这里。
- 企业开源 2019 的趋势 原文链接：Open Source for Enterprise Trends in 2019
-适兕点评：
- 来自 SUSE 亚太区的观点：Software Defined Approach to Data Management、Public Cloud for Industry-Specific Needs、Machine Learning and Open Data、Security at Developer Level ，预测这类事情总是危险的，谁也说不准。</description>
     </item>
     
   </channel>
