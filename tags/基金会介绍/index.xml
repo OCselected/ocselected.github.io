@@ -20,9 +20,9 @@
       <guid>http://www.ocselected.org/posts/foundation_introduce/asf-founders-look-back-on-20-years/</guid>
       <description>引言 刚刚过去的2019年是 Apache 基金会成立的20周年，来自Apache 基金会的Sally Khudairi搞了一件事，那就是找找当年的创始成员，除了祝贺之外，就是想听听这些人是持什么样的态度。
 Sameer Parekh Brenn, Mark Cox, Lars Eilebrecht, Jim Jagielski, Aram Mirzadeh, Bill Stoddard, Randy Terbush, and Dirk-Willem van Gulik,
-问题：你第一次参与Apache HTTP 服务是什么时间？做什么？ Mark：  1993年，我还在读博士，当时为 NCSA web 服务撰写一些特性以及修复一些Bug，而且也会修一些安全方面的工作，在1995年四月我收到了 Brian Behlendorf 的邀请，他希望我加入到 Apache 的核心开发团队中，其实大家都是那时候的 Apache 开发小组才刚刚成立了几周不到。
+问题：你第一次参与Apache HTTP 服务是什么时间？做什么？ Mark：  1993年，我还在读博士，当时为 NCSA web 服务撰写一些特性以及修复一些Bug，而且也会做一些安全方面的工作，在1995年四月我收到了 Brian Behlendorf 的邀请，他希望我加入到 Apache 的核心开发团队中，其实大家都是那时候的参与进去的， Apache 开发小组才刚刚成立了几周不到。
  Randy：  起先我是遇到了一些均使用 NCSA web 服务的小伙伴们，如果我没有记错的话，在1994年末，我开始和其他人交换一些想法和补丁，从而使得 NCSA web 服务能够满足日益增长的扩展服务。
- Dirk:  我本人在 NCSA web 服务的早期阶段就开始参与了，当时我在研究所工作，当时需要一些特定的功能，如希望可以将巨大的卫星图像上较小的地理子集能够作为图像提供，这样的方式对于当时来说还有些新奇的，因为当时正常的做法是：填写表格 -&amp;gt; 发传真过去 -&amp;gt; 等上几个月，直到索大的胶带盒子送到 -&amp;gt; 然后，将需要数周或数月的时间来加载这些磁带并仅提取所需的区域。
+ Dirk:  我本人在 NCSA web 服务的早期阶段就开始参与了，当时我在研究所工作，当时需要一些特定的功能，如希望可以将巨大的卫星图像上较小的地理子集能够作为图像提供，这样的方式对于当时来说还有些新奇的，因为当时正常的做法是：填写表格 -&amp;gt; 发传真过去 -&amp;gt; 等上几个月，直到索大的胶带盒子送到 -&amp;gt; 然后，将需要数周或数月的时间来加载这些磁带并仅提取所需的区域。于是顺其自然的就参与到 Apache中来了。
  Jim:  是在1995年，起初是将之移植到 Apple 的旧的Unix 系统、A/UX上，写些补丁、增加些功能、修复bug，也会做些配置和构建工作。</description>
     </item>
     
