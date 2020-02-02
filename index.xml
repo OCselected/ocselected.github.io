@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 21 Jan 2020 18:32:04 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2020 21:05:45 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>鼠年话开源之一：开源开发者有何特征？ </title>
+      <link>http://www.ocselected.org/posts/opensource_talking/2020-02-02-open-source-developer/</link>
+      <pubDate>Sun, 02 Feb 2020 21:05:45 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_talking/2020-02-02-open-source-developer/</guid>
+      <description>为什么要聊这个话题？ 在疫情肆虐的中华大地，实行了隔离，春节期间不可以走街串坊，于是 Community Leadership Development 小组的人们自动发起了这个“鼠年话开源”节目，开源之道作者适兕发起了第一期，聊聊开源的开发者有何特征，如果这些改变世界的人有什么文化特色的话，我们是不是可以培养更多？或者是寻找到更多?进而融入这个开源的滚滚大潮之中！
+听！这些资深的开源圈的人能聊出点啥。
+ Shownote 本次 talking 探讨了以下几点内容：
+ 主持人为什么要发起这个话题？ 鸿蒙开源主管对于开源开发者的调查与发现 DevCloud 产品经理又对开源开发者有何观点? 是不是开源的开发者在价值观上有一些可以挖掘的个性？ 从“社会学”的角度是否能够得出一些宏观上的数据？  订阅 Apple Podcost 用户请复制RSS 种子：http://www.ximalaya.com/album/32915040.xml
+其它平台，敬请期待。</description>
+    </item>
     
     <item>
       <title>Community Leadership Development 是什么？做什么？</title>
@@ -2158,26 +2171,6 @@ Linux操作系统是当今计算中最流行的开源操作系统，在2008年�
  Google 和索尼合作推出开源的 VFX 渲染 原文链接：Google partners with Sony Pictures Imageworks to launch an open-source VFX render manager
 适兕点评：
  Google was also a founding member of the Academy Software Foundation, an open-source foundation that focuses specifically on tools for the film industry.</description>
-    </item>
-    
-    <item>
-      <title>Linux基金会企业开源指南系列之十二 ———— 企业开源战略制定</title>
-      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/setting-an-open-source-strategy/</link>
-      <pubDate>Tue, 22 Jan 2019 09:22:53 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/setting-an-open-source-strategy/</guid>
-      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
-引言 企业利用开源主要是要理解其价值，并对开源的诸如高效、灵活、互操作性强、快速的创新等优点有足够的认识。然而，现实的情况却远远不是这样，据最新的一项关于开源未来的调查显示，参与调查的公司有半数以上仅仅实践了基本的开源管理，如社区开发、代码维护诸如此类的，距离战略还有很长一段距离。
-创建开源战略，并将之诉诸文字，是意识到开源的投资回报率的重要的第一步。贵司的开源战略和管理、参与、创建开源软件的计划与计划所服务的业务目标联系起来，这将开启很多的机会并加速创新。
-为什么要创建业务战略？ 将贵司的开源管理纳入正式的方法论，并以战略形式来重视，是有效提高效率和减少风险的途径。无论贵司现在是否围绕开源相关制定了业务战略，但是一定明白这件事非常的重要。
-增加开源投资的关键第一步是创建战略文档。这么做可以帮助贵司最大化的从开源当中获益，同时避免因错误而导致的麻烦，例如选择了错误的许可证，亦或无法正确维护代码。战略文档应包含以下几点内容：
- 让公司的领导有意愿并积极的参与
- 获得公司内部各级的认可 促进分散的多部门组织的决策 帮助个人和发明者做出更好的决策 帮助围绕发明构建一个健康的社区 对贵司的开源方法论进行最终的解释，并支持它积极的落地 明确贵司在社区驱动的外部研发中愿意投资的地方，以及贵司将重点放在那些有增值差异化的地方   “如果你没有在开始的时候就在高层达成共识，就政策细节和流程投资达成协议往往是非常困难的，甚至是不可能的。” Ibrahim Haddad, 三星研发副总监兼开源实验室头目在其著作《企业合规性》中如是说
- 开源战略文档 让我们首先明确一下最终的目标，然后再来诠释一下如何才能够达成目标。你的目标就是将开源战略的所有细节都记录在案，所有人都可以随时随地查看，包括但不限于工程团队、法律团队、营销人员、各个管理层等等。该战略文档可以很好的帮助人们理解开源项目背后的业务对象，从而确保更佳的决策制定、最小化风险。
- “ 在 Salesforce，我们会将内部的文档分发给工程团队，围绕开源为他们提供指导并激励他们。这会鼓励大家使用开源项目，乃至创建开源项目，让工程师们清晰明白的理解拥抱开源是公司管理层的决定，并获得完全的支持，另外，如果我们不希望工程师们使用某些许可协议的代码，或者是其它类型的开源向导，我们的内部文档均会明确的进行说明。” – Ian Varley，Salesforce 软件架构师
-  退一万步讲，文档最起码应该做到：  解释贵司的开源方法论以及文档背后的目的。 贵司自身所追求的成功样子是什么？开源在其中将扮演何等角色？
- “以 Autodesk 为例，我们新的开源方法论背后的原因是让公司迁移到云计算相关，因为Autodesk 的产品聚焦于向云计算环境的转型。现实的情况就是：‘构建在云端的技术均是基于开源的，所以必须慎重思考开源战略’。” – Guy Martin，Autodesk 开放总监(Open@ADSK).
-  明确指出贵司的开发者如何使用开源代码： 如果代码从具有不同许可设置的项目进入您的某个产品，该怎么办？开发人员应遵循哪些接受、拒绝、例外的策略？贵司对开源开发整体的立场又是什么？一份好的战略文档应该明确回答这些问题。 明确指定贵司的开发者如何贡献代码到上游开源项目，且要明确哪些项目对于贵司的业务战略很重要（且鼓励开发去做积极的贡献）： 如果开发人员想要将代码从一个开源项目贡献给您正在处理的项目，但这两个项目有不同的许可证，该怎么办？开发者如何贡献方能达到一个良性的循环，即最佳的平衡？即收获和付出是称正比的。 这些考量都要纳入到战略的制定中。   “ 如果贵司的产品严重依赖于某开源项目，然而贵司在该项目并没有任何的话语权，公司也没有打算去获得领导力，那么贵司的业务就是出于严重的风险当中。” – Guy Martin,Autodesk 开放总监(Open@ADSK).</description>
     </item>
     
   </channel>
