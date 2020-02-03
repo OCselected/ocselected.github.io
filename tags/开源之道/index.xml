@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 21 Jan 2020 16:42:34 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2020 16:38:57 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>银行终究还是要拥抱开源的；建立能够让开源共同体持续发展的公司 等开源之道一周精选(2019 02 02)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-02/</link>
+      <pubDate>Wed, 29 Jan 2020 16:38:57 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-02/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 ![]()
+新时代的六种软件许可证模式 原文链接：Six Software Licensing Models Helping Companies Scale Up in 2020
+适兕点评：
+ 订阅模式、云模式、商品模式、功能模式、用户数模式、离线模式，几乎这些模式开源可以采用了占据了2/3,这也就是说很多人将视线转移到了开源的理由。劳动成果被认可，有商业利润，进一步提升软件的质量。
+ 开源中风险和潜在影响 原文链接：The Risks and Potential Impacts Associated with Open Source
+适兕点评：
+ 开发者共同体，这个词汇实在是太富有想象力了。不过这篇文章所阐述的观点：这个开发者所打造的精品，尽管可用，但是存在人类社会上的其它制约，也就是说风险：1.被法律告发2.软件不是固定不变的3.安全漏洞，总而言之，开源最终形成的软件产品总是需要人负责的。
+ 中国和开源全球战略：Simon Wardley 怎么看？ 原文链接：China and open source geopolitical strategy: Simon Wardley weighs in
+适兕点评：
+ 我也非常认同Simon Wardley的观点，共同体、长期、基础设施，这些都在很多中国企业的盲区，或许再过几年可以看到一些希望，有很多企业单位甚至都不承认是利用了开源，而是侵占开源共同体的法律权益。美国人那种将法律视为Mindset的做法，会误导其对于中国的理解。
+ 微软为Chromium添加更多新功能 原文链接：Microsoft is now adding new features to Google Chrome
+适兕点评：
+ 上下游的理解，对于参与到开源来说是非常重要的，在一个没有人愿意做“下游”的文化中，到处都是上游，于是协作成为了不可能，放眼尽是孤岛。微软为何能够迈出如此重要的一步？如果算历史旧账的话，Netscape就是被IE捆绑策略搞到体无完肤。这不得不提及公司/组织的历史，和个人的历史的差异。
+ 建立能够让开源共同体持续发展的公司 原文链接：Founding organizations: Creating companies that sustain our open-source community</description>
+    </item>
     
     <item>
       <title>CentOS  仓库公开决策指南;中科院“木兰”语言事件;等 开源之道一周精选(2020 01 26)</title>
@@ -2102,35 +2125,6 @@ Best part of the book was the discussion of shift towards making money with soft
       
       <guid>http://www.ocselected.org/posts/planing_and_reflection/2019/planning_and_schedule_of_year/</guid>
       <description>引子 具体事项 一 /2019-01-03 Linux基金会企业开源指南系列之九——公司如何提升开源开发的影响力 来自英文：Improving Your Open Source Development Impact 二 /2019-01-10 Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目 来自英文：Winding Down an Open Source Project 三 /2019-01-17 Linux基金会企业开源指南系列之十一 —— 在开源社区中树立领导力 来自英文：Building Leadership in an Open Source Community 四/2019-01-31 Linux基金会企业开源指南系列之十二 —— 制定企业开源战略 来自英文：Setting an Open Source Strategy 五/2019-02-07 Apache 基金会未来5年计划 来自英文：Five-year Strategic Plan for the Apache Software Foundation 六/2019-02-13 如何评估一个 Linux 发行版的总体成本 来自英文：Estimating the Total Cost of a Linux Distribution 七/2019-02-15 一份被忽略的开源经济学报告 —— 再读 Bruce Perens 八/2019-02-16 云原生的旭日东升 —— CNCF 2018年度报告解读 九/2019-03-10 区块链将会如何影响开源来自英文：How blockchain will influence open source 十/2019-03-31 如何参与到 Linux 社区中来 来自英文：How to Participate in the Linux Community 十一 来自英文：6 ways a thriving community will help your project succeed 十二开源治理模式OSS Governance Models 十三打造精英式开放组织：知易行难，来自英文：Building a positive meritocracy: It&amp;rsquo;s harder than it sounds 十四 现代开源项目如何实现贡献者增长（译文）来自英文：Growing a contributor base in modern open source 十五 来自英文：Why There Will Never Be Another Red Hat: The Economics of Open Source 十六 1998 年的那场改变世界的Open Source Summit Trip Report 十七 工程师和市场人员相互之间可以学习到什么？ 来自英文：What engineers and marketers can learn from each other 十八 如何管理开源项目中的即兴贡献者 ，来自英文：How to manage casual contributors to open source projects 十九 Open Core 和基于 API 的服务，商业软件如何搭上开源的顺风车 来自英文：Open core, open perimeter, and the future of enterprise software 二十 Apache 之道，让开源持续成功的秘籍 来自英文：The Apache Way to Sustainable Open Source Success 二十一 不一定非得同步做决策：远程团队成功的秘诀 来自英文：Asynchronous decision-making: Helping remote teams succeed 二十二 开放源代码软件行业之外的故事之一 &amp;ndash; 一则医疗界的故事 二十三 ／2019-04-19 开源之道解读红帽企业开源调查2019 来自英文：红帽企业开源调查2019版 二十四 开放源代码社区对于我意味着什么？ 来自英文： What the open source community means to me 二十五 开源不是什么?</description>
-    </item>
-    
-    <item>
-      <title>Linux基金会企业开源指南系列之九————公司如何提升开源开发的影响力</title>
-      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/improve-open-source-dev-impact/</link>
-      <pubDate>Thu, 03 Jan 2019 09:00:10 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/improve-open-source-dev-impact/</guid>
-      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
-改进贵司的开源开发影响力 开源的开发方式对于绝大多数公司所习以为常的软件工程有着非常不一样的内容，当然也不要畏惧或排斥它，凡是尽力计划就好。不过值得庆幸的是，贵司并非是拓荒者，已经有很多的公司和个人通过战略性的方式已经成功的为重要的开源项目做出了贡献。本指南将会帮助读者你和贵司来改进内部的开发流程，并会帮助贵司准备好贡献到开源项目中，尤其是对于贵司业务很重要的开源项目。众所周知，能够贡献到 Linux 内核对于开源开发者来说是最具挑战性的事情之一，所以本指南就以贡献Linux社区为例说明，这件事本身就极具代表性。当然，本指南对于其它的开源项目也具有普适性。
-什么是开源开发的影响力？ 开发者的贡献作为贵司开源项目办公室实现业务目标（贵司开源战略的支撑）的主要方式，其实有多种影响开源项目方向的办法，从在不同的环境下测试代码、为代码添加文档注释，到资金赞助项目或基金会、参与项目委员会、甚至是在其它开源项目中引入现在的开源项目等等，但是归根结底，贵司在开源项目中的影响力来自代码贡献的质量、数量和一致性，才是发挥最大影响力的因素。因此，为贵司的团队提供高质量、高效的代码工具和流程，才是符合贵司最佳利益的方式。
-拥有影响力的开源代码，是可以影响贵司所贡献的开源项目的技术方向的，而且能够以最少的代价来维护代码，同时还提高产品质量。
-通过开源的贡献方式来改进贵司开发团队的效率是本指南的目标。通过帮助贵司开展本指南所推荐的开源开发最佳实践，贵司可以实现以下几项内容：
- 减少产品团队的工作量 最小化维护源代码和内部分支的开销 改进代码质量 加速开发周期 开发更稳定的代码以作为产品的基础 在关键的开源社区提高贵司的声誉  开源项目办公室在开源开发中所扮演的角色 贵司的开源项目办公室会对产品产生影响，无论它是直接的影响还是间接的左右，也无关具体的采用形式，即不管是公司内部的基础设施或服务，还是作为商业产品来提供。而且这些影响是可以度量的，如果有不足的情况，也会可以科学改进的，这些影响甚至还能够生成精确的报告，让你来向公司的领导层进行汇报 ———— 可以展现开源项目的价值以及所带来的投资回报率。
-直接影响 开源项目办公室可以直接影响贵司的开源代码开发，即通过贡献代码本身。每家公司都会根据最适合其自身业务目标发展和最适合公司结构的方式构建开源项目和工程贡献（请参阅我们开源项目指南中的如何创建开源项目办公室）。但是贡献代码仍然是影响开源项目的最佳方式，也是在开源社区中赢得声誉的最佳方式。
-就三星来说，开源项目办公室有其自身的工程团队，为了满足公司的研发部门和产品团队的开源开发需求而设。项目办公室也会帮助三星内部的代码贡献到各式各样的开源项目中，而且已经帮助三星将自身产品相关的驱动合并到上游代码中了，产品团队拥有自己的开发人员，并且他们为开源项目做出贡献，但由于他们与产品开发紧密相关，所以他们的自由度较低。所以当开源项目办公室收到诸如“我们需要在内核中实现某个功能”之类的需求之后，就会让工程团队去实现相应的功能，并提交到Linux内核上游。
- “基于这些开源组件，我们在提交到上游代码的专业，让我们更加的有价值，而且这样做的最直接的结果就是三星产品和服务中使用到的内核代码的维护减少到了最低。” – Ibrahim Haddad，三星美国研究院研发副总裁兼开源小组负责人
- 但是大多数的开源项目办公室和三星的情况是不一样的，他们大多不会设立专门的工程团队来贡献代码，而是更加聚焦于政策和流程上的内容。这样的话，就要安排跨部门的工程师去合理的分配时间去关注开源组件的任何变更，以推进紧跟上游的代码。
-其实工程团队的具体架构是无关要紧的，目标是为了最大限度的减少开源组件的技术负债。如果开发团队在自己的本地进行了开发，而没有推进到上游仓库中，那么产品团队将会陷入维护分支的巨大代码库中，而且这个分支会和上游渐行渐远，这样的话，他们会消耗掉大量的时间来打理这个分支的内容，会很难有精力来推进产品真正需要的部分。
-这里需要特别提醒的一点就是，也是通常情况下有违直觉的，那就是一位深入参与到上游开源项目的开发者，是很难做到和公司所在的产品团队去进行一些所谓的上游工作、相应的责任（作为提交者和维护者而言）和产品的平衡的，几乎不可能有时间来处理运营相关的事情的。
-每个开源项目办公室都会根据其业务需求进行独一无二的架构设计。例如，Facebook 在开源项目办公室内有一个专属的工具团队，负责开发内部工具以用来帮助其开源组合的管理工作。这个开源组合包括 Facebook 共享的项目，项目主要托管在GitHub上，除此之外还包括其做出贡献的其他外部项目，如Linux Kernel。(请参考案例分享之Facebook 的开源历程。)
-间接左右 开源项目办公室的影响力，可不止于组织开发者去为开源项目贡献代码，在很多地方都可以发挥力量，从公共关系、市场营销，到法律支持、开发者培训等等，开源项目办公室可以以多种方式来实现。这里仅列出四中以非代码贡献的方式来间接推动开发：
- 外部的技术讨论 通过参与到技术讨论中是在各式各样的社区中增加影响力的其中一个主要方式，贵司的开源开发人员会通过积极参与邮件列表和IRC聊天来参与讨论，并可以随时了解最新的项目更新。而在有正式管理结构的大型项目中，也可以通过参加技术指导委员会做出贡献。
- 内部技术讨论 在内部，开源开发人员可以参与政策和架构讨论，以确保组织的决策与特定项目社区的方向方向相匹配。例如，开源开发人员应该参与到关于对依赖开源代码的产品的长期规划的所有战略讨论中。
- 合规性支持 开源项目办公室经理还可以提供帮助来解决常规性问题，并用其收到的开源常规性的问询来支持合规团队。
- 缺陷修复 另外，也可以通过保持稳定的代码参与到开源项目中，测试软件并提交、修复缺陷、并提交到上游，这样可以提高代码对所有项目用户（包括贵公司）的整体价值。
-  改进的常见领域 改进开源项目中开发者的生产力和效率，开源办公室能够努力的地方有这么三块：文化、流程和工具。其中在每个具体的领域又有相应的细则需要来处理，从而满足不同的开源模式。
-开源团队在企业环境中所面临的特殊挑战 文化 文化上的挑战是大家不得不面对的一个事实，它的根源在于传统软件开发实践和开源开发的需求之间巨大的落差，落差可以通过雇佣开源的专家，或者是找那些熟悉开源开发模式的人为贵司进行培训来进行弥补。
- “我们的目标是为开源工程师提供足够的时间来履行对上游的责任，以让他们能够成长，进而让三星拥有充足的开源领导力。” – Ibrahim Haddad，三星美国研究院研发副总裁兼开源小组负责人</description>
     </item>
     
   </channel>

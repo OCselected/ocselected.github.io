@@ -26,6 +26,29 @@
     </item>
     
     <item>
+      <title>银行终究还是要拥抱开源的；建立能够让开源共同体持续发展的公司 等开源之道一周精选(2019 02 02)</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-02/</link>
+      <pubDate>Wed, 29 Jan 2020 16:38:57 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-02/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 ![]()
+新时代的六种软件许可证模式 原文链接：Six Software Licensing Models Helping Companies Scale Up in 2020
+适兕点评：
+ 订阅模式、云模式、商品模式、功能模式、用户数模式、离线模式，几乎这些模式开源可以采用了占据了2/3,这也就是说很多人将视线转移到了开源的理由。劳动成果被认可，有商业利润，进一步提升软件的质量。
+ 开源中风险和潜在影响 原文链接：The Risks and Potential Impacts Associated with Open Source
+适兕点评：
+ 开发者共同体，这个词汇实在是太富有想象力了。不过这篇文章所阐述的观点：这个开发者所打造的精品，尽管可用，但是存在人类社会上的其它制约，也就是说风险：1.被法律告发2.软件不是固定不变的3.安全漏洞，总而言之，开源最终形成的软件产品总是需要人负责的。
+ 中国和开源全球战略：Simon Wardley 怎么看？ 原文链接：China and open source geopolitical strategy: Simon Wardley weighs in
+适兕点评：
+ 我也非常认同Simon Wardley的观点，共同体、长期、基础设施，这些都在很多中国企业的盲区，或许再过几年可以看到一些希望，有很多企业单位甚至都不承认是利用了开源，而是侵占开源共同体的法律权益。美国人那种将法律视为Mindset的做法，会误导其对于中国的理解。
+ 微软为Chromium添加更多新功能 原文链接：Microsoft is now adding new features to Google Chrome
+适兕点评：
+ 上下游的理解，对于参与到开源来说是非常重要的，在一个没有人愿意做“下游”的文化中，到处都是上游，于是协作成为了不可能，放眼尽是孤岛。微软为何能够迈出如此重要的一步？如果算历史旧账的话，Netscape就是被IE捆绑策略搞到体无完肤。这不得不提及公司/组织的历史，和个人的历史的差异。
+ 建立能够让开源共同体持续发展的公司 原文链接：Founding organizations: Creating companies that sustain our open-source community</description>
+    </item>
+    
+    <item>
       <title>Community Leadership Development 是什么？做什么？</title>
       <link>http://www.ocselected.org/posts/community_management/why_create_community_leadership_development_group/</link>
       <pubDate>Tue, 21 Jan 2020 18:32:04 +0800</pubDate>
@@ -2155,22 +2178,6 @@ Linux操作系统是当今计算中最流行的开源操作系统，在2008年�
 方法论 我们的基本方法是：
  以非压缩格式安装源代码文件;这需要下载源代码并在我们的测试机器上正确安装。 计算源代码行数（SLOC）;这需要仔细定义SLOC。 使用估算模型（基于COCOMO实践）来估算以专有方式开发相同系统的工作量和成本。  如果大家对于我们是如何安装和分析源代码感兴趣的话，请参阅附录内容。
 为了延续原作者的研究，我们决定使用和2002年所采用同一套基础代码，即选择了 Fedora 社区发行版，这也是红帽企业Linux（RHEL）的基础平台。经过一番考量，我们决定采用 Fedora 9 这个版本。我们统计了所有在 http://mirror.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 01 27)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-27/</link>
-      <pubDate>Sun, 27 Jan 2019 22:55:55 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-27/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Linux 基金会成立了边缘计算子基金会：LF Edge 原文链接：Bringing open-source rhyme and reason to edge computing: LF Edge
-原文链接：Linux Foundation Fosters Unified Open Source Framework For The Edge
-适兕点评：
- 其实关于新闻本身没什么要说的，我想说的是新兴技术，或标准、或项目，往非盈利基金会托管的这样的模式，正在成为主流。
- Google 和索尼合作推出开源的 VFX 渲染 原文链接：Google partners with Sony Pictures Imageworks to launch an open-source VFX render manager
-适兕点评：
- Google was also a founding member of the Academy Software Foundation, an open-source foundation that focuses specifically on tools for the film industry.</description>
     </item>
     
   </channel>
