@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 02 Feb 2020 21:05:45 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2020 11:22:48 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E6%92%AD%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>鼠年话开源之二：商业公司如何拥抱开源共同体（Open Source Community） </title>
+      <link>http://www.ocselected.org/posts/opensource_talking/2020-02-03-business-embrave-osc/</link>
+      <pubDate>Tue, 04 Feb 2020 11:22:48 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_talking/2020-02-03-business-embrave-osc/</guid>
+      <description>本期简介 登场人物 汉洋：航空类开源项目 GAAS 创始人：https://github.com/generalized-intelligence/GAAS
+堵俊平：腾讯开源联盟主席，有近十年的开源社区项目的开发和管理经验。目前是Apache软件基金会Member, 担任多个项目（包括：Hadoop, Incubator, Submarine等）的PMC以及多个项目（如TubeMQ, YuniKorn）的导师，他同时还是Linux AI基金会技术委员会（TAC）委员，以及ACUMOS项目的TSC技术顾问。
+姜宁：华为开源软件中心技术专家，前红帽软件首席软件工程师，有十五年企业级开源中间件开发经验，有丰富的 Java 开发和使用经验，函数式编程爱好者。从 2006 年开始一直从事 Apache 开源中间件项目的开发工作，先后参与 Apache CXF， Apache Camel，Apache ServiceMix，以及Apache ServiceComb的开发。对微服务架构，WebServices，Enterprise Integration Pattern，SOA， OSGi 有比较深入的研究。
+吴晟：Founding Engineer at Tetrate. And lead the Apache open source APM/Observability analysis platform project, SkyWalking, which has been included in cncf cloud native landscape. Be a PMC member of Apache Incubator. Take part in Zipkin Apache and ShardingSphere as a PMC member.</description>
+    </item>
     
     <item>
       <title>鼠年话开源之一：开源开发者有何特征？ </title>

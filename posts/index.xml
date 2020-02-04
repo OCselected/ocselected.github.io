@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 02 Feb 2020 21:05:45 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2020 11:22:48 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>鼠年话开源之二：商业公司如何拥抱开源共同体（Open Source Community） </title>
+      <link>http://www.ocselected.org/posts/opensource_talking/2020-02-03-business-embrave-osc/</link>
+      <pubDate>Tue, 04 Feb 2020 11:22:48 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_talking/2020-02-03-business-embrave-osc/</guid>
+      <description>本期简介 登场人物 汉洋：航空类开源项目 GAAS 创始人：https://github.com/generalized-intelligence/GAAS
+堵俊平：腾讯开源联盟主席，有近十年的开源社区项目的开发和管理经验。目前是Apache软件基金会Member, 担任多个项目（包括：Hadoop, Incubator, Submarine等）的PMC以及多个项目（如TubeMQ, YuniKorn）的导师，他同时还是Linux AI基金会技术委员会（TAC）委员，以及ACUMOS项目的TSC技术顾问。
+姜宁：华为开源软件中心技术专家，前红帽软件首席软件工程师，有十五年企业级开源中间件开发经验，有丰富的 Java 开发和使用经验，函数式编程爱好者。从 2006 年开始一直从事 Apache 开源中间件项目的开发工作，先后参与 Apache CXF， Apache Camel，Apache ServiceMix，以及Apache ServiceComb的开发。对微服务架构，WebServices，Enterprise Integration Pattern，SOA， OSGi 有比较深入的研究。
+吴晟：Founding Engineer at Tetrate. And lead the Apache open source APM/Observability analysis platform project, SkyWalking, which has been included in cncf cloud native landscape. Be a PMC member of Apache Incubator. Take part in Zipkin Apache and ShardingSphere as a PMC member.</description>
+    </item>
     
     <item>
       <title>鼠年话开源之一：开源开发者有何特征？ </title>
@@ -111,6 +123,7 @@ https://www.linux.com/news/software-eating-networking-facebook-says-yes/
 https://www.forbes.com/sites/jonobacon/2019/08/05/weaving-open-core-that-works/#2c2131a63e47
 https://coss.media/open-core-definition-examples-tradeoffs/
 https://www.forbes.com/sites/forbestechcouncil/2020/01/17/enterprise-insights-red-hat-and-the-public-cloud/#344387b13f32
+Six Software Licensing Models Helping Companies Scale Up in 2020
 视频  https://www.youtube.com/watch?v=c9SJAPxU5bs&amp;amp;feature=emb_logo https://www.youtube.com/watch?v=G6ZupYzr_Zg  论文 </description>
     </item>
     
@@ -2161,22 +2174,6 @@ Linux操作系统是当今计算中最流行的开源操作系统，在2008年�
 方法论 我们的基本方法是：
  以非压缩格式安装源代码文件;这需要下载源代码并在我们的测试机器上正确安装。 计算源代码行数（SLOC）;这需要仔细定义SLOC。 使用估算模型（基于COCOMO实践）来估算以专有方式开发相同系统的工作量和成本。  如果大家对于我们是如何安装和分析源代码感兴趣的话，请参阅附录内容。
 为了延续原作者的研究，我们决定使用和2002年所采用同一套基础代码，即选择了 Fedora 社区发行版，这也是红帽企业Linux（RHEL）的基础平台。经过一番考量，我们决定采用 Fedora 9 这个版本。我们统计了所有在 http://mirror.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 01 27)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-27/</link>
-      <pubDate>Sun, 27 Jan 2019 22:55:55 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-27/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Linux 基金会成立了边缘计算子基金会：LF Edge 原文链接：Bringing open-source rhyme and reason to edge computing: LF Edge
-原文链接：Linux Foundation Fosters Unified Open Source Framework For The Edge
-适兕点评：
- 其实关于新闻本身没什么要说的，我想说的是新兴技术，或标准、或项目，往非盈利基金会托管的这样的模式，正在成为主流。
- Google 和索尼合作推出开源的 VFX 渲染 原文链接：Google partners with Sony Pictures Imageworks to launch an open-source VFX render manager
-适兕点评：
- Google was also a founding member of the Academy Software Foundation, an open-source foundation that focuses specifically on tools for the film industry.</description>
     </item>
     
   </channel>
