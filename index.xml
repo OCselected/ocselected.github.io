@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 04 Feb 2020 11:22:48 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2020 21:42:46 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>鼠年话开源之三：Apache 之道在本土的障碍有哪些？还是无缝的？</title>
+      <link>http://www.ocselected.org/posts/opensource_talking/2020-02-05-is-apache-way-worked-in-china/</link>
+      <pubDate>Wed, 05 Feb 2020 21:42:46 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_talking/2020-02-05-is-apache-way-worked-in-china/</guid>
+      <description>致力于开源相关思想、知识和价值的探究！ 欢迎大家来到开源之道 talking，本次节目也是鼠年话开源第三期，参与者来自 Apache 资深成员，本期的话题是apache之道和本土文化是否有冲突？还是无缝融合？亦或是中间存在Gap，需要我们去搭桥或弥补？
+开源之道 talking 这款播客节目除了鼠年话开源之外，我们会每个月选一个特别的主题，邀请特定的资深开源嘉宾，欢迎大家将自己感兴趣的主题或内容发给我们，以让我们的话题更为聚焦。
+本期话题概述 2019年初，Apache 基金会终于发布了一篇关于诠释Aapche之道的文章，开源之道也第一时间认领了翻译的任务，并首发开源社，并得到了很多关心Apache 之道的开源圈的人的呼应和反馈，文章的题目是：Apache 之道，开源可持续成功的秘籍。基于这个再看Apache 20年的年度报告，对于它的成绩也就没什么大惊小怪。
+另外一个就是一名来自印度的研究生 Sharan Foga 的论文：《Transmission of Values and Culture in Open Source 》，用大数据分析邮件列表的方式说明中国的文化是完全适应Apache Way的。这个结论对于我来说是有违直觉的，看年度报告，中国是下载量最大的地方，但是贡献者和 commiter 是不成比例的。
+基于这样一个话题，我们请来了资深的 Apache Member ，听听有什么真知灼见！Apache 之道究竟是否符合本土？
+登场人物 姜宁：华为开源软件中心技术专家，前红帽软件首席软件工程师，有十五年企业级开源中间件开发经验，有丰富的 Java 开发和使用经验，函数式编程爱好者。从 2006 年开始一直从事 Apache 开源中间件项目的开发工作，先后参与 Apache CXF， Apache Camel，Apache ServiceMix，以及Apache ServiceComb的开发。对微服务架构，WebServices，Enterprise Integration Pattern，SOA， OSGi 有比较深入的研究。
+吴晟：Founding Engineer at Tetrate. And lead the Apache open source APM/Observability analysis platform project, SkyWalking, which has been included in cncf cloud native landscape.</description>
+    </item>
     
     <item>
       <title>鼠年话开源之二：商业公司如何拥抱开源共同体（Open Source Community） </title>
@@ -2148,27 +2163,6 @@ Apache 社区成员均是由独立的个人来担当，成员的权力和责任�
 适兕点评：
  CNCF 准确的定位自己，那么客户又该如何准确定位社区、基金会、和供应商？这点开源之道可以回答，也应该去说清楚。
  Shanku Niyogi 加盟 GitHub 担任高级产品副总裁 原文链接：He led open source projects in Microsoft’s early days of exploring it.</description>
-    </item>
-    
-    <item>
-      <title>2019.1 开源之道论文共读笔记及探讨记录</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/paper_reading_notes_2019_01/</link>
-      <pubDate>Sat, 02 Feb 2019 22:30:31 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/paper_reading_notes_2019_01/</guid>
-      <description>一、 《the role of participation architecture in growing sponsored Open Source Communities》 开源之道引言：为什么要读这篇论文？ 适兕观察本土企业活动开源，极少见到公司赞助某个开源社区或者是自己运营一个开源社区，大多数是公司的市场部门赞助一个会议之类的，即使是 OpenSSL 出了 Bloodheart 这样的问题之后，锤子的老板直接给了项目100万，也不过是哗众取宠罢了（因为后来再也未见持续性的投入，就非常的吃亏）。话说回来，既然是个人的观察，会有极大可能有偏见的，比如大多数公司会搞合作伙伴社区、用户论坛之类的，开源社区对于他们离盈利太远！多数人认为是一种慈善的行为，一般言称公司有了钱一定会去做的。但是，社区对于一家公司的益处是由来已久的，而且很多公司就是以社区的名义而成就的，如哈雷摩托等。
-就是这样一个偏差，将我的思考带到了寻求这方面答案的探求上来。随着开源在软件开发占有的地位上升，本土越来越多的企业将自己的项目开源，那么面临的一个问题就是：只见代码，未见社区。于是尴尬的一批，慌的一批。那么我们不妨找出十年前研究开源和开放式创新的经济学家的论文看看，对于企业的决策者或许有一些参考。
-在开始之前，开源之道推荐两篇文章： 1. 来自 forbes 的评论文：开源软件的商业化正站在迷茫的十字路口 https://www.forbes.com/sites/udinachmany/2019/01/16/thoughts-about-2018-the-year-of-open-source-teenagedom/#13701133393b 2. StrictlyVC Insider 系列 之一，http://haystack.vc/2015/09/17/transcript-chamath-at-strictlyvcs-insider-series/
-至于论文本身，却是比较易懂的。开明宗义，企业赞助开源社区与自己所建立的合作伙伴究竟有何不同？通过研究了12个不同的开源项目的社区，来说明这一点。
-技术社区其实由来已久了，很多重要的公司都非常的看中这点，毕竟技术是需要有受众的，也需要不同的反馈的，甚至也需要带来创新的灵感。
-开源技术社区某种程度上就是技术社区的一种，它具有技术社区的机会所有的特征。
-企业赞助建立和运营开源社区其实也有一段时间了，如Mozilla、Fedora等，研究他们的也有了一定的成果。
-企业赞助开源社区要考虑的几件事:1、知识产权 2、开发方法 3、社区治理模式
-开放环境的文化：透明度、可访问性，作为企业该如何考虑这些与自己控制权的问题。
-既然是论文，就是抛出问题，给出研究方法，调查的过程，最后总结下接下来要做什么。大多数时候是没有结论的，需要读者根据自身情况进行探索和反思。
-二、《Nonprofit Foundations and Their Role in Community-Firm Software Collaboration》 该文是 Siobhán 在2005年为《Perspectives on Free and Open Source Software》 一书写就，交待了个体开发者的历史传统和诉求，以及成立非盈利基金会的伦理、法律境遇，然后是基金会成立的借鉴场景，介绍了截止到2005年基金会发展的时间轴，并以Debian、Apache、Gnome三大典型基金会为案例详细讲述了理念、孵化项目的原则等，最后则阐述了商业公司对于这些组织的诉求，有关发展的平衡艺术。总而言之，这是一篇难得的质量上乘的文章。
-一图形象的解释了开源社区、基金会和商业公司的关系。实在是高明啊，我怎么原来没有读过这本书了呢？真是罪过。
-三、《Contrasting Community Building in Sponsored and Community Founded Open Source Projects》阅读笔记 来源：38th Hawaii International Conference on System Sciences</description>
     </item>
     
   </channel>

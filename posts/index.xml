@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 04 Feb 2020 11:22:48 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2020 21:42:46 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>鼠年话开源之三：Apache 之道在本土的障碍有哪些？还是无缝的？</title>
+      <link>http://www.ocselected.org/posts/opensource_talking/2020-02-05-is-apache-way-worked-in-china/</link>
+      <pubDate>Wed, 05 Feb 2020 21:42:46 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_talking/2020-02-05-is-apache-way-worked-in-china/</guid>
+      <description>致力于开源相关思想、知识和价值的探究！ 欢迎大家来到开源之道 talking，本次节目也是鼠年话开源第三期，参与者来自 Apache 资深成员，本期的话题是apache之道和本土文化是否有冲突？还是无缝融合？亦或是中间存在Gap，需要我们去搭桥或弥补？
+开源之道 talking 这款播客节目除了鼠年话开源之外，我们会每个月选一个特别的主题，邀请特定的资深开源嘉宾，欢迎大家将自己感兴趣的主题或内容发给我们，以让我们的话题更为聚焦。
+本期话题概述 2019年初，Apache 基金会终于发布了一篇关于诠释Aapche之道的文章，开源之道也第一时间认领了翻译的任务，并首发开源社，并得到了很多关心Apache 之道的开源圈的人的呼应和反馈，文章的题目是：Apache 之道，开源可持续成功的秘籍。基于这个再看Apache 20年的年度报告，对于它的成绩也就没什么大惊小怪。
+另外一个就是一名来自印度的研究生 Sharan Foga 的论文：《Transmission of Values and Culture in Open Source 》，用大数据分析邮件列表的方式说明中国的文化是完全适应Apache Way的。这个结论对于我来说是有违直觉的，看年度报告，中国是下载量最大的地方，但是贡献者和 commiter 是不成比例的。
+基于这样一个话题，我们请来了资深的 Apache Member ，听听有什么真知灼见！Apache 之道究竟是否符合本土？
+登场人物 姜宁：华为开源软件中心技术专家，前红帽软件首席软件工程师，有十五年企业级开源中间件开发经验，有丰富的 Java 开发和使用经验，函数式编程爱好者。从 2006 年开始一直从事 Apache 开源中间件项目的开发工作，先后参与 Apache CXF， Apache Camel，Apache ServiceMix，以及Apache ServiceComb的开发。对微服务架构，WebServices，Enterprise Integration Pattern，SOA， OSGi 有比较深入的研究。
+吴晟：Founding Engineer at Tetrate. And lead the Apache open source APM/Observability analysis platform project, SkyWalking, which has been included in cncf cloud native landscape.</description>
+    </item>
     
     <item>
       <title>鼠年话开源之二：商业公司如何拥抱开源共同体（Open Source Community） </title>
@@ -2152,28 +2167,6 @@ Apache 社区成员均是由独立的个人来担当，成员的权力和责任�
 二、《Nonprofit Foundations and Their Role in Community-Firm Software Collaboration》 该文是 Siobhán 在2005年为《Perspectives on Free and Open Source Software》 一书写就，交待了个体开发者的历史传统和诉求，以及成立非盈利基金会的伦理、法律境遇，然后是基金会成立的借鉴场景，介绍了截止到2005年基金会发展的时间轴，并以Debian、Apache、Gnome三大典型基金会为案例详细讲述了理念、孵化项目的原则等，最后则阐述了商业公司对于这些组织的诉求，有关发展的平衡艺术。总而言之，这是一篇难得的质量上乘的文章。
 一图形象的解释了开源社区、基金会和商业公司的关系。实在是高明啊，我怎么原来没有读过这本书了呢？真是罪过。
 三、《Contrasting Community Building in Sponsored and Community Founded Open Source Projects》阅读笔记 来源：38th Hawaii International Conference on System Sciences</description>
-    </item>
-    
-    <item>
-      <title>如何评估一个 Linux 发行版的总体成本</title>
-      <link>http://www.ocselected.org/posts/open-source-economic/estimating-the-total-cost-of-linux-distribution/</link>
-      <pubDate>Thu, 31 Jan 2019 19:58:16 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/open-source-economic/estimating-the-total-cost-of-linux-distribution/</guid>
-      <description>开源之道引言：为什么要翻译十一年前的一份白皮书？ 答案很简单，就是要学会算经济账，一个开源项目，尤其是大型的、经过多年开发的，企业利用该项目就要在开始的时候算好一笔经济账，它不是零成本，它像一个快速向前滚动（发展）的巨大磁石，如果你没有投入，那么很快便失去了任何的话语权，经过一段时间，则会被狠狠的甩下，体无完肤！不仅失去了创新的能力，而且成为了自己最大的负担。最后以失败而告终。
-如果单单的只是将项目的某个时间的临时性成果来作为自己的产品或服务，那么就要想好要不要跟上步伐，要怎么跟？不过这些都要基于一个基础：这个阶段性的成果总成本是多少？该如何评估？于是就有了这篇文章。
-介绍 Linux 操作系统是历史上最为成功的开源项目，但是一个Linux发行版中的软件究竟“价值”多少钱？2002年，David A. Wheeler 发表了一份备受后人推崇的研究，其指出典型的Linux发行版中软件代码行数的意义所在。那么他的发现是什么？结果令人震惊：典型Linux发行版中的总开发成本高达12亿美元。我们将基于 Wheeler 先生的发现而继续挖掘。使用相同的工具，我们重新以当前的美元来计算，构建 Fedora 9发行版的成本需要大约108亿美元。另外，仅内核一项的开发需要约14亿美元，本论文概述了我们研究过程中使用的技术，并指出开发 Linux 的成本计算模式。
-Linux操作系统是当今计算中最流行的开源操作系统，在2008年，它意味着是一个价值250亿美元的生态系统。自1991年创建以来，它已发展成为计算机领域的一支重要力量，为纽约证券交易所、移动设备、超级计算机、消费设备提供重要驱动力量。
-作为一款开放的操作系统，Linux是协同开发的，这意味着没有任何一家公司对其开发或持续的支持负全部责任。参与 Linux 开发的公司与其合作伙伴、竞争对手分担着研发成本。这样的开发模式进一步发展为个人和公司共同承担，进而成为一个超大型的、生机勃勃的生态系统，而且驱动着无穷的创新力量。
-超过1000多名的开发者，他们来自不同的公司，公司数量至少在100家左右，仅在过去两年中，来自200家公司的3200多名开发人员就为内核做出了贡献。值得注意的是，内核只是Linux发行版的一小部分，一款完整的Linux发行版，不仅包括内核，还有诸如Gnome、KDE桌面环境、GNU 组件、X window 系统等等很多组件。为这些项目做出贡献的个体开发者总数肯定会达到数千人。
-正因为 Linux 是协作开发的，因此无法从某个单一的来源来估算开发该项目的成本。2002年，David A. Wheeler发表了一项备受好评的研究，该研究检查了典型Linux发行版中存在的软件代码行（基于Red Hat Linux 7.1），他总结说 - 正如我们所做的那样 - 软件代码行数是确定开源软件价值最实用的方法，因为它专注于最终结果而不是每个公司或每个开发人员的估算。使用他开发的用于计算和分析SLOC（软件代码行数）的行业标准工具，他确定在美国通过传统的封闭方法开发 Linux 发行版将花费超过12亿美元。
-但那已经是6年前的事情了，由于Linux的创新和增长速度每年都在增加，因此我们有必要更新这个12亿美元的数字，从而希望能够准确反映当今Linux中开发的真正价值（以及软件开发本身的成本上升）。在本文中，Linux基金会着手确定典型Linux发行版中所代表的总开发成本，并更新自2002年发布以来广泛使用的12亿美元数字。
-我们分析了2008年5月13日发布的Fedora 9发行版。之所以选择Fedora，Fedora 是一种流行度蛮高，口碑也还行的 Linux 发行版，它也是红帽企业Linux的原型，而红帽企业级Linux则是拥有Linux市场的很大份额的发行版。更何况还是Wheeler在其原始论文中分析的Red Hat Linux 7.1软件的直接后代。
-在本研究中，我们使用了 David A. Wheeler 所开发的 SLOC 工具 —— SLOCCount。SLOCCount 用到了行业标准建设性成本模型（COCOMO），该模型是由 Barry Boehm 开发的算法软件成本估算模型，该模型使用基本回归公式，可以传入从历史项目数据和当前项目特征派生的参数。我们从2002年开始更新他的研究，包括不断增长的Linux内核代码库和其他软件包，以及软件开发人员的薪水。（关于此的更多细节将在下文的“方法论”部分中进行详细讨论。）
-基于该方法，如果是采用传统的封闭方法来开发这样一个规模的Linux发行版的话，我们估计需要108亿美元（2008年）。
-方法论 我们的基本方法是：
- 以非压缩格式安装源代码文件;这需要下载源代码并在我们的测试机器上正确安装。 计算源代码行数（SLOC）;这需要仔细定义SLOC。 使用估算模型（基于COCOMO实践）来估算以专有方式开发相同系统的工作量和成本。  如果大家对于我们是如何安装和分析源代码感兴趣的话，请参阅附录内容。
-为了延续原作者的研究，我们决定使用和2002年所采用同一套基础代码，即选择了 Fedora 社区发行版，这也是红帽企业Linux（RHEL）的基础平台。经过一番考量，我们决定采用 Fedora 9 这个版本。我们统计了所有在 http://mirror.</description>
     </item>
     
   </channel>

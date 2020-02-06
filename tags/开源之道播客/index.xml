@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 04 Feb 2020 11:22:48 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2020 21:42:46 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E6%92%AD%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>鼠年话开源之三：Apache 之道在本土的障碍有哪些？还是无缝的？</title>
+      <link>http://www.ocselected.org/posts/opensource_talking/2020-02-05-is-apache-way-worked-in-china/</link>
+      <pubDate>Wed, 05 Feb 2020 21:42:46 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_talking/2020-02-05-is-apache-way-worked-in-china/</guid>
+      <description>致力于开源相关思想、知识和价值的探究！ 欢迎大家来到开源之道 talking，本次节目也是鼠年话开源第三期，参与者来自 Apache 资深成员，本期的话题是apache之道和本土文化是否有冲突？还是无缝融合？亦或是中间存在Gap，需要我们去搭桥或弥补？
+开源之道 talking 这款播客节目除了鼠年话开源之外，我们会每个月选一个特别的主题，邀请特定的资深开源嘉宾，欢迎大家将自己感兴趣的主题或内容发给我们，以让我们的话题更为聚焦。
+本期话题概述 2019年初，Apache 基金会终于发布了一篇关于诠释Aapche之道的文章，开源之道也第一时间认领了翻译的任务，并首发开源社，并得到了很多关心Apache 之道的开源圈的人的呼应和反馈，文章的题目是：Apache 之道，开源可持续成功的秘籍。基于这个再看Apache 20年的年度报告，对于它的成绩也就没什么大惊小怪。
+另外一个就是一名来自印度的研究生 Sharan Foga 的论文：《Transmission of Values and Culture in Open Source 》，用大数据分析邮件列表的方式说明中国的文化是完全适应Apache Way的。这个结论对于我来说是有违直觉的，看年度报告，中国是下载量最大的地方，但是贡献者和 commiter 是不成比例的。
+基于这样一个话题，我们请来了资深的 Apache Member ，听听有什么真知灼见！Apache 之道究竟是否符合本土？
+登场人物 姜宁：华为开源软件中心技术专家，前红帽软件首席软件工程师，有十五年企业级开源中间件开发经验，有丰富的 Java 开发和使用经验，函数式编程爱好者。从 2006 年开始一直从事 Apache 开源中间件项目的开发工作，先后参与 Apache CXF， Apache Camel，Apache ServiceMix，以及Apache ServiceComb的开发。对微服务架构，WebServices，Enterprise Integration Pattern，SOA， OSGi 有比较深入的研究。
+吴晟：Founding Engineer at Tetrate. And lead the Apache open source APM/Observability analysis platform project, SkyWalking, which has been included in cncf cloud native landscape.</description>
+    </item>
     
     <item>
       <title>鼠年话开源之二：商业公司如何拥抱开源共同体（Open Source Community） </title>
