@@ -7,10 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 05 Feb 2020 21:42:46 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 09:42:46 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>鼠年话开源之四：开源项目商业化理念与路径 </title>
+      <link>http://www.ocselected.org/posts/opensource_talking/2020-02-06-business-and-open-source/</link>
+      <pubDate>Fri, 07 Feb 2020 09:42:46 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_talking/2020-02-06-business-and-open-source/</guid>
+      <description>致力于开源相关思想、知识和价值的探究！ 春节期间，由开源之道共同体旗下 Community Leadeship Development 小组组织了一场「鼠年话开源」系列播客，本期是由社会人科技评论主持并剪辑发布，开源之道借光发布的第四弹，（社会人科技评论第二期，顺序是大年初八最后一夜）。
+本期话题 本期节目里我们聊到了以下主题：
+ 现实世界中证明过可行的开源项目商业化
+ 在中国互联网中可行的开源项目商业化
+ 一般初创开源团队值得尝试的商业化路径
+ 投资人的视角下是如何看待开源与技术公司的？
+ 希望国际化的开源项目有哪些 Tips？
+ 反思: 为什么中国互联网世界中, 几乎没有开源商业化成功的案例?
+ 2020 年投资人都在看哪方面的开源项目？
+   《社会人科技评论》网址：http://techreview.social
+讨论中的相关链接 晨兴资本
+CSDN
+极客帮创投
+GAAS GitHub
+We Want to Invite You to Build Flying Cars with Us, No Kidding
+OSS.captial
+PingCAP
+apisix
+微服务 API 管理平台 iResty
+涛思数据
+本期登场人物 陈哲 Peter：晨兴资本副总裁，曾就职于Google，BlackBerry，担任高级工程师。专注智能制造、人工智能及黑科技领域。
+蒋涛：曾开发出巨人手写电脑、金山词霸、豪杰超级解霸等产品，后创立 CSDN，是全球最大的中文 IT 社区。投资了聚合数据、基调网络、Dcloud、凌云电动车、锤子科技、云中医、IT桔子、批改网、上方网、深圳湾、北京创客空间等多家公司。
+温铭：支流科技联合创始人，Apache APISIX PPMC。
+汉洋：《社会人科技评论》主播，开源全自主飞行软件 GAAS 创始人：https://github.</description>
+    </item>
     
     <item>
       <title>鼠年话开源之三：Apache 之道在本土的障碍有哪些？还是无缝的？</title>
@@ -2142,27 +2174,6 @@ Apache 社区成员均是由独立的个人来担当，成员的权力和责任�
 我们根据已证明的需求为我们的项目提供法律和品牌管理服务，并定义品牌指导方针，以帮助我们的项目以适当的方式从强大的Apache品牌中受益。
 我们非常欢迎各种新的项目进入 Apache 孵化器，经验丰富的导师将会帮助你，快速的学习 Apache社区和项目的运作方式。孵化器的存在，就是社区所定义和决定的，所以基金会对于项目的孵化阶段是相当的重视，这也是基金会在壮大发展的同时，能够始终坚守价值观的秘诀所在。
 目标  确保 Apache 软件基金会为软件项目的社区提供的服务能够得到明确、清晰的定义，而且能够确保以满足社区期望的形式成功的进行交付。 不断改进我们在识别、吸引、欢迎、发展等环节，以迈向 ASF 的目标: “志同道合的社区”。 以这种方式有效地扩展我们的运营和治理流程，从而让 ASF 继续成为简单的流程、轻量的治理模式、大型的分布式组织，使得其中心业务以符合 PMC 预期为其社区服务的方式服务于项目。 确保 ASF 在计划期限内的没有什么财务压力，并为长期稳定发展奠定基础。  ASF 提供的服务  说到底，ASF 的核心任务是孵化出优秀的项目，并让项目健康的成长，那么围绕这一切就是提供相应的最佳服务。 ———— 开源之道注</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 02 03)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-03/</link>
-      <pubDate>Mon, 04 Feb 2019 11:53:41 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-03/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Amazon 开源 SageMaker Neo，在边缘运行机器学习模式 原文链接：Amazon Open Sources SageMaker Neo To Run Machine Learning Models At The Edge
-原文链接：Amazon Web Services boosts open source credentials
-适兕点评：
- 机器学习领域，只有开源！因为没有几个人能够看得懂！从这个角度讲，开源是最为高级的。大自然向所有人开源，但是人类至今没有搞清楚为什么？人类为什么有意识？
-  Neo-AI 这个图很明确的解释了AWS吞噬一切的野心。
- 发现后 Kubernetes 开源计算时代的平衡之道 原文链接：Finding equilibrium in post-Kubernetes open-source computing
-适兕点评：
- 哇，已经是后Kubernetes时代了！一不小心就错过了一整个时代。
- CNCF通过社区聚会来回答供应商的问题 原文链接：CNCF answers vendor-handholding with community meetups
-适兕点评：
- CNCF 准确的定位自己，那么客户又该如何准确定位社区、基金会、和供应商？这点开源之道可以回答，也应该去说清楚。
- Shanku Niyogi 加盟 GitHub 担任高级产品副总裁 原文链接：He led open source projects in Microsoft’s early days of exploring it.</description>
     </item>
     
   </channel>
