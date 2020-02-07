@@ -473,10 +473,10 @@ Brockmeier 特别推崇Apache软件基金会的原则：“凡事没有在邮件
     
     <item>
       <title>开源软件是开放式创新的最佳注解</title>
-      <link>http://www.ocselected.org/posts/naming_opensource_and_marketing_2/</link>
+      <link>http://www.ocselected.org/posts/the_way_of_open_source/naming_opensource_and_marketing_2/</link>
       <pubDate>Thu, 26 Jan 2017 21:02:38 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/naming_opensource_and_marketing_2/</guid>
+      <guid>http://www.ocselected.org/posts/the_way_of_open_source/naming_opensource_and_marketing_2/</guid>
       <description>想象一下几个世纪之前，科学是如何被信仰所感知的。科学在一开始被认为是信仰之外的东西，受到宗教的残酷打击和压制，这样的情形就像是现在的软件公司对待开源软件的工作一样。其实正如科学不会破坏宗教制度一样，开源也不会粉碎现有的软件系统，开源旨在开发出更优秀的软件而已。 ———— Linus Torvalds ，Linux 创始人
  某种程度上 Linus 的此番话语，在今天看来已经实现了。
 写在开始之前 其实我最初构思这篇文章的时候是想为文章《为开源和商业正名》做一篇续作，因为那篇文章虽然说是一气呵成，但是我本人觉得并不满意，后来也没有人和我辩论，然而我却一直在思考，上篇文章说的更多的是市场术语，商业上的成功案例等，而阅读我文章的人，大多是技术出身，不屑于这些，所以我尝试换一个角度去论述：“为什么开源会逐渐成为主流（显学）？”也就是创新的角度。
