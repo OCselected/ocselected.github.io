@@ -31,6 +31,31 @@
     </item>
     
     <item>
+      <title>Fosdem 2020 观看会后记录日志</title>
+      <link>http://www.ocselected.org/posts/open-source-conference/fosdem-2020-view-record-journal/</link>
+      <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/open-source-conference/fosdem-2020-view-record-journal/</guid>
+      <description>[fork me on GitHub]()
+引言 会议内容概要 主 track 历史部分 Unix 早期被遗忘的历史 原文链接：The Forgotten history of early Unix
+适兕点评：
+ 适兕最近在酝酿一篇文章，如何通过文字的描述，让没有感受过开源共同体力量的人感受一番，那么这个分享所提供的材料对于我来说无疑是雪中送炭，目前非常成功的开源项目：Linux、Apache Httpd、Perl、Python等，如果想讲清楚整体的来龙去脉，用如下一段话来形容会更加的妥当：
+近代工程纪实和近代科学一起发蒙于17世纪的科学革命，借助科学的理性和知识的力量提升了传统的工艺水平。它直接参与了物质生产，在其中起了核心作用，一端融合着研究和开发，另一端则融入工业与商贸。科学、工程技术和商贸一起组成了技术发展的主要引擎，它们的产物早已渗入我们日常生活的方方面面。
+​ ———— 欧阳莹之《工程学：无尽的前沿 》
+就拿Linux 来说吧，想以一种文学式的、历史（探究）式的方式让大众理解这一点，确实难度很高，如何从理性的阶梯视角将这件事讲清楚，诸如Unix：https://www.tuhs.org/ 这样的材料和视角是不可或缺的。
+本主题没有留下video。
+ ![]()
+###
+原文链接：[]()
+适兕点评：
+ f
+ DevRoom 共同体 ![]()
+企业开源项目构建共同体经验和思考 原文链接：Building a thriving community in company-led open source projects
+适兕点评：
+ 来自 GitLab的 Ray Paik分享的观点和思考，其演示文稿就非常之精彩，Building a thriving community in company-led open source projects (slides),总结起来就非常之简单: 不遗余力的迎合共同体所有内容：welcoming diverse viewpoints, lowering barriers to entry, being responsive to community contributions, and remaining transparent about decision making.</description>
+    </item>
+    
+    <item>
       <title>鼠年话开源之四：开源项目商业化理念与路径 </title>
       <link>http://www.ocselected.org/posts/opensource_talking/2020-02-06-business-and-open-source/</link>
       <pubDate>Fri, 07 Feb 2020 09:42:46 +0800</pubDate>
@@ -2153,28 +2178,6 @@ Marketing 工作 ———— 维持生态的重要手段 关于这点的内容�
 文章点评 Stefanie Chiras 的采访：开源的力量 原文链接：Interview: The power of open source
 适兕点评：
  “Sometimes people forget about the things that have to fundamentally work. But when they don’t work, everything falls apart.” 所谓的技术下沉就是这个道理，不是不重要了，而是成为默认了。“The upstream open source communities become the beds of innovation for everything we do. There are some misconceptions in the industry about open source. There is an onus on the customer, and on us, to ensure the integrity of open source is protected.</description>
-    </item>
-    
-    <item>
-      <title>Apache 软件基金会未来的5年战略规划</title>
-      <link>http://www.ocselected.org/posts/foundation_introduce/five-year-strategic-plan-for-the-asf-2018/</link>
-      <pubDate>Tue, 05 Feb 2019 21:52:33 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/foundation_introduce/five-year-strategic-plan-for-the-asf-2018/</guid>
-      <description>引言 2018年末，开源界最为让人瞩目的事情，莫过于MongoDB、Redis、Neo4j等公司纷纷修改许可证，各种媒体便落井下石，开始煽风点火，称云计算厂商将会把开源吃掉，唯恐天下不乱。然而媒体毕竟是媒体，是开发者之外的世界，永远是“隔着玻璃亲不着嘴”，这不AWS 直接升级为Apache的铂金会员，这直接将国内那些媒体的扇了多个耳光。开源的势头是前所未有的好！ 只是售卖软件许可的商业模式正在走向衰落。而开源发展的最大势力，则是依托于非盈利基金会下的开源项目和社区。毫无疑问，ASF 是其中的翘楚，那么开源之道在新年之际，就和大家一起看看Apache 软件基金会的未来5年战略规划。
-开源之道过去也介绍过Apache软件基金会：
- Apache 基金会是如何运作的 Apache 2017 年度报告 开放的 Apache 究竟有多开放?   由于本文翻译之 Apache 官网，原文以第一人称写就，开源之道保留第一人称的翻译，特别说明，下文中的我们指代的是 Apache软件基金会。
- 愿景 我们的使命是根据我们的章程，在Apache许可下免费支持创建和分发开源软件。为此，我们为志同道合的社区提供项目空间和资源，以便在我们的法律保护伞下蓬勃发展，开发和发布软件。
-我们视项目的独立为第一要务，不会受到任何公司、组织或其它外部的影响，这使得我们能够为社区提供中立的立场。
-作为一个基金会，我们并不规划技术战略，而是将具体的技术战略委托于具体的项目。
-Apache 软件基金会是由成员（个人志愿者）管理和指导，在这点上始终坚持如此，Apache 软件基金会没有公司或组织形式的参与，公司和组织也不能成为成员，而且也不能直接参与由Apache托管的项目。
-我们帮助社区了解和实践 Apache 之道，众所周知，Apache 之道是多年以来将最佳实践记录和积淀下来最为有效的协作和让项目可持续性发展的方法论。
-Apache 社区成员均是由独立的个人来担当，成员的权力和责任也是基于他们个人的优点具体而定，他们在社区所做的事情和其本人在外部无关，无论其外部的身份为何（职位、学位、组织贡献等）。
-我们为开源项目提供高可靠、高自动化的核心基础设施服务，当然也鼓励项目成员根据具体自身需求，自行决定是否使用一些非 Apache 基金会提供的服务，当然这些服务是可以让我们更加的专注。为了提高服务的高可靠，我们所有关键的数据和服务都在自身完全可控的系统上进行管理，并做了镜像。
-我们的营销和外展活动，同样侧重于践行 Apache 使命的活动，当然也会兼顾支持和赞助我们的厂商，以及我们自身的筹款。
-我们根据已证明的需求为我们的项目提供法律和品牌管理服务，并定义品牌指导方针，以帮助我们的项目以适当的方式从强大的Apache品牌中受益。
-我们非常欢迎各种新的项目进入 Apache 孵化器，经验丰富的导师将会帮助你，快速的学习 Apache社区和项目的运作方式。孵化器的存在，就是社区所定义和决定的，所以基金会对于项目的孵化阶段是相当的重视，这也是基金会在壮大发展的同时，能够始终坚守价值观的秘诀所在。
-目标  确保 Apache 软件基金会为软件项目的社区提供的服务能够得到明确、清晰的定义，而且能够确保以满足社区期望的形式成功的进行交付。 不断改进我们在识别、吸引、欢迎、发展等环节，以迈向 ASF 的目标: “志同道合的社区”。 以这种方式有效地扩展我们的运营和治理流程，从而让 ASF 继续成为简单的流程、轻量的治理模式、大型的分布式组织，使得其中心业务以符合 PMC 预期为其社区服务的方式服务于项目。 确保 ASF 在计划期限内的没有什么财务压力，并为长期稳定发展奠定基础。  ASF 提供的服务  说到底，ASF 的核心任务是孵化出优秀的项目，并让项目健康的成长，那么围绕这一切就是提供相应的最佳服务。 ———— 开源之道注</description>
     </item>
     
   </channel>

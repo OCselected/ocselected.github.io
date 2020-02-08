@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 29 Jan 2020 16:38:57 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 14:45:05 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fosdem 2020 观看会后记录日志</title>
+      <link>http://www.ocselected.org/posts/open-source-conference/fosdem-2020-view-record-journal/</link>
+      <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/open-source-conference/fosdem-2020-view-record-journal/</guid>
+      <description>[fork me on GitHub]()
+引言 会议内容概要 主 track 历史部分 Unix 早期被遗忘的历史 原文链接：The Forgotten history of early Unix
+适兕点评：
+ 适兕最近在酝酿一篇文章，如何通过文字的描述，让没有感受过开源共同体力量的人感受一番，那么这个分享所提供的材料对于我来说无疑是雪中送炭，目前非常成功的开源项目：Linux、Apache Httpd、Perl、Python等，如果想讲清楚整体的来龙去脉，用如下一段话来形容会更加的妥当：
+近代工程纪实和近代科学一起发蒙于17世纪的科学革命，借助科学的理性和知识的力量提升了传统的工艺水平。它直接参与了物质生产，在其中起了核心作用，一端融合着研究和开发，另一端则融入工业与商贸。科学、工程技术和商贸一起组成了技术发展的主要引擎，它们的产物早已渗入我们日常生活的方方面面。
+​ ———— 欧阳莹之《工程学：无尽的前沿 》
+就拿Linux 来说吧，想以一种文学式的、历史（探究）式的方式让大众理解这一点，确实难度很高，如何从理性的阶梯视角将这件事讲清楚，诸如Unix：https://www.tuhs.org/ 这样的材料和视角是不可或缺的。
+本主题没有留下video。
+ ![]()
+###
+原文链接：[]()
+适兕点评：
+ f
+ DevRoom 共同体 ![]()
+企业开源项目构建共同体经验和思考 原文链接：Building a thriving community in company-led open source projects
+适兕点评：
+ 来自 GitLab的 Ray Paik分享的观点和思考，其演示文稿就非常之精彩，Building a thriving community in company-led open source projects (slides),总结起来就非常之简单: 不遗余力的迎合共同体所有内容：welcoming diverse viewpoints, lowering barriers to entry, being responsive to community contributions, and remaining transparent about decision making.</description>
+    </item>
     
     <item>
       <title>银行终究还是要拥抱开源的；建立能够让开源共同体持续发展的公司 等开源之道一周精选(2019 02 02)</title>
@@ -2001,22 +2026,6 @@ Machine learning, distributed computing and the use and exploitation of new chip
  TensorFlow 回顾：最佳深度学习程序库仍然在进化 原文链接：TensorFlow review: The best deep learning library gets better
 适兕点评：
  开源的厚积薄发典型项目，Google一向在开源界的名声和地位，决定了TensorFlow战略意义的成功。正如文中所言：in the last year TensorFlow has been upgraded in the areas of performance, deployment, ease of learning, ease of programming, and compatibility with common Python libraries and utilities.</description>
-    </item>
-    
-    <item>
-      <title>寻找第二名开源信徒</title>
-      <link>http://www.ocselected.org/posts/opensource/open_source_tao_and_way/look_for_second_open_source_believer/</link>
-      <pubDate>Mon, 22 Jan 2018 22:49:51 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/open_source_tao_and_way/look_for_second_open_source_believer/</guid>
-      <description> 引  我的观点，我的信念，当第二个人接受它时便获得了无穷的力量和成功。 ———— Novalis Fragment
- 概述 开源之道，已经走过了最为艰难的起步阶段，在过去的一年半的时间里，他做了如下一些事情：
- 建立网站 在GitHub上建立组织 注册域名 开通公众号 参与演讲 每周更新一篇开源相关的文章  这也仅仅是个开始而已，他需要凝聚更多人的力量，需要更多人来传播它的价值。随着开源之道自身的传播，以及日积月累的学习，开源之道渐渐的对于自己要做的事情越发的清晰：
-让更多的人和企业正确的理解和采用开源之道。
-要求 如果你有以下愿景或能力，不妨尝试加入。
- 拥有一定的计算机科学基础 受益于开源项目，技术栈就是开源栈 切身体会，参与开源、融入开源而不仅仅是专研纯粹的技术本身 开源有其自身的文化、方法论 认同开源是创新的动力，也是软件工程中高效的方式 热爱写作和演讲，同样也热衷于技术布道 相信信息技术可以让人类变得更加美好，开放源代码是可以加快这一过程 熟悉Linux、Docker、Kubernetes，能够使用诸如Python,go等写点什么  联系方式 没有上述列举的也没有关系，但是有一条，认同开源之道是必须的。你可以通过如下方式联系主要作者适兕:
- email： lijiansheng#ocselected.org (发送时请将#修改为@) wechat id：johnwoo_lee twitter: lijiangsheng1  回报 没有任何经济上的回报，而且还可能会贴补一些。但是，我希望你能明白，有些事情比金钱本身更重要。
- 理解开源背后的运作机理 探寻创新之道 让更多人或组织受益 赢得布道的声誉  </description>
     </item>
     
   </channel>

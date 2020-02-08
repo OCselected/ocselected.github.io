@@ -31,6 +31,31 @@
     </item>
     
     <item>
+      <title>Fosdem 2020 观看会后记录日志</title>
+      <link>http://www.ocselected.org/posts/open-source-conference/fosdem-2020-view-record-journal/</link>
+      <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/open-source-conference/fosdem-2020-view-record-journal/</guid>
+      <description>[fork me on GitHub]()
+引言 会议内容概要 主 track 历史部分 Unix 早期被遗忘的历史 原文链接：The Forgotten history of early Unix
+适兕点评：
+ 适兕最近在酝酿一篇文章，如何通过文字的描述，让没有感受过开源共同体力量的人感受一番，那么这个分享所提供的材料对于我来说无疑是雪中送炭，目前非常成功的开源项目：Linux、Apache Httpd、Perl、Python等，如果想讲清楚整体的来龙去脉，用如下一段话来形容会更加的妥当：
+近代工程纪实和近代科学一起发蒙于17世纪的科学革命，借助科学的理性和知识的力量提升了传统的工艺水平。它直接参与了物质生产，在其中起了核心作用，一端融合着研究和开发，另一端则融入工业与商贸。科学、工程技术和商贸一起组成了技术发展的主要引擎，它们的产物早已渗入我们日常生活的方方面面。
+​ ———— 欧阳莹之《工程学：无尽的前沿 》
+就拿Linux 来说吧，想以一种文学式的、历史（探究）式的方式让大众理解这一点，确实难度很高，如何从理性的阶梯视角将这件事讲清楚，诸如Unix：https://www.tuhs.org/ 这样的材料和视角是不可或缺的。
+本主题没有留下video。
+ ![]()
+###
+原文链接：[]()
+适兕点评：
+ f
+ DevRoom 共同体 ![]()
+企业开源项目构建共同体经验和思考 原文链接：Building a thriving community in company-led open source projects
+适兕点评：
+ 来自 GitLab的 Ray Paik分享的观点和思考，其演示文稿就非常之精彩，Building a thriving community in company-led open source projects (slides),总结起来就非常之简单: 不遗余力的迎合共同体所有内容：welcoming diverse viewpoints, lowering barriers to entry, being responsive to community contributions, and remaining transparent about decision making.</description>
+    </item>
+    
+    <item>
       <title>鼠年话开源之四：开源项目商业化理念与路径 </title>
       <link>http://www.ocselected.org/posts/opensource_talking/2020-02-06-business-and-open-source/</link>
       <pubDate>Fri, 07 Feb 2020 09:42:46 +0800</pubDate>
@@ -2158,18 +2183,6 @@ Marketing 工作 ———— 维持生态的重要手段 关于这点的内容�
 自由软件与开源的区别 作为“Open Source”的定义者，Bruce Perens 当然对自由软件和开源有着深刻的理解，是平衡的艺术大师！这里他提到开源是基于自由软件的理念的，即 Richard Stallman 在1983年提出的自由哲学！是站在巨人的肩膀上的！
  开源之道特别赞赏这样的科学精神，之所以今天能走到这里，全是靠着前人的成果！无论我是顺着还是颠覆。反观国内乱象：总是称自己是石头蹦出来的齐天大圣！
  然而，Perens认为：”Stallman 选择了一个吸引程序员的哲学表达。而商人都是实用主义，更感兴趣的是经济利益。” 于是，联合Eric Raymond 选择了以更为务实的方式和商人们接触，并期望这些商人们能够从中看出自由软件的诸多益处。于是，开放源代码定义诞生了！</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 02 10)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-10/</link>
-      <pubDate>Sun, 10 Feb 2019 14:46:01 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-10/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Stefanie Chiras 的采访：开源的力量 原文链接：Interview: The power of open source
-适兕点评：
- “Sometimes people forget about the things that have to fundamentally work. But when they don’t work, everything falls apart.” 所谓的技术下沉就是这个道理，不是不重要了，而是成为默认了。“The upstream open source communities become the beds of innovation for everything we do. There are some misconceptions in the industry about open source. There is an onus on the customer, and on us, to ensure the integrity of open source is protected.</description>
     </item>
     
   </channel>
