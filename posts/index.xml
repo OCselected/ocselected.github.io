@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 07 Feb 2020 09:42:46 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2020 10:35:34 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>【译文】如何与云巨头 AWS 竞争 </title>
+      <link>http://www.ocselected.org/posts/redmonk/how-to-compete-with-aws/</link>
+      <pubDate>Sat, 08 Feb 2020 10:35:34 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/redmonk/how-to-compete-with-aws/</guid>
+      <description>本文经 Stephen 先生许可翻译，转载请注明作者  “在战争中，获胜之道是避其锋芒，攻其弱点。”—— 孙子
+ Photo courtesy Wikipedia user 663highland, used under the CC By 2.5 license
+1969 年 1 月，离人类首次登月的阿波罗11号任务还有7个月时间。尽管IBM在此项任务中扮演了举足轻重的角色，美国司法部仍对它提起了反垄断诉讼。诉讼内容包括IBM垄断了“跨州贸易和商业活动的通用电子计算机”。这个案子拖了13年，直到1982年被撤销。
+毫无疑问在 1969 年，主宰了市场的IBM被认为是无懈可击的。据统计，它在企业硬件领域的市场份额超过了 70%。但就在10年多一点后，即使是竞争对手也承认这个诉讼“几乎只剩一点历史的猎奇心”，因为这个行业正在快速从IBM 主导的大型机转向个人电脑。
+讽刺的是，这一切都是 IBM 自己促成的。
+ 第一步是该公司在 1969 年 6 月 23 日决定将软件与硬件分离——该决定部分是受到上述 1969 年 1 月诉讼案的影响。IBM决定减少其反垄断案的攻击面，其副作用就是诞生了我们今天所谓的软件产业。 其次是IBM作为个人电脑业务的后来者（译者：苹果于1977年发布了深受好评的Apple II），在1980年决定将大部分业务外包出去，最显著的是操作系统。为此他们求助于一家名为微软的鲜为人知的公司，开发后来被称为 PC-DOS 的软件，而该软件又是从另一家鲜为人知的公司（Seattle Computer Products）授权而来。在这笔交易中，微软跟 IBM 的合同不是排他的，它可以将操作系统卖给第三方。  很显然，微软意识到了专注于硬件的 IBM 没想到的：软件可以比它所运行的硬件更有价值。微软由此实现了一家科技公司前所未有的财务成功。
+但Redmond的软件巨头，随着时间流逝，也丢掉了自己的市场。首先是互联网，尽管盖茨的全力尝试。然后是移动互联网，让位给了另一个重要玩家苹果。甚至在云最开始的那些年，微软似乎也错失了机会，但后来有所恢复并且找到了很好的定位，稍后将对此进行讨论。
+从这些例子中至少可以学到两个经验教训：
+ 首先，那些看起来无可匹敌并且被期望永远主宰市场的科技公司从没做到这点。 其次，市场竞争从不正面到来：微软在大型机市场上并没有超过 IBM，就像苹果在桌面和服务器操作系统市场上并没有超过微软一样。  所有这些都把我们带回到亚马逊和此文的标题。
+在亚马逊 11 月份的年度 re：Invent 大会上，一位竞争对手的高管提出了一个问题，这个问题以前也被其他主要供应商问过：AWS会无限期地主宰市场吗？事实上，有谁能与 AWS 的市场势头竞争？</description>
+    </item>
     
     <item>
       <title>鼠年话开源之四：开源项目商业化理念与路径 </title>
@@ -2157,27 +2175,6 @@ Apache 社区成员均是由独立的个人来担当，成员的权力和责任�
 我们根据已证明的需求为我们的项目提供法律和品牌管理服务，并定义品牌指导方针，以帮助我们的项目以适当的方式从强大的Apache品牌中受益。
 我们非常欢迎各种新的项目进入 Apache 孵化器，经验丰富的导师将会帮助你，快速的学习 Apache社区和项目的运作方式。孵化器的存在，就是社区所定义和决定的，所以基金会对于项目的孵化阶段是相当的重视，这也是基金会在壮大发展的同时，能够始终坚守价值观的秘诀所在。
 目标  确保 Apache 软件基金会为软件项目的社区提供的服务能够得到明确、清晰的定义，而且能够确保以满足社区期望的形式成功的进行交付。 不断改进我们在识别、吸引、欢迎、发展等环节，以迈向 ASF 的目标: “志同道合的社区”。 以这种方式有效地扩展我们的运营和治理流程，从而让 ASF 继续成为简单的流程、轻量的治理模式、大型的分布式组织，使得其中心业务以符合 PMC 预期为其社区服务的方式服务于项目。 确保 ASF 在计划期限内的没有什么财务压力，并为长期稳定发展奠定基础。  ASF 提供的服务  说到底，ASF 的核心任务是孵化出优秀的项目，并让项目健康的成长，那么围绕这一切就是提供相应的最佳服务。 ———— 开源之道注</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 02 03)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-03/</link>
-      <pubDate>Mon, 04 Feb 2019 11:53:41 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-03/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Amazon 开源 SageMaker Neo，在边缘运行机器学习模式 原文链接：Amazon Open Sources SageMaker Neo To Run Machine Learning Models At The Edge
-原文链接：Amazon Web Services boosts open source credentials
-适兕点评：
- 机器学习领域，只有开源！因为没有几个人能够看得懂！从这个角度讲，开源是最为高级的。大自然向所有人开源，但是人类至今没有搞清楚为什么？人类为什么有意识？
-  Neo-AI 这个图很明确的解释了AWS吞噬一切的野心。
- 发现后 Kubernetes 开源计算时代的平衡之道 原文链接：Finding equilibrium in post-Kubernetes open-source computing
-适兕点评：
- 哇，已经是后Kubernetes时代了！一不小心就错过了一整个时代。
- CNCF通过社区聚会来回答供应商的问题 原文链接：CNCF answers vendor-handholding with community meetups
-适兕点评：
- CNCF 准确的定位自己，那么客户又该如何准确定位社区、基金会、和供应商？这点开源之道可以回答，也应该去说清楚。
- Shanku Niyogi 加盟 GitHub 担任高级产品副总裁 原文链接：He led open source projects in Microsoft’s early days of exploring it.</description>
     </item>
     
   </channel>
