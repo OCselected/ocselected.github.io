@@ -31,6 +31,23 @@
     </item>
     
     <item>
+      <title>鼠年话开源之五：Apache不会给其下的项目开发者发工资，那Apache是如何保证做事的专业性和持续投入的？ </title>
+      <link>http://www.ocselected.org/posts/opensource_talking/2020-02-07-motivation-beyond-of-money/</link>
+      <pubDate>Fri, 07 Feb 2020 19:52:00 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_talking/2020-02-07-motivation-beyond-of-money/</guid>
+      <description>致力于开源相关思想、知识和价值的探究！ 春节期间，由开源之道共同体旗下 Community Leadeship Development 小组组织了一场「鼠年话开源」系列播客，本期是由Apache member 姜宁发起并主持，开源之道借光发布的第五弹，（顺序是大年初五，1.29日，全国疫情隔离整一周）。
+本期话题 本期节目里我们聊到了以下主题：
+ 开源开发者的内在激励与外在激励有哪些？ 多重激励下带来的后果是怎样？ 如何强化这样的激励？ 同级评审，（peer review）未来的职业提升 Meritocracy 学习共同体 软件开发可以通过开源而更容易获得反馈。  收听  ​ Apple Podcast 订阅地址：http://www.ximalaya.com/album/32915040.xml
+讨论中的相关链接  姜宁在主持之前提纲: https://shimo.im/docs/V6dvygpYhR3JYjDx 开源之道图书共读《开放与共享》书评：http://ocselected.org/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic/ 更多Apache的哲学请访问：Apache 之道，开源可持续成功的秘籍。  登场人物 姜宁（主持人）：华为开源软件中心技术专家，前红帽软件首席软件工程师，有十五年企业级开源中间件开发经验，有丰富的 Java 开发和使用经验，函数式编程爱好者。从 2006 年开始一直从事 Apache 开源中间件项目的开发工作，先后参与 Apache CXF， Apache Camel，Apache ServiceMix，以及Apache ServiceComb的开发。对微服务架构，WebServices，Enterprise Integration Pattern，SOA， OSGi 有比较深入的研究。
+堵俊平：腾讯开源联盟主席，有近十年的开源社区项目的开发和管理经验。目前是Apache软件基金会Member, 担任多个项目（包括：Hadoop, Incubator, Submarine等）的PMC以及多个项目（如TubeMQ, YuniKorn）的导师，他同时还是Linux AI基金会技术委员会（TAC）委员，以及ACUMOS项目的TSC技术顾问。
+适兕：开源之道共同体发起人，self-employee，开源社成员，开源布道师，作家，伪开发者。
+其余客串或旁听：Peter 陈哲、刘洁、李维、吴晟等
+关于开源之道 Talking 开源之道 talking 这款播客节目，是开源之道共同体下的一个特别项目，旨在通过Podcast的形式，收集、探讨业界关于开源的思想、知识、价值的见解、观点、洞见，能够让更为轻松的谈话、聊天、辩论的方式得以施展，乃布道开源之新优势也。
+除了「鼠年话开源之外」，我们会每个月选一个特别的主题，邀请特定的资深开源嘉宾，欢迎大家将自己感兴趣的主题或内容发给我们，以让我们的话题更为聚焦。</description>
+    </item>
+    
+    <item>
       <title>Fosdem 2020 观看会后记录日志</title>
       <link>http://www.ocselected.org/posts/open-source-conference/fosdem-2020-view-record-journal/</link>
       <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
@@ -2166,18 +2183,6 @@ Marketing 工作 ———— 维持生态的重要手段 关于这点的内容�
 自由软件与开源的区别 作为“Open Source”的定义者，Bruce Perens 当然对自由软件和开源有着深刻的理解，是平衡的艺术大师！这里他提到开源是基于自由软件的理念的，即 Richard Stallman 在1983年提出的自由哲学！是站在巨人的肩膀上的！
  开源之道特别赞赏这样的科学精神，之所以今天能走到这里，全是靠着前人的成果！无论我是顺着还是颠覆。反观国内乱象：总是称自己是石头蹦出来的齐天大圣！
  然而，Perens认为：”Stallman 选择了一个吸引程序员的哲学表达。而商人都是实用主义，更感兴趣的是经济利益。” 于是，联合Eric Raymond 选择了以更为务实的方式和商人们接触，并期望这些商人们能够从中看出自由软件的诸多益处。于是，开放源代码定义诞生了！</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 02 10)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-10/</link>
-      <pubDate>Sun, 10 Feb 2019 14:46:01 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-10/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Stefanie Chiras 的采访：开源的力量 原文链接：Interview: The power of open source
-适兕点评：
- “Sometimes people forget about the things that have to fundamentally work. But when they don’t work, everything falls apart.” 所谓的技术下沉就是这个道理，不是不重要了，而是成为默认了。“The upstream open source communities become the beds of innovation for everything we do. There are some misconceptions in the industry about open source. There is an onus on the customer, and on us, to ensure the integrity of open source is protected.</description>
     </item>
     
   </channel>

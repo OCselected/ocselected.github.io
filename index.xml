@@ -31,6 +31,23 @@
     </item>
     
     <item>
+      <title>鼠年话开源之五：Apache不会给其下的项目开发者发工资，那Apache是如何保证做事的专业性和持续投入的？ </title>
+      <link>http://www.ocselected.org/posts/opensource_talking/2020-02-07-motivation-beyond-of-money/</link>
+      <pubDate>Fri, 07 Feb 2020 19:52:00 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_talking/2020-02-07-motivation-beyond-of-money/</guid>
+      <description>致力于开源相关思想、知识和价值的探究！ 春节期间，由开源之道共同体旗下 Community Leadeship Development 小组组织了一场「鼠年话开源」系列播客，本期是由Apache member 姜宁发起并主持，开源之道借光发布的第五弹，（顺序是大年初五，1.29日，全国疫情隔离整一周）。
+本期话题 本期节目里我们聊到了以下主题：
+ 开源开发者的内在激励与外在激励有哪些？ 多重激励下带来的后果是怎样？ 如何强化这样的激励？ 同级评审，（peer review）未来的职业提升 Meritocracy 学习共同体 软件开发可以通过开源而更容易获得反馈。  收听  ​ Apple Podcast 订阅地址：http://www.ximalaya.com/album/32915040.xml
+讨论中的相关链接  姜宁在主持之前提纲: https://shimo.im/docs/V6dvygpYhR3JYjDx 开源之道图书共读《开放与共享》书评：http://ocselected.org/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic/ 更多Apache的哲学请访问：Apache 之道，开源可持续成功的秘籍。  登场人物 姜宁（主持人）：华为开源软件中心技术专家，前红帽软件首席软件工程师，有十五年企业级开源中间件开发经验，有丰富的 Java 开发和使用经验，函数式编程爱好者。从 2006 年开始一直从事 Apache 开源中间件项目的开发工作，先后参与 Apache CXF， Apache Camel，Apache ServiceMix，以及Apache ServiceComb的开发。对微服务架构，WebServices，Enterprise Integration Pattern，SOA， OSGi 有比较深入的研究。
+堵俊平：腾讯开源联盟主席，有近十年的开源社区项目的开发和管理经验。目前是Apache软件基金会Member, 担任多个项目（包括：Hadoop, Incubator, Submarine等）的PMC以及多个项目（如TubeMQ, YuniKorn）的导师，他同时还是Linux AI基金会技术委员会（TAC）委员，以及ACUMOS项目的TSC技术顾问。
+适兕：开源之道共同体发起人，self-employee，开源社成员，开源布道师，作家，伪开发者。
+其余客串或旁听：Peter 陈哲、刘洁、李维、吴晟等
+关于开源之道 Talking 开源之道 talking 这款播客节目，是开源之道共同体下的一个特别项目，旨在通过Podcast的形式，收集、探讨业界关于开源的思想、知识、价值的见解、观点、洞见，能够让更为轻松的谈话、聊天、辩论的方式得以施展，乃布道开源之新优势也。
+除了「鼠年话开源之外」，我们会每个月选一个特别的主题，邀请特定的资深开源嘉宾，欢迎大家将自己感兴趣的主题或内容发给我们，以让我们的话题更为聚焦。</description>
+    </item>
+    
+    <item>
       <title>Fosdem 2020 观看会后记录日志</title>
       <link>http://www.ocselected.org/posts/open-source-conference/fosdem-2020-view-record-journal/</link>
       <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
@@ -2145,29 +2162,6 @@ Linux最引人注目的特性之一就是让所有的开发人员都可以访问
 或许有的软件厂商不乐意了，那么我的建议是读上一篇文章：《软件悖论:商业软件的崛起与陨落》导读+书评。
 IT 厂商的实例 其实，作者作为 Salesforce的创始团队成员，对于IT行业的转型是有着独到理解的，文中提到的几个例子都是值得细细品味的。Amazon、Apple、NetFlix、ZipCar、Uber、Lyft、Zendesk、Okta、Xero、Salesforce 等等，无一不是订阅模式的翘楚，从信息技术的计算资源、存储资源，再到音乐、视频、流媒体，再到汽车、传统桌面应用软件，均以数字化转型为契机，转换思路，进一步贴合用户，抢先用户一步来以最佳服务满足用户所需。
 对于软件创新的诠释 这一部分要定位到第十章，这个世界在加速发展，这一切都应验了物理学的概念：熵！信息技术的革命，在于它加速了一切！那加速后的思维方式和生活都将面临更快的挑战和变化。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 02 17)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-17/</link>
-      <pubDate>Sun, 17 Feb 2019 11:43:33 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-17/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Facebook 工程师 Mark Harman 的采访 原文链接：Q&amp;amp;A With Facebook Engineer Mark Harman
-适兕点评：
- 一位IEEE工程奖得主，从学术界到企业界的华丽转身，这个伦理问题在西方做的非常之好，比如Google和斯坦福。Mark Harman 喜欢开放式的开放方式，这似乎是工程师固有的天性，只要是付出努力、懂得珍惜时间的人，都明白这样一个道理：开放的共享会让自己的研究进展更加的神速！相反则会让自己步履维艰。
- 或者那些你正在寻找的容器并不是真正你所需要的 原文链接：These Are Not The Containers You&amp;rsquo;re Looking For
-适兕点评：
- Udi Nachmany 反思系列文章，将思考、哲学、技术混在一起的思考！非常值得一读的文章，当然，最好是将作者的一系列文章一起来读。
-本文有一段，引起了我的思考：Thor&amp;rsquo;s hammer does not exist in IT！ 开源对于我来说，我只是意识到它的无穷价值，然而在实践中失败，在布道中受挫，世界的力量很是强大，而我只能让自己更加的强大，如果我过多的直说开源，那么就是那个看见什么都是钉子的锤子，而我知道，我手里握着的不过是一把无形的思想罢了，哪里有什么锤子！
- 微软加入开源合规性组织 OpenChain 原文链接：Microsoft joins OpenChain open-source compliance group
-适兕点评：
- 没什么说的，微软似乎正在兑现早些时候许下的诺言。
- 你的代码一旦开源，就无法回收 原文链接：No, you can&amp;rsquo;t take open-source code back
-适兕点评：
- 是的，你不可以做道德婊，先礼后兵。法律上是这么定义的，你没有这个权力！
- 开源领导峰会2019发布了会议日程 原文链接：Linux Foundation Unveils Impressive Speaker Lineup for Open Source Leadership Summit 2019</description>
     </item>
     
   </channel>
