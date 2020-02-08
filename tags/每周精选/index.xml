@@ -38,6 +38,38 @@
     </item>
     
     <item>
+      <title>开源之道共同体之沟通交流</title>
+      <link>http://www.ocselected.org/community/communication/</link>
+      <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/community/communication/</guid>
+      <description>管理员招募 如果你认同开源之道的理念、原则，并有时间来激活成员的想法，让共同体更具创造力和生产力，不妨进入我们的管理员团队，共同进步，提升自己的领导力。
+邮件列表 开源之道倡导邮件列表进行沟通，尽管有issue，多一个渠道总是兼顾包容：
+ 开源之道图书共读：https://groups.google.com/d/forum/reading-open-source-way
+ Open Source Community Leadership Development : https://groups.google.com/d/forum/open-source-community-leadership-development
+  订阅: open-source-community-leadership-development+subscribe@googlegroups.com
+讨论: open-source-community-leadership-development@googlegroups.com
+即时聊天 (开源之道)Slack 加入：点我
+中国特色，并不建议加入 目前开源之道有两个 WeChat Group：
+ 开源之道图书共读讨论 Community Leadership Development  如果你想加入，可以先到Slack 里找 lijiansheng ，记得先介绍自己哦，WeChat Group 更像是一个 Social Club。</description>
+    </item>
+    
+    <item>
+      <title>开源之道文章贡献指南</title>
+      <link>http://www.ocselected.org/community/contributing/</link>
+      <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/community/contributing/</guid>
+      <description>前提 最好是对于开源之道的风格和内容有所了解，强烈建议阅读：开源之道阅读指南
+开发者 开源之道目前所使用到的技术栈：Markdown + hugo + GitHub page + Travis-CI
+你我都知道，开发者的特点：无限！ 作为发起者，我对开发者是持敬畏态度的，因为他们总是能够带给我惊奇，让他们充分的施展自己的想象力，这是我唯一能做的事情。
+ 看 issue 前端有点丑陋[🤦‍♂️]  翻译或撰写文章 请点击右上角的fork按钮，将本项目fork到自己的账户下，如果不知道fork,请阅读GitHub相关文档，或到 communication.md slack 寻求帮助。
+模板介绍 开源之道根据文章的分类而做了几个不同的模板，均放在目录：../archetypes 下：
+ **business_model.md ** ：关于开源和商业模式方面的介绍 **enterprise_guide.md **：企业如果搞开源。 **opensource_culture.md **：开源文化，开源之道重点攻关突破。 **opensource_technology.md **：关于开放源代码技术的，尽量采用抽象程度高的语言来讲述，避免技术细节。 supply_chain.md： 软件供应链也是开源之道非常愿意关注的内容。 community_management.md：开源共同体方面的内容，领导力、亲和力等。 foundation_introduce.md： 开源非营利基金会介绍 opensource_economic.md：开源经济学 paper_reading.md： 学术论文阅读 ttoos.md： 如果你不知道分类，使用这个模板就好。 default.md： 废弃不用，你想删除它也没有问题。 opensource_com.md：翻译来自opensource.com站点上的文章， opensource_hero.md： 那些个为开源做出过重大或突破性贡献的人，当然风格尽量保持在民主的基础上。 weekly_template.md： 开源之道每周评论模板。 osw_podcast.md：开源之道Talking Podcast 节目的模板 redmonk.md: 与晨兴资本副总裁一起翻译来自 RedMonk 合伙人 Stephen 先生的文章。  根据模板创建文件 在终端下执行命令：
+hugo -k 模板名 new posts/文件路径  例如，开源之道每周评论使用的模板名称：weekly_template ，路径是 OpenSource/daily_reading/2020/开源之道一周精选\ , 要创建的文件名为：\(2019-02-02\).</description>
+    </item>
+    
+    <item>
       <title>银行终究还是要拥抱开源的；建立能够让开源共同体持续发展的公司 等开源之道一周精选(2019 02 02)</title>
       <link>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-02/</link>
       <pubDate>Wed, 29 Jan 2020 16:38:57 +0800</pubDate>
@@ -1983,49 +2015,6 @@ Machine learning, distributed computing and the use and exploitation of new chip
  编辑们将开源再渲染的天花乱坠，如果世人选择不去相信它，它依旧是那样。
 我突然发现，我无法和周边的人聊天，是我自身的问题，讲人与人之间的平等？民主？政治？ 大家都只图一乐。 雾霾也不差自己的那点烟火鞭炮，于是世界正在变得越发的糟糕。
  红帽：开源崛起，已经是主流 原文链接：Red Hat: open source genesis, to mainstreaming revelations</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 02 04)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-02-04/</link>
-      <pubDate>Sun, 04 Feb 2018 12:07:55 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-02-04/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 ![(https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/hello-name-sticker-badge-tag.png?itok=fAgbMgBb)
-开源20岁生日，它彻底的改变了世界 原文链接：How I coined the term &amp;lsquo;open source&amp;rsquo;
-原文链接：Open Source turns 20: Here’s how it all started
-原文链接：Open source is 20: How it changed programming and business forever
-原文链接：The history behind Christine Peterson’s term ‘open source software’
-适兕点评：
- 是的，无论你承认与否，这个世界的大部分运行的软件都是开源的，成为了现代社会发展的基石，甚至很多人从这里找到了财富，也有人找到了荣誉，开源不仅仅是影响了软件的生产方式，它也在渗透到其他的领域。
-无论如何，你应该去了解开源的历史，它是如何来的，为什么有了这样一个名词，而不是靠直觉简简单单的理解它。
- 如何只花5分钟就搞定第一次贡献开源项目 原文链接：How to make your first open source contribution in just 5 minutes
-适兕点评：
- FreeCodeCamp 迟早这么玩死，它的目标似乎就是说学编程应该成本很低，却可以获得很高的报酬，而不是去参加什么培训班之类的。类似的文章他们发表过很多，
-个人以为，编程仍然是一个需要经过很长时间学习的严谨的科学，不是21天就可以搞定的。宣传归宣传，不要本末倒置，让入门者有所误解。
-有些培训班，没有底线，让高中生报名参加培训一年，然后让人以为自己就可以做很多事情了。个人亲历。
- 开源已经很少被提及 原文链接：Open source: Less talk, more work</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 01 28)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-01-28/</link>
-      <pubDate>Sun, 28 Jan 2018 21:59:16 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-01-28/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 开源和外包是如何帮助 HIT 开发的 原文链接：How Open Source, Crowdsourcing Aids HIT Development
-适兕点评：
- 开源是一个被随意打扮的小姑娘。其实我在和大多数人讨论开源的时候，理解的是千差万别的。结果往往就是我以为他们和我理解的开源是一样的。
-布多少道都没有用，能够吸收的人非常之少。
-这篇文章讲述的传统的医疗行业的基础设施，他们要利用开源干什么?他们理解的开源又是什么？某个具体的项目？还是生产的方法论？亦或是管理方式？
- OpenStack 社区的活跃中国供应商 原文链接：Active Chinese vendors in the OpenStack community
-适兕点评：
- 中兴在南非！ 以开源的名义征服第三世界。无可厚非。
- TensorFlow 回顾：最佳深度学习程序库仍然在进化 原文链接：TensorFlow review: The best deep learning library gets better
-适兕点评：
- 开源的厚积薄发典型项目，Google一向在开源界的名声和地位，决定了TensorFlow战略意义的成功。正如文中所言：in the last year TensorFlow has been upgraded in the areas of performance, deployment, ease of learning, ease of programming, and compatibility with common Python libraries and utilities.</description>
     </item>
     
   </channel>

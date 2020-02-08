@@ -13,6 +13,16 @@
   </url>
   
   <url>
+    <loc>http://www.ocselected.org/community/communication/</loc>
+    <lastmod>2020-02-07T14:45:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/community/contributing/</loc>
+    <lastmod>2020-02-07T14:45:05+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.ocselected.org/posts/opensource_talking/2020-02-06-business-and-open-source/</loc>
     <lastmod>2020-02-07T09:42:46+08:00</lastmod>
   </url>
@@ -2344,15 +2354,8 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/community/contributing/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.ocselected.org/community/communication/</loc>
-  </url>
-  
-  <url>
     <loc>http://www.ocselected.org/community/</loc>
+    <lastmod>2020-02-07T14:45:05+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2447,14 +2450,14 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2019-09-12T16:27:21+08:00</lastmod>
+    <loc>http://www.ocselected.org/topics/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2018-04-27T11:49:36+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/topics/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2018-04-27T11:49:36+08:00</lastmod>
+    <loc>http://www.ocselected.org/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2019-09-12T16:27:21+08:00</lastmod>
     <priority>0</priority>
   </url>
   

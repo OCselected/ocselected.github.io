@@ -38,6 +38,38 @@
     </item>
     
     <item>
+      <title>开源之道共同体之沟通交流</title>
+      <link>http://www.ocselected.org/community/communication/</link>
+      <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/community/communication/</guid>
+      <description>管理员招募 如果你认同开源之道的理念、原则，并有时间来激活成员的想法，让共同体更具创造力和生产力，不妨进入我们的管理员团队，共同进步，提升自己的领导力。
+邮件列表 开源之道倡导邮件列表进行沟通，尽管有issue，多一个渠道总是兼顾包容：
+ 开源之道图书共读：https://groups.google.com/d/forum/reading-open-source-way
+ Open Source Community Leadership Development : https://groups.google.com/d/forum/open-source-community-leadership-development
+  订阅: open-source-community-leadership-development+subscribe@googlegroups.com
+讨论: open-source-community-leadership-development@googlegroups.com
+即时聊天 (开源之道)Slack 加入：点我
+中国特色，并不建议加入 目前开源之道有两个 WeChat Group：
+ 开源之道图书共读讨论 Community Leadership Development  如果你想加入，可以先到Slack 里找 lijiansheng ，记得先介绍自己哦，WeChat Group 更像是一个 Social Club。</description>
+    </item>
+    
+    <item>
+      <title>开源之道文章贡献指南</title>
+      <link>http://www.ocselected.org/community/contributing/</link>
+      <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/community/contributing/</guid>
+      <description>前提 最好是对于开源之道的风格和内容有所了解，强烈建议阅读：开源之道阅读指南
+开发者 开源之道目前所使用到的技术栈：Markdown + hugo + GitHub page + Travis-CI
+你我都知道，开发者的特点：无限！ 作为发起者，我对开发者是持敬畏态度的，因为他们总是能够带给我惊奇，让他们充分的施展自己的想象力，这是我唯一能做的事情。
+ 看 issue 前端有点丑陋[🤦‍♂️]  翻译或撰写文章 请点击右上角的fork按钮，将本项目fork到自己的账户下，如果不知道fork,请阅读GitHub相关文档，或到 communication.md slack 寻求帮助。
+模板介绍 开源之道根据文章的分类而做了几个不同的模板，均放在目录：../archetypes 下：
+ **business_model.md ** ：关于开源和商业模式方面的介绍 **enterprise_guide.md **：企业如果搞开源。 **opensource_culture.md **：开源文化，开源之道重点攻关突破。 **opensource_technology.md **：关于开放源代码技术的，尽量采用抽象程度高的语言来讲述，避免技术细节。 supply_chain.md： 软件供应链也是开源之道非常愿意关注的内容。 community_management.md：开源共同体方面的内容，领导力、亲和力等。 foundation_introduce.md： 开源非营利基金会介绍 opensource_economic.md：开源经济学 paper_reading.md： 学术论文阅读 ttoos.md： 如果你不知道分类，使用这个模板就好。 default.md： 废弃不用，你想删除它也没有问题。 opensource_com.md：翻译来自opensource.com站点上的文章， opensource_hero.md： 那些个为开源做出过重大或突破性贡献的人，当然风格尽量保持在民主的基础上。 weekly_template.md： 开源之道每周评论模板。 osw_podcast.md：开源之道Talking Podcast 节目的模板 redmonk.md: 与晨兴资本副总裁一起翻译来自 RedMonk 合伙人 Stephen 先生的文章。  根据模板创建文件 在终端下执行命令：
+hugo -k 模板名 new posts/文件路径  例如，开源之道每周评论使用的模板名称：weekly_template ，路径是 OpenSource/daily_reading/2020/开源之道一周精选\ , 要创建的文件名为：\(2019-02-02\).</description>
+    </item>
+    
+    <item>
       <title>银行终究还是要拥抱开源的；建立能够让开源共同体持续发展的公司 等开源之道一周精选(2019 02 02)</title>
       <link>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-02/</link>
       <pubDate>Wed, 29 Jan 2020 16:38:57 +0800</pubDate>
@@ -2106,42 +2138,6 @@ Best part of the book was the discussion of shift towards making money with soft
  “当你开启项目时，你需要尝试赢得人们的信任，消除他们对于加入项目的疑虑，而且放心的使用你的代码。在这之后，如果你说：‘大家好，这个项目可能无法继续了。‘ 这对于信任一点帮助都没有。而你应该说，如果有一天，项目可能不得不结束，您将会尽全力去解决问题， 并且应该保证您不会将用户弃之不顾。告诉他们，您会告知他们您的每一步工作的内容。在进行项目转交时，给他们时间去适应，您还需要努力帮助完成项目转交时可能有所帮助。” – Dr. David A. Wheeler，Linux基金会核心基础设施研究 （CII）开源专家和两个项目的领导者。
  决定您何时结束、转交或退出一个开源项目 无论什么原因，都可能遇到这样的几种情形：开源项目需要终结、需要转交给其它实体单位、亦或者是贵司决定从某参与的项目中退出，无论哪种情况，都要做出决断的。至于原因吗，有可能是贵司的目标发生了变化，也有可能是项目和新的方向不再匹配，又或者是项目的关键人物/团队离开了公司，亦或是项目的成长情况：参与度、更新周期、采用的下降等因素所导致。也有可能是因为在关于项目未来发展的问题上，社区成员之间出现了分歧，这些使项目看起来需要做出一些改变。
 分歧会影响新项目的方向 在项目的社区内部如果发生了严重的分歧 ———— 不管这个分歧是什么，关于技术也罢，许可协议等等 ———— 你都得考虑项目需要分离，让对不同方面感兴趣的人们做他们认为重要的事情！我们可以回顾一个例子，就分离这件事对于1991年创建 Linux的开发者 Linus Torvalds 来说触动很大，Torvalds 一直以来都是基于Minix进行开发的，Minix 以一款类Unix的小型操作系统，其内核由Andrew S. Tanenbaum所开发，主要是用来教学。随着项目的发展，和Torvalds对其范围和愿景的不同，Torvalds 将项目从 Minix 分离出来创建了日后重要的开源项目Linux。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 01 13)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-13/</link>
-      <pubDate>Sun, 13 Jan 2019 12:29:49 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-13/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 开源变现创业公司TideliftB轮融资2500万美金 原文链接：Open source monetization startup Tidelift raises $25m series B
-原文链接：These former Red Hat employees just got $25 million to try to find a new business model for open-source software
-原文链接：Tidelift: We Support the Long Tail of Open Source Projects
-适兕点评：
- 前红帽CEO的开源理解，不过还是路与桥给的灵感。“Our bottom line is that open source doesn’t just need ‘funding.’ It needs a business model that works for creators and users alike, at massive scale.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 01 06)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-06/</link>
-      <pubDate>Mon, 07 Jan 2019 22:26:04 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-06/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Linux基金会网络进一步加强开源网络 原文链接：LF Networking Moving Forward to Consolidate Open Source Networking Efforts
-适兕点评：
- 说实话，这一年的网络子基金会没什么进步，网络毕竟都是从传统的电信厂商过来的，标准的争夺根深蒂固，难以改变。所以，开源的方式在他们看来就是标准的再争夺。所以偏离了当年成立基金会的主旨。再过一年可能项目就各奔东西了。
- 来自Linux的洞察：2019我最期待什么 原文链接：From The Linux Perspective: What I Am Most Looking Forward To In 2019
-适兕点评：
- 这么具体的一系列的功能特性对于很多项目真是一件奢侈的事情，但是Linux就是这样。日渐成熟的Linux！
- 区块链进化：新形势需要新模式 原文链接：Blockchain evolution: New results require new models
-适兕点评：
- 唯有创新才是出路，是的，区块链绝对是革命性的产物，但是它也在很多领域破坏现有的秩序，那么就会有一些困难。假以时日，这可能是赢得人类社会信任。
- 2018年关于Linux和开源的5个顶级故事 原文链接：The top 5 Linux and open-source stories of 2018
-适兕点评：
- 我这两天也在思考、总结去年一年开源的动向。当然我更加关注本土的进展。但是不知道从何而起。
- 树莓派洞见：35美金的计算机改变世界的故事 原文链接：Inside the Raspberry Pi: The story of the $35 computer that changed the world</description>
     </item>
     
   </channel>

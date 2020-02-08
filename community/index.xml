@@ -7,14 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 07 Feb 2020 14:45:05 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/community/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>开源之道共同体之沟通交流</title>
+      <link>http://www.ocselected.org/community/communication/</link>
+      <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/community/communication/</guid>
+      <description>管理员招募 如果你认同开源之道的理念、原则，并有时间来激活成员的想法，让共同体更具创造力和生产力，不妨进入我们的管理员团队，共同进步，提升自己的领导力。
+邮件列表 开源之道倡导邮件列表进行沟通，尽管有issue，多一个渠道总是兼顾包容：
+ 开源之道图书共读：https://groups.google.com/d/forum/reading-open-source-way
+ Open Source Community Leadership Development : https://groups.google.com/d/forum/open-source-community-leadership-development
+  订阅: open-source-community-leadership-development+subscribe@googlegroups.com
+讨论: open-source-community-leadership-development@googlegroups.com
+即时聊天 (开源之道)Slack 加入：点我
+中国特色，并不建议加入 目前开源之道有两个 WeChat Group：
+ 开源之道图书共读讨论 Community Leadership Development  如果你想加入，可以先到Slack 里找 lijiansheng ，记得先介绍自己哦，WeChat Group 更像是一个 Social Club。</description>
+    </item>
+    
+    <item>
+      <title>开源之道文章贡献指南</title>
       <link>http://www.ocselected.org/community/contributing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
       
       <guid>http://www.ocselected.org/community/contributing/</guid>
       <description>前提 最好是对于开源之道的风格和内容有所了解，强烈建议阅读：开源之道阅读指南
@@ -24,22 +42,6 @@
 模板介绍 开源之道根据文章的分类而做了几个不同的模板，均放在目录：../archetypes 下：
  **business_model.md ** ：关于开源和商业模式方面的介绍 **enterprise_guide.md **：企业如果搞开源。 **opensource_culture.md **：开源文化，开源之道重点攻关突破。 **opensource_technology.md **：关于开放源代码技术的，尽量采用抽象程度高的语言来讲述，避免技术细节。 supply_chain.md： 软件供应链也是开源之道非常愿意关注的内容。 community_management.md：开源共同体方面的内容，领导力、亲和力等。 foundation_introduce.md： 开源非营利基金会介绍 opensource_economic.md：开源经济学 paper_reading.md： 学术论文阅读 ttoos.md： 如果你不知道分类，使用这个模板就好。 default.md： 废弃不用，你想删除它也没有问题。 opensource_com.md：翻译来自opensource.com站点上的文章， opensource_hero.md： 那些个为开源做出过重大或突破性贡献的人，当然风格尽量保持在民主的基础上。 weekly_template.md： 开源之道每周评论模板。 osw_podcast.md：开源之道Talking Podcast 节目的模板 redmonk.md: 与晨兴资本副总裁一起翻译来自 RedMonk 合伙人 Stephen 先生的文章。  根据模板创建文件 在终端下执行命令：
 hugo -k 模板名 new posts/文件路径  例如，开源之道每周评论使用的模板名称：weekly_template ，路径是 OpenSource/daily_reading/2020/开源之道一周精选\ , 要创建的文件名为：\(2019-02-02\).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://www.ocselected.org/community/communication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.ocselected.org/community/communication/</guid>
-      <description>邮件列表 开源之道倡导邮件列表进行沟通，尽管有issue，多一个渠道总是兼顾包容：
- 开源之道图书共读：https://groups.google.com/d/forum/reading-open-source-way
- Open Source Community Leadership Development : https://groups.google.com/d/forum/open-source-community-leadership-development
-  订阅: open-source-community-leadership-development+subscribe@googlegroups.com
-讨论: open-source-community-leadership-development@googlegroups.com
-即时聊天 (开源之道)Slack 加入：点我
-中国特色，并不建议加入 目前开源之道有两个 WeChat Group：
- 开源之道图书共读讨论 Community Leadership Development  如果你想加入，可以先到Slack 里找 lijiansheng ，记得先介绍自己哦，WeChat Group 更像是一个 Social Club。</description>
     </item>
     
   </channel>

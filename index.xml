@@ -56,6 +56,38 @@
     </item>
     
     <item>
+      <title>开源之道共同体之沟通交流</title>
+      <link>http://www.ocselected.org/community/communication/</link>
+      <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/community/communication/</guid>
+      <description>管理员招募 如果你认同开源之道的理念、原则，并有时间来激活成员的想法，让共同体更具创造力和生产力，不妨进入我们的管理员团队，共同进步，提升自己的领导力。
+邮件列表 开源之道倡导邮件列表进行沟通，尽管有issue，多一个渠道总是兼顾包容：
+ 开源之道图书共读：https://groups.google.com/d/forum/reading-open-source-way
+ Open Source Community Leadership Development : https://groups.google.com/d/forum/open-source-community-leadership-development
+  订阅: open-source-community-leadership-development+subscribe@googlegroups.com
+讨论: open-source-community-leadership-development@googlegroups.com
+即时聊天 (开源之道)Slack 加入：点我
+中国特色，并不建议加入 目前开源之道有两个 WeChat Group：
+ 开源之道图书共读讨论 Community Leadership Development  如果你想加入，可以先到Slack 里找 lijiansheng ，记得先介绍自己哦，WeChat Group 更像是一个 Social Club。</description>
+    </item>
+    
+    <item>
+      <title>开源之道文章贡献指南</title>
+      <link>http://www.ocselected.org/community/contributing/</link>
+      <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/community/contributing/</guid>
+      <description>前提 最好是对于开源之道的风格和内容有所了解，强烈建议阅读：开源之道阅读指南
+开发者 开源之道目前所使用到的技术栈：Markdown + hugo + GitHub page + Travis-CI
+你我都知道，开发者的特点：无限！ 作为发起者，我对开发者是持敬畏态度的，因为他们总是能够带给我惊奇，让他们充分的施展自己的想象力，这是我唯一能做的事情。
+ 看 issue 前端有点丑陋[🤦‍♂️]  翻译或撰写文章 请点击右上角的fork按钮，将本项目fork到自己的账户下，如果不知道fork,请阅读GitHub相关文档，或到 communication.md slack 寻求帮助。
+模板介绍 开源之道根据文章的分类而做了几个不同的模板，均放在目录：../archetypes 下：
+ **business_model.md ** ：关于开源和商业模式方面的介绍 **enterprise_guide.md **：企业如果搞开源。 **opensource_culture.md **：开源文化，开源之道重点攻关突破。 **opensource_technology.md **：关于开放源代码技术的，尽量采用抽象程度高的语言来讲述，避免技术细节。 supply_chain.md： 软件供应链也是开源之道非常愿意关注的内容。 community_management.md：开源共同体方面的内容，领导力、亲和力等。 foundation_introduce.md： 开源非营利基金会介绍 opensource_economic.md：开源经济学 paper_reading.md： 学术论文阅读 ttoos.md： 如果你不知道分类，使用这个模板就好。 default.md： 废弃不用，你想删除它也没有问题。 opensource_com.md：翻译来自opensource.com站点上的文章， opensource_hero.md： 那些个为开源做出过重大或突破性贡献的人，当然风格尽量保持在民主的基础上。 weekly_template.md： 开源之道每周评论模板。 osw_podcast.md：开源之道Talking Podcast 节目的模板 redmonk.md: 与晨兴资本副总裁一起翻译来自 RedMonk 合伙人 Stephen 先生的文章。  根据模板创建文件 在终端下执行命令：
+hugo -k 模板名 new posts/文件路径  例如，开源之道每周评论使用的模板名称：weekly_template ，路径是 OpenSource/daily_reading/2020/开源之道一周精选\ , 要创建的文件名为：\(2019-02-02\).</description>
+    </item>
+    
+    <item>
       <title>鼠年话开源之四：开源项目商业化理念与路径 </title>
       <link>http://www.ocselected.org/posts/opensource_talking/2020-02-06-business-and-open-source/</link>
       <pubDate>Fri, 07 Feb 2020 09:42:46 +0800</pubDate>
@@ -2136,53 +2168,6 @@ IT 厂商的实例 其实，作者作为 Salesforce的创始团队成员，对�
 适兕点评：
  是的，你不可以做道德婊，先礼后兵。法律上是这么定义的，你没有这个权力！
  开源领导峰会2019发布了会议日程 原文链接：Linux Foundation Unveils Impressive Speaker Lineup for Open Source Leadership Summit 2019</description>
-    </item>
-    
-    <item>
-      <title>云原生的旭日东升 —— CNCF 2018年度报告解读</title>
-      <link>http://www.ocselected.org/posts/foundation_introduce/review-cncf-2018-annual-report/</link>
-      <pubDate>Wed, 13 Feb 2019 12:31:27 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/foundation_introduce/review-cncf-2018-annual-report/</guid>
-      <description>引言 阅读非盈利基金会的年度报告有的时候是一种享受，如 Apache 2018年度报告 （PDF） ，你想知道的全部都在，甚至会引导你进一步的探索。但是有的时候，却是一种折磨，如OpenStack 2018年度报告，就是那种蹩脚的售前做的PPT一般，让人味同爵蜡。可是还有一种是位于两者之间，既遮遮掩掩，又欲说还羞，让你不得不去进一步的进行解读。于是有了这篇文章。
-当然，著名的云原生布道师宋净超也做了为题：CNCF年度报告解读（2018年），解读的非常不错，推荐大家阅读，我这边尽可能的读点和Jimmy不一样的视角。
-阅读非盈利基金会报告需要的基础知识 我们可以肆无忌惮的说，非盈利性的、中立的开源软件基金会所生产的开源软件项目，将会是现在和未来的软件主流生产方式！这个无论是从公共产品的角度，还是商业联盟的角度，乃至天然的人类协作方式，都讲的过去。请允许我在这里再一次引用 Nathen Harvey 在 Information Week 中的文章中指出了三个问题：
- “项目应该由商业的赞助商驱动还是外围的贡献者驱动？商业利益是否应该凌驾于社区的意愿之上？该如何以及在哪里为商业实体和开源社区之间划上一个明确的界线？”
- 这三个问题确实是异常的尖锐，回答起来就显得非常的关键，但通过基金会的模式，开放的治理可以解决大多数的问题。
-开源项目/社区、非盈利基金会和商业公司之间的关系 有人说一图胜千言，以下这张图来自 Siobhán 的研究：《Nonprofit Foundations And Their Role In Community-Firm Software Collaboration》论文。
-该图完整的说明了开源项目/社区和非盈利基金会以及商业公司之间的关系。也完整的定义了基金会的意义和功能所在，开发者信奉的哲学中，是不希望有过多的金钱和干涉，希望按照自己的意愿行事。而这让奉行实用主义、关注利润的商业公司是完全相悖的，而且和竞争对手合作，也需要有所约束。于是基金会在他们二者之间找到了位置。
-非盈利基金会的性质 这个由于特殊的环境因素，比较难以理解，因为都是美国的组织，不过我们在阅读这些基金会年度报表的只需要知道一点即可，那就是 501&amp;copy;(6) 和 501&amp;copy;(3)之间的区别。
-比如Linux 基金会就是 501&amp;copy;(6) ，而Apache 软件基金会就是 501&amp;copy;(3) 类型的。具体有什么区别，请有心的看官查阅相关资料。但是在年度报告体现出来的就是Apache 软件基金会会事无巨细的将财务报告写上，而CNCF就不会有这方面的任何材料。
-CNCF 的历史背景 这一点开源之道专门在2018年撰写过一篇文章：CNCF 是如何工作的，请看官在进一步阅读之前，尽量先读一下该文，了解一下CNCF。
-CNCF 2018 年度报告 交待完上述内容，我们就看一下CNCF的年度成绩单。
-孵化项目 &amp;ndash; 基金会存在的核心价值 除了顺利毕业的三个项目：Kubernetes、Prometheus、Envoy，以及一大波选择CNCF孵化的项目，如18年成功进入孵化和沙箱的16个项目：
-那么就是下图所示这些项目的更新和发布信息：
-随着开源开发成为软件开发方式的主流形式，开源项目的良性发展成为所有人追求的对象，谁都知道开源项目的失败率是非常之高的，先进和设计良好的技术仅仅占据其中因素的部分而已，良好的社区发展也占据不亚于技术本身的分量，所以这是基金会重点关注的对象，尽管所创造的制度并不能够直接干涉项目和社区，但是可以为项目和社区制造一个良性运作的环境，开发者要肆无忌惮地发挥自己的创新的能力，是需要一个能够思考、实践和正负反馈的良性的环境的。这就是核心价值，如果没有被世界所需要，那么一切围绕这个核心的内容将不复存在。
-另外值得一提的是CNCF提供了让人们公开查看项目进展的工具：DevStat，以图形化的方式展示项目的活跃度，举个例子，如果你觉得那个项目被某个商业公司所控制的话，就来这里看看，相对于RedMonk的分析而言，这个是源头。当然这是帮助公司的社区经理、开源办公室等需要数据分析和报告的人们的利器！
-发展会员 —— 基金会得以持续运转的财务保障 这就是本文命题的支柱：增长幅度是130%，简直不可思议。（看这个数据，最好是回忆一下2013~2015年的OpenStack基金会扩张速度。）
-企业会员是基金会发展的重要经济来源，也是衡量一个基金会在企业心目中重要标尺，Marketing 是一个非常讲究及时回报的行业，当然，这可能和公司具体的战略有关。当绝大多数的Marketing部门关注到了这个基金会的影响力，就会殷勤的掏出钱来帮助基金会。那么CNCF去年的会员发展，则说明了很多IT公司都看到了云原生这个新兴领域，竞争也是异常的激烈的。
-Marketing 工作 ———— 维持生态的重要手段 关于这点的内容，我这里就不为大家截图了，也就是说Marketing的数据可以大体上扫描一下，如：</description>
-    </item>
-    
-    <item>
-      <title>一份被忽略的开源经济学报告 —— 再读 Bruce Perens</title>
-      <link>http://www.ocselected.org/posts/open-source-economic/review-the-emerging-economic-paradigm-of-open-source/</link>
-      <pubDate>Wed, 13 Feb 2019 12:28:56 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/open-source-economic/review-the-emerging-economic-paradigm-of-open-source/</guid>
-      <description>引言 开源之道在2018年一月份，专门写了一篇关于 Bruce Perens 的文章：Bruce Perens，向全世界宣布“开源”的人，对，没错，就是这位跨界的、才华横溢的开发者、律师，然而，我们在文章中也提及了他在2004年公开发表的一份关于开源经济学的报告。适兕由于各种事情，并没有细读它，直到近来得空整理自己打印出来的paper的时候，于是干脆细研一番。可是读完之后才发现。这是一篇既被程序界，又被经济学界忽略的重要文章！忍不住和大家分享、解读一番。
-论文背景 写这篇论文的时候，Perens 的身份是乔治华盛顿大学网络安全政策研究所的开源高级研究员。当然我们也知道Bruce Pernens 的其它身份，他是开源运动的领袖之一，Debian/GNU Linux的领导者、也是开源定义的发起者。他当然是开源的坚定捍卫者之一，那么作为理解商业的自由软件追随者，他要从经济学角度来告诉世人，开源是有未来的！
-于是，有了这篇：The Emerging Economic Paradigm of Open Source，翻译过来就是：开源的新兴经济范式。
-相信以直觉指导自己生活的人，开源的怎么能够产生经济？其实这个因果关系，和人类犯得大部分错误一样，确实是错的。但是需要给世人一个说法，这就是Perens所要解释的初衷。开源可以完全在传统的开放市场经济学的背景下解释，事实证明，它与资本现象有着非常强的联系，而不是人们直觉上认识的那样。（比如从软件工程的角度来评估一个项目价值：如何评估一个 Linux 发行版的总体成本。）
-论文结构 相对于一般的学术论文，这篇文章可能没有什么固定的格式，而是以问题引入，然后逐步回答的过程，最后以几个零碎的、人们常见的疑问做出回答。
- 提出问题：开源的经济学基础 最为常见的问题误区是什么？ 开源软件开发的经济优势 开源经济的组成部分 总结 接下来的研究和阅读  重要观点汇总 开源仅仅礼物经济吗？ 在开源之道图书和文献共读的2019第一期所读的图书《软件悖论:商业软件的崛起与陨落》导读+书评，有一个重要的软件悖论：软件是如此的重要，是上升到公司战略层次的重要，然而其商业价值却在降低？是什么导致这样的一种情况？ 那么，也就是说过去几十年，商业软件的崛起，让人们产生了一个错觉，那就是生产的软件可以直接当做产品来售卖，而且还价格昂贵。所以，即使到了今天，仍然是大概率事件的是：“所谓做软件，就是生产和售卖软件来赚取利润。”，以至于开源本身的特性之一：可以免费的获取！ 这条就被所有人误解。以至于人们认为开源是和经济不挂钩的，它是道德和理想主义者意念的产物，走不了多远！然而，持这样想法的人是错的。Bruce Perens 开明宗义的告诉你：“开源之有着深厚的经济学基础的！” 不止于 Eric Raymond 在《大教堂与集市》所称的“礼物经济”。 如果仅仅是礼物经济的话，那么后来的各种大公司的介入就无法解释了。那么这个基础究竟是什么了呢？请接着往下读。
-为什么人人都希望是微软？  开源之道注：微软是售卖软件许可商业模式的开创者，也是最大的受益者之一，成就了一个商业帝国！所以这里的微软是指这样一类公司，并不是特指哪家叫做Microsoft的公司。
- 将软件当做商品来售卖，或者视软件公司为供应商，这是很多人的思路，包括现在的从业人员，当然我们不能指望所有人都有反思的能力。那么就会有人问出这样的问题：“怎么做才能成为一下个微软？”
- 其实，由于中国长久以来的对于书籍、音像制品的观念，如何以自由开源软件成为下一个微软？ 这样的问题大概才是人们真心想问的。如华创资本的投资人谢佳在知乎上发表了开源102：开源在商业中的竞争优势到了开源中国就被更该为: &amp;ldquo;大厂小厂都在搞开源，它真的能赚钱？&amp;rdquo; 投机者到处都是，不劳而获又不会受到惩罚，又是一个道德大于法律的人情历史国家，从来就不缺乏规则的投机者，那么开源是首先被这些人能够看到，并利用的。所以，这也是这些人经常问的问题。
- 接下来，Perens 提出了一个现在看来是众所周知的观点，但事实证明，微软模型只占当今企业制作和使用的软件的一小部分。绝大多数软件是企业自身开发的，而不是用来销售的。也就是说所开发的软件和所有的工程问题一样，你得有一个目的：完成某个特定的事！没有一家软件公司可以完成所有的事情！ 理解这一点是解释开源经济的良好开端。
-自由软件与开源的区别 作为“Open Source”的定义者，Bruce Perens 当然对自由软件和开源有着深刻的理解，是平衡的艺术大师！这里他提到开源是基于自由软件的理念的，即 Richard Stallman 在1983年提出的自由哲学！是站在巨人的肩膀上的！
- 开源之道特别赞赏这样的科学精神，之所以今天能走到这里，全是靠着前人的成果！无论我是顺着还是颠覆。反观国内乱象：总是称自己是石头蹦出来的齐天大圣！
- 然而，Perens认为：”Stallman 选择了一个吸引程序员的哲学表达。而商人都是实用主义，更感兴趣的是经济利益。” 于是，联合Eric Raymond 选择了以更为务实的方式和商人们接触，并期望这些商人们能够从中看出自由软件的诸多益处。于是，开放源代码定义诞生了！</description>
     </item>
     
   </channel>
