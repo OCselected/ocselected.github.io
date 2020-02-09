@@ -70,6 +70,26 @@ hugo -k 模板名 new posts/文件路径  例如，开源之道每周评论使�
     </item>
     
     <item>
+      <title>后开源时代的软件自由；开源的两面性；等，开源之道一周精选2020 02 02</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-09/</link>
+      <pubDate>Wed, 05 Feb 2020 20:54:36 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-09/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 ![]()
+over-the-air 编程 原文链接：Over-the-air programming
+适兕点评：
+ 作为一名来自传统企业界的伪开发者而言，手机端的开发确实是异乎寻常的，即使是在早年间，也没有推倒重来的做法，都是这么一层一层的走过来的，了解Android的过程中，顺带学了点新知识。
+ 开源贡献：快速成长 原文链接：Open Source contributions: A catalyst for growth.
+适兕点评：
+ 一名大学生通过参与开源获得快速提升的实际经验。虽然我对类似的故事见得很多，但是无论多少都会感动。比如文中的这句话：Contributing to Open Source organizations opens you up to a lot of opportunities and connects you with people doing amazing things all over the world. 这不是固守一方水土能感受得到的。
+ Mårten Mickos 一篇旧采访 原文链接：Interview with Mårten Mickos
+适兕点评：
+ 因为FOSDEM 2020上，Stephen Walli总结了一条 Mickos定律，将项目和产品做了一个精辟的定论，然后就找了一篇 Mickos 的文章来看看，路径是Google-wikipedia-文章,就是这样一条路径，也是需要费劲功夫方能获得。渐渐的就倒退了，倒退到没有新闻自由，没有判断力&amp;hellip;&amp;hellip;
+ 后开源时代的软件自由 原文链接：Software Freedom in a Post Open Source World</description>
+    </item>
+    
+    <item>
       <title>银行终究还是要拥抱开源的；建立能够让开源共同体持续发展的公司 等开源之道一周精选(2019 02 02)</title>
       <link>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-02/</link>
       <pubDate>Wed, 29 Jan 2020 16:38:57 +0800</pubDate>
@@ -1987,34 +2007,6 @@ Machine learning, distributed computing and the use and exploitation of new chip
 云计算的时代，似乎改变了什么?微软拥抱开源了，AWS的反抗者OpenStack，显得有些过于贪婪。商业公司操纵的CNCF基金会，拥泵仿佛僵尸一般左冲右突。
 历史就是这样，只有过去了才能明白怎么回事。我自己的定位有多清晰？
  为什么说开源对于微软来说很重要 原文链接：Why open source is so important to Microsoft</description>
-    </item>
-    
-    <item>
-      <title>开源之道三周精选(2018 02 25)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-02-25/</link>
-      <pubDate>Fri, 23 Feb 2018 10:47:22 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-02-25/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 红帽收购CoreOS的真实原因 原文链接：The Real Reason Red Hat Is Acquiring CoreOS
-适兕点评：
- 开源，走商业录线，可选择的路线不多，红帽在其中绝对的占有优势地位，现在的红帽俨然是一个庞大大物。不要放弃。
-本文从商业的角度来看，来评价红帽收购CoreOS，想要在容器的世界里占领先机，不搞点动作还真不是那么回事。RedHat的竞争对手是Docker，那么必须搞点事情出来，才能赢得用户和合作伙伴。
- 开源领导力峰会2018 原文链接：Open Source Leadship summit 
-适兕点评：
- 足足三天的关于开源治理的内容，社区建设、开源项目、企业关系、产品管理等。
-这是我要的吗？其实，我想和人们说明的是，你想100%的利用好开源，就得先去融入它，你光是从开源哪里吸收，做寄生虫，很难把自己的产品搞好。
-有关开源的方法论，似乎越来越多了起来，正在成为显学。很多人都在关注这一领域，很多人都在从事这样一个环境。
- 开源的背后奥秘 原文链接：What lies ahead for open source?
-适兕点评：
- 这是Simon Phipps 的那篇文章，Simon Phipps是现任的OSI的主席，他对接下来十年的开源，做了精彩的语言，本文是对它的那篇文章的混编。
-开源策略、InnerSource、创新，何时是个头？你可以不同意别人的观点，但是你却不能为别人的观点所付出。这才是让你信心动摇的地方。
-有的时候，我也在怀疑，我要不要如此跟踪关于开源发生的事情，这是编辑的世界，不是开源的世界。真正发生的地方，应该是那些代码和思想碰撞的地方。我可能找错了地方。
- 开源生日快乐：简短的功绩回顾 原文链接：Happy birthday open source: A look back at the software that&amp;rsquo;s pushing tech forward
-适兕点评：
- 编辑们将开源再渲染的天花乱坠，如果世人选择不去相信它，它依旧是那样。
-我突然发现，我无法和周边的人聊天，是我自身的问题，讲人与人之间的平等？民主？政治？ 大家都只图一乐。 雾霾也不差自己的那点烟火鞭炮，于是世界正在变得越发的糟糕。
- 红帽：开源崛起，已经是主流 原文链接：Red Hat: open source genesis, to mainstreaming revelations</description>
     </item>
     
   </channel>

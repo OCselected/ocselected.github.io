@@ -138,6 +138,26 @@ apisix
     </item>
     
     <item>
+      <title>后开源时代的软件自由；开源的两面性；等，开源之道一周精选2020 02 02</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-09/</link>
+      <pubDate>Wed, 05 Feb 2020 20:54:36 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-09/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 ![]()
+over-the-air 编程 原文链接：Over-the-air programming
+适兕点评：
+ 作为一名来自传统企业界的伪开发者而言，手机端的开发确实是异乎寻常的，即使是在早年间，也没有推倒重来的做法，都是这么一层一层的走过来的，了解Android的过程中，顺带学了点新知识。
+ 开源贡献：快速成长 原文链接：Open Source contributions: A catalyst for growth.
+适兕点评：
+ 一名大学生通过参与开源获得快速提升的实际经验。虽然我对类似的故事见得很多，但是无论多少都会感动。比如文中的这句话：Contributing to Open Source organizations opens you up to a lot of opportunities and connects you with people doing amazing things all over the world. 这不是固守一方水土能感受得到的。
+ Mårten Mickos 一篇旧采访 原文链接：Interview with Mårten Mickos
+适兕点评：
+ 因为FOSDEM 2020上，Stephen Walli总结了一条 Mickos定律，将项目和产品做了一个精辟的定论，然后就找了一篇 Mickos 的文章来看看，路径是Google-wikipedia-文章,就是这样一条路径，也是需要费劲功夫方能获得。渐渐的就倒退了，倒退到没有新闻自由，没有判断力&amp;hellip;&amp;hellip;
+ 后开源时代的软件自由 原文链接：Software Freedom in a Post Open Source World</description>
+    </item>
+    
+    <item>
       <title>鼠年话开源之二：商业公司如何拥抱开源共同体（Open Source Community） </title>
       <link>http://www.ocselected.org/posts/opensource_talking/2020-02-03-business-embrave-osc/</link>
       <pubDate>Tue, 04 Feb 2020 11:22:48 +0800</pubDate>
@@ -2154,32 +2174,6 @@ IT 厂商的实例 其实，作者作为 Salesforce的创始团队成员，对�
 适兕点评：
  是的，你不可以做道德婊，先礼后兵。法律上是这么定义的，你没有这个权力！
  开源领导峰会2019发布了会议日程 原文链接：Linux Foundation Unveils Impressive Speaker Lineup for Open Source Leadership Summit 2019</description>
-    </item>
-    
-    <item>
-      <title>云原生的旭日东升 —— CNCF 2018年度报告解读</title>
-      <link>http://www.ocselected.org/posts/foundation_introduce/review-cncf-2018-annual-report/</link>
-      <pubDate>Wed, 13 Feb 2019 12:31:27 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/foundation_introduce/review-cncf-2018-annual-report/</guid>
-      <description>引言 阅读非盈利基金会的年度报告有的时候是一种享受，如 Apache 2018年度报告 （PDF） ，你想知道的全部都在，甚至会引导你进一步的探索。但是有的时候，却是一种折磨，如OpenStack 2018年度报告，就是那种蹩脚的售前做的PPT一般，让人味同爵蜡。可是还有一种是位于两者之间，既遮遮掩掩，又欲说还羞，让你不得不去进一步的进行解读。于是有了这篇文章。
-当然，著名的云原生布道师宋净超也做了为题：CNCF年度报告解读（2018年），解读的非常不错，推荐大家阅读，我这边尽可能的读点和Jimmy不一样的视角。
-阅读非盈利基金会报告需要的基础知识 我们可以肆无忌惮的说，非盈利性的、中立的开源软件基金会所生产的开源软件项目，将会是现在和未来的软件主流生产方式！这个无论是从公共产品的角度，还是商业联盟的角度，乃至天然的人类协作方式，都讲的过去。请允许我在这里再一次引用 Nathen Harvey 在 Information Week 中的文章中指出了三个问题：
- “项目应该由商业的赞助商驱动还是外围的贡献者驱动？商业利益是否应该凌驾于社区的意愿之上？该如何以及在哪里为商业实体和开源社区之间划上一个明确的界线？”
- 这三个问题确实是异常的尖锐，回答起来就显得非常的关键，但通过基金会的模式，开放的治理可以解决大多数的问题。
-开源项目/社区、非盈利基金会和商业公司之间的关系 有人说一图胜千言，以下这张图来自 Siobhán 的研究：《Nonprofit Foundations And Their Role In Community-Firm Software Collaboration》论文。
-该图完整的说明了开源项目/社区和非盈利基金会以及商业公司之间的关系。也完整的定义了基金会的意义和功能所在，开发者信奉的哲学中，是不希望有过多的金钱和干涉，希望按照自己的意愿行事。而这让奉行实用主义、关注利润的商业公司是完全相悖的，而且和竞争对手合作，也需要有所约束。于是基金会在他们二者之间找到了位置。
-非盈利基金会的性质 这个由于特殊的环境因素，比较难以理解，因为都是美国的组织，不过我们在阅读这些基金会年度报表的只需要知道一点即可，那就是 501&amp;copy;(6) 和 501&amp;copy;(3)之间的区别。
-比如Linux 基金会就是 501&amp;copy;(6) ，而Apache 软件基金会就是 501&amp;copy;(3) 类型的。具体有什么区别，请有心的看官查阅相关资料。但是在年度报告体现出来的就是Apache 软件基金会会事无巨细的将财务报告写上，而CNCF就不会有这方面的任何材料。
-CNCF 的历史背景 这一点开源之道专门在2018年撰写过一篇文章：CNCF 是如何工作的，请看官在进一步阅读之前，尽量先读一下该文，了解一下CNCF。
-CNCF 2018 年度报告 交待完上述内容，我们就看一下CNCF的年度成绩单。
-孵化项目 &amp;ndash; 基金会存在的核心价值 除了顺利毕业的三个项目：Kubernetes、Prometheus、Envoy，以及一大波选择CNCF孵化的项目，如18年成功进入孵化和沙箱的16个项目：
-那么就是下图所示这些项目的更新和发布信息：
-随着开源开发成为软件开发方式的主流形式，开源项目的良性发展成为所有人追求的对象，谁都知道开源项目的失败率是非常之高的，先进和设计良好的技术仅仅占据其中因素的部分而已，良好的社区发展也占据不亚于技术本身的分量，所以这是基金会重点关注的对象，尽管所创造的制度并不能够直接干涉项目和社区，但是可以为项目和社区制造一个良性运作的环境，开发者要肆无忌惮地发挥自己的创新的能力，是需要一个能够思考、实践和正负反馈的良性的环境的。这就是核心价值，如果没有被世界所需要，那么一切围绕这个核心的内容将不复存在。
-另外值得一提的是CNCF提供了让人们公开查看项目进展的工具：DevStat，以图形化的方式展示项目的活跃度，举个例子，如果你觉得那个项目被某个商业公司所控制的话，就来这里看看，相对于RedMonk的分析而言，这个是源头。当然这是帮助公司的社区经理、开源办公室等需要数据分析和报告的人们的利器！
-发展会员 —— 基金会得以持续运转的财务保障 这就是本文命题的支柱：增长幅度是130%，简直不可思议。（看这个数据，最好是回忆一下2013~2015年的OpenStack基金会扩张速度。）
-企业会员是基金会发展的重要经济来源，也是衡量一个基金会在企业心目中重要标尺，Marketing 是一个非常讲究及时回报的行业，当然，这可能和公司具体的战略有关。当绝大多数的Marketing部门关注到了这个基金会的影响力，就会殷勤的掏出钱来帮助基金会。那么CNCF去年的会员发展，则说明了很多IT公司都看到了云原生这个新兴领域，竞争也是异常的激烈的。
-Marketing 工作 ———— 维持生态的重要手段 关于这点的内容，我这里就不为大家截图了，也就是说Marketing的数据可以大体上扫描一下，如：</description>
     </item>
     
   </channel>
