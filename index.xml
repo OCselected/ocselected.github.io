@@ -88,7 +88,7 @@ Python中文社区创始人(之一) / 管理员, 热心于 Python 等等社区�
       <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
       
       <guid>http://www.ocselected.org/posts/open-source-conference/fosdem-2020-view-record-journal/</guid>
-      <description>[fork me on GitHub]()
+      <description>Edit me on GitHub
 引言 会议内容概要 主 track 历史部分 Unix 早期被遗忘的历史 原文链接：The Forgotten history of early Unix
 适兕点评：
  适兕最近在酝酿一篇文章，如何通过文字的描述，让没有感受过开源共同体力量的人感受一番，那么这个分享所提供的材料对于我来说无疑是雪中送炭，目前非常成功的开源项目：Linux、Apache Httpd、Perl、Python等，如果想讲清楚整体的来龙去脉，用如下一段话来形容会更加的妥当：
@@ -96,11 +96,11 @@ Python中文社区创始人(之一) / 管理员, 热心于 Python 等等社区�
 ​ ———— 欧阳莹之《工程学：无尽的前沿 》
 就拿Linux 来说吧，想以一种文学式的、历史（探究）式的方式让大众理解这一点，确实难度很高，如何从理性的阶梯视角将这件事讲清楚，诸如Unix：https://www.tuhs.org/ 这样的材料和视角是不可或缺的。
 本主题没有留下video。
- ![]()
-###
-原文链接：[]()
+ Blender, Coming of Age 原文链接：18 years of Blender open source projects
 适兕点评：
- f
+ 本文的主标题用的很棒，我曾经这样描述过开源，一个翩翩少年！看这样的故事总是让人非常的感动，一个项目坚持18年，本主题演讲者没有什么情感上的描述，只是需要这个项目的成长过程，如何在关键的时候获得用户以及用户的认可，并开始逐步走上正轨的。太励志了！尤其是最后关于How、Why、What的西蒙的说法，这个不是什么商业上的，而是纯粹的技艺。
+有的时候，我在想，资本是加速了一件事物的发展，是催产素的作用？如果没有资本的加速，工匠们能坚持多久？
+绝对值得一看的视频！
  DevRoom 共同体 ![]()
 企业开源项目构建共同体经验和思考 原文链接：Building a thriving community in company-led open source projects
 适兕点评：
