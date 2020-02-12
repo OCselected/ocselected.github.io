@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Fosdem 2020 观看会后记录日志</title>
+      <title>FOSDEM 2020 观看会后记录日志</title>
       <link>http://www.ocselected.org/posts/open-source-conference/fosdem-2020-view-record-journal/</link>
       <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
       
@@ -31,10 +31,10 @@
  本文的主标题用的很棒，我曾经这样描述过开源，一个翩翩少年！看这样的故事总是让人非常的感动，一个项目坚持18年，本主题演讲者没有什么情感上的描述，只是需要这个项目的成长过程，如何在关键的时候获得用户以及用户的认可，并开始逐步走上正轨的。太励志了！尤其是最后关于How、Why、What的西蒙的说法，这个不是什么商业上的，而是纯粹的技艺。
 有的时候，我在想，资本是加速了一件事物的发展，是催产素的作用？如果没有资本的加速，工匠们能坚持多久？
 绝对值得一看的视频！
- DevRoom 共同体 ![]()
-企业开源项目构建共同体经验和思考 原文链接：Building a thriving community in company-led open source projects
+ ![]()
+二十多年来的自动化 原文链接：Over Twenty Years Of Automation
 适兕点评：
- 来自 GitLab的 Ray Paik分享的观点和思考，其演示文稿就非常之精彩，Building a thriving community in company-led open source projects (slides),总结起来就非常之简单: 不遗余力的迎合共同体所有内容：welcoming diverse viewpoints, lowering barriers to entry, being responsive to community contributions, and remaining transparent about decision making.</description>
+ 开始分享的雪天撞车滑稽中带着严酷的悲剧。scripts -&amp;gt; cfEngine -&amp;gt; puppet -&amp;gt; chef -&amp;gt; ansible -&amp;gt; docker -&amp;gt; kubernetes 一路发展下来。这应该是我个人喜欢讲的技术史，有实例，有数据，还有众所周知的历史故事。</description>
     </item>
     
     <item>
