@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.ocselected.org/community/welcome-to-anyone-contribute/</loc>
+    <lastmod>2020-02-13T22:51:50+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.ocselected.org/posts/opensource_talking/2020-02-10-what-is-good-communition-tool/</loc>
     <lastmod>2020-02-10T11:40:17+08:00</lastmod>
   </url>
@@ -2375,7 +2380,7 @@
   
   <url>
     <loc>http://www.ocselected.org/community/</loc>
-    <lastmod>2020-02-07T14:45:05+08:00</lastmod>
+    <lastmod>2020-02-13T22:51:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2440,6 +2445,12 @@
   </url>
   
   <url>
+    <loc>http://www.ocselected.org/tags/%E5%85%B1%E5%90%8C%E4%BD%93%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2020-02-13T22:51:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.ocselected.org/tags/%E5%86%85%E9%83%A8%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2017-08-18T21:22:49+08:00</lastmod>
     <priority>0</priority>
@@ -2470,14 +2481,14 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2019-09-12T16:27:21+08:00</lastmod>
+    <loc>http://www.ocselected.org/topics/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2018-04-27T11:49:36+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/topics/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2018-04-27T11:49:36+08:00</lastmod>
+    <loc>http://www.ocselected.org/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2019-09-12T16:27:21+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2513,7 +2524,7 @@
   
   <url>
     <loc>http://www.ocselected.org/</loc>
-    <lastmod>2020-02-10T11:40:17+08:00</lastmod>
+    <lastmod>2020-02-13T22:51:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   

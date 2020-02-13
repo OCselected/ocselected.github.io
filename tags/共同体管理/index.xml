@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>共同体管理 on 开源之道</title>
+    <link>http://www.ocselected.org/tags/%E5%85%B1%E5%90%8C%E4%BD%93%E7%AE%A1%E7%90%86/</link>
+    <description>Recent content in 共同体管理 on 开源之道</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 13 Feb 2020 22:51:50 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.ocselected.org/tags/%E5%85%B1%E5%90%8C%E4%BD%93%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>开源之道需要你的帮助</title>
+      <link>http://www.ocselected.org/community/welcome-to-anyone-contribute/</link>
+      <pubDate>Thu, 13 Feb 2020 22:51:50 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/community/welcome-to-anyone-contribute/</guid>
+      <description>开源之道初心 适兕在很多场合表达过为什么要做开源之道，当然随着岁月的沉淀，基本就总结为一句话了，也是开源之道的口号：致力于开源相关思想、知识和价值的探究！
+相关文章可以参考：
+ 为什么基于成功的开源项目的商业产品会失败？ 历史的维度——开源、拿来主义与自主可控的历史对比 开源之道 开源之道与开源之术  开源之道发展 当写下文章《为开源和商业正名》一文时，就奠定了适兕走上了求索开源这条道路上，凭借毫无来由的决心与勇气，自那之后三年多以来，就开始布道开源、研习开源、探讨开源、参与开源的道路上：
+ 撰写和翻译文章：开源之道（阅读指南） 撰写每周评论 发起开源之道图书共读小组，并撰写书评 发起开源之道文化日历 发起Community Leadership Development 小组 发起大学生开源教程 参与各种类型开源活动的演讲活动   开源之道瓶颈 尽管有来自如下贡献者的提交：
+ MartinForReal Heming Peter Willem Jiang  但是同时进行如上项目，适兕心有余而力不足了，除了完成以上内容之外，比如还想进行的内容：
+ 开源项目和共同体分析（采用CHAOSS方式） Community Leadership Development 线下活动 开源之道图书共读线下交流活动 帮助孵化具备竞争力的开源项目  所以开源之道个人博客，要转型为开源之道共同体（Community）来发展，也就是说适兕要交出控制权，聚拢有相同需求和志向的人们来完成上面的事情，这是一次非比寻常的尝试，也是非常值得去努力做的。
+你能够做什么？ 前端开发 在开源之道文章贡献指南中其实已经做了一些描述，使用hugo项目来生成站点，所以前端的工作就有很多，比如：
+ 为文章添加留言和探讨功能 标签和分类的链接 &amp;hellip;&amp;hellip;  美工设计 还没有统一风格的设计，甚至也logo都没有。
+开源文化传播 撰写原创文章 因为开源之道是文章起步的，所以文章也是最具穿透力。详情请参考开源之道文章贡献指南
+关于开源之道原创文章的风格指南
+翻译外文 适兕看到一些优秀的外文开源文章会收集起来：开源之道 2020 年文章计划表,然后根据自己的时间来进行翻译，贡献者可以做：
+ 推荐优秀的译文 翻译开源之道认可的外文优秀文章，并取得原作者的同意 上述两者都做  制作播客 开源之道 talking，适兕一直都在酝酿，终于在2020年的春节接着 &amp;ldquo;Community Leadership Development&amp;rdquo;的人气，开了一个良好的头：</description>
+    </item>
+    
+  </channel>
+</rss>

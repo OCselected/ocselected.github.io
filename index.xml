@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 10 Feb 2020 11:40:17 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 22:51:50 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道需要你的帮助</title>
+      <link>http://www.ocselected.org/community/welcome-to-anyone-contribute/</link>
+      <pubDate>Thu, 13 Feb 2020 22:51:50 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/community/welcome-to-anyone-contribute/</guid>
+      <description>开源之道初心 适兕在很多场合表达过为什么要做开源之道，当然随着岁月的沉淀，基本就总结为一句话了，也是开源之道的口号：致力于开源相关思想、知识和价值的探究！
+相关文章可以参考：
+ 为什么基于成功的开源项目的商业产品会失败？ 历史的维度——开源、拿来主义与自主可控的历史对比 开源之道 开源之道与开源之术  开源之道发展 当写下文章《为开源和商业正名》一文时，就奠定了适兕走上了求索开源这条道路上，凭借毫无来由的决心与勇气，自那之后三年多以来，就开始布道开源、研习开源、探讨开源、参与开源的道路上：
+ 撰写和翻译文章：开源之道（阅读指南） 撰写每周评论 发起开源之道图书共读小组，并撰写书评 发起开源之道文化日历 发起Community Leadership Development 小组 发起大学生开源教程 参与各种类型开源活动的演讲活动   开源之道瓶颈 尽管有来自如下贡献者的提交：
+ MartinForReal Heming Peter Willem Jiang  但是同时进行如上项目，适兕心有余而力不足了，除了完成以上内容之外，比如还想进行的内容：
+ 开源项目和共同体分析（采用CHAOSS方式） Community Leadership Development 线下活动 开源之道图书共读线下交流活动 帮助孵化具备竞争力的开源项目  所以开源之道个人博客，要转型为开源之道共同体（Community）来发展，也就是说适兕要交出控制权，聚拢有相同需求和志向的人们来完成上面的事情，这是一次非比寻常的尝试，也是非常值得去努力做的。
+你能够做什么？ 前端开发 在开源之道文章贡献指南中其实已经做了一些描述，使用hugo项目来生成站点，所以前端的工作就有很多，比如：
+ 为文章添加留言和探讨功能 标签和分类的链接 &amp;hellip;&amp;hellip;  美工设计 还没有统一风格的设计，甚至也logo都没有。
+开源文化传播 撰写原创文章 因为开源之道是文章起步的，所以文章也是最具穿透力。详情请参考开源之道文章贡献指南
+关于开源之道原创文章的风格指南
+翻译外文 适兕看到一些优秀的外文开源文章会收集起来：开源之道 2020 年文章计划表,然后根据自己的时间来进行翻译，贡献者可以做：
+ 推荐优秀的译文 翻译开源之道认可的外文优秀文章，并取得原作者的同意 上述两者都做  制作播客 开源之道 talking，适兕一直都在酝酿，终于在2020年的春节接着 &amp;ldquo;Community Leadership Development&amp;rdquo;的人气，开了一个良好的头：</description>
+    </item>
     
     <item>
       <title>「鼠年话开源」之七：社群的交流工具 </title>
@@ -2138,18 +2158,6 @@ Linux最引人注目的特性之一就是让所有的开发人员都可以访问
 那么我们就来说说脱离主干（out-of-tree)的代价是什么，以下列表从内核开发流程上的一小部分，其中大部分内容将在本文档后面详细讨论。考虑如下情形：
  合并到内核主干的代码是供所有 Linux 用户使用。它将自动出现在使用它的所有发行版中。不需要驱动程序磁盘，下载或支持多个版本的多个发行版的麻烦;这一切都适用于开发人员和用户。换句话说，并入主干解决了大部分的分发、支持问题。 虽然内核开发人员在努力的维护和用户空间接口，希望保持稳定，但是事实上，内核内部的 API 仍在不断的变化。缺乏稳定的内部界面是一个深思熟虑的设计决策;它允许随时进行基本改进，并产生更高质量的代码。基于该策略的一个结果就是，那些脱离主干的分支如果要使用新的内核，就要不断的从主干中获取这些代码，即需要不断的进行维护，而这需要大量的工作才能保持代码正常的工作。  相反，在主干中的代码就没有这些额外的工作，如果有 API 的变更，开发者们就会立即在主干中进行修复和处理。所以，合并到主干的代码在维护成本上具有显著的优势。
  除此之外，内核中的代码通常会被其他开发人员改进。有的时候，用户社区和客户所改进的产品，往往惊喜不断。  内核的代码在合并到主干之前和之后均是审核的，无论这些原创开发人员的技能有多强，这个审核过程总会能找到可以改进代码的地方。通常情况下，这样的审核都能够发现Bug以及安全方面的问题。对于在封闭环境中开发的代码尤其如此，某种程度上讲，linux内核非常受益于这些外部的开发人员的审核。脱离主干（Out-of-tree)的代码将意味着质量难以保证。  开发者只要参与到内核的开发中来，就可能会影响到项目的发展方向。如果说用户只是在旁边抱怨的话，真的没有啥意思，不如让事情按照自己的意愿去发生。那些活跃的开发者在社区拥有极强的声音 —— 以及改进的能力，这可以让内核满足他们自身的需求来进行发展和进化。 当分支代码被单独维护时，始终存在由第三方提供类似功能的不同实现的可能性。如果发生这种情况的话，合并代码将变得更加困难 —— 甚至到了几乎不可能的地步。真到了那个时候，就面临着令人非常不爽的选择：要么选择无限期地保持脱离主干的非标准特征，要么是放弃这些脱离主干的代码，然后回迁到主干版本。 代码的贡献是整个流程的最为基本的行为，这也是之所以现有的流程能够良好运作的前提。通过贡献代码，开发者可以向内核添加自己想要的功能，也是对于其他内核开发人员同样有实际用处。如果你已经为Linux写过代码（或者正在考虑这样做），那么您显然对该平台的持续成功感兴趣;贡献代码是帮助确保成功的最佳方式之一。  以上所有的可能结果，都是脱离主干（out-of-tree)所导致，也包括那些以专有的形式、仅发行二进制的方式。但是，在考虑任何类型的仅二进制内核代码分发之前，还应考虑其他因素。这些包括：</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 03 03)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-03/</link>
-      <pubDate>Sun, 03 Mar 2019 08:44:10 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-03/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 世界上最大的银行正在加速拥抱人工智能 原文链接：The World&amp;rsquo;s Biggest Banks Are Doubling Down On Artificial Intelligence
-适兕点评：
- 这里值得说一下的是Capital One，几乎和拥抱开源是一个套路：True diversity in tech will only come when everyone has access to the same technical information and educational opportunities . When young technologists feel welcomed into the AI development community — no matter what language they speak or culture they come from — that openness will go a long way to increasing the number of skilled engineers, along with more diverse perspectives and experiences in the field.</description>
     </item>
     
   </channel>
