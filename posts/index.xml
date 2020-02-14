@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 10 Feb 2020 11:40:17 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2020 12:16:15 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Community Leadership Development 日常探讨之：如何吸引运营人员参与开源社区？</title>
+      <link>http://www.ocselected.org/posts/community_leadership_development/discuss_of_how_to_attract_operators_to_participate_os_community_20200213/</link>
+      <pubDate>Fri, 14 Feb 2020 12:16:15 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/community_leadership_development/discuss_of_how_to_attract_operators_to_participate_os_community_20200213/</guid>
+      <description>注：以下为WeChat Group中实录，根据剧情需要做了适当的修改。
+吴晟  运营就是工作了。你指的运营是什么？工程师是项目最好的推广者。
+ 代立冬  感觉有运营思维的工程师不好找啊
+ 吴晟  自己来。自己不行，别人更不行哈。如果project lead都推广不了，那就没人能推广出去了。
+ 谭中意  这么说吧， 单纯的运营能帮你做事，但是对于这个社区的调性， 只能靠你来把握的。工程师得有运营意识，就当成认识客户，收集需求，并培养新人好了。
+ 代立冬  我原本是觉得不够专业,社区运营应该也有些套路啥的。
+ 吴晟  懂原理的都不专业……谁专业？[捂脸]又一个相信银弹的
+ 谭中意  别希望一个强力的运营，从天而降，然后帮你解决什么问题，然后拍拍手。 这个运营得你自己的社区成长出来。别人的运营经验可以学习，可以参考，但是不能照搬。
+ 庄表伟  我觉得，运营主要还是靠感情投入，自己亲生的，才有感觉，才能运营得好。当成8小时工作来做的，估计都不行。
+ Kevin Wang  运营可以归类到non-code contributor? ambassador、meeting/event organizer之类的吧？
+ 吴晟  还有一个问题，人家运营的素材还得你工程师去写，顶多就是帮你润色下，skywalking我写的国外的东西，我们公司是有content delivery的人帮忙修改的。
+ Richard 林旅强  读Jono Bacon的《社区的艺术》一书就基本上知道怎么运营了，自己搞比不懂的人来搞更有效，要把自己/核心开发者打造成KOL/网红，例如群里面好几位都是，就不点名了哈，运作的是开源社区（贡献者社区）或是开发者社区（用户社区）也需要定位/分层清楚，对不同的人不同的运营方式。
+ 适兕  读英文原版就好了，翻译的不怎么样，非it界翻译的。推荐阅读Jono的新书《people powered》，开源之道共读图书列表（2020版） 关于共同体部分，强烈推荐。
+ Bonnie  我的理解是，运营最核心的还是有“价值的内容“，在社区里面，“有价值的内容”应该就是指“开源的项目”、“技术分享”等。 有了这些 内容，在加上一些策略，达到让社区更活跃、开放的目的。概括来说就是“拉新、促活、转化”，不断地更多人知道这个社区，进而不断有更多人加入，这些人又像经过漏斗一样，最终产生一批对社区有贡献、有感情地核心参与者。
+如果说，组织者自己学习运营然后落实，这种当然很好，因为组织者更加了解受众。 不过因为每个人的时间都是有限的，而且一个人做这些事情真的很累（我是这样理解的）。 其实就可以把运营的工作交出去，自己做 内容上的指导，宏观把控。 在社区里有相应的分工，有人负责运营，有人负责内容。</description>
+    </item>
     
     <item>
       <title>「鼠年话开源」之七：社群的交流工具 </title>
@@ -225,10 +248,10 @@ over-the-air 编程 原文链接：Over-the-air programming
     
     <item>
       <title>Community Leadership Development 是什么？做什么？</title>
-      <link>http://www.ocselected.org/posts/community_management/why_create_community_leadership_development_group/</link>
+      <link>http://www.ocselected.org/posts/community_leadership_development/why_create_community_leadership_development_group/</link>
       <pubDate>Tue, 21 Jan 2020 18:32:04 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_management/why_create_community_leadership_development_group/</guid>
+      <guid>http://www.ocselected.org/posts/community_leadership_development/why_create_community_leadership_development_group/</guid>
       <description>致力于开源相关思想、知识和价值的挖掘。
  引言 开源之道 ，是适兕的个人博客，不知不觉地写了三年多。如果仅止于写或者翻译文章的话，那么可能会错失很多东西，因为从文章中可以学习和感悟到很多，如开源之道图书共读，又如现在我们所谈到的:（开源）共同体领导力发展，各种机缘巧合碰撞的结果。
  Software and technology is the easy part. The hard part is creating and fostering a culture around an open-source project.
@@ -470,10 +493,10 @@ GitHub 赞助团队招聘开发者项目经理 原文链接：Developer Program 
     
     <item>
       <title>打造归属感的共同体</title>
-      <link>http://www.ocselected.org/posts/community_management/the-art-of-community-building-belonging/</link>
+      <link>http://www.ocselected.org/posts/community_leadership_development/the-art-of-community-building-belonging/</link>
       <pubDate>Fri, 06 Dec 2019 11:00:01 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_management/the-art-of-community-building-belonging/</guid>
+      <guid>http://www.ocselected.org/posts/community_leadership_development/the-art-of-community-building-belonging/</guid>
       <description>**“Great things are not done by impulse, but by a series of small things brought together.” **
 ​ — Vincent Van Gogh
  开源之道按 适兕在年底的时候，也会和大多数人一样，总结一下过去的一年得失，然后寄希望于接下来的一年。那么当开源大行其道的时候，似乎一下子全民开源起来了，开源之道能做点什么了呢？不如直击核心: 共同体！
@@ -753,10 +776,10 @@ GitHub Sponsor 背后推动者 如此重大的功能，究竟是谁推动和缔�
     
     <item>
       <title>开源软件项目的定性和定量分析指标 ———— CHAOSS 指标解析</title>
-      <link>http://www.ocselected.org/posts/community_management/chaoss_metrics_201908_learning/</link>
+      <link>http://www.ocselected.org/posts/community_leadership_development/chaoss_metrics_201908_learning/</link>
       <pubDate>Thu, 24 Oct 2019 18:06:47 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_management/chaoss_metrics_201908_learning/</guid>
+      <guid>http://www.ocselected.org/posts/community_leadership_development/chaoss_metrics_201908_learning/</guid>
       <description>“科学管理在实质上要求任何一个具体机构或机构中的工人及管理人员进行一场全面的心理革命，没有这样的心理革命，科学管理就不存在。” ———— 泰勒 《科学管理原理》
  引言 笔者最近阅读了CHAOSS 在8月份发布的开源软件项目的量化指标，颇受启发，于是索性将所想所得和大家分享一番，开源之道走过了这几年，抽丝剥茧，一直试图找到和大家探讨的话题，一同解决令人困惑的难题，但是缺少必要的积累，一直倾向于定性的探索和研究，鉴于知识背景和视野的不同，于是很难找到让大家感兴趣的话题，甚至某位朋友善意的提醒：“多讲点实在的”，多年过去了，我也终于对关于定性的问题有了一些理解和认识，那么这也意味着是该集中起来做些定量的指标衡量的事情了。
 当然，伴随着科技的进步，很多人开始迷信数据，比如流行GitHub star数量、fork数量等等，这尤其体现在某些公司做考核之用，非常的实惠。但是这并不是开源之道所看重的，尽管量化指标很重要，正如红帽开源项目办公室的高级首席社区架构师Brian Proffitt（同时也是CHAOSS的治理委员会成员）所言，你有了指标和衡量，就一定保证Community是健康的吗？对此开源之道是颇为赞同的，一直以来坚持在没有搞清楚性质之前，不要去迷信数据的缘由。
@@ -1561,10 +1584,10 @@ Apache 软件基金会为每个项目设置了两份治理文档，首先是基�
     
     <item>
       <title>如何管理开源项目中的即兴贡献者</title>
-      <link>http://www.ocselected.org/posts/community_management/managing-casual-contributors/</link>
+      <link>http://www.ocselected.org/posts/community_leadership_development/managing-casual-contributors/</link>
       <pubDate>Mon, 20 May 2019 18:07:49 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_management/managing-casual-contributors/</guid>
+      <guid>http://www.ocselected.org/posts/community_leadership_development/managing-casual-contributors/</guid>
       <description>名词解释 casual contributors，也被称为是 &amp;ldquo;episodic volunteering&amp;rdquo; ，意指那些开源社区中，没有担任特别的职责，偶尔零星的会对社区和项目做出贡献的志愿者们。和像演员的非正式训练，将生活中的某个有趣的片段当做艺术来演绎。故开源之道翻译为即兴。
 引言 开源是如此的重要，以至于美国政府禁止美国公司和华为进行贸易的事件，让国内的软件界的人倍感压力，甚至就美国政府是否会干涉开源基金会这事，开源社、CSDN等还专门撰文澄清，也是洋洋软件大国的一大奇观了。
 但是毋庸置疑的是，虽然开源软件使用了不少，但是开源社区在国内的发展确实是差了非常多，至今没有一个像样的社区，更加不用提基金会的事情了。开源之道还是坚持一贯的主张，努力的去提高认知，掌握开源背后的思想、知识和价值，或许能够在较可预见的期限内能够找到一条成功的路径来。否则，只有倒退。
@@ -1631,10 +1654,10 @@ Apache 软件基金会为每个项目设置了两份治理文档，首先是基�
     
     <item>
       <title>现代开源项目如何实现贡献者增长（译文）</title>
-      <link>http://www.ocselected.org/posts/community_management/growing-contributor-base-modern-open-source/</link>
+      <link>http://www.ocselected.org/posts/community_leadership_development/growing-contributor-base-modern-open-source/</link>
       <pubDate>Sat, 11 May 2019 14:02:23 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_management/growing-contributor-base-modern-open-source/</guid>
+      <guid>http://www.ocselected.org/posts/community_leadership_development/growing-contributor-base-modern-open-source/</guid>
       <description>引言 很荣幸，你我都经历了一个开源的黄金时代！如今的互联网公司也好，传统企业也罢，甚至是电信运营商、好莱坞制片厂、国家电网等等，都在拥抱和贡献开源，那么也有很多公司开源里自己的主导和发起的项目，如近来的GitHub 开源公司/组织整理，那么问题来了，这些项目仅仅只是展示吗？这些商业公司显然不是在做慈善活动，那么其中最大的可能就是想利用公司外部的开发者帮助项目成长和发展，那么这些开发者会闻讯赶来？还是避之唯恐不及？
 如果你是一名开源项目的社区管理者，该如何实现吸引开发者、留住贡献者、赢得用户喜爱？让我们来看看Node.js的社区经理分享的经验。
 背景介绍 Node.js 在过去的一年（2015）里的重点工作就是吸引更多的贡献者参与进来，Node.js从创建以来，一直都保持着100%的势头增长着，但是实际上贡献者并灭有在增长。
@@ -1908,10 +1931,10 @@ FreeBSD 和 Bill Joy 上世纪60年代，Unix诞生于Bell实验室，在1973年
     
     <item>
       <title>6条让社区繁荣的实用方法，进而取得项目成功</title>
-      <link>http://www.ocselected.org/posts/community_management/6_ways_a_community_help_project_succeed/</link>
+      <link>http://www.ocselected.org/posts/community_leadership_development/6_ways_a_community_help_project_succeed/</link>
       <pubDate>Mon, 25 Mar 2019 22:04:06 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_management/6_ways_a_community_help_project_succeed/</guid>
+      <guid>http://www.ocselected.org/posts/community_leadership_development/6_ways_a_community_help_project_succeed/</guid>
       <description>所谓的创新、研究、市场营销、技术支持等等，所有这些企业的因素，社区均可以提供，当然，前提是你足够的重视社区。
  开源之道注： 这是一篇常见的基于开源项目的商业公司的市场软文，本文算不上任何的高明之处，在大讲各种人类美好愿景的同时，添加进自己商业公司，肮脏到没有任何的底线。之所以翻译它，是因为它颇具代表性，国内特殊的文化环境，是无法吐槽任何公司的，所以不妨以这篇文章来告诉大家真相。
  NethServer 是一家叫做来自意大利的公司 Nethesis 所开发的开源产品，大约维持了很多年，产品之所以有今天的样子，离不开社区的支持。
@@ -2146,29 +2169,6 @@ Linux最引人注目的特性之一就是让所有的开发人员都可以访问
 适兕点评：
  人人都喜欢Open的东西。开放式的厨房、开放式的流程、开放式的代码&amp;hellip;&amp;hellip;只是开放有时候有一个副作用就是容易被复制和效仿。但是，从民主化的角度来讲，这其实是个此消彼长的过程。
  Linux 基金会启动 ELISA 项目，旨在构建安全的系统 原文链接：Linux Foundation launches ELISA, an open source project for building safety-critical systems</description>
-    </item>
-    
-    <item>
-      <title> 数字化转型时代的主流商业模式 ——《订阅》 导读&#43;书评</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future/</link>
-      <pubDate>Mon, 18 Feb 2019 07:03:37 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future/</guid>
-      <description>为什么要阅读这本书？ 开源之道图书共读，这本《订阅》乍看起来似乎和开源没有半毛钱关系，实际上二者是惊人的相似。伴随着数字化转型的全面到来的时代，和客户打成一片，通过建立紧密的联系，依靠客户的正负反馈来进一步提供更优质、更合适的服务，而这不就是开源软件生态多践行和倡导的吗？正如书中所言，我们正处于商业史上的关键时刻，而这是工业革命以来从未见过的。世界正在从产品转向服务，而开源的发展也已经进入一个逐步成熟的时期，开始从软件工业走出来，影响和渗透其它行业。换句话说，如果你想把握好下一代商业模式，有了开源的背景，理解起来会更加的容易，掌握的也更快。
-评论区 Salesforce 主席兼CEO Marc Benioff 如此评价本书作者和书籍：
- 我很幸运地能够在 Salesforce 创业早期，找到了 Tien Tzuo 成为 Salesforce 的第十一名员工，（本书）为任何能够驾驭我们这个时代最重要的商业模式转变的人撰写了权威的参考指南。
-由数字化转型 引发的现在商业模式从单一的产品销售，转变到以围绕着为客户更好产生价值的服务订阅模式。 这种观念上的根本变革所带来的不断持续交付带来的客户黏度的增加，以及加快产品生产过程的有效反馈所带来的效率提升。 对应到开源软件开发上， Internet出现让我们的软件开发和用户之间可以进行高效的协作，通过不断地迭代式交付持续为客户产生价值。 ———— Apache member、华为开源专家 姜宁
- 关于作者 Tien Tzuo，是 Zuora 公司的首席执行官，也是公司的联合创始人之一。在创办Zuora之前，Tien Tzuo 曾担任过 Salesforce 的首席营销官兼首席战略官。同时Tien Tzuo还主持 Subscribed 全球峰会。Tien Tzuo 居住在旧金山。
-关于 Zuora 公司 Zuora成立于2006年，是基于云计算的先锋，旨在帮助公司管理和增加订阅收入。Zuora®提供基于云的订阅管理平台，该平台可以作为任何行业的订阅业务记录系统。公司在2018年4月在纽约证券交易所上市，（股票代码：ZUO），股票在交易首日上涨42.9％，当时的市值达到约20亿美元。虽然该公司不是一个家喻户晓的名字，但它已经能够为许多知名品牌的核心商业模式提供动力。其中包括DocuSign，NVIDIA，HBO，达美航空，福特汽车公司和卡特彼勒。
-图书内容简介 该书的内容分为三个部分：
- 讲述为什么说订阅的模式是商业的未来，从各个行业来进行阐述。 如何才能够实现订阅模式？从管理、财务、组织、文化等角度告诉读者如何实现一个基于订阅模式的商业服务。 订阅经济的数据展示，其实这部分是附录部分，该部分采用了大量的图表的方式对现有的订阅经济进行的展示。  开源之道荐读  开源之道声明：这是一本有关产品、服务、消费者、公司、管理、信息技术等的商业类图书，宏观的视野也有，微观的细节也有所涉猎。重要的是和现在的生活息息相关，能引起思考最好！其实开源又何尝不是呢？
- 和开源的相似之处诠释 新的商业模式图示：
-订阅模式是真正的以客户为中心的模式，一切围绕以解决客户实际问题而生。对比过去的产品模式，订阅模式总是能够抢先一步来满足用户的需求，因为用户的所有消费信息都是可分析的、用户购买的产品所生成的数据也是可以分析的、推荐系统的进一步强化则可以进一步强化这个闭环。用户放心的使用服务即可，所有的环节：物流、渠道、售后、维修等等都不会暴露给客户。对于客户/顾客来讲，我也甘心享受这样的服务，毋须操劳那么多。
-我们再来回顾一下开源的生态图示：
-是如此的相似，开源将最终用户和开发者拉在了一起，最终用户使用软件、改进软件、提出反馈，进而和上游进行沟通、协商、交流，进一步完善这个闭环。中间没有任何的销售、售前、售后、市场等等一系列角色的出现。
-或许有的软件厂商不乐意了，那么我的建议是读上一篇文章：《软件悖论:商业软件的崛起与陨落》导读+书评。
-IT 厂商的实例 其实，作者作为 Salesforce的创始团队成员，对于IT行业的转型是有着独到理解的，文中提到的几个例子都是值得细细品味的。Amazon、Apple、NetFlix、ZipCar、Uber、Lyft、Zendesk、Okta、Xero、Salesforce 等等，无一不是订阅模式的翘楚，从信息技术的计算资源、存储资源，再到音乐、视频、流媒体，再到汽车、传统桌面应用软件，均以数字化转型为契机，转换思路，进一步贴合用户，抢先用户一步来以最佳服务满足用户所需。
-对于软件创新的诠释 这一部分要定位到第十章，这个世界在加速发展，这一切都应验了物理学的概念：熵！信息技术的革命，在于它加速了一切！那加速后的思维方式和生活都将面临更快的挑战和变化。</description>
     </item>
     
   </channel>

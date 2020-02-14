@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.ocselected.org/posts/community_leadership_development/discuss_of_how_to_attract_operators_to_participate_os_community_20200213/</loc>
+    <lastmod>2020-02-14T12:16:15+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.ocselected.org/community/welcome-to-anyone-contribute/</loc>
     <lastmod>2020-02-13T22:51:50+08:00</lastmod>
   </url>
@@ -73,7 +78,7 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/posts/community_management/why_create_community_leadership_development_group/</loc>
+    <loc>http://www.ocselected.org/posts/community_leadership_development/why_create_community_leadership_development_group/</loc>
     <lastmod>2020-01-21T18:32:04+08:00</lastmod>
   </url>
   
@@ -128,7 +133,7 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/posts/community_management/the-art-of-community-building-belonging/</loc>
+    <loc>http://www.ocselected.org/posts/community_leadership_development/the-art-of-community-building-belonging/</loc>
     <lastmod>2019-12-06T11:00:01+08:00</lastmod>
   </url>
   
@@ -188,7 +193,7 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/posts/community_management/chaoss_metrics_201908_learning/</loc>
+    <loc>http://www.ocselected.org/posts/community_leadership_development/chaoss_metrics_201908_learning/</loc>
     <lastmod>2019-10-24T18:06:47+08:00</lastmod>
   </url>
   
@@ -383,7 +388,7 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/posts/community_management/managing-casual-contributors/</loc>
+    <loc>http://www.ocselected.org/posts/community_leadership_development/managing-casual-contributors/</loc>
     <lastmod>2019-05-20T18:07:49+08:00</lastmod>
   </url>
   
@@ -398,7 +403,7 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/posts/community_management/growing-contributor-base-modern-open-source/</loc>
+    <loc>http://www.ocselected.org/posts/community_leadership_development/growing-contributor-base-modern-open-source/</loc>
     <lastmod>2019-05-11T14:02:23+08:00</lastmod>
   </url>
   
@@ -468,7 +473,7 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/posts/community_management/6_ways_a_community_help_project_succeed/</loc>
+    <loc>http://www.ocselected.org/posts/community_leadership_development/6_ways_a_community_help_project_succeed/</loc>
     <lastmod>2019-03-25T22:04:06+08:00</lastmod>
   </url>
   
@@ -873,7 +878,7 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/posts/community_management/how_kubernetes_community_works_3/</loc>
+    <loc>http://www.ocselected.org/posts/community_leadership_development/how_kubernetes_community_works_3/</loc>
     <lastmod>2018-03-18T22:09:17+08:00</lastmod>
   </url>
   
@@ -908,12 +913,12 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/posts/community_management/how_kubernetes_community_works_2/</loc>
+    <loc>http://www.ocselected.org/posts/community_leadership_development/how_kubernetes_community_works_2/</loc>
     <lastmod>2018-02-06T22:18:44+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/posts/community_management/how_kubernetes_community_works_1/</loc>
+    <loc>http://www.ocselected.org/posts/community_leadership_development/how_kubernetes_community_works_1/</loc>
     <lastmod>2018-02-05T21:54:47+08:00</lastmod>
   </url>
   
@@ -998,7 +1003,7 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/posts/community_management/expand_project_contributor/</loc>
+    <loc>http://www.ocselected.org/posts/community_leadership_development/expand_project_contributor/</loc>
     <lastmod>2017-12-18T21:55:30+08:00</lastmod>
   </url>
   
@@ -1008,7 +1013,7 @@
   </url>
   
   <url>
-    <loc>http://www.ocselected.org/posts/community_management/working_worldwide_communities/</loc>
+    <loc>http://www.ocselected.org/posts/community_leadership_development/working_worldwide_communities/</loc>
     <lastmod>2017-12-15T22:45:32+08:00</lastmod>
   </url>
   
@@ -2398,7 +2403,7 @@
   
   <url>
     <loc>http://www.ocselected.org/posts/</loc>
-    <lastmod>2020-02-10T11:40:17+08:00</lastmod>
+    <lastmod>2020-02-14T12:16:15+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2447,6 +2452,12 @@
   <url>
     <loc>http://www.ocselected.org/tags/%E5%85%B1%E5%90%8C%E4%BD%93%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2020-02-13T22:51:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ocselected.org/tags/%E5%85%B1%E5%90%8C%E4%BD%93%E9%A2%86%E5%AF%BC%E5%8A%9B%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2020-02-14T12:16:15+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2524,7 +2535,7 @@
   
   <url>
     <loc>http://www.ocselected.org/</loc>
-    <lastmod>2020-02-13T22:51:50+08:00</lastmod>
+    <lastmod>2020-02-14T12:16:15+08:00</lastmod>
     <priority>0</priority>
   </url>
   

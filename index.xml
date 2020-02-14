@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 13 Feb 2020 22:51:50 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2020 12:16:15 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Community Leadership Development 日常探讨之：如何吸引运营人员参与开源社区？</title>
+      <link>http://www.ocselected.org/posts/community_leadership_development/discuss_of_how_to_attract_operators_to_participate_os_community_20200213/</link>
+      <pubDate>Fri, 14 Feb 2020 12:16:15 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/community_leadership_development/discuss_of_how_to_attract_operators_to_participate_os_community_20200213/</guid>
+      <description>注：以下为WeChat Group中实录，根据剧情需要做了适当的修改。
+吴晟  运营就是工作了。你指的运营是什么？工程师是项目最好的推广者。
+ 代立冬  感觉有运营思维的工程师不好找啊
+ 吴晟  自己来。自己不行，别人更不行哈。如果project lead都推广不了，那就没人能推广出去了。
+ 谭中意  这么说吧， 单纯的运营能帮你做事，但是对于这个社区的调性， 只能靠你来把握的。工程师得有运营意识，就当成认识客户，收集需求，并培养新人好了。
+ 代立冬  我原本是觉得不够专业,社区运营应该也有些套路啥的。
+ 吴晟  懂原理的都不专业……谁专业？[捂脸]又一个相信银弹的
+ 谭中意  别希望一个强力的运营，从天而降，然后帮你解决什么问题，然后拍拍手。 这个运营得你自己的社区成长出来。别人的运营经验可以学习，可以参考，但是不能照搬。
+ 庄表伟  我觉得，运营主要还是靠感情投入，自己亲生的，才有感觉，才能运营得好。当成8小时工作来做的，估计都不行。
+ Kevin Wang  运营可以归类到non-code contributor? ambassador、meeting/event organizer之类的吧？
+ 吴晟  还有一个问题，人家运营的素材还得你工程师去写，顶多就是帮你润色下，skywalking我写的国外的东西，我们公司是有content delivery的人帮忙修改的。
+ Richard 林旅强  读Jono Bacon的《社区的艺术》一书就基本上知道怎么运营了，自己搞比不懂的人来搞更有效，要把自己/核心开发者打造成KOL/网红，例如群里面好几位都是，就不点名了哈，运作的是开源社区（贡献者社区）或是开发者社区（用户社区）也需要定位/分层清楚，对不同的人不同的运营方式。
+ 适兕  读英文原版就好了，翻译的不怎么样，非it界翻译的。推荐阅读Jono的新书《people powered》，开源之道共读图书列表（2020版） 关于共同体部分，强烈推荐。
+ Bonnie  我的理解是，运营最核心的还是有“价值的内容“，在社区里面，“有价值的内容”应该就是指“开源的项目”、“技术分享”等。 有了这些 内容，在加上一些策略，达到让社区更活跃、开放的目的。概括来说就是“拉新、促活、转化”，不断地更多人知道这个社区，进而不断有更多人加入，这些人又像经过漏斗一样，最终产生一批对社区有贡献、有感情地核心参与者。
+如果说，组织者自己学习运营然后落实，这种当然很好，因为组织者更加了解受众。 不过因为每个人的时间都是有限的，而且一个人做这些事情真的很累（我是这样理解的）。 其实就可以把运营的工作交出去，自己做 内容上的指导，宏观把控。 在社区里有相应的分工，有人负责运营，有人负责内容。</description>
+    </item>
     
     <item>
       <title>开源之道需要你的帮助</title>
@@ -277,10 +300,10 @@ over-the-air 编程 原文链接：Over-the-air programming
     
     <item>
       <title>Community Leadership Development 是什么？做什么？</title>
-      <link>http://www.ocselected.org/posts/community_management/why_create_community_leadership_development_group/</link>
+      <link>http://www.ocselected.org/posts/community_leadership_development/why_create_community_leadership_development_group/</link>
       <pubDate>Tue, 21 Jan 2020 18:32:04 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_management/why_create_community_leadership_development_group/</guid>
+      <guid>http://www.ocselected.org/posts/community_leadership_development/why_create_community_leadership_development_group/</guid>
       <description>致力于开源相关思想、知识和价值的挖掘。
  引言 开源之道 ，是适兕的个人博客，不知不觉地写了三年多。如果仅止于写或者翻译文章的话，那么可能会错失很多东西，因为从文章中可以学习和感悟到很多，如开源之道图书共读，又如现在我们所谈到的:（开源）共同体领导力发展，各种机缘巧合碰撞的结果。
  Software and technology is the easy part. The hard part is creating and fostering a culture around an open-source project.
@@ -522,10 +545,10 @@ GitHub 赞助团队招聘开发者项目经理 原文链接：Developer Program 
     
     <item>
       <title>打造归属感的共同体</title>
-      <link>http://www.ocselected.org/posts/community_management/the-art-of-community-building-belonging/</link>
+      <link>http://www.ocselected.org/posts/community_leadership_development/the-art-of-community-building-belonging/</link>
       <pubDate>Fri, 06 Dec 2019 11:00:01 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_management/the-art-of-community-building-belonging/</guid>
+      <guid>http://www.ocselected.org/posts/community_leadership_development/the-art-of-community-building-belonging/</guid>
       <description>**“Great things are not done by impulse, but by a series of small things brought together.” **
 ​ — Vincent Van Gogh
  开源之道按 适兕在年底的时候，也会和大多数人一样，总结一下过去的一年得失，然后寄希望于接下来的一年。那么当开源大行其道的时候，似乎一下子全民开源起来了，开源之道能做点什么了呢？不如直击核心: 共同体！
@@ -805,10 +828,10 @@ GitHub Sponsor 背后推动者 如此重大的功能，究竟是谁推动和缔�
     
     <item>
       <title>开源软件项目的定性和定量分析指标 ———— CHAOSS 指标解析</title>
-      <link>http://www.ocselected.org/posts/community_management/chaoss_metrics_201908_learning/</link>
+      <link>http://www.ocselected.org/posts/community_leadership_development/chaoss_metrics_201908_learning/</link>
       <pubDate>Thu, 24 Oct 2019 18:06:47 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_management/chaoss_metrics_201908_learning/</guid>
+      <guid>http://www.ocselected.org/posts/community_leadership_development/chaoss_metrics_201908_learning/</guid>
       <description>“科学管理在实质上要求任何一个具体机构或机构中的工人及管理人员进行一场全面的心理革命，没有这样的心理革命，科学管理就不存在。” ———— 泰勒 《科学管理原理》
  引言 笔者最近阅读了CHAOSS 在8月份发布的开源软件项目的量化指标，颇受启发，于是索性将所想所得和大家分享一番，开源之道走过了这几年，抽丝剥茧，一直试图找到和大家探讨的话题，一同解决令人困惑的难题，但是缺少必要的积累，一直倾向于定性的探索和研究，鉴于知识背景和视野的不同，于是很难找到让大家感兴趣的话题，甚至某位朋友善意的提醒：“多讲点实在的”，多年过去了，我也终于对关于定性的问题有了一些理解和认识，那么这也意味着是该集中起来做些定量的指标衡量的事情了。
 当然，伴随着科技的进步，很多人开始迷信数据，比如流行GitHub star数量、fork数量等等，这尤其体现在某些公司做考核之用，非常的实惠。但是这并不是开源之道所看重的，尽管量化指标很重要，正如红帽开源项目办公室的高级首席社区架构师Brian Proffitt（同时也是CHAOSS的治理委员会成员）所言，你有了指标和衡量，就一定保证Community是健康的吗？对此开源之道是颇为赞同的，一直以来坚持在没有搞清楚性质之前，不要去迷信数据的缘由。
@@ -1613,10 +1636,10 @@ Apache 软件基金会为每个项目设置了两份治理文档，首先是基�
     
     <item>
       <title>如何管理开源项目中的即兴贡献者</title>
-      <link>http://www.ocselected.org/posts/community_management/managing-casual-contributors/</link>
+      <link>http://www.ocselected.org/posts/community_leadership_development/managing-casual-contributors/</link>
       <pubDate>Mon, 20 May 2019 18:07:49 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_management/managing-casual-contributors/</guid>
+      <guid>http://www.ocselected.org/posts/community_leadership_development/managing-casual-contributors/</guid>
       <description>名词解释 casual contributors，也被称为是 &amp;ldquo;episodic volunteering&amp;rdquo; ，意指那些开源社区中，没有担任特别的职责，偶尔零星的会对社区和项目做出贡献的志愿者们。和像演员的非正式训练，将生活中的某个有趣的片段当做艺术来演绎。故开源之道翻译为即兴。
 引言 开源是如此的重要，以至于美国政府禁止美国公司和华为进行贸易的事件，让国内的软件界的人倍感压力，甚至就美国政府是否会干涉开源基金会这事，开源社、CSDN等还专门撰文澄清，也是洋洋软件大国的一大奇观了。
 但是毋庸置疑的是，虽然开源软件使用了不少，但是开源社区在国内的发展确实是差了非常多，至今没有一个像样的社区，更加不用提基金会的事情了。开源之道还是坚持一贯的主张，努力的去提高认知，掌握开源背后的思想、知识和价值，或许能够在较可预见的期限内能够找到一条成功的路径来。否则，只有倒退。
@@ -1683,10 +1706,10 @@ Apache 软件基金会为每个项目设置了两份治理文档，首先是基�
     
     <item>
       <title>现代开源项目如何实现贡献者增长（译文）</title>
-      <link>http://www.ocselected.org/posts/community_management/growing-contributor-base-modern-open-source/</link>
+      <link>http://www.ocselected.org/posts/community_leadership_development/growing-contributor-base-modern-open-source/</link>
       <pubDate>Sat, 11 May 2019 14:02:23 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_management/growing-contributor-base-modern-open-source/</guid>
+      <guid>http://www.ocselected.org/posts/community_leadership_development/growing-contributor-base-modern-open-source/</guid>
       <description>引言 很荣幸，你我都经历了一个开源的黄金时代！如今的互联网公司也好，传统企业也罢，甚至是电信运营商、好莱坞制片厂、国家电网等等，都在拥抱和贡献开源，那么也有很多公司开源里自己的主导和发起的项目，如近来的GitHub 开源公司/组织整理，那么问题来了，这些项目仅仅只是展示吗？这些商业公司显然不是在做慈善活动，那么其中最大的可能就是想利用公司外部的开发者帮助项目成长和发展，那么这些开发者会闻讯赶来？还是避之唯恐不及？
 如果你是一名开源项目的社区管理者，该如何实现吸引开发者、留住贡献者、赢得用户喜爱？让我们来看看Node.js的社区经理分享的经验。
 背景介绍 Node.js 在过去的一年（2015）里的重点工作就是吸引更多的贡献者参与进来，Node.js从创建以来，一直都保持着100%的势头增长着，但是实际上贡献者并灭有在增长。
@@ -1977,10 +2000,10 @@ FreeBSD 和 Bill Joy 上世纪60年代，Unix诞生于Bell实验室，在1973年
     
     <item>
       <title>6条让社区繁荣的实用方法，进而取得项目成功</title>
-      <link>http://www.ocselected.org/posts/community_management/6_ways_a_community_help_project_succeed/</link>
+      <link>http://www.ocselected.org/posts/community_leadership_development/6_ways_a_community_help_project_succeed/</link>
       <pubDate>Mon, 25 Mar 2019 22:04:06 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_management/6_ways_a_community_help_project_succeed/</guid>
+      <guid>http://www.ocselected.org/posts/community_leadership_development/6_ways_a_community_help_project_succeed/</guid>
       <description>所谓的创新、研究、市场营销、技术支持等等，所有这些企业的因素，社区均可以提供，当然，前提是你足够的重视社区。
  开源之道注： 这是一篇常见的基于开源项目的商业公司的市场软文，本文算不上任何的高明之处，在大讲各种人类美好愿景的同时，添加进自己商业公司，肮脏到没有任何的底线。之所以翻译它，是因为它颇具代表性，国内特殊的文化环境，是无法吐槽任何公司的，所以不妨以这篇文章来告诉大家真相。
  NethServer 是一家叫做来自意大利的公司 Nethesis 所开发的开源产品，大约维持了很多年，产品之所以有今天的样子，离不开社区的支持。
@@ -2129,35 +2152,6 @@ Apache 项目在很多领域里都是成功的，这要归功于我们所遵守�
  RISC-V 开放的处理器设计 原文链接：RISC-V opens up processor design
 适兕点评：
  There is a lot of work to do, but a lot of resources, motivation and skills are being committed to do it. RISC-V may fail to meet its potential, for many reasons, but no new architecture in decades has had as good a chance of success.</description>
-    </item>
-    
-    <item>
-      <title>如何参与到 Linux 社区中来</title>
-      <link>http://www.ocselected.org/posts/contribute_to_community/how_to_participate_in_the_linux_community/</link>
-      <pubDate>Sat, 09 Mar 2019 17:43:34 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/contribute_to_community/how_to_participate_in_the_linux_community/</guid>
-      <description>一、内核开发流程指南 本文档旨在帮助开发者（以及他们的经理们）如何以最小的代价参与到内核的开发社区中来，试图解释Linux社区是如何运转的，进而告诉那些对Linux内核开发（或者，更深入的说，普遍意义的自由软件开发）不熟悉的人们如何去做，虽然这里有一些技术资料，但这是一个针对流程方面的讨论，不需要深入了解内核编程就可以理解，这点请毋须担心。
-内容摘要 本节剩余部分覆盖的内容包括：内核开发流程、开发人员及其雇主可能遇到的各种坑。解释内核代码为什么应该合并到官方（“主线”）中的各种原因: 自动可用到用户、多种形式的社区支持、以及有能力影响社区开发的方向等。为Linux内核做代码贡献还必须承认 GPL兼容的许可协议。
-第二节介绍开发流程、内核发布周期、以及合并窗口的机制。涵盖了补丁开发，审查和合并周期中的各个阶段。有一些关于工具和邮件列表的讨论。我们鼓励希望开始使用内核开发的开发人员将bug作为初步练习进行跟踪和修复。
-第三节则为大家介绍项目早期的计划，重点在于尽快的让开发者参与到开发社区中来。
-第四节是关于编码流程的，讨论人们经常遇到的陷阱。介绍了补丁的一些要求，以及一些有助于确保正确生成内核补丁的工具。
-第五节讨论发布补丁以供审核的过程。要得到开发社区的认真对待，必须对补丁进行适当的格式化和描述，并且必须将它们发送到正确的地方，遵循本节中的建议，将有助于确保开发者的补丁能够被最快的接收。
-第六节覆盖了发布了补丁之后发生的事情，因为工作并不是说发完补丁就万事大吉了。和审核代码的开发者一起是开发流程中相当重要的一部分，本节提供了许多关于如何在这个重要阶段避免问题的技巧。千万要谨记，代码即使是合并到主干，也并不表示所有的工作已经完成。
-第七节则介绍了一些“高级”的主题，使用git管理补丁并查看其他人发布的补丁。
-第八届介绍了内核开发的更多关于指向源的文档信息。
-本文档是关于什么的 Linux 内核，一款代码超过6百万行、拥有1000多活跃贡献者、世上现有的最大、最活跃的自由软件项目。Linux 自从1991年诞生以来，该内核已发展成为同类中最佳的操作系统核心，它不仅运行在袖珍数字音乐播放器、台式机、现有最大的超级计算机乃至介于两者之间的所有类型的系统上。它是一种强大，高效，可扩展的解决方案，几乎能够适用于所有计算机体系架构。
-伴随着 Linux 内核项目的快速增长，相应的希望参与到其中来的开发人员（和公司）的数量也在增长。硬件供应商希望确保 Linux 能够得到很好地支持他们的产品，从而让这些产品对Linux用户更具吸引力。而嵌入式供应商，则将Linux作为组件整合到他们的产品中，希望Linux尽可能满足系统当前的任务。而Linux发行版厂商以及其它的软件供应商则更加希望Linux在可靠性、高性能、灵活性方面有突出的能力。最后是最终用户，也同样希望对Linux进行适当的调整，进而满足自己的独特需求。
-Linux最引人注目的特性之一就是让所有的开发人员都可以访问它;任何具备相应技能的人都可以去改进Linux，并尝试影响其未来的发展方向。那些专有的产品是无法提供这样的开放性的，这是自由软件的一个独特特性。其实，话说回来，Linux 内核相比于其它绝大多数的自由软件，更具开放性。最好的证据莫过于：每三个月的内核开发周期，要牵涉到超过1000多名开发人员，他们分别来自100多家不同的公司（当然也有的根本就没有公司）。
-在内核开发社区中工作其实并不特别的困难，但是，话虽然这么说，仍然有很多的潜在的贡献者认为在创始参与的时候觉得困难。这么多年，内核社区已经相对成熟了，并发展出了自己独特的操作方式，从而能够在每天变更数千行代码的环境中顺利运行（并生成高质量的产品）。因此，Linux内核开发过程与专有开发方法有很大不同，这并不奇怪。
-内核的开发过程可能对新人来说有些陌生，有时还会带着一丝的恐慌，这都算正常现象，尽管如此，内核已经用事实证明，这些都不是事。一个不了解内核社区的方式的开发人员（或者更糟糕的是，试图蔑视或逃避）将会在整个过程中，产生令人沮丧的体验。但是一定要明白一个道理：开发社区虽然对于愿意学习的人有莫大的帮助，但是也就到此为止了，对于那些不愿意花时间认真倾听或不关心开发过程的人来说，内核社区只能表示惋惜。
-希望阅读本文档的人能够避免那些让人痛苦不堪的经历。本文包含很多的处理细节，如果可能的话，还是要及时的去亲子体验一把。内核开发社区一直缺人，尤其是那些能够帮助内核变得更好的开发者；以下内容可以帮助到你（又或者是为你工作的开发者），加入到内核社区中来。
-感谢 本文档由Jonathan Corbet 所撰写，其邮箱地址：corbet@lwn.net。以及James Berry、Alex Chiang、Roland Dreier、Randy Dunlap、Jake Edge、Jiri Kosina、Matt Mackall、Amanda McPherson、Andrew Morton、以及 Jochen Voß 等的改进。
-该文档的撰写得到了Linux基金会的大力支持，尤其要感谢 Amanda McPherson，是他看到了这项工作的价值，并让这一切变为现实。
-将代码并入主干的重要性 总有一些公司和开发人员偶尔会问起：为什么他们应该学习如何使用内核社区并将他们的代码放入主干（“主干”即是有Linus Torvalds所维护，也是很多linux分发版的基础）。从短期来看，为内核上游社区贡献代码看起来有点得不偿失，似乎是保持现有的分支就可以了，且可以直接支持用户。而事实上，时间稍长即可证明，基于现有的分支（“脱离主干”）会付出很大的代价。
-那么我们就来说说脱离主干（out-of-tree)的代价是什么，以下列表从内核开发流程上的一小部分，其中大部分内容将在本文档后面详细讨论。考虑如下情形：
- 合并到内核主干的代码是供所有 Linux 用户使用。它将自动出现在使用它的所有发行版中。不需要驱动程序磁盘，下载或支持多个版本的多个发行版的麻烦;这一切都适用于开发人员和用户。换句话说，并入主干解决了大部分的分发、支持问题。 虽然内核开发人员在努力的维护和用户空间接口，希望保持稳定，但是事实上，内核内部的 API 仍在不断的变化。缺乏稳定的内部界面是一个深思熟虑的设计决策;它允许随时进行基本改进，并产生更高质量的代码。基于该策略的一个结果就是，那些脱离主干的分支如果要使用新的内核，就要不断的从主干中获取这些代码，即需要不断的进行维护，而这需要大量的工作才能保持代码正常的工作。  相反，在主干中的代码就没有这些额外的工作，如果有 API 的变更，开发者们就会立即在主干中进行修复和处理。所以，合并到主干的代码在维护成本上具有显著的优势。
- 除此之外，内核中的代码通常会被其他开发人员改进。有的时候，用户社区和客户所改进的产品，往往惊喜不断。  内核的代码在合并到主干之前和之后均是审核的，无论这些原创开发人员的技能有多强，这个审核过程总会能找到可以改进代码的地方。通常情况下，这样的审核都能够发现Bug以及安全方面的问题。对于在封闭环境中开发的代码尤其如此，某种程度上讲，linux内核非常受益于这些外部的开发人员的审核。脱离主干（Out-of-tree)的代码将意味着质量难以保证。  开发者只要参与到内核的开发中来，就可能会影响到项目的发展方向。如果说用户只是在旁边抱怨的话，真的没有啥意思，不如让事情按照自己的意愿去发生。那些活跃的开发者在社区拥有极强的声音 —— 以及改进的能力，这可以让内核满足他们自身的需求来进行发展和进化。 当分支代码被单独维护时，始终存在由第三方提供类似功能的不同实现的可能性。如果发生这种情况的话，合并代码将变得更加困难 —— 甚至到了几乎不可能的地步。真到了那个时候，就面临着令人非常不爽的选择：要么选择无限期地保持脱离主干的非标准特征，要么是放弃这些脱离主干的代码，然后回迁到主干版本。 代码的贡献是整个流程的最为基本的行为，这也是之所以现有的流程能够良好运作的前提。通过贡献代码，开发者可以向内核添加自己想要的功能，也是对于其他内核开发人员同样有实际用处。如果你已经为Linux写过代码（或者正在考虑这样做），那么您显然对该平台的持续成功感兴趣;贡献代码是帮助确保成功的最佳方式之一。  以上所有的可能结果，都是脱离主干（out-of-tree)所导致，也包括那些以专有的形式、仅发行二进制的方式。但是，在考虑任何类型的仅二进制内核代码分发之前，还应考虑其他因素。这些包括：</description>
     </item>
     
   </channel>

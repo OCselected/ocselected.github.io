@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>共同体领导力开发 on 开源之道</title>
+    <link>http://www.ocselected.org/tags/%E5%85%B1%E5%90%8C%E4%BD%93%E9%A2%86%E5%AF%BC%E5%8A%9B%E5%BC%80%E5%8F%91/</link>
+    <description>Recent content in 共同体领导力开发 on 开源之道</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 14 Feb 2020 12:16:15 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.ocselected.org/tags/%E5%85%B1%E5%90%8C%E4%BD%93%E9%A2%86%E5%AF%BC%E5%8A%9B%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Community Leadership Development 日常探讨之：如何吸引运营人员参与开源社区？</title>
+      <link>http://www.ocselected.org/posts/community_leadership_development/discuss_of_how_to_attract_operators_to_participate_os_community_20200213/</link>
+      <pubDate>Fri, 14 Feb 2020 12:16:15 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/community_leadership_development/discuss_of_how_to_attract_operators_to_participate_os_community_20200213/</guid>
+      <description>注：以下为WeChat Group中实录，根据剧情需要做了适当的修改。
+吴晟  运营就是工作了。你指的运营是什么？工程师是项目最好的推广者。
+ 代立冬  感觉有运营思维的工程师不好找啊
+ 吴晟  自己来。自己不行，别人更不行哈。如果project lead都推广不了，那就没人能推广出去了。
+ 谭中意  这么说吧， 单纯的运营能帮你做事，但是对于这个社区的调性， 只能靠你来把握的。工程师得有运营意识，就当成认识客户，收集需求，并培养新人好了。
+ 代立冬  我原本是觉得不够专业,社区运营应该也有些套路啥的。
+ 吴晟  懂原理的都不专业……谁专业？[捂脸]又一个相信银弹的
+ 谭中意  别希望一个强力的运营，从天而降，然后帮你解决什么问题，然后拍拍手。 这个运营得你自己的社区成长出来。别人的运营经验可以学习，可以参考，但是不能照搬。
+ 庄表伟  我觉得，运营主要还是靠感情投入，自己亲生的，才有感觉，才能运营得好。当成8小时工作来做的，估计都不行。
+ Kevin Wang  运营可以归类到non-code contributor? ambassador、meeting/event organizer之类的吧？
+ 吴晟  还有一个问题，人家运营的素材还得你工程师去写，顶多就是帮你润色下，skywalking我写的国外的东西，我们公司是有content delivery的人帮忙修改的。
+ Richard 林旅强  读Jono Bacon的《社区的艺术》一书就基本上知道怎么运营了，自己搞比不懂的人来搞更有效，要把自己/核心开发者打造成KOL/网红，例如群里面好几位都是，就不点名了哈，运作的是开源社区（贡献者社区）或是开发者社区（用户社区）也需要定位/分层清楚，对不同的人不同的运营方式。
+ 适兕  读英文原版就好了，翻译的不怎么样，非it界翻译的。推荐阅读Jono的新书《people powered》，开源之道共读图书列表（2020版） 关于共同体部分，强烈推荐。
+ Bonnie  我的理解是，运营最核心的还是有“价值的内容“，在社区里面，“有价值的内容”应该就是指“开源的项目”、“技术分享”等。 有了这些 内容，在加上一些策略，达到让社区更活跃、开放的目的。概括来说就是“拉新、促活、转化”，不断地更多人知道这个社区，进而不断有更多人加入，这些人又像经过漏斗一样，最终产生一批对社区有贡献、有感情地核心参与者。
+如果说，组织者自己学习运营然后落实，这种当然很好，因为组织者更加了解受众。 不过因为每个人的时间都是有限的，而且一个人做这些事情真的很累（我是这样理解的）。 其实就可以把运营的工作交出去，自己做 内容上的指导，宏观把控。 在社区里有相应的分工，有人负责运营，有人负责内容。</description>
+    </item>
+    
+  </channel>
+</rss>

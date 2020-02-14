@@ -1348,10 +1348,10 @@ Apache 软件基金会为每个项目设置了两份治理文档，首先是基�
     
     <item>
       <title>现代开源项目如何实现贡献者增长（译文）</title>
-      <link>http://www.ocselected.org/posts/community_management/growing-contributor-base-modern-open-source/</link>
+      <link>http://www.ocselected.org/posts/community_leadership_development/growing-contributor-base-modern-open-source/</link>
       <pubDate>Sat, 11 May 2019 14:02:23 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_management/growing-contributor-base-modern-open-source/</guid>
+      <guid>http://www.ocselected.org/posts/community_leadership_development/growing-contributor-base-modern-open-source/</guid>
       <description>引言 很荣幸，你我都经历了一个开源的黄金时代！如今的互联网公司也好，传统企业也罢，甚至是电信运营商、好莱坞制片厂、国家电网等等，都在拥抱和贡献开源，那么也有很多公司开源里自己的主导和发起的项目，如近来的GitHub 开源公司/组织整理，那么问题来了，这些项目仅仅只是展示吗？这些商业公司显然不是在做慈善活动，那么其中最大的可能就是想利用公司外部的开发者帮助项目成长和发展，那么这些开发者会闻讯赶来？还是避之唯恐不及？
 如果你是一名开源项目的社区管理者，该如何实现吸引开发者、留住贡献者、赢得用户喜爱？让我们来看看Node.js的社区经理分享的经验。
 背景介绍 Node.js 在过去的一年（2015）里的重点工作就是吸引更多的贡献者参与进来，Node.js从创建以来，一直都保持着100%的势头增长着，但是实际上贡献者并灭有在增长。
