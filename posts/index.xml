@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 14 Feb 2020 12:16:15 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 13:18:36 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道 Talking 节目 Episode 汇总（2020）</title>
+      <link>http://www.ocselected.org/posts/opensource_talking/2020-done-and-plan-index/</link>
+      <pubDate>Sat, 15 Feb 2020 13:18:36 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource_talking/2020-done-and-plan-index/</guid>
+      <description> 【鼠年话开源】系列 开源之道 talking，适兕一直都在酝酿，终于在2020年的春节接着 &amp;ldquo;Community Leadership Development&amp;rdquo;的人气，开了一个良好的头：
+ 鼠年话开源之一：开源开发者有何特征？ 鼠年话开源之二：商业公司如何拥抱开源共同体（Open Source Community） 鼠年话开源之三：Apache 之道在本土的障碍有哪些？还是无缝的？ 鼠年话开源之四：开源项目商业化理念与路径 鼠年话开源之五：Apache不会给其下的项目开发者发工资，那Apache是如何保证做事的专业性和持续投入的？ 鼠年话开源之六：开源共同体和开源社区是不是一回事？如果不是的话，又有何不同？ 「鼠年话开源」之七：社群的交流工具  【开源之道 Talking 】系列 </description>
+    </item>
     
     <item>
       <title>Community Leadership Development 日常探讨之：如何吸引运营人员参与开源社区？</title>
@@ -2149,26 +2159,6 @@ Linux最引人注目的特性之一就是让所有的开发人员都可以访问
 现在各位看官可以想象一下，有这样一个模式，它的工作机制和工具可以实现开源用户和开发人员直接打交道。这不仅仅体现在诸如通过Pull Request 来贡献代码、使用邮件列表发送问题、GitHub 的星星数量、以及笔记本电脑上的贴纸，而且还体现在用户有更多的方式、更加自控的、透明的行为来影响项目的走向。
 该模型可包括对以下行为的激励：
  直接为开源项目提供资金，而不是通过软件基金会 通过投票影响项目方向（通过代币持有人） 由用户需求驱动的功能需求 及时的合并 Pull Request 为提交缺陷者给予奖励 为更好的测试覆盖率进行奖励 奖励及时更新文档者 及时的安全修复 专家协助，支持和服务 为项目的布道师和推广者进行最佳预算 定期活动的预算 更加快速的电子邮件和在线聊天帮助系统 全面了解整体项目的状态。等  聪明的看官可能已经猜到了，没错，以上所谈就是使用区块链和智能合约，进而实现最终用户和开发者之间的积极互动。 智能合约可以让代币持有者拥有真实的权力来影响项目的走向。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 02 24)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-24/</link>
-      <pubDate>Sun, 24 Feb 2019 10:24:51 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-24/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 微软拥抱 Inner Source 原文链接：Microsoft is going all-in on &amp;lsquo;Inner Source&amp;rsquo;
-原文链接：Microsoft embracing Open Source internally, pushing “Inner Source” initiatives
-适兕点评：
- 这简直了，前几年我在国内布道InnerSource的时候，反应者寥寥，做了几次演讲，写了几篇文章就不了了之了，虽然后来想介绍更多，无奈精力有限。就当微软拥抱了之后，国内那些公司又开始拥抱这家公司了。
- 女性编程的黑历史 原文链接：The Secret History of Women in Coding
-适兕点评：
- 历史这东西，非常的公正，只要你坚持，它最终都会为你展现出应该有的结果。性别之差、种族之差等等都将是浮云。正如Alita中所言，重要是硬核（大脑和心脏），其它都是扯淡。愿更多的女性开发者参与到这里来。Ruby for girls，Python woman都是绝佳的例子。
- 基于OCP的设施销售增长超过预期 原文链接：Growth of OCP Data Center Gear Sales Outpaces Expectations
-适兕点评：
- 人人都喜欢Open的东西。开放式的厨房、开放式的流程、开放式的代码&amp;hellip;&amp;hellip;只是开放有时候有一个副作用就是容易被复制和效仿。但是，从民主化的角度来讲，这其实是个此消彼长的过程。
- Linux 基金会启动 ELISA 项目，旨在构建安全的系统 原文链接：Linux Foundation launches ELISA, an open source project for building safety-critical systems</description>
     </item>
     
   </channel>
