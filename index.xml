@@ -68,6 +68,31 @@
     </item>
     
     <item>
+      <title>开源之道一周精选2020 02 16</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-16/</link>
+      <pubDate>Tue, 11 Feb 2020 10:38:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-16/</guid>
+      <description>声明：本评论仅表示开源之道共同体成员的观点。
+文章点评 ![]()
+软件供应链受攻击上升至78% 原文链接：Supply Chain Attacks Increase 78%
+适兕点评：
+ 随着IoT 和 DevOps 的兴起，软件架构也随之发生变化，无数的组件形成了传统意义上供应链的方式来形容，那么中间环节越多，安全的隐患就越大，那么开源又成了双刃剑，但是开源产品交给共同体，商业产品讲安全，两全其美！何乐而不为？
+ 开源软件开发的伦理 原文链接：Ethics and open source software development
+适兕点评：
+ 其实这才是一个正常的开源开发者的思考，如果没有人文环境的描述和形容，开源软件也好，自由软件也罢，都是软件的属性，正如一些并不认同开源的人所言：“开源只是手段不是目的”的那些人一样，意义何在？这如果换一个场景，汉娜阿伦特笔下的那些纳粹军官，活着不是目的，是手段。好吧，在狭隘的“我告诉你怎么做就好了”，“什么都给你准备好了，你不用管了”的没有把人当人的教育下，这样的人会越来越多，开源的伦理也就毫无希望。
+ opensource.com 庆祝十周年 原文链接：Celebrating Opensource.com&amp;rsquo;s 10-year anniversary
+适兕点评：
+ 开源之道受opensource.com非常之大的影响，要知道这已经是一个十年的站点，你无法想象其所带来的力量！这不是某个Linux发行版，某个Python的程序库所能比拟的，它是生生不息的开源共同体力量的来源，我们可以回忆一下五四运动的前夜，为什么是文化阵地先行？胡适、鲁迅、陈独秀等众人的白话文运动。科学与民主。开源须以思想为先，至少不能让技术独自行走。
+ 丹尼尔.平克采访：激励我们的真相是什么？ 原文链接：Interviewing Dan Pink: The Updated Truth About What Motivates Us
+适兕点评：
+ 正如这张图片一样，自治、目标、掌控，在拜金主义横行的年代，这确实是难能可贵的，社会赋予公平的定义，或许指日可待。有的时候，这个社会所产生的不公正现象，例如腐败、贿赂、贪污、欺压、暴力等等，那都是各种的失序，是整个时代的悲哀，压迫者也终将付出代价，被历史所遗弃和唾骂。
+ 在 OpenShift Service Mesh 中部署 Citrix ADC 原文链接：Citrix ADC in OpenShift Service Mesh
+适兕点评：
+ 有没有觉得非常突兀？是的，适兕已经很久没有看技术文章了，尽管最近因为网站写了一点css 的代码，但是Kubernetes 始终牵挂着我的心思，对技术的纯粹始终有着无限的向往！如果这个世界只剩下技术就好了。OpenShift 依然是要在整个云原生的堆栈里上下兼容，做自己最擅长的事情的。这个LandScape的理解确实需要心中有一副技术的蓝图的。</description>
+    </item>
+    
+    <item>
       <title>鼠年话开源之七：社群的交流工具 </title>
       <link>http://www.ocselected.org/posts/opensource_talking/2020-02-10-what-is-good-communition-tool/</link>
       <pubDate>Mon, 10 Feb 2020 11:40:17 +0800</pubDate>
@@ -2118,34 +2143,6 @@ Apache 项目在很多领域里都是成功的，这要归功于我们所遵守�
  品牌与营销：当今数字市场的创新解决方案 原文链接：Branding vs Marketing: Innovative Solutions In Today&amp;rsquo;s Digital Marketplace
 适兕点评：
  “why did I set up this brand?” “What is my purpose with my product(s) for the long term?</description>
-    </item>
-    
-    <item>
-      <title>开源之道共读图书列表（2020版）</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/2020_book_lists/</link>
-      <pubDate>Fri, 15 Mar 2019 13:40:02 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/2020_book_lists/</guid>
-      <description>那些对自身所处环境缺乏知识和理解的人，通常其思想自由也会受到限制，进而就会在他们的行为选择方面产生影响。有限的知识限制了自由的思想。
-​ ———— Joel Charon 《Ten Questions： A Sociological Perspective》
- 共读之规则 本文列举的是2020年所精心选择的开源相关图书，以及如下规则：
-1. 读者可以根据自己的兴趣、问题求解、思考来选择开源相关图书 2. 读者可以自行组织共读小组（可选：撰写读后感或短评） 3. 开源之道图书共读发起人适兕会按照自己的路径进行阅读和撰写读后感，读者可自由选择是否follow 4. 读者根据自身情况组织线下交流活动，并决定是否记录当时的讨论 关于共读的初衷，以及参与方式，请看官移步：开源之道图书和文献共读申明，有更多详细的内容。
-2020 主题一：开放式组织  2020，毫无疑问仍将是开源之年，开源在协作、工程、管理、创新、经济效益方面仍将保持增长，这个季度我们不妨放开月度一本的规划，一个季度读6本小书，试试效果如何。开放式组织小书系列，
- 英文版：The Open Organization Field Guide
-此书直译为中文是：《开放组织领域指南》，是社区根据Jim Whitehurst 关于未来的工作、管理和领导力的构思加工而成。该书收集了一些非常先进的理念，有关开源之道的价值如何改变我们的工作、管理和领导力。
-英文版：The Open Organization Leaders Manual
-此书直译为中文是： 《开放组织领导者参考》，是任何想要利用开放的力量的参考手册，让自己的团队更加的透明、灵活、而且良好的协作，能够达到自下而上的任务驱动。
-开源之道推荐短评：
- 开放式组织适合于几乎所有的行业和公司，不过也需要对应的学习。
- 更多内容，请参考完整版开源之道共读导读与书评：[]()
-英文版：The Open Organization Guide to IT Culture Change
-此书直译为中文是：《转变为开放组织的文化变更指南》，顾名思义，即关于文化的变更，该书的贡献者有超过25名来自开源社区、公司企业，该书提供了这些资深人士的切身经验和实用建议，为创造一个开放的IT部分提供良好的、能够快速得到好的结果的、无与伦比的业务价值。
-英文版：The Open Organization Workbook
-此书直译为中文是：《开放组织工作手记》，该书的编写汇集了30多位专家的真知灼见，他们的角色有企业管理者、教育工作者、技术大拿、咨询师、等等。该书提供了将透明度，包容性，适应性，协作和社区原则付诸实践的具体和可行的战略。
-开源之道推荐短评：
- 请相信我，开源的文化是可以习得的，而且有方法。
- 更多内容，请参考完整版开源之道共读导读与书评：[]()
-英文版：The Open Organization Guide for Educators</description>
     </item>
     
   </channel>

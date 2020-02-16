@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 07 Feb 2020 14:45:05 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2020 10:38:05 +0800</lastBuildDate>
     
 	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道一周精选2020 02 16</title>
+      <link>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-16/</link>
+      <pubDate>Tue, 11 Feb 2020 10:38:05 +0800</pubDate>
+      
+      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-16/</guid>
+      <description>声明：本评论仅表示开源之道共同体成员的观点。
+文章点评 ![]()
+软件供应链受攻击上升至78% 原文链接：Supply Chain Attacks Increase 78%
+适兕点评：
+ 随着IoT 和 DevOps 的兴起，软件架构也随之发生变化，无数的组件形成了传统意义上供应链的方式来形容，那么中间环节越多，安全的隐患就越大，那么开源又成了双刃剑，但是开源产品交给共同体，商业产品讲安全，两全其美！何乐而不为？
+ 开源软件开发的伦理 原文链接：Ethics and open source software development
+适兕点评：
+ 其实这才是一个正常的开源开发者的思考，如果没有人文环境的描述和形容，开源软件也好，自由软件也罢，都是软件的属性，正如一些并不认同开源的人所言：“开源只是手段不是目的”的那些人一样，意义何在？这如果换一个场景，汉娜阿伦特笔下的那些纳粹军官，活着不是目的，是手段。好吧，在狭隘的“我告诉你怎么做就好了”，“什么都给你准备好了，你不用管了”的没有把人当人的教育下，这样的人会越来越多，开源的伦理也就毫无希望。
+ opensource.com 庆祝十周年 原文链接：Celebrating Opensource.com&amp;rsquo;s 10-year anniversary
+适兕点评：
+ 开源之道受opensource.com非常之大的影响，要知道这已经是一个十年的站点，你无法想象其所带来的力量！这不是某个Linux发行版，某个Python的程序库所能比拟的，它是生生不息的开源共同体力量的来源，我们可以回忆一下五四运动的前夜，为什么是文化阵地先行？胡适、鲁迅、陈独秀等众人的白话文运动。科学与民主。开源须以思想为先，至少不能让技术独自行走。
+ 丹尼尔.平克采访：激励我们的真相是什么？ 原文链接：Interviewing Dan Pink: The Updated Truth About What Motivates Us
+适兕点评：
+ 正如这张图片一样，自治、目标、掌控，在拜金主义横行的年代，这确实是难能可贵的，社会赋予公平的定义，或许指日可待。有的时候，这个社会所产生的不公正现象，例如腐败、贿赂、贪污、欺压、暴力等等，那都是各种的失序，是整个时代的悲哀，压迫者也终将付出代价，被历史所遗弃和唾骂。
+ 在 OpenShift Service Mesh 中部署 Citrix ADC 原文链接：Citrix ADC in OpenShift Service Mesh
+适兕点评：
+ 有没有觉得非常突兀？是的，适兕已经很久没有看技术文章了，尽管最近因为网站写了一点css 的代码，但是Kubernetes 始终牵挂着我的心思，对技术的纯粹始终有着无限的向往！如果这个世界只剩下技术就好了。OpenShift 依然是要在整个云原生的堆栈里上下兼容，做自己最擅长的事情的。这个LandScape的理解确实需要心中有一副技术的蓝图的。</description>
+    </item>
     
     <item>
       <title>FOSDEM 2020 观看会后记录日志</title>
@@ -1985,28 +2010,6 @@ Kubernetes 已经在发展的迅猛方面超越了历史上所有的开源项目
  能力、选择、开销和社区，嗯，企业拥抱开源，并不能直接产生钱，而是利用间接的动力。
 利用开源来赚钱这件事情，你得和无数人讨论。你的重视本土的文化和习俗，你得重视环境。
  AWS的文档在GitHub上开源了 原文链接：AWS documentation is now open source and on GitHub</description>
-    </item>
-    
-    <item>
-      <title>开源之道三周精选(2018 03 11)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-03-11/</link>
-      <pubDate>Sun, 11 Mar 2018 10:21:27 +0800</pubDate>
-      
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-03-11/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 开源和标准团队：红帽如何衡量开源的成功 原文链接：Open Source and Standards Team: How Red Hat Measures Open Source Success
-适兕点评：
- 没有一刀切的准绳，每个项目有每个项目不同的内容，Fedora更加注重生态，OpenDayLight更加注重厂商的联盟。当然，为了达到这个目的，你要创建很多的工具。
- MariaDB 启动创新实验室 原文链接：MariaDB launches innovation labs
-适兕点评：
- 要去做长远的打算，嗯，”一万年太久，只争朝夕”的话不知道要坑多少年才能纠正。 MariaDB ，如果我是一家云厂商，我一定笃定跟着他。重视前沿，颇具叛逆性。相比MySQL、AliSQL的生态建设都堪忧啊。
-Machine learning, distributed computing and the use and exploitation of new chips, persistent storage and in-memory processing.
- 回顾开源的近10年 原文链接：Looking Back: What Was Happening Ten Years Ago?
-适兕点评：
- 开源，它最初是以反抗者、抵抗垄断者的身份出现的，Netscape 妄图通过开源来对抗微软的捆绑策略，Linux是昂贵的Unix和MS windows之外的唯一选择。这个正义的举措目前看起来是胜利了。
-云计算的时代，似乎改变了什么?微软拥抱开源了，AWS的反抗者OpenStack，显得有些过于贪婪。商业公司操纵的CNCF基金会，拥泵仿佛僵尸一般左冲右突。
-历史就是这样，只有过去了才能明白怎么回事。我自己的定位有多清晰？
- 为什么说开源对于微软来说很重要 原文链接：Why open source is so important to Microsoft</description>
     </item>
     
   </channel>
