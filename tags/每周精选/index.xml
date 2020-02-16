@@ -18,8 +18,9 @@
       <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
       
       <guid>http://www.ocselected.org/posts/open-source-conference/fosdem-2020-view-record-journal/</guid>
-      <description>Edit me on GitHub
-引言 会议内容概要 主 track 历史部分 Unix 早期被遗忘的历史 原文链接：The Forgotten history of early Unix
+      <description>在GitHub中编辑 引言 我们要不要严肃的对待一些技术、工程乃至科学的研讨会？这可能是我在参与国内会议，然后和欧美对比之后的第一感慨。客观的对比一下质量，参与者的收获、演讲者的认真态度、组织者的常年耕耘，都可以看出端倪来。甚至直觉上都可以给出一些答案，当然直觉不足以说服人，那么开源之道就试图通过一些对比来进行。
+比较思维有个艰难的事情，就是两面的信息是对称的。这将带来更大的难度。
+会议内容概要 主 track （FOSS）历史（分会场） Unix 早期被遗忘的历史 原文链接：The Forgotten history of early Unix
 适兕点评：
  适兕最近在酝酿一篇文章，如何通过文字的描述，让没有感受过开源共同体力量的人感受一番，那么这个分享所提供的材料对于我来说无疑是雪中送炭，目前非常成功的开源项目：Linux、Apache Httpd、Perl、Python等，如果想讲清楚整体的来龙去脉，用如下一段话来形容会更加的妥当：
 近代工程纪实和近代科学一起发蒙于17世纪的科学革命，借助科学的理性和知识的力量提升了传统的工艺水平。它直接参与了物质生产，在其中起了核心作用，一端融合着研究和开发，另一端则融入工业与商贸。科学、工程技术和商贸一起组成了技术发展的主要引擎，它们的产物早已渗入我们日常生活的方方面面。
@@ -31,8 +32,7 @@
  本文的主标题用的很棒，我曾经这样描述过开源，一个翩翩少年！看这样的故事总是让人非常的感动，一个项目坚持18年，本主题演讲者没有什么情感上的描述，只是需要这个项目的成长过程，如何在关键的时候获得用户以及用户的认可，并开始逐步走上正轨的。太励志了！尤其是最后关于How、Why、What的西蒙的说法，这个不是什么商业上的，而是纯粹的技艺。
 有的时候，我在想，资本是加速了一件事物的发展，是催产素的作用？如果没有资本的加速，工匠们能坚持多久？
 绝对值得一看的视频！
- ![]()
-二十多年来的自动化 原文链接：Over Twenty Years Of Automation
+ 二十多年来的自动化 原文链接：Over Twenty Years Of Automation
 适兕点评：
  开始分享的雪天撞车滑稽中带着严酷的悲剧。scripts -&amp;gt; cfEngine -&amp;gt; puppet -&amp;gt; chef -&amp;gt; ansible -&amp;gt; docker -&amp;gt; kubernetes 一路发展下来。这应该是我个人喜欢讲的技术史，有实例，有数据，还有众所周知的历史故事。</description>
     </item>
@@ -171,7 +171,7 @@ over-the-air 编程 原文链接：Over-the-air programming
 2019年的开源之道也是收获颇丰，企业培训、撰写教材、协助华师大开源课程、图书共读共同体建设和内容输出、Community Leadership development 小组成立、X-lab 开放实验室开源导师、OpenI/O 开发者大会分论坛出品人等，至少开源之道影响了一些人，圈内人渐渐知道了其主要作者——适兕的努力。
 2020年，开源之道会加倍努力，除了每周一篇文章、每周开源评论之外，还要外加一个关于开源共同体领导力相关的文章输出，当然这都要基于开源之道共同体的建设，只有共同体（Community）有所建树，项目、创新菜具有无限的可能性。
 加油！功不唐捐！
-具体事项 开源共同体内容： 翻译 共同体的艺术：打造归属感 Come from English :The Art of Community: Building Belonging Measuring the performance of a community manager Real open source projects take mentoring seriously []() 来自英文：红帽社区知识库 参考资料：When Metrics Go Wrong 参考资料：Balancing Makers and Takers to scale and sustain Open Source 参考资料: Twelve tips for growing communities around your open source project 参考资料： The Open Source Contributor Funnel (or: Why People Don’t Contribute To Your Open Source Project) Kubernetes 是如何做到让贡献变得更加容易上手的 参考资料：How Kubernetes is making contributing easy  原创 Community Leadership Development 是什么？做什么？ 如何感受开源共同体的力量  开源其它内容 原创 翻译 二、Our Founders look back on 20 Years of the ASF!</description>
+具体事项 开源共同体内容： 翻译 共同体的艺术：打造归属感 Come from English :The Art of Community: Building Belonging Measuring the performance of a community manager Real open source projects take mentoring seriously []() 来自英文：红帽社区知识库 参考资料：When Metrics Go Wrong 参考资料：Balancing Makers and Takers to scale and sustain Open Source 参考资料: Twelve tips for growing communities around your open source project 参考资料： The Open Source Contributor Funnel (or: Why People Don’t Contribute To Your Open Source Project) Kubernetes 是如何做到让贡献变得更加容易上手的 参考资料：How Kubernetes is making contributing easy  原创 Community Leadership Development 是什么？做什么？ 如何感受开源共同体的力量  开源其它内容 原创 专题翻译 RedMonk 上关于开源的所有文章</description>
     </item>
     
     <item>
