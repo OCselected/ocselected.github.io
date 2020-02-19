@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>开源人 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%BA%BA/</link>
+    <link>http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%BA%BA/</link>
     <description>Recent content in 开源人 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Wed, 20 Nov 2019 16:48:06 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>开源天使 ———— GitHub 赞助功能的缔造者： Devon Zuegel </title>
-      <link>http://www.ocselected.org/posts/opensource_leader/open-source-angel-devon-zuegel/</link>
+      <link>http://www.opensourceway.community/posts/opensource_leader/open-source-angel-devon-zuegel/</link>
       <pubDate>Wed, 20 Nov 2019 16:48:06 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_leader/open-source-angel-devon-zuegel/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_leader/open-source-angel-devon-zuegel/</guid>
       <description>引言 作为拥有GitHub账户数量庞大的国家，中国对于开源的贡献实在是可圈可点，适兕经常会遇到说”中国人很穷，大家都还在为生活疲于奔命，哪里有时间为人类伟大的事业做贡献。“之类的观点，但是细心的观察之下，发现了这个结论是站不住脚的，更多原因如技术实力偏弱、视野狭窄等才更为妥帖，其中还有一个颇为重要的发现，那就是中国亦缺乏赞助者文化，放眼世界，赞助计划如 Google 的编程夏令营、Linux 基金会的 CrossCommunity 计划、欧盟的 bug 悬赏项目，而作为世界中的一员，中国不仅在赞助方面寥寥，在实际参与到一线的项目中，也是乏善可陈。这是值得探究和思考的问题之一，也是一个需要长远认真对待的内容。当下解决的就是介绍下当前世界上其他的一些做法，他们是如何思考和行动的？那么不妨从这个世界上最大的开源代码托管仓库平台———— GitHub 旗下的赞助功能说起。当然，事情都是由人来推动的，那么我们就先从这位天使说起。
 GitHub Sponsor 是什么？ 在2019年5月23日，GitHub 推出了赞助的功能，也就是以项目为中介平台，有钱的主可以通过 GitHub 赞助直接给开发者一定的资金，GitHub 尽可能的做一些匹配的工作，如赞助商或个人对那些项目和开发者比较感兴趣，或者是反过来。当时推出时，还是引起来非常之大的轰动的：
  这个世界是运行在开源之上的，开源的背后真正的推动者，是那些——项目的维护者、设计师、开发者、研究人员、教师、作家、领导者等等，来自全球的个人或团队，其中资金是一项不错的能够让他们持续进行发展的有效方式，GitHub 作为一款代码托管平台，能够让这些卓越的人们获得资金，以让开源更加的可持续发展。
@@ -36,10 +36,10 @@ GitHub Sponsor 背后推动者 如此重大的功能，究竟是谁推动和缔�
     
     <item>
       <title>1998 年的那场改变世界的 Open Source Summit ———— 十月共读预热文</title>
-      <link>http://www.ocselected.org/posts/opensource_leader/1998-open-source-summit-trip-report/</link>
+      <link>http://www.opensourceway.community/posts/opensource_leader/1998-open-source-summit-trip-report/</link>
       <pubDate>Sun, 22 Sep 2019 18:09:12 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_leader/1998-open-source-summit-trip-report/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_leader/1998-open-source-summit-trip-report/</guid>
       <description>引言 开源之道所发起和组织的开源之道共读，在十月份要共读的书就是特别鼎力推荐的《Open Sources: Voices from the Open Source Revolution》，而说起这本书，我们不得不回忆一下20多年前的那场改变世界的聚会：Open Source Summit，由知名媒体人Tim O&amp;rsquo;Reilly发起，当时的会议聚集了顶尖的开源倡导者们，就开源的形式进行的沟通和交流，20多年后再返回来看他们的远见卓识，虽然有点事后拍彩虹马屁的嫌疑，但是却也从证明了这些创造者和践行者的成绩。我们就以当时留下的一张照片来述说一下他们对这个世界所做的贡献：
 他们有：
  Apache 作者：Brian Behlendorf Python 创始人：Guido van Rossum 《大教堂与集市》作者：Eric S. Raymond Linux与Git创始人：Linus Torvalds Perl 创始人：Larry Wall Sendmail创始人：Eric Allman 开源事务副总裁：Michael Tiemann 计算机科学家、DNS协议设计者：Paul Vixie XScreenSaver 创始人和Mozilla 早期贡献者：Jamie Zawinski  等等。
@@ -52,10 +52,10 @@ GitHub Sponsor 背后推动者 如此重大的功能，究竟是谁推动和缔�
     
     <item>
       <title>Bruce Perens，向全世界宣布“开源”的人</title>
-      <link>http://www.ocselected.org/posts/opensource_leader/bruce_perens_open_source_definition/</link>
+      <link>http://www.opensourceway.community/posts/opensource_leader/bruce_perens_open_source_definition/</link>
       <pubDate>Tue, 30 Jan 2018 14:56:29 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_leader/bruce_perens_open_source_definition/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_leader/bruce_perens_open_source_definition/</guid>
       <description>简介 对于开源有了解的人，一定看过一部纪录片：《操作系统的革命》，其中的发起者之一就是 Bruce Perens，在屏幕上介绍他时，上面写着：开放源代码定义的创始人。没错，是的，就是这位即是程序员，又是法律专家的通才，将开源从自由软件中剥离出来，让其更具有商业友好，获得更多对生产关系没有那么强调的业内人士的青睐，至今20年过去了，开源的定义依旧指导着无数个项目，彻底的颠覆了软件行业：
  开源软件正在吞噬世界！ &amp;ndash;开源之道
  成就 Bruce Perens 是软件界著名的开源运动的发起者之一，也是向全世界说出“开源”的第一人，他创建了“开源的定义”，也就是现在大家所熟知的也在每时每刻都在使用的一套法律许可。
@@ -69,10 +69,10 @@ Debian 社会契约 当然在红帽工作的 Ean Schuessler，和人们吐槽红
     
     <item>
       <title>开源英雄：Solomon Hykes和Docker的革命性崛起</title>
-      <link>http://www.ocselected.org/posts/opensource_leader/solomon_hykes_and_the_docker_revolution/</link>
+      <link>http://www.opensourceway.community/posts/opensource_leader/solomon_hykes_and_the_docker_revolution/</link>
       <pubDate>Mon, 28 Aug 2017 21:21:28 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_leader/solomon_hykes_and_the_docker_revolution/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_leader/solomon_hykes_and_the_docker_revolution/</guid>
       <description>技术常有，而颠覆性的技术则很是罕见，然而我们见证了一个时代，Docker容器技术就是这种彻底改变IT形态的技术。那么我们今天带给大家的就是Docker的创始人，也是Docker公司的首席技术官——Solomon Hykes，他是少数的既能通彻的理解开源开发模式，又能将之转化为商业途径的少数技术领导者。
 Hykes 看起来法国味不是很浓，但是他确实是在法国长大的。在他还很小的时候，他的父母移民到了法国。Hykes 在还是青涩少年，就开始了自己的编程生涯，回顾其高中生活，他的大多数时间都泡在了隔壁的网吧，不过他在网吧是写一些程序，（这一点似乎和国内的网吧有很大的不同，译者注）那么最后的结果就是，Hykes没有去大学，而是进入了编程学习，接受系统的软件培训。
 正如我们所预料的，开源的开发环境是Hykes的最爱，成为了他日常的一部分，他在开源社区的参与度非常的高，即使之后他创立了公司、也对技术有了创新，依然保持这一习惯！

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>共同体管理 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E5%85%B1%E5%90%8C%E4%BD%93%E7%AE%A1%E7%90%86/</link>
+    <link>http://www.opensourceway.community/tags/%E5%85%B1%E5%90%8C%E4%BD%93%E7%AE%A1%E7%90%86/</link>
     <description>Recent content in 共同体管理 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Thu, 13 Feb 2020 22:51:50 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E5%85%B1%E5%90%8C%E4%BD%93%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E5%85%B1%E5%90%8C%E4%BD%93%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>开源之道需要你的帮助</title>
-      <link>http://www.ocselected.org/community/welcome-to-anyone-contribute/</link>
+      <link>http://www.opensourceway.community/community/welcome-to-anyone-contribute/</link>
       <pubDate>Thu, 13 Feb 2020 22:51:50 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/community/welcome-to-anyone-contribute/</guid>
+      <guid>http://www.opensourceway.community/community/welcome-to-anyone-contribute/</guid>
       <description>开源之道初心 适兕在很多场合表达过为什么要做开源之道，当然随着岁月的沉淀，基本就总结为一句话了，也是开源之道的口号：致力于开源相关思想、知识和价值的探究！
 相关文章可以参考：
  为什么基于成功的开源项目的商业产品会失败？ 历史的维度——开源、拿来主义与自主可控的历史对比 开源之道 开源之道与开源之术  开源之道发展 当写下文章《为开源和商业正名》一文时，就奠定了适兕走上了求索开源这条道路上，凭借毫无来由的决心与勇气，自那之后三年多以来，就开始布道开源、研习开源、探讨开源、参与开源的道路上：

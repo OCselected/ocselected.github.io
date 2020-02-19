@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>高校开源 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E9%AB%98%E6%A0%A1%E5%BC%80%E6%BA%90/</link>
+    <link>http://www.opensourceway.community/tags/%E9%AB%98%E6%A0%A1%E5%BC%80%E6%BA%90/</link>
     <description>Recent content in 高校开源 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Thu, 11 Apr 2019 15:09:55 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E9%AB%98%E6%A0%A1%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E9%AB%98%E6%A0%A1%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>历史上那些在高校里发生的开源项目的故事一二则</title>
-      <link>http://www.ocselected.org/posts/opensource_and_university/the_story_of_opensource_in_high_school/</link>
+      <link>http://www.opensourceway.community/posts/opensource_and_university/the_story_of_opensource_in_high_school/</link>
       <pubDate>Thu, 11 Apr 2019 15:09:55 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_and_university/the_story_of_opensource_in_high_school/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_and_university/the_story_of_opensource_in_high_school/</guid>
       <description>引言 我去年分别在苏州大学和郑州大学做过演讲分享，试图从就业方向入手来向同学们解释，开源有助于他们的就业。这是我主观的以为现在的学生比较关心未来的就业，因为这是媒体经常称道，也是和同学们打交道的时候，被问的最多的问题。但是演讲之后，并没有同学和我作交流，所以也就没有收集到任何有用的反馈。
 布道这件事，恐慌的莫过于，没人搭理。正负的反馈均有效，最糟糕的情况就是没有人搭理。
 今年索性就驻扎在高校，尽可能的布道开源，让学生们有一个选择的机会。这不，又要开始在高校搞开源相关的活动了，我这次该布道点什么了呢？

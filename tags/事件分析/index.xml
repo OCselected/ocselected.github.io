@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>事件分析 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E4%BA%8B%E4%BB%B6%E5%88%86%E6%9E%90/</link>
+    <link>http://www.opensourceway.community/tags/%E4%BA%8B%E4%BB%B6%E5%88%86%E6%9E%90/</link>
     <description>Recent content in 事件分析 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Fri, 19 Apr 2019 16:37:15 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E4%BA%8B%E4%BB%B6%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E4%BA%8B%E4%BB%B6%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>开源之道解读红帽企业开源调查报告2019</title>
-      <link>http://www.ocselected.org/posts/event_analysis/redhat_enterprise_open_source_survey/</link>
+      <link>http://www.opensourceway.community/posts/event_analysis/redhat_enterprise_open_source_survey/</link>
       <pubDate>Fri, 19 Apr 2019 16:37:15 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/event_analysis/redhat_enterprise_open_source_survey/</guid>
+      <guid>http://www.opensourceway.community/posts/event_analysis/redhat_enterprise_open_source_survey/</guid>
       <description>导读概念 关于企业开源，红帽博客首席编辑Joe Brockmeier撰写过一篇文章：什么是企业开源？，就企业开源的几个特性做了细细的处理：
  经过测试和加固的，针对企业使用的 企业级特性 产品可预见，而且有时间较长的周期 经过认证的 服务水平协议和支持力度 培训、集成 项目和产品之间的异同  可以简单的理解，是传统意义上使用诸如Unix、关系型数据库等软件授权时代的交付方式和开源形态的方式的一个平衡，Linux kernel 和 RHEL 就是最好的、经过事实验证的绝佳例证。
 关于报告的背景 该报告对来自世界各地 950 位 IT 领导者进行访谈后的成果，调查区域包括美国、英国、拉丁美洲及亚太地区，旨在了解不同地理区域的企业开源概况。其中来自美国的有400位，来自英国的有150位，拉丁美洲的（Argentina、 Brazil、 Chile、 Colombia、 Mexico）有250位，以及说英语的亚太区（澳大利亚、新西兰、香港和新加坡）的150位。

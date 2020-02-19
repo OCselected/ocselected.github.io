@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>特别约稿 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E7%89%B9%E5%88%AB%E7%BA%A6%E7%A8%BF/</link>
+    <link>http://www.opensourceway.community/tags/%E7%89%B9%E5%88%AB%E7%BA%A6%E7%A8%BF/</link>
     <description>Recent content in 特别约稿 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Wed, 10 Jul 2019 13:33:39 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E7%89%B9%E5%88%AB%E7%BA%A6%E7%A8%BF/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E7%89%B9%E5%88%AB%E7%BA%A6%E7%A8%BF/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>如何正确参与开源社区之 Ceph</title>
-      <link>http://www.ocselected.org/posts/contribute_to_community/how-to-participate-ceph-os-community/</link>
+      <link>http://www.opensourceway.community/posts/contribute_to_community/how-to-participate-ceph-os-community/</link>
       <pubDate>Wed, 10 Jul 2019 13:33:39 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/contribute_to_community/how-to-participate-ceph-os-community/</guid>
+      <guid>http://www.opensourceway.community/posts/contribute_to_community/how-to-participate-ceph-os-community/</guid>
       <description>作者：耿航 中国开源云联盟秘书长、Ceph中国社区联合创始人、腾讯云TVP。 题记 在文章开始之前先给建盛老师道个歉，之前答应写的文章一直拖到了现在，之前碍于各种工作的事情缠身没能抽空写，今天有空来写一写如何正确参与开源社区，我今年4月份的时候在深圳参加一个存储大会的致辞，其中就说到了参与开源社区要“良币驱逐劣币，要优不要劣”。
 为什么这么说呢，现在国内大部分的企业都在使用开源，但回馈到开源社区的却很少，这是国内开源文化的思维原因，因为大部分企业只是享受开源所带来的便利，而很少参与到开源社区里。就如同一个村子村民的生活都依赖于一条河，要经常在这条河里面捕鱼、吃鱼，甚至卖鱼，如果长期只是这样，整个生态链肯定会断；相反，如果经常组织村民同时买一些鱼苗放生到河里面，这个生态圈就能很好地维持。大家向开源社区提交代码也是如此，因此我倡导大家应该取之开源回馈开源，用Ceph也好OpenStack也罢，用的时候要积极回馈到社区，这样才能形成良性循环。
 同时也要良币驱逐劣币，像国内一些企业追求的开源其实是“短平快”，为什么说“短平快”呢，它可能在初期积极参与到开源社区，同时为了追求所谓的排名也会提交一些劣质的代码。这种就导致了劣币现象，比如改一个字母、改一个注释就提交回去，再次也是呼吁大家要提交一些有意义、有建设性的代码，正向回馈到社区，这样才能形成社区更好的联动，从而带动大家相关产品生态方面的发展。

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>开源文化 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%96%87%E5%8C%96/</link>
+    <link>http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E6%96%87%E5%8C%96/</link>
     <description>Recent content in 开源文化 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Fri, 06 Dec 2019 11:00:01 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E6%96%87%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E6%96%87%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>打造归属感的共同体</title>
-      <link>http://www.ocselected.org/posts/community_leadership_development/the-art-of-community-building-belonging/</link>
+      <link>http://www.opensourceway.community/posts/community_leadership_development/the-art-of-community-building-belonging/</link>
       <pubDate>Fri, 06 Dec 2019 11:00:01 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_leadership_development/the-art-of-community-building-belonging/</guid>
+      <guid>http://www.opensourceway.community/posts/community_leadership_development/the-art-of-community-building-belonging/</guid>
       <description>**“Great things are not done by impulse, but by a series of small things brought together.” **
 ​ — Vincent Van Gogh
  开源之道按 适兕在年底的时候，也会和大多数人一样，总结一下过去的一年得失，然后寄希望于接下来的一年。那么当开源大行其道的时候，似乎一下子全民开源起来了，开源之道能做点什么了呢？不如直击核心: 共同体！
@@ -48,10 +48,10 @@
     
     <item>
       <title>从科学的开放精神来看开源</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/open-science-means-open-source-or-least-it-should/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/open-science-means-open-source-or-least-it-should/</link>
       <pubDate>Tue, 26 Nov 2019 22:38:20 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/open-science-means-open-source-or-least-it-should/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/open-science-means-open-source-or-least-it-should/</guid>
       <description>引言 开源想要在现实社会中彻底的站稳脚跟，可能除了现在技术上的成绩和经济上的奇迹，还要从更为宽泛的伟大出发，例如和科学的关系。本期文章，我们就译自 Glyn Moody 的大作，看看 Glyn 是如何为开源提升更高的使命和意识的，而不用牵带更多的强迫和激进。
 为何说开源其实发生在1665年 各位知识渊博的看官，你认为开源是从什么开始的？是1998年2月份Christine Peterson所定义的吗？还是 Richard Stallman 在1989年所描绘的 GNU GPL 下的 &amp;ldquo;subroutinized&amp;rdquo;？亦或者是更早些时候的1985年，Richard Stallman 所创建的GNU Emacs 许可证？还是1665年3月6日这天所发生的如下声明了呢？
  鉴于促进哲学问题的发展，没有什么比促进传播哲学更为必要的了，即通过他人的发现或实践来应用哲学研究和努力。因为我们以为需要做一些媒介的工作，从而作为满足那些从事此类研究的人们的最合适的方法，进而对于学习和获得进步会感到由衷的高兴，并使得他们充分的了解英国、这个世界，这同样也需要坚持不懈的去研究、劳作、保持好奇的尝试、并享受其中所学到知识，作为最终的发现和表现：最终，这样的作品必须清晰、真实地传达出来，并经得起推敲，作为有用的知识，人们便会进一步的进行探究，精益求精、孜孜不倦、进而授业解惑、激励他人，持续的为改进自然知识，完善所有哲学艺术和科学的宏伟设计做出贡献。
@@ -74,10 +74,10 @@
     
     <item>
       <title>不一定非得同步做决策：远程团队成功的秘诀</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/asynchronous-decision-making/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/asynchronous-decision-making/</link>
       <pubDate>Tue, 13 Aug 2019 17:17:57 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/asynchronous-decision-making/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/asynchronous-decision-making/</guid>
       <description>概要 减少会议数量，还能增加沟通质量不再是纸上谈兵了，本文为你呈现采用异步方式来进行决策，可以达到想要的效果。
 异步决策某种程度上已是一种常见的决策策略了，尤其是对于那些是来自全球各地、分布式的软件团队，异步决策对于这种类型的团队尤其关键。在接下来的叙述中，笔者试图讨论和解释异步决策如何成为远程团队的工具，以及一些有用的原则。
 相信大家都非常熟悉同步决策，显而易见的优点就是参与的人能够进行实时的互动。《黑客与画家》一书的作者Paul Grapam写过一篇博客：创客的时刻表，当我们去打断这些创客们正在做的事情的时候，代价是相当昂贵的，当然，对于远程工作的团队来讲，做同步决策是几乎不可能的，相信有过类似经历的人，一定能够意识到想要实现同步会议的痛苦，各种等待、浪费时间、低效、不断确认等等。
@@ -99,10 +99,10 @@ Case 管理系统能够更为准确的组织决策，当较小的团队，决策
     
     <item>
       <title>为什么说企业采用开源的阻力来自工程师？</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/why_said_obstacle_adoption_oss_is_engineer/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/why_said_obstacle_adoption_oss_is_engineer/</link>
       <pubDate>Mon, 02 Jul 2018 09:13:17 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/why_said_obstacle_adoption_oss_is_engineer/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/why_said_obstacle_adoption_oss_is_engineer/</guid>
       <description>引子 LC3 又来北京了，Linus 也信守承诺，如约而至。去年我参会之后，写下了《开源软件正在吞噬世界————LinuxCon中国首秀感想录》 一文，学到了很多。今年，我就不再撰写什么见闻录了，而是以演讲者的身份做了一次分享。以下是根据我自己的演讲所整理而成。
 正式开始之前 我们先来看一个日常的例子，这在北京这座超大城市里很常见。正如我给大家展示的这张照片一样，是我每天都会看到的一个场景。
 这张图是我在每天上班经过的地方随手拍的，大量的非正常停放自行车，将人行道堵塞。据说这是新四大发明，但我宁愿称之为社会的照妖镜。我心里一直有个疑问，这些停车的人都是谁？是我身边的人吗？如果不是的话，那么共享单车的受用人群就不是公共交通的上班族，按照这个推论可知，让这些事情发生的就是身边的人。
@@ -129,10 +129,10 @@ Case 管理系统能够更为准确的组织决策，当较小的团队，决策
     
     <item>
       <title>为什么基于成功的开源项目的商业产品会失败？</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/why_product_failed_that_based_successful_open_source_project/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/why_product_failed_that_based_successful_open_source_project/</link>
       <pubDate>Thu, 10 May 2018 12:50:25 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/why_product_failed_that_based_successful_open_source_project/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/why_product_failed_that_based_successful_open_source_project/</guid>
       <description>导读 首先解释下题目，所谓的成功的开源项目，主要是已经被市场和技术所证明已经非常成功的社区主持下的项目，如Linux,Android,OpenStack,oVirt等等，另外一个特点，就是这些开源项目更加的倾向于基础设施软件，如操作系统、IaaS平台，虚拟化管理平台等。至于商业产品，就是基于上述开源项目，进行包装、二次开发，然后出售许可证等之类的商业产品，最后解释下失败，此处的失败不包括其商业模式或公司盈利等的失败，而仅仅指的是上述的商业产品在市场的存活时间，其内部开发的周期上的失败，换句话说，就是这个产品不再有未来，从此消失在历史的舞台。
 这个题目，纯粹的是从个人的职业经历的角度上的一个总结，不是类似 Gartner，Forbes等技术、市场专家从宏观、调查的基础上去预测和评价的，所以并不具备普遍性。虽然我想着这是我可能是尽可能的惠及众人，但我仍然会阐述一些如何避免类似的悲剧发生的几点大的方向。
 另外我会从以下几个要点来说明：
@@ -152,10 +152,10 @@ Case 管理系统能够更为准确的组织决策，当较小的团队，决策
     
     <item>
       <title>开源的成功理应是什么样子？</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/what_success_really_looks_like_in_open_source/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/what_success_really_looks_like_in_open_source/</link>
       <pubDate>Tue, 27 Mar 2018 22:23:33 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/what_success_really_looks_like_in_open_source/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/what_success_really_looks_like_in_open_source/</guid>
       <description>图片：适兕在云计算开源产业大会2018的演讲现场
 引子 视角不一样，评价的尺度不一样，那么最终衡量一款开源软件或项目的成功与否，就会有完全不同的结果。现在，请你环顾四周，问周边的人们一句：“你理解的开源成功的标尺是什么？有哪些？” 能解决实际问题、用户多、有公司赚到钱了、名声足够响亮 &amp;hellip;&amp;hellip;不一而足。那么假如现在将你手头上的项目开源的话，你认为会成功吗？是不是应该去找出一些事项，开源的成功究竟有哪些关键的因素？
 大教堂与集市 在开始讨论之前，我们先回顾一下 Raymond 在2001年发表的天才著作《大教堂与集市》，创新性的将传统的软件开发模式视为过时，而未来是属于开源的，即集市式的开发模式，并以Linux的开发方式为例，证明了其观点的正确性。其中Raymond令人信服的提出，通过集市化过程生产出来的系统产品，一般在技术上优于那些由大教堂式过程中生产的同样产品。
@@ -166,10 +166,10 @@ Case 管理系统能够更为准确的组织决策，当较小的团队，决策
     
     <item>
       <title>开放的 Apache 究竟有多开放?</title>
-      <link>http://www.ocselected.org/posts/opensource/apache_is_open/</link>
+      <link>http://www.opensourceway.community/posts/opensource/apache_is_open/</link>
       <pubDate>Fri, 23 Feb 2018 14:40:53 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/apache_is_open/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/apache_is_open/</guid>
       <description>题记 笔者经常参加一些北京当地的一些线下聚会，或者是加入一些微信群，所谓的以某开源软件项目巧立名目的，诸如&amp;rdquo;linuxxx&amp;rdquo;&amp;ldquo;xxx中国”之类的，有一个现象特别的明显，那就是你必须自己是属于哪个公司，这家公司是干什么。我常常纳闷，为什么？于是找到些许的历史原因：
  倒退30年，一切都是国营的时代，没有单位就是 整个历史所表现的文化，都是以集体来呈现的，个人是微不足道的。  那么为什么Apache软件在本土却这么受欢迎，治理方式开放到极致，却无人问津。是怎么一回事了呢？
  Apache 软件基金会，是整个现代开源软件生态系统的基石——它支撑着当今互联网经济，为其提供最为广泛使用的和重要的软件解决方案。 —— Mark Driver, Research Vice President, Gartner
@@ -185,10 +185,10 @@ Case 管理系统能够更为准确的组织决策，当较小的团队，决策
     
     <item>
       <title>开放源代码定义之历史篇</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/the_open_source_definition_history/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/the_open_source_definition_history/</link>
       <pubDate>Sun, 21 Jan 2018 21:28:50 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/the_open_source_definition_history/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/the_open_source_definition_history/</guid>
       <description>引言 本文节选自《开源之声——开放源代码运动文集》一书中由著名开源领袖 Bruce Perens 所执笔的《开放源代码定义》一文，开源之道尝试以开放源代码原作者的视野，从而看看追溯开源的源头。这样对于人们理解起来或许有所帮助。尽管现在很多的技术都受益于这样一个思想，但大众是不会去想这些的。
  下面的第一人称我指的是 Bruce Perens 本人。
  开放源代码定义的历史 在谈论开源之前，一定要提的就是自由软件（Free Software），自由软件算是比较陈旧的一个名词了。最初当计算机刚刚进入大学时，是被当做研究的工具来使用的，软件是自由的在黑客们中间流传的，而且程序员们也仅为编程行为获得报酬，但不会为程序付费。稍后一段时间，当计算机进入商业世界之后，程序员们开始通过限制软件的权利来让自己获利，即对软件每个副本收取一定的费用。在1984年，Richard Stallman 将自由软件作为一种政治考量来进行推动，他还创立了自由软件基金会，并身体力行的开启了轰轰烈烈的 GNU 项目，Stallman 的前提是人们应该有更多的自由，而且应该感激自由。他设计了一套他认为所有用户应该拥有的权利，并将其编入GNU通用公共许可证（GPL）。Stallman 还根据保留权力巧妙的起名为 Copyleft，这样就可以保留复制的权利。而且 Stallman 自己亲自实践这样的理念，开发了一系列的自由软件，诸如 GNU C 编译器、GNU Emacs（一款编辑器，非常之诱人，以至于很多人称之为是一门宗教）。受 Stallman 的启发和感染，有很多人在 GPL 许可证之下为自由软件贡献力量。是的，开放源代码定义囊括了很多 Stallman 的观点，可以称之为其衍生作品，因为它没有对自由有那么强烈的表达。
@@ -198,10 +198,10 @@ Debian 指南是备受自由软件社区所称赞的，尤其是那些 Linux 的
     
     <item>
       <title>开源20岁了，是该庆祝一下了</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/opensource_20_years/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/opensource_20_years/</link>
       <pubDate>Wed, 17 Jan 2018 21:59:03 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/opensource_20_years/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/opensource_20_years/</guid>
       <description>开源的20年 开源促进会 要在今年隆重的庆祝开源诞生20周年，人类习惯于以十年为一个阶段，开源即将进入它的第三个十年，若是将之比喻为我们人类本身的话，正是意气风发的年龄，也是才华碧现的时候。
 20年前，也就是1998年的二月份，“Open Source”（开源）被软件所第一次使用，稍后，开源的定义OSD 正式的公布，我们不妨再重温一下OSD的主要起草者： Bruce Perens 的精确定义开源：
  &amp;lsquo;开放源代码&amp;rsquo;是为了让已经存在的自由软件对商业更加友好而提出的正式名称，旨在鼓励商业，而且会对验证的许可证进行收集。
@@ -220,10 +220,10 @@ Debian 指南是备受自由软件社区所称赞的，尤其是那些 Linux 的
     
     <item>
       <title>Linux内核开发者是如何协作的——用实际数据说话</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/collaboration_linux_kernel/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/collaboration_linux_kernel/</link>
       <pubDate>Tue, 12 Dec 2017 22:26:55 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/collaboration_linux_kernel/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/collaboration_linux_kernel/</guid>
       <description>导读 开源项目的协作模式，对于绝大多数人是陌生的，也是好奇的，而这也恰是很多人感受到互联网的魅力，来自完全不同时区的人，从未谋面，却能够协同开发，在世界上最大的开源项目中进行工程攻关，堪称世界奇迹，人类史上也是罕见。本文由来自Linux内核最大的贡献公司——Intel的实习博士所作，她并非仅仅是位观察者，她本身也是开发者。本文就是她对于Linux内核开发者如何协作的记录和观察。实乃肺腑之言。
 引子 Dawn Foster 在 Intel 的开源技术中心工作的时候，她所在的团队中有几位是做Linux内核开发的，那时 Dawn Foster 就对他们这些人产生了兴趣，非常好奇他们：“这些人是如何和各个公司的人进行合作的了呢？有些公司甚至是竞争对手。”
 这里需要先说明一点的就是，其实Linux内核的开发人员，多数是来自商业公司的员工所做的贡献。然而，还是有很多关于开源软件的学术研究会假设大部分的工作是志愿者做的，即那些由于个人需要或利他主义的人。或许有些项目确实是由志愿者所开发和维护的，但是对于Linux内核来说是不成立的。基于此种情形，同时也是为了满足 Dawn Foster 的好奇心，Dawn Foster 采访了16位内核开发人员，主要是和他们讨论内核开发人员在开发过程中是如何进行协作的。
@@ -246,10 +246,10 @@ Debian 指南是备受自由软件社区所称赞的，尤其是那些 Linux 的
     
     <item>
       <title>衡量开源社区投资回报率的16个资源</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/resources_measuring_open_source_community_roi/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/resources_measuring_open_source_community_roi/</link>
       <pubDate>Sat, 02 Dec 2017 22:29:40 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/resources_measuring_open_source_community_roi/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/resources_measuring_open_source_community_roi/</guid>
       <description>混迹于开源社区的绝大多数人都能够明白社区为项目或企业所带来的巨大价值。但是这些东西，怎么通过电子表格或饼图之类的展示给世人？让圈外的人也能够明白？为此我专门撰文写了一篇文章：企业建设社区最起码能收获什么，在写作的过程中，我收集、查阅了很多的资料，我整理后一并分享给大家，相信这些材料能够帮助你去了解成功的商业案例，并有足够的信心去建设一个充满热情的开源社区。
  衡量在线社区投资回报率之最佳实践（PDF）- 尽管是仅仅只有19页的PDF文档，由Oracle RightNow社交体验客户所创建，它是建立一个衡量其他在线开源社区的商业价值的框架的一个很好的资源，提供了来自真实社区实际经历的衡量投资回报率的计算方法，而且还解释了设置衡量社区目标的最佳实践。 重新定义在线社区投资回报率- 此博客解释了参与社区如何帮助补充客户支持。正如作者所说，”这样的成功实际上会提高成本，但是这是一个相对更好的方式，因为额外的好处是增加客户的忠诚度、加速上市时间并能够更快地获得客户的需求和希望”。 社区的价值-行为转变为投资回报（幻灯片）- 此幻灯片讲述了如何通过投资社区来增加商业价值，定义了行为的改变会带来价值，如何改变行为的实践，以及接下来该做什么。 构建价值：阐明社区管理的力量- 2013年社区管理状况报告的调查结果，其侧重于社区管理的价值。“诸如此报告之类的资源是真正能够提供具体的研究和案例的，是人们难以找寻到的。” 社交商业的价值（信息图表）- 这个方便的信息图表考察了公司如何将社交视为商业工具。 如何为你的在线社区计算投资回报率- 说实在的，计算社区的投资回报率是很难的事情，“好消息是让您的在线社区获得投资回报更为复杂，可以使您既捕获私人在线社区为您的组织带来的真正价值，并在必要时改进您的方法。” 社区就绪和增长研究的关键（报告和信息图表）- CMX 和 Leader Network 共同回答了这个问题，“如果你之前从来没有搞过社区建设，你知道从哪里开始？” 请下载他们的报告，了解负责成功品牌在线社区的业务驱动因素和运营的最佳实践。 开源的成功真正看起来是什么样：以及我们该如何支持他们，开源项目并非起源于社区，总有人在”掌管”，即使是项目已经很成熟- Medium 上的一篇文章，作者Nadia Eghbal调查了一些开源项目以及其社区，并尝试找出他们背后的资源和组织。 衡量在线社区的投资回报率- 正如本文所指出的一样，在线社区的益处来自于成功的在线社区之外的衍生物，而不是其本身的目的。 Threadless、赫芬顿邮报、以及Fitocracy 是如何理解社区的商业价值的- 通过本文可以了解到社区可以为企业带来的起码的益处，有大的品牌，也有小的很少听到的公司。 为什么在线社区的投资回报率不重要- 本文并没有回答关于社区的投资回报率，作者相反是指出了已经获得利益后的证明，并提出问题：“社区能够为我们的客户带来什么价值？社区对这个世界有什么价值？” Erica Kuhl如何在Salesforce上证明了社区的投资回报率- 本文提到：“在今年二月份，也就是整整构建了7你那的社区之后，那个从零开始的市场开发，Erica 成功的从社区转型到产品团队，他们现在对Salesforce产品本身产生了明确的影响。” 社区的价值是什么？- 如果一个社区并非市场的话，那么你就无法获得所谓的投资回报率，那又对企业有什么益处了呢？请阅读此文中的两个示例，看看社区可以做什么。 社区参与的价值- 了解您在尝试参与社区时可能遇到的四个关键挑战，以及让参与活动成功的建议。 社区的商业价值- 这三个步骤可以帮助显示您作为社区经理的价值。 在线社区的真正价值- 本文发表于1996年，一份20年之后仍极具价值的文章不多，为在线社区的价值提供了一个实用的解释。今天读来仍然受益良多。  关于原作者 VM (Vicky) Brasseur - VM(简称 Vicky)是一名管理者，其中包括管理人、管理项目、流程、产品、以及p^Hbusinesses，在她超长的18年的技术生涯中，她曾经担任分析师、程序员、产品经理、软件工程经理、软件工程总监。目前，她是一名顾问，为公司提供有关开源的战略、政策和程序的建议。她的博客地址：anonymoushash.vmbrasseur.com，以及Twitter账号：@vmbrasseur
 本文由作者VM (Vicky) Brasseur 发表在Opensource.com上：16 resources for measuring open source community ROI。本文在Creative Commons BY-SA 4.0许可证下发布。由开源之道精心编译，欢迎转载！</description>
@@ -257,10 +257,10 @@ Debian 指南是备受自由软件社区所称赞的，尤其是那些 Linux 的
     
     <item>
       <title>开源软件项目的“上游优先”解惑</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/what_is_upstream_and_its_benefits/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/what_is_upstream_and_its_benefits/</link>
       <pubDate>Mon, 13 Nov 2017 23:10:44 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/what_is_upstream_and_its_benefits/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/what_is_upstream_and_its_benefits/</guid>
       <description> 引子 中国开源年会2017，即将在本周末上海交大举办，为期两日的会议，开源大咖云集，探讨本土开源。我依旧像往年一样，有机会就布道开源。这次带来的演讲题目是《论拿来主义的陷阱——No upstream first的心理和文化分析》，是标题党没错。其实，现实中的我常常遇到的问题不是大家不愿意参与上游，而是无可奈何，一脸无辜的样子。
 那么我在分析的时候，是有一个前提的，那就是假设听众都是明白上游是什么?上游能为项目带来的好处也是清晰明了的。但是，若是有人不明白怎么办？好吧，那我就提前写一篇文章讲讲。算是科普一下。
 什么是”上游” 上游这个词本身来自于河流，意思是理源头较近的地方，也有相对的意思，在河流的任意两点，相对理源头较近的地方就是上游，否则，称之为下游。
@@ -282,10 +282,10 @@ Debian 指南是备受自由软件社区所称赞的，尤其是那些 Linux 的
     
     <item>
       <title>Linux 内核开发报告2017版</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/2017_linux_kernel_development_report/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/2017_linux_kernel_development_report/</link>
       <pubDate>Mon, 30 Oct 2017 15:41:51 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/2017_linux_kernel_development_report/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/2017_linux_kernel_development_report/</guid>
       <description>摘要 全球公有云上运行的负载有90%是Linux操作系统，在嵌入式市场的占有率是62%，而在超算的市场占有率更是达到了99%，还有，它运行在世界上超过82%的智能手机中，也是所有公有云厂商的主要支撑服务器（90%）。
 这一组百分比的数据能够激发你什么样的想象？这么形容，你觉得是否合理：“几乎整个（移动）互联网以及支撑它的云计算和大数据，都是由Linux来负责掌控的。” 这样一个神奇的系统的开发方式是什么样的？已经经过了26年的发展，它是如何保持活力的？庞大的社区又是如何协作的？我们不妨来解读一下Linux基金会刚刚发布的Linux内核开发报告2017
  我很荣幸能够在Linux社区和一些具有高水准的人打交道。 &amp;ndash;Julia Lawall（来自 Inria 的高级研究员如是说）
@@ -298,10 +298,10 @@ Debian 指南是备受自由软件社区所称赞的，尤其是那些 Linux 的
     
     <item>
       <title>归零心态，参与开源</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/open_source_success_starts_at_zero/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/open_source_success_starts_at_zero/</link>
       <pubDate>Mon, 09 Oct 2017 22:05:25 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/open_source_success_starts_at_zero/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/open_source_success_starts_at_zero/</guid>
       <description>“总是要达到110%的满意？” 大多数人都听过类似的心灵鸡汤，激励话语，甚至在我们的整个职业生涯中都是这样子过来的。虽然说在某种程度上讲，这也是一个好的建议，但是若运用不当，则事情会恰得其反。
 多年前，我在去韩国的国际航班上阅读的一本书，彻底的改变了我的观点，它就是克里斯.哈德菲尔德上校的宇航员地球生活指南, 曾担任过国际空间站指挥的第一名加拿大宇航员，此书让我领悟到了关于公司或个人如何在开源社区中工作的真谛。
 哈德菲尔德和所有的其他宇航员一样，在进入太空之前，都要进行大量的训练、做充分的准备工作、以及很多艰难的任务。他从所有这一切学到的竟然是团队的动力是成功完成任务的关键部分，也是能够安全返回地球的重要原因。为了能够实现这样的动力，他开发了一个让团队能够合作的思考方法，尤其是针对新的成员。他将这个方法称之为：归零大法。大体的意思就是，如果你在刚刚加入一个团队时，就去努力的尝试提供110％（成为+1）的能力，则会损害你在此团队中获得长期成功的机会。归零心态则意味着能够虚心的学习并努力成为团队中的高效成员。
@@ -323,10 +323,10 @@ Debian 指南是备受自由软件社区所称赞的，尤其是那些 Linux 的
     
     <item>
       <title>在你的项目开源之前应该确认的几件事</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/what_to_know_before_you_open_source_your_project/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/what_to_know_before_you_open_source_your_project/</link>
       <pubDate>Mon, 25 Sep 2017 21:12:13 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/what_to_know_before_you_open_source_your_project/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/what_to_know_before_you_open_source_your_project/</guid>
       <description>你所在的公司决定将自己内部开发的项目开源了。除了准备好代码之余，是否确定了诸如开源的目标、开发流程等等？开源绝非是在GitHub上将代码开源即可，除了代码还有很多事情需要确认和准备，别急，且待我慢慢道来。
 其实，我忍不住想用电影《蜘蛛侠》里面的一句经典台词：“能力越强，责任越大。”来绑架你的开源行为，一旦你的项目开源了，这同时也意味着，你的公司不仅要为项目本身负责，而且要为围绕项目所构建的社区负责，而这通常有意味着需要更改开发/构建/发布工作流程。这不仅仅是代码本身的问题，而且包括那些围绕代码的所有流程和基础设施，唯有这些适应开源的方法论，方能确保项目的成功。
 以下就是我要和大家说的，关于在项目开源之前应该去确认的几件事情。
@@ -352,10 +352,10 @@ Debian 指南是备受自由软件社区所称赞的，尤其是那些 Linux 的
     
     <item>
       <title>大多数成功的开源项目都是用钱砸出来的，你信吗？</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/structure_and_funding_are_key_opensource_growth/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/structure_and_funding_are_key_opensource_growth/</link>
       <pubDate>Tue, 12 Sep 2017 22:33:24 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/structure_and_funding_are_key_opensource_growth/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/structure_and_funding_are_key_opensource_growth/</guid>
       <description>引言 十年前，布道师Berdou&amp;rsquo;s博士的论文：集市的管理：社区主导的开源／自由软件项目、商业化以及外围的参与者就如此的论述：
  基础设施模块是需要大量的、持续的贡献的，诸如桌面系统、平台的程序库，这些都是需要高深的知识和技术能力的。一个有能力全职在项目中贡献的人，若是有人付钱给他从而全身心的投入的话，在理解代码等需要专注和投入精力方面，要比业务时间的志愿者好很多。
  是的，尤其是进入开源默认的时代，企业参与开源、贡献开源的力度是越来愈大。甚至Docker的创始人兼CTO：Solomon Hykes 认为：开源和商业是一枚硬币的两面，缺一不可。。无论是否承认，资本或商业的力量成就了现代的世界，人们为之付出，为之奋斗。换句话说，现代的软件业界，被开源吞噬的软件，商业力量的驱动功不可没。
@@ -370,10 +370,10 @@ Dan的想法是，开源项目所展现出来的现象是，自然增长的越�
     
     <item>
       <title>东方文化与技术社区</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/culture_and_community/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/culture_and_community/</link>
       <pubDate>Sun, 06 Aug 2017 22:30:25 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/culture_and_community/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/culture_and_community/</guid>
       <description>开源之道的主要作者适兕，今年报名了COSCUP 2017的分会场——開放社群經營藝術，并被入选，于是远走台北，为大家分享了《东方文化与技术社区》为主题的演讲。以下为适兕的摘录。
 演讲的演示文稿下载地址：《东方文化与技术社区》
  Hello，大家好！
@@ -399,10 +399,10 @@ Dan的想法是，开源项目所展现出来的现象是，自然增长的越�
     
     <item>
       <title>内部开源系列之二 —— 经典案例</title>
-      <link>http://www.ocselected.org/posts/innersource/use_case_of_innersource/</link>
+      <link>http://www.opensourceway.community/posts/innersource/use_case_of_innersource/</link>
       <pubDate>Mon, 12 Jun 2017 21:12:39 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/innersource/use_case_of_innersource/</guid>
+      <guid>http://www.opensourceway.community/posts/innersource/use_case_of_innersource/</guid>
       <description>引子 InnerSource 的介绍，我似乎陷入了一种不知该从何讲起的尴尬局面，也就是所谓的破局，理论？历史？案例？实践？文化？曾几何时，脑子灵光一闪，希望通过某个假想中的案例来阐述，从管理、文化、开发、协作、产品、生态、人才等多个角度来逐步细致将一个InnerSource贯彻到底。但是想法总归是想法，需要时间来慢慢的完善。难道是我的每周一篇文章时间定错了？还是应该将InnerSource单独拿出来，独立成系列？我陷入了思考和停滞状态。
 但是，国人的思维是喜欢案例的！尤其是你出身于某个案例，因为保守，不愿冒险！好吧，思考归思考，材料还的积累。于是有了此文，尝试将现有的InnerSource案例整理出来。
 InnerSource 案例 在一个普遍推崇模仿、山寨的文化中，谈案例是最受欢迎的，我也顺着这个思路来写一篇试试水，以实际行动来验证下。
@@ -428,10 +428,10 @@ Google Google 向来是支持开源的，是少有的对开源有着执着情怀
     
     <item>
       <title>为何开发人员对开源青睐有加？ ————从匠人的“留名”自我意识说起</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/why_craftman_like_opensource/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/why_craftman_like_opensource/</link>
       <pubDate>Sat, 13 May 2017 05:12:26 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/why_craftman_like_opensource/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/why_craftman_like_opensource/</guid>
       <description>引子 这是一个默认开源的时代，GitHub成为”好基友”网约的圣地即为明证，遍地开花的开源项目早已说明此已成为主流。那么这就引入了一个问题，开发人员为何倾向于开源？为什么开源会成为主流，为什么那么多的开发人员愿意加入这支庞大的队伍。Ben Balter曾经在6种使用、发布、参与、支持开源软件的动机论述过各种动机。本文则试图从开发人员的自我意识，即“留名”的角度来尝试探索一下。
 何为匠人？  具体来说，只要拥有为了把事情做好而把事情做好的愿望，我们每个人都是匠人。 &amp;ndash; 理查德.桑内特
  匠人，有着悠久的历史，从荷马史诗中咏叹的赫菲斯托斯，中国古代的鲁班等都是有记载的匠人。随着社会的分工，科技的发展，匠人其实已经超越职业这样一个范畴，匠人更加的赋予了诸如“用心”、“专注“、“优雅”、“耐心”等词汇来形容。总而言之是要把事情做好的那些人，可以是为人父母对待孩子的精心培养、可以是从事音乐事业的创作、也可以是一名挑战技术极限的武术家、也可以是为信息处理写出优雅代码的程序员&amp;hellip;&amp;hellip;
@@ -453,10 +453,10 @@ Linux 的成功就是匠人的成功 Linux系统是一门公共的匠艺，Linux
     
     <item>
       <title>社区胜过代码：如何建设一个成功的软件项目（视频推荐）</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/communities_over_code/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/communities_over_code/</link>
       <pubDate>Mon, 10 Apr 2017 22:07:19 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/communities_over_code/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/communities_over_code/</guid>
       <description>  注：本文整理自演讲，原视频见末尾。
  时间稍稍过去的久了一点，是去年（2016年）冬天举行的北美LinuxCon上，来自红帽的Joe Brockmeier分享了关于社区建设的真知灼见。但是，现在重新回顾和解读丝毫没有过时的感觉，恰恰相反，有种恰逢其时。开源渐渐的被本土的人们所重视起来了，那么其中的奥秘：“社区胜过代码”，还有什么比这个更能振聋发聩了呢？
 自问 那些高效的、健康的自由开源软件项目是凭空产生的吗？当然不是，而是用心打造出来的，其中的秘诀就是 社区胜于代码。细节为王：假如现在你好不容易建设了一个社区，那么你如何保证它的进一步增长？你又该如何制定方向？如何吸引和留住贡献者？当社区的人们之间发生了冲突又该如何处理？尤其是那些贡献较多且有价值的人们吵起来了怎么办？
@@ -473,10 +473,10 @@ Brockmeier 特别推崇Apache软件基金会的原则：“凡事没有在邮件
     
     <item>
       <title>开源软件是开放式创新的最佳注解</title>
-      <link>http://www.ocselected.org/posts/the_way_of_open_source/naming_opensource_and_marketing_2/</link>
+      <link>http://www.opensourceway.community/posts/the_way_of_open_source/naming_opensource_and_marketing_2/</link>
       <pubDate>Thu, 26 Jan 2017 21:02:38 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/the_way_of_open_source/naming_opensource_and_marketing_2/</guid>
+      <guid>http://www.opensourceway.community/posts/the_way_of_open_source/naming_opensource_and_marketing_2/</guid>
       <description>想象一下几个世纪之前，科学是如何被信仰所感知的。科学在一开始被认为是信仰之外的东西，受到宗教的残酷打击和压制，这样的情形就像是现在的软件公司对待开源软件的工作一样。其实正如科学不会破坏宗教制度一样，开源也不会粉碎现有的软件系统，开源旨在开发出更优秀的软件而已。 ———— Linus Torvalds ，Linux 创始人
  某种程度上 Linus 的此番话语，在今天看来已经实现了。
 写在开始之前 其实我最初构思这篇文章的时候是想为文章《为开源和商业正名》做一篇续作，因为那篇文章虽然说是一气呵成，但是我本人觉得并不满意，后来也没有人和我辩论，然而我却一直在思考，上篇文章说的更多的是市场术语，商业上的成功案例等，而阅读我文章的人，大多是技术出身，不屑于这些，所以我尝试换一个角度去论述：“为什么开源会逐渐成为主流（显学）？”也就是创新的角度。
@@ -496,10 +496,10 @@ Google TensorFlow 的开源之路 Google 的云计算平台在商业营收上始
     
     <item>
       <title>开源之道与开源之术</title>
-      <link>http://www.ocselected.org/posts/opensource/open_source_tao_and_way/open_source_tao_and_way_0/</link>
+      <link>http://www.opensourceway.community/posts/opensource/open_source_tao_and_way/open_source_tao_and_way_0/</link>
       <pubDate>Sat, 07 Jan 2017 14:24:46 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/open_source_tao_and_way/open_source_tao_and_way_0/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/open_source_tao_and_way/open_source_tao_and_way_0/</guid>
       <description>引子: 何谓术？何又谓道？ 哲学上讲究名与实，最令人类头痛的问题之一就是沟通，不然也就没有巴比塔这么传神的故事了。历史上光是正名的人就不计其数。这也是苏格拉底当年极力排斥文字的记录，然后，柏拉图还是背叛了他。
 当下的信息社会，充斥着太多的知识与无用的信息。沟通的障碍也越来越重。是否有必要解释题目了呢？其实，我的每一篇我个人以为蛮重要的文章都会去解释题目。这次也不例外。
 这里的道，指的是孟子的“道可道，非常道”中的道之意，抽象的试图诠释人类最自然状态的思想。可以作人性、自由、民主等多种释义。尤其是黑格尔所说的人之所以为人的与动物的最为根本的区别，也是尼采所描述的“红脸颊野兽”。

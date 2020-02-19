@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>读后感 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/</link>
+    <link>http://www.opensourceway.community/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/</link>
     <description>Recent content in 读后感 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Sun, 01 Sep 2019 16:57:14 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>开放源代码软件的生产之道</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/the_review_of_producingoss/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/the_review_of_producingoss/</link>
       <pubDate>Sun, 01 Sep 2019 16:57:14 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/the_review_of_producingoss/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/the_review_of_producingoss/</guid>
       <description>要真正理解任何思想，你都需要重建它第一次被表达时的上下文，这样，你就可以理清经历了这么多中间人而保留下来的思想的精髓。 ———— 《软件开发者路线图》
  开源之道2019图书共读历史书评 过去几个月的导读与书评：
  《软件悖论:商业软件的崛起与陨落》 Subscribed：为什么说订阅才是塑造贵司的未来的模式，如何实现它 我们正处于开源的黄金时代 —— 《开放与共享》导读与书评 得开发者得天下 ———— 开发者是如何征服世界的 开源开发者内在的素质：匠艺 —— 《匠人》书评与导读 开源 &amp;ndash; 一部黑客伦理与商业资本相互妥协的融合史（《黑客》读后感） 开放源代码软件的三重境界 ———— 《大教堂与集市》读后感  开源之道图书共读短评  这是一本所有了解开放源代码软件的人都不应该错过的好书！ &amp;mdash;- 开源之道图书共读发起者 适兕

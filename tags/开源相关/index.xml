@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>开源相关 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E7%9B%B8%E5%85%B3/</link>
+    <link>http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E7%9B%B8%E5%85%B3/</link>
     <description>Recent content in 开源相关 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Sat, 20 May 2017 14:27:41 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E7%9B%B8%E5%85%B3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E7%9B%B8%E5%85%B3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>成为开源软件供应链本身——学习为什么应该成为供应链的强有力的影响者</title>
-      <link>http://www.ocselected.org/posts/supply_chain/be_opensource_supply_chain/</link>
+      <link>http://www.opensourceway.community/posts/supply_chain/be_opensource_supply_chain/</link>
       <pubDate>Sat, 20 May 2017 14:27:41 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/supply_chain/be_opensource_supply_chain/</guid>
+      <guid>http://www.opensourceway.community/posts/supply_chain/be_opensource_supply_chain/</guid>
       <description>在真正的开源当中，你拥有掌握自己命运的权力。 &amp;ndash;Linus Torvalds
  我敢断言：能够管理和影响开源供应链，那么就为创建最具创造性的产品获得了有利地位。本文中，将解释为什么我们应该成为供应链的影响者，以及如何在供应链上下游中进行积极的参与。
 在上一篇文章：开源和软件供应链中，探讨了供应链管理的基础，以及将开源套进这样的模式中来，并对开源的软件供应链使用了如下图所示的诠释：
@@ -45,10 +45,10 @@
     
     <item>
       <title>开源和软件供应链</title>
-      <link>http://www.ocselected.org/posts/supply_chain/opensource_and_software_supply_chain/</link>
+      <link>http://www.opensourceway.community/posts/supply_chain/opensource_and_software_supply_chain/</link>
       <pubDate>Thu, 18 May 2017 21:50:38 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/supply_chain/opensource_and_software_supply_chain/</guid>
+      <guid>http://www.opensourceway.community/posts/supply_chain/opensource_and_software_supply_chain/</guid>
       <description>如何有效利用开源社区的资源来进行软件生产（开发）。
  掌握硬件供应链及其管理的细微差别是显而易见的，其实就是在追踪一些移动的箱子。那么在开源社区，利用人们所贡献的资源来开发相应的软件，则显得摸不着头脑。
 我在写作如何利用开源来赚钱的文章的过程中，在思考这开源平台和供应链，那时，我认为供应链是一个单一的流程，使用现有的开源组件，然后基于此生产出一个结果来，这就是通常所说的软件产品。从那之后，我细心的观察并思考开源生态系统的供应链，发现远远不止一个，错综复杂。然后发现，那些懂得去管理和影响供应链的要比不理不睬的更具有竞争优势。这就值得我们进一步的挖掘。
@@ -76,10 +76,10 @@ John Mark 经常在各个开源技术会议上做演讲，并有优秀的论述�
     
     <item>
       <title>这次我们谈谈开源项目得道者多助的Ubuntu犯下的人心不足蛇吞象的严重错误</title>
-      <link>http://www.ocselected.org/posts/supply_chain/supply_chain_case_study_ubuntu/</link>
+      <link>http://www.opensourceway.community/posts/supply_chain/supply_chain_case_study_ubuntu/</link>
       <pubDate>Tue, 02 May 2017 18:25:31 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/supply_chain/supply_chain_case_study_ubuntu/</guid>
+      <guid>http://www.opensourceway.community/posts/supply_chain/supply_chain_case_study_ubuntu/</guid>
       <description>编译者按 John Mark 先生写了一系列关于开源软件供应链的文章，开源之道打算逐步译出，本文则是系列的中文首篇，其余按排期，稍安勿躁。且并没有按John的顺序，而是先选择了反面的案例，一来是Ubuntu母公司 —— Canonical近来高层变动、产品线浓缩、战略变更等，二来确实也是业内常见的毛病 —— 自大。所以就分享出来和大家一同探讨。
 缘起 在过去的几篇文章里讨论了关于开源软件的供应链管理方面的内容，尤其是一些关于上游项目和下游产品的协作流程。但是均是较正面的例子分析，如企业级OpenStack、利用Docker和Kubernetes等上游项目做容器管理产品等。这次我想尝试一下反面的案例，或者是说如何避免一些常见的错误。是的，讲正面好说，讲反面意味着会惹人不高兴，尤其是在业内，之所以选择Canonical是因为它最近的高层变动、产品线废弃、以及裁掉了一些员工。当然Canonical这么多年还是做了很多优秀的事情的，不能一棒子打死。好，那么我们就先来讲讲那些做的很好的事情。
 Canonical 做对了那些 在2004年，也就是Ubuntu发行版的第一版发行的时候，立即在开源界引起轩然大波，毫不夸张的说，所产生的深远影响是今天的Linux任何发行版都做不到的。回忆下当年发生的事：红帽做出了决定性的转变，花很大努力去搞红帽自己的社区和产品，这让很多红帽发行版的用户感觉受到了冷遇。当时，大家普遍认为Fedora 将会成为红帽的弃儿，会因为资源匮乏而一蹶不振。其实，这一切的发生，都是由红帽自己所扮演的，最初他们对待Fedora确实不怎么用心，几乎将自己在社区的努力毁于一旦。（较为代表性和欢乐的说法，可以参考LWN的归档：揭秘：Fedora如何和社区交互)

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Communities on 开源之道</title>
-    <link>http://www.ocselected.org/community/</link>
+    <link>http://www.opensourceway.community/community/</link>
     <description>Recent content in Communities on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Thu, 13 Feb 2020 22:51:50 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/community/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/community/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>开源之道需要你的帮助</title>
-      <link>http://www.ocselected.org/community/welcome-to-anyone-contribute/</link>
+      <link>http://www.opensourceway.community/community/welcome-to-anyone-contribute/</link>
       <pubDate>Thu, 13 Feb 2020 22:51:50 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/community/welcome-to-anyone-contribute/</guid>
+      <guid>http://www.opensourceway.community/community/welcome-to-anyone-contribute/</guid>
       <description>开源之道初心 适兕在很多场合表达过为什么要做开源之道，当然随着岁月的沉淀，基本就总结为一句话了，也是开源之道的口号：致力于开源相关思想、知识和价值的探究！
 相关文章可以参考：
  为什么基于成功的开源项目的商业产品会失败？ 历史的维度——开源、拿来主义与自主可控的历史对比 开源之道 开源之道与开源之术  开源之道发展 当写下文章《为开源和商业正名》一文时，就奠定了适兕走上了求索开源这条道路上，凭借毫无来由的决心与勇气，自那之后三年多以来，就开始布道开源、研习开源、探讨开源、参与开源的道路上：
@@ -34,10 +34,10 @@
     
     <item>
       <title>开源之道共同体之沟通交流</title>
-      <link>http://www.ocselected.org/community/communication/</link>
+      <link>http://www.opensourceway.community/community/communication/</link>
       <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/community/communication/</guid>
+      <guid>http://www.opensourceway.community/community/communication/</guid>
       <description>管理员招募 如果你认同开源之道的理念、原则，并有时间来激活成员的想法，让共同体更具创造力和生产力，不妨进入我们的管理员团队，共同进步，提升自己的领导力。
 邮件列表 开源之道倡导邮件列表进行沟通，尽管有issue，多一个渠道总是兼顾包容：
  开源之道图书共读：https://groups.google.com/d/forum/reading-open-source-way
@@ -51,10 +51,10 @@
     
     <item>
       <title>开源之道文章贡献指南</title>
-      <link>http://www.ocselected.org/community/contributing/</link>
+      <link>http://www.opensourceway.community/community/contributing/</link>
       <pubDate>Fri, 07 Feb 2020 14:45:05 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/community/contributing/</guid>
+      <guid>http://www.opensourceway.community/community/contributing/</guid>
       <description>前提 最好是对于开源之道的风格和内容有所了解，强烈建议阅读：开源之道阅读指南
 开发者 开源之道目前所使用到的技术栈：Markdown + hugo + GitHub page + Travis-CI
 你我都知道，开发者的特点：无限！ 作为发起者，我对开发者是持敬畏态度的，因为他们总是能够带给我惊奇，让他们充分的施展自己的想象力，这是我唯一能做的事情。

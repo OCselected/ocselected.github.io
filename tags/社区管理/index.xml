@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>社区管理 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86/</link>
+    <link>http://www.opensourceway.community/tags/%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86/</link>
     <description>Recent content in 社区管理 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Tue, 21 Jan 2020 18:32:04 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Community Leadership Development 是什么？做什么？</title>
-      <link>http://www.ocselected.org/posts/community_leadership_development/why_create_community_leadership_development_group/</link>
+      <link>http://www.opensourceway.community/posts/community_leadership_development/why_create_community_leadership_development_group/</link>
       <pubDate>Tue, 21 Jan 2020 18:32:04 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_leadership_development/why_create_community_leadership_development_group/</guid>
+      <guid>http://www.opensourceway.community/posts/community_leadership_development/why_create_community_leadership_development_group/</guid>
       <description>致力于开源相关思想、知识和价值的挖掘。
  引言 开源之道 ，是适兕的个人博客，不知不觉地写了三年多。如果仅止于写或者翻译文章的话，那么可能会错失很多东西，因为从文章中可以学习和感悟到很多，如开源之道图书共读，又如现在我们所谈到的:（开源）共同体领导力发展，各种机缘巧合碰撞的结果。
  Software and technology is the easy part. The hard part is creating and fostering a culture around an open-source project.
@@ -35,10 +35,10 @@ Community ，开源Community 需要被重新翻译并解读。
     
     <item>
       <title>开源软件项目的定性和定量分析指标 ———— CHAOSS 指标解析</title>
-      <link>http://www.ocselected.org/posts/community_leadership_development/chaoss_metrics_201908_learning/</link>
+      <link>http://www.opensourceway.community/posts/community_leadership_development/chaoss_metrics_201908_learning/</link>
       <pubDate>Thu, 24 Oct 2019 18:06:47 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_leadership_development/chaoss_metrics_201908_learning/</guid>
+      <guid>http://www.opensourceway.community/posts/community_leadership_development/chaoss_metrics_201908_learning/</guid>
       <description>“科学管理在实质上要求任何一个具体机构或机构中的工人及管理人员进行一场全面的心理革命，没有这样的心理革命，科学管理就不存在。” ———— 泰勒 《科学管理原理》
  引言 笔者最近阅读了CHAOSS 在8月份发布的开源软件项目的量化指标，颇受启发，于是索性将所想所得和大家分享一番，开源之道走过了这几年，抽丝剥茧，一直试图找到和大家探讨的话题，一同解决令人困惑的难题，但是缺少必要的积累，一直倾向于定性的探索和研究，鉴于知识背景和视野的不同，于是很难找到让大家感兴趣的话题，甚至某位朋友善意的提醒：“多讲点实在的”，多年过去了，我也终于对关于定性的问题有了一些理解和认识，那么这也意味着是该集中起来做些定量的指标衡量的事情了。
 当然，伴随着科技的进步，很多人开始迷信数据，比如流行GitHub star数量、fork数量等等，这尤其体现在某些公司做考核之用，非常的实惠。但是这并不是开源之道所看重的，尽管量化指标很重要，正如红帽开源项目办公室的高级首席社区架构师Brian Proffitt（同时也是CHAOSS的治理委员会成员）所言，你有了指标和衡量，就一定保证Community是健康的吗？对此开源之道是颇为赞同的，一直以来坚持在没有搞清楚性质之前，不要去迷信数据的缘由。
@@ -55,10 +55,10 @@ CHAOSS 的目标 目前来说，有三类目标：
     
     <item>
       <title>如何管理开源项目中的即兴贡献者</title>
-      <link>http://www.ocselected.org/posts/community_leadership_development/managing-casual-contributors/</link>
+      <link>http://www.opensourceway.community/posts/community_leadership_development/managing-casual-contributors/</link>
       <pubDate>Mon, 20 May 2019 18:07:49 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_leadership_development/managing-casual-contributors/</guid>
+      <guid>http://www.opensourceway.community/posts/community_leadership_development/managing-casual-contributors/</guid>
       <description>名词解释 casual contributors，也被称为是 &amp;ldquo;episodic volunteering&amp;rdquo; ，意指那些开源社区中，没有担任特别的职责，偶尔零星的会对社区和项目做出贡献的志愿者们。和像演员的非正式训练，将生活中的某个有趣的片段当做艺术来演绎。故开源之道翻译为即兴。
 引言 开源是如此的重要，以至于美国政府禁止美国公司和华为进行贸易的事件，让国内的软件界的人倍感压力，甚至就美国政府是否会干涉开源基金会这事，开源社、CSDN等还专门撰文澄清，也是洋洋软件大国的一大奇观了。
 但是毋庸置疑的是，虽然开源软件使用了不少，但是开源社区在国内的发展确实是差了非常多，至今没有一个像样的社区，更加不用提基金会的事情了。开源之道还是坚持一贯的主张，努力的去提高认知，掌握开源背后的思想、知识和价值，或许能够在较可预见的期限内能够找到一条成功的路径来。否则，只有倒退。
@@ -81,10 +81,10 @@ CHAOSS 的目标 目前来说，有三类目标：
     
     <item>
       <title>6条让社区繁荣的实用方法，进而取得项目成功</title>
-      <link>http://www.ocselected.org/posts/community_leadership_development/6_ways_a_community_help_project_succeed/</link>
+      <link>http://www.opensourceway.community/posts/community_leadership_development/6_ways_a_community_help_project_succeed/</link>
       <pubDate>Mon, 25 Mar 2019 22:04:06 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_leadership_development/6_ways_a_community_help_project_succeed/</guid>
+      <guid>http://www.opensourceway.community/posts/community_leadership_development/6_ways_a_community_help_project_succeed/</guid>
       <description>所谓的创新、研究、市场营销、技术支持等等，所有这些企业的因素，社区均可以提供，当然，前提是你足够的重视社区。
  开源之道注： 这是一篇常见的基于开源项目的商业公司的市场软文，本文算不上任何的高明之处，在大讲各种人类美好愿景的同时，添加进自己商业公司，肮脏到没有任何的底线。之所以翻译它，是因为它颇具代表性，国内特殊的文化环境，是无法吐槽任何公司的，所以不妨以这篇文章来告诉大家真相。
  NethServer 是一家叫做来自意大利的公司 Nethesis 所开发的开源产品，大约维持了很多年，产品之所以有今天的样子，离不开社区的支持。
@@ -120,10 +120,10 @@ CHAOSS 的目标 目前来说，有三类目标：
     
     <item>
       <title>Kubernetes 社区是如何运作的系列之三——治理细则</title>
-      <link>http://www.ocselected.org/posts/community_leadership_development/how_kubernetes_community_works_3/</link>
+      <link>http://www.opensourceway.community/posts/community_leadership_development/how_kubernetes_community_works_3/</link>
       <pubDate>Sun, 18 Mar 2018 22:09:17 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_leadership_development/how_kubernetes_community_works_3/</guid>
+      <guid>http://www.opensourceway.community/posts/community_leadership_development/how_kubernetes_community_works_3/</guid>
       <description>关于治理 忘记在哪里看到的了，说是搞开源，第一文化，第二流程，第三是工具。我们今天就 Kubernetes 的 SIG 治理细则，来看下具体的工具使用。至于原因吗，开源之道也不免唠叨几句：
 文化的学习和习得绝非一日之功，可能需要数十年，数百年，甚至有些文化根本就无法移植。既然文化是一个很漫长的过程，还要比拼耐心，那么我们就退而求其次，学习下流程，然后，流程没有文化的支撑，仿佛鱼离开了水般的难以适应，需要大概经历好多年，才能慢慢习惯。举例来讲，开源社区讲究透明和影响力，那么很多事情就需要公开，这在某种文化背景下是非常难以实施的。然后，再退而求其次，只使用工具：邮件列表、可以存档的即时在线多人聊天、GitHub等，这是所有人都可以稍微花些时间就可以掌握的，因为是实实在在的规划好的路，而这点是非常符合所谓的落地的、可见的。
 这就是开源之道愿意花时间和精力来讲治理细则的根本来由。废话颇多，不如见见实际的内容，以下为 Kubernetes SIG 的治理细则，细到如何上传YouTube视频。那么问题来了，对 Kubernetes 的技术本身有多深的理解和沟通能力才能有计划创建一个SIG？
@@ -134,10 +134,10 @@ CHAOSS 的目标 目前来说，有三类目标：
     
     <item>
       <title>Kubernetes 社区是如何运作的系列之二——康威定律和SIG</title>
-      <link>http://www.ocselected.org/posts/community_leadership_development/how_kubernetes_community_works_2/</link>
+      <link>http://www.opensourceway.community/posts/community_leadership_development/how_kubernetes_community_works_2/</link>
       <pubDate>Tue, 06 Feb 2018 22:18:44 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_leadership_development/how_kubernetes_community_works_2/</guid>
+      <guid>http://www.opensourceway.community/posts/community_leadership_development/how_kubernetes_community_works_2/</guid>
       <description>康威定律（Conway&amp;rsquo;s law） 随着信息技术的发展，以及现实的IT公司的成功，如Amazon、Netflix，以及云计算的普及，微服务的实践正在走向很多传统用户，然而，实施微服务的过程中，和DevOps的理念一样，人们发现并非仅仅是技术所能够解决的。还要涉及到组织架构。于是，伴随着微服务的发展，一位很少被人提及的科学家被推到了前端，也是被人忽视而尘封的科学家。
 时间要拨回到1967年，Melvin Conway 以独特的视角观察到一个组织的组织结构会对其开发的系统有很大的影响。并撰写了&amp;ldquo;How Do Committees Invent&amp;rdquo; 这样一篇影响深远的论文，其中被人们广为知道的结论：
  设计系统【这里也不仅仅是指信息系统】的组织，其产生的设计和架构等价于组织间的沟通结构。
@@ -151,10 +151,10 @@ Kubernetes SIG 如何组织社区的开发从来一直都是一门大学问，�
     
     <item>
       <title>Kubernetes 社区是如何运作的系列之一——哲学及治理</title>
-      <link>http://www.ocselected.org/posts/community_leadership_development/how_kubernetes_community_works_1/</link>
+      <link>http://www.opensourceway.community/posts/community_leadership_development/how_kubernetes_community_works_1/</link>
       <pubDate>Mon, 05 Feb 2018 21:54:47 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_leadership_development/how_kubernetes_community_works_1/</guid>
+      <guid>http://www.opensourceway.community/posts/community_leadership_development/how_kubernetes_community_works_1/</guid>
       <description>引子 在2017年，关于容器的管理和调度平台，战火的硝烟渐渐的平息，Kubernetes 以压倒性的优势占据了这个细分领域的霸主，如下图来自 thenewstack 的调查：
 如果仅仅从纯技术的角度而言，Kubernetes 和其它平台是半斤八两，处于伯仲之间，那么在社区的运营和赢得人们信任的方面，Kubernetes绝对是No.1，没有哪家能够相提并论。即使是Docker本身拥有无数拥泵的情况下，是容器的默认事实标准，也无法抵挡透明、开放、协作的Kubernetes社区的魅力。开源之道在Kubernetes 之所以成功的背后神秘力量 进行过专门的表述。
 在上个月的中旬，Software Engineering Daily 的Jeff 撰写了一篇非常棒的文章：Kubernetes 的“下沉”，意指Kubernetes已经像Linux在单机操作系统的地位一样，成为分布式系统平台的默认选择。成为了分布式系统事实上的标准。抛开技术的因素，我们不得不承认Kubernetes在社区的运作成功之处。这次我们就利用整个2月来论道一下Kubernetes的社区运作。
@@ -174,10 +174,10 @@ Kubernetes 社区的总则 Kubernetes社区坚持以下原则：
     
     <item>
       <title>赞助开源社区开发是一件双赢的事情</title>
-      <link>http://www.ocselected.org/posts/contribute_to_community/sponsored_development_is_a_win-win/</link>
+      <link>http://www.opensourceway.community/posts/contribute_to_community/sponsored_development_is_a_win-win/</link>
       <pubDate>Wed, 10 Jan 2018 09:11:27 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/contribute_to_community/sponsored_development_is_a_win-win/</guid>
+      <guid>http://www.opensourceway.community/posts/contribute_to_community/sponsored_development_is_a_win-win/</guid>
       <description>在常人的想法中，以为开源是有魔力的，认为自己只要开源了，就会有人蜂拥而至，那些个大牛们就会放弃自己的周末和下班休闲时间，来纷纷的、争先恐后的为项目做贡献。嗯，我现在告诉你，你错了，错的非常离谱，属于典型的幻想症患者。要不GitHub上有那么多无人问津的项目是怎么回事了呢？是的，大家都很忙，忙到无暇顾及这些。所以，除极个别的情形之外，指望程序员利用业余时间来为开源项目作贡献，是不合常识的。从头打造一个贡献者是需要花时间和精力的，而复杂的应用程序往往有着陡峭的学习曲线，经过那之后开发人员才能熟练的掌控代码。
 开源软件公司往往就是那些大量的开源软件开发背后的支撑力量，构建社区以及为他们提供金钱上的支持，而且，要知道，开源软件公司和其它类型的商业公司一样————需要盈利来维持。
 那么作为用户，为开源软件提供赞助，是颇为不错的一个选择。我们知道，现在开源软件是主流，具黑鸭子的调查，企业有超过60%的在使用开源软件，那么在使用的过程中，难免会出现现有的无法满足需求的时候，那么这个时候为那些开发公司提供付费，这样不仅能够让用户得到满足需求的功能，而且也让开源软件公司利用其在应用程序方面的专业知识来开发和销售能够满足最终用户需求的服务或产品。这就是双赢的局面：让软件更趋完善，也能够持久的发展。
@@ -188,10 +188,10 @@ Kubernetes 社区的总则 Kubernetes社区坚持以下原则：
     
     <item>
       <title>扩张社区贡献者的几种办法</title>
-      <link>http://www.ocselected.org/posts/community_leadership_development/expand_project_contributor/</link>
+      <link>http://www.opensourceway.community/posts/community_leadership_development/expand_project_contributor/</link>
       <pubDate>Mon, 18 Dec 2017 21:55:30 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_leadership_development/expand_project_contributor/</guid>
+      <guid>http://www.opensourceway.community/posts/community_leadership_development/expand_project_contributor/</guid>
       <description>引子 很多的自由和开源软件项目起初是为了解决某一问题，随后，人们开始了陆陆续续的贡献，但多数原因是因为他们只是解决了所遇到的问题，最终用户发现此开源项目对于他们来说是有用处的，那么这时项目就会成长，有了解决实际的问题这一共同的目标和焦点，吸引着人们参与到项目的社区中来。
 任何事物都有其本来的生命周期，社区的增长不仅预示着项目的可行性，也是标志。那么问题来了，作为项目的领导者和维护者给如何鼓励贡献者基数的增长了呢？以下是常见5个方法。
 一、提供绝佳的文档 项目文档是人们最容易低估，但是却又是最为重要的部分。要知道，文档对于项目的潜在贡献者是最为主要的信息来源，也是鼓励贡献者们的思想领地。
@@ -215,10 +215,10 @@ Kubernetes 社区的总则 Kubernetes社区坚持以下原则：
     
     <item>
       <title>如何解决创建全球社区的挑战</title>
-      <link>http://www.ocselected.org/posts/community_leadership_development/working_worldwide_communities/</link>
+      <link>http://www.opensourceway.community/posts/community_leadership_development/working_worldwide_communities/</link>
       <pubDate>Fri, 15 Dec 2017 22:45:32 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/community_leadership_development/working_worldwide_communities/</guid>
+      <guid>http://www.opensourceway.community/posts/community_leadership_development/working_worldwide_communities/</guid>
       <description>引子 随着互联网技术的发展，如今的社区成员是来自世界各个地方，在建立在线社区时，会遇到什么样的挑战？我们又该如何解决这些挑战？
 人们为开源社区做贡献，某种程度上说，是为实现帮助开发软件的承诺。在过去，人们通过在约定好的时间和地点会面，或者是使用写信的方式，或者是打电话。在今天，技术的发展已经让在线社区无处不在了，人们可以很轻松的随意的进行视频沟通，并开始一起工作。举个例子来说，你如果在跨过公司工作过的话，在早上可能是和摩洛哥的人在协作，到晚上又在和夏威夷的沟通，这些都是稀松平常之事。
 全球社区：三大挑战 任何在群体中工作过的人，都能明白当拥有不同意见的时候，是最为棘手的。在线上的社区，则更是增加了新的难度，比如语言障碍、不同时区以及文化差异等。

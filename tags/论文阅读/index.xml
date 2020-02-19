@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>论文阅读 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/</link>
+    <link>http://www.opensourceway.community/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/</link>
     <description>Recent content in 论文阅读 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Sat, 18 Jan 2020 10:22:46 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title> Open Core 的系列读物整理</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/reading-list-of-open-core/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/reading-list-of-open-core/</link>
       <pubDate>Sat, 18 Jan 2020 10:22:46 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/reading-list-of-open-core/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/reading-list-of-open-core/</guid>
       <description> 引言 书籍 1. 《信息规则：网络经济的策略指导》 推荐理由：
  本书会告诉你，信息的商业规则，以及开源为什么是合理的，而且是长久不衰的。
  2. 《软件悖论：商业软件的崛起与陨落》 推荐理由：
@@ -35,10 +35,10 @@ Six Software Licensing Models Helping Companies Scale Up in 2020
     
     <item>
       <title>拥抱开源，需要跨越那些鸿沟？ ————《Open Life —— 有关开源的哲学》读后感</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/henrik_ingo_open_life/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/henrik_ingo_open_life/</link>
       <pubDate>Wed, 08 Jan 2020 10:28:50 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/henrik_ingo_open_life/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/henrik_ingo_open_life/</guid>
       <description>开源之道点评 多样性，这是文化演进的方式，以开源的方式来处理事情，甚至作为一种人生哲学，也是很大一部分人的选择，而且这个大门正如它自身所表达的，对于所有人都是开放的。但是，拥抱开源也不是一蹴而就的，正如人类所有的文明一样，是需要学习的，如果不是从小接受，那么就不得不面临一次心智革命，毫无疑问，这是极具挑战的事情，正如商业上跨越鸿沟，如何让开源能够被大众接受，需要做些什么？
 1. “单位”组织思维需要适当的变更 中国具有悠久的历史，尤其是3000年的农耕社会，具有超稳定的村庄结构，所谓的”鸡犬相闻而老死不相往来“是也。后来在现代化的经济强国冲击之下，不得不进行改造，甚至有过激进的路线，那就是按照人为的规定进行身份验证。
  你哪个单位的？
@@ -67,10 +67,10 @@ L: 没有，相反我非常的高兴，有那么多人受益。
     
     <item>
       <title>近距离看开源是什么？有什么？</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/book_review_of_mitfoss/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/book_review_of_mitfoss/</link>
       <pubDate>Wed, 04 Dec 2019 16:05:27 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/book_review_of_mitfoss/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/book_review_of_mitfoss/</guid>
       <description>你要认识到你的目标是对世界历史上曾有的和现有的社会结构进行充分的比较性理解。要认识到实现这个目标,你必须避免普遍存在的学院科系的武断的专业化。你要根据你的主旨,最重要的是要根据特定的问题,来对研究进行不同形式的专业化。在梳理和解决这些问题的努力中,不要犹豫不决,相反,要持续不断并富有想像力地去探索,从所有关于人和社会的明智研究中汲取视角、现实资料、思想和方法。它们是你的研究成果,它们与你血肉相连;不要让那些使用神秘难懂的话语和以专家自居的人从你这掠走它们,扼杀它们。 ———— C.赖特.米尔斯 《论治学之道》
  开源之道2019图书共读历史书评 过去十个月的导读与书评：
  《软件悖论:商业软件的崛起与陨落》 Subscribed：为什么说订阅才是塑造贵司的未来的模式，如何实现它 我们正处于开源的黄金时代 —— 《开放与共享》导读与书评 得开发者得天下 ———— 开发者是如何征服世界的 开源开发者内在的素质：匠艺 —— 《匠人》书评与导读 开源 &amp;ndash; 一部黑客伦理与商业资本相互妥协的融合史（《黑客》读后感） 开放源代码软件的三重境界 ———— 《大教堂与集市》读后感 开放源代码软件的生产之道 开放源代码是如何吞噬软件的 如何开源，决定于认识开源  开源之道图书共读短评 无
@@ -87,10 +87,10 @@ L: 没有，相反我非常的高兴，有那么多人受益。
     
     <item>
       <title>如何开源，决定于对开源的认识 ———— 《OpenSources：来自开源革命的呼声》书评</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/book_review_of_voice_from_the_osr/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/book_review_of_voice_from_the_osr/</link>
       <pubDate>Thu, 24 Oct 2019 14:01:37 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/book_review_of_voice_from_the_osr/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/book_review_of_voice_from_the_osr/</guid>
       <description>Where there is a will, there is a way. &amp;ndash; anonymous
  开源之道2019图书共读历史书评 过去三个季度的导读与书评：
  《软件悖论:商业软件的崛起与陨落》 Subscribed：为什么说订阅才是塑造贵司的未来的模式，如何实现它 我们正处于开源的黄金时代 —— 《开放与共享》导读与书评 得开发者得天下 ———— 开发者是如何征服世界的 开源开发者内在的素质：匠艺 —— 《匠人》书评与导读 开源 &amp;ndash; 一部黑客伦理与商业资本相互妥协的融合史（《黑客》读后感） 开放源代码软件的三重境界 ———— 《大教堂与集市》读后感 开放源代码软件的生产之道 开放源代码是如何吞噬软件的  开源之道图书共读短评  红帽创始人在书中的这段话让我印象深刻，“没有人指望能以自由软件容易的赚到钱。尽管用自由软件赚钱是富有挑战的，但并不比用专有版权的软件赚钱更艰巨。事实上，你用自由软件赚钱如同你用专有版权的软件一样：建造一个好的产品，运用技巧和想象力开拓市场，照顾好你的客户，从而建立起一个代表着质量和服务的品牌。”这才是红帽今天这么成功的原因。二十多年后的今天，我们这个巨大的市场迎来了基础软件发展的诱人机遇，在开源软件的基础上建造一个好的产品相对容易的多，真正挑战的是如何运用技巧和想象力开拓市场，并建立起一个值得信任的品牌！这些功夫是需要跟外企好好学习的，比如这个被340亿美金收购的公司&amp;mdash;红帽！ ———— 富麦科技创始人兼CEO 龚仪
@@ -102,10 +102,10 @@ L: 没有，相反我非常的高兴，有那么多人受益。
     
     <item>
       <title>开放源代码是如何吞噬软件的</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/book_review_of_hosas/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/book_review_of_hosas/</link>
       <pubDate>Fri, 11 Oct 2019 17:19:40 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/book_review_of_hosas/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/book_review_of_hosas/</guid>
       <description>远大的志向、疲乏的心身，加上心浮气躁，我已准备好随时可能接踵而至的精神崩溃。 —————— 爱德华.威尔逊《缤纷的生命》
  开源之道2019图书共读历史书评 过去八个月的导读与书评：
  《软件悖论:商业软件的崛起与陨落》 Subscribed：为什么说订阅才是塑造贵司的未来的模式，如何实现它 我们正处于开源的黄金时代 —— 《开放与共享》导读与书评 得开发者得天下 ———— 开发者是如何征服世界的 开源开发者内在的素质：匠艺 —— 《匠人》书评与导读 开源 &amp;ndash; 一部黑客伦理与商业资本相互妥协的融合史（《黑客》读后感） 开放源代码软件的三重境界 ———— 《大教堂与集市》读后感 开放源代码软件的生产之道  开源之道图书共读短评  Gordon 以技术布道师和行业分析师的角度探究了开源，以更为广阔的角度来探讨软件的现状和未来！挖掘开源之所以被历史所承认背后的驱动力！一定能让你觉得眼前一亮！不过，你可能读之前需要一些准备知识。 &amp;ndash; 适兕 开源之道图书共读活动发起人
@@ -124,10 +124,10 @@ Gordon 是在红帽担任技术布道师，他常常在各种技术场合下做�
     
     <item>
       <title>开源 -- 一部黑客伦理与商业资本相互妥协的融合史（《黑客》读后感）</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/hackers-book-review/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/hackers-book-review/</link>
       <pubDate>Mon, 01 Jul 2019 20:13:22 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/hackers-book-review/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/hackers-book-review/</guid>
       <description>开源之道2019图书共读历史书评 过去几个月的导读与书评：
  《软件悖论:商业软件的崛起与陨落》 Subscribed：为什么说订阅才是塑造贵司的未来的模式，如何实现它 我们正处于开源的黄金时代 —— 《开放与共享》导读与书评 得开发者得天下 ———— 开发者是如何征服世界的 开源开发者内在的素质：匠艺 —— 《匠人》书评与导读  开源之道成员评论  精彩的、有故事的计算机历史并不多见，尤其是特殊的中国环境下，《黑客》一书可以打开计算机从业者的想象力，从过去的发展来深刻思考当下。 ———— 适兕 开源之道图书共读倡导者、X-lab开放实验室首席开源导师
  阅读之前需要准备的内容 本书是比较晦涩难懂的，如果你不是电子或计算机背景的，简直是如同嚼蜡，开源之道建议你阅读该书之前，先要阅读下面一些书籍：
@@ -136,10 +136,10 @@ Gordon 是在红帽担任技术布道师，他常常在各种技术场合下做�
     
     <item>
       <title>得开发者得天下 ———— 开发者是如何征服世界的</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/the_new_kingmaker_review/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/the_new_kingmaker_review/</link>
       <pubDate>Tue, 23 Apr 2019 18:05:37 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/the_new_kingmaker_review/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/the_new_kingmaker_review/</guid>
       <description>引言 目前市值最高的软件公司——微软，其上一任CEO，Steve Ballmer 曾经在一次大会的演讲中“表演”了一段个人“show”，Ballmer先生几乎是失态的、声歇力竭的大呼“开发者、开发者、开发者、开发者、开发者、开发者、开发者、开发者&amp;hellip;&amp;hellip;”
 而在2018年，微软公司以高达75亿美元的价格收购了著名代码托管平台——GitHub，一家重要的开发者免费托管开源代码的平台。这也在某种程度上，佐证了当年(1999)微软的创始人 Bill Gates的“忏悔”：微软在开发者中间的影响力确实不如Linux（开源）。
 无独有偶，2018年另外一起软件史上最大的收购案—— 红帽被IBM 以高达340亿美元收购。而其中最为重要的原因，就是坦诚红帽在开源的人才和影响力。
@@ -157,10 +157,10 @@ Gordon 是在红帽担任技术布道师，他常常在各种技术场合下做�
     
     <item>
       <title>开源的黄金时代 —— 《开放与共享》导读与书评</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic/</link>
       <pubDate>Mon, 01 Apr 2019 15:48:15 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic/</guid>
       <description>导读 在刚刚举办过的“开源领导力峰会2019”的Keynote当中，Linux 基金会执行总监 Jim Zemlin如此说道：开源的黄金时代已经来临。
 尽管在绝大多数的工程师看来，开源已经胜利了，例如过去以微软为对立面的人而言，自从微软全方位拥抱开源之后，甚至都产生了信仰危机，有种战士胜利之后，踟躇的感觉。但是，其实在商业界、科学界，即使是回到IT产业本身，开源离胜利还差很多。但是毋庸置疑的是，去年在商业上接二连三的事件，直接将开源推至了风口浪尖：
 以开放式的、基于互联网全球式的协作、高度透明化的社区方式进行的软件生产，奠定了现代软件的基石，在不断地吞噬着技术栈， 新型的互联网企业的开源使用率高达80%，而传统的软件巨头也在转型的途中，从商业模式到捐赠项目都在做出应变。那么开源似乎从某种程度上，已经成功了。这势必引起人类社会的关注。不单单是技术本身，而是在协作、管理、经济、社会、心理、创新等诸多领域都注意到了这点。从好莱坞，到电力行业，再到金融，以及新兴的边缘计算，开源正在不断扩大自己的边界，毫无疑问，Jim Zemlin的论断是对的。
@@ -183,10 +183,10 @@ Gordon 是在红帽担任技术布道师，他常常在各种技术场合下做�
     
     <item>
       <title>开源之道共读图书列表（2020版）</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/2020_book_lists/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/2020_book_lists/</link>
       <pubDate>Fri, 15 Mar 2019 13:40:02 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/2020_book_lists/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/2020_book_lists/</guid>
       <description>那些对自身所处环境缺乏知识和理解的人，通常其思想自由也会受到限制，进而就会在他们的行为选择方面产生影响。有限的知识限制了自由的思想。
 ​ ———— Joel Charon 《Ten Questions： A Sociological Perspective》
  共读之规则 本文列举的是2020年所精心选择的开源相关图书，以及如下规则：
@@ -211,10 +211,10 @@ Gordon 是在红帽担任技术布道师，他常常在各种技术场合下做�
     
     <item>
       <title> 数字化转型时代的主流商业模式 ——《订阅》 导读&#43;书评</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future/</link>
       <pubDate>Mon, 18 Feb 2019 07:03:37 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future/</guid>
       <description>为什么要阅读这本书？ 开源之道图书共读，这本《订阅》乍看起来似乎和开源没有半毛钱关系，实际上二者是惊人的相似。伴随着数字化转型的全面到来的时代，和客户打成一片，通过建立紧密的联系，依靠客户的正负反馈来进一步提供更优质、更合适的服务，而这不就是开源软件生态多践行和倡导的吗？正如书中所言，我们正处于商业史上的关键时刻，而这是工业革命以来从未见过的。世界正在从产品转向服务，而开源的发展也已经进入一个逐步成熟的时期，开始从软件工业走出来，影响和渗透其它行业。换句话说，如果你想把握好下一代商业模式，有了开源的背景，理解起来会更加的容易，掌握的也更快。
 评论区 Salesforce 主席兼CEO Marc Benioff 如此评价本书作者和书籍：
  我很幸运地能够在 Salesforce 创业早期，找到了 Tien Tzuo 成为 Salesforce 的第十一名员工，（本书）为任何能够驾驭我们这个时代最重要的商业模式转变的人撰写了权威的参考指南。
@@ -234,10 +234,10 @@ IT 厂商的实例 其实，作者作为 Salesforce的创始团队成员，对�
     
     <item>
       <title>2019.1 开源之道论文共读笔记及探讨记录</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/paper_reading_notes_2019_01/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/paper_reading_notes_2019_01/</link>
       <pubDate>Sat, 02 Feb 2019 22:30:31 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/paper_reading_notes_2019_01/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/paper_reading_notes_2019_01/</guid>
       <description>一、 《the role of participation architecture in growing sponsored Open Source Communities》 开源之道引言：为什么要读这篇论文？ 适兕观察本土企业活动开源，极少见到公司赞助某个开源社区或者是自己运营一个开源社区，大多数是公司的市场部门赞助一个会议之类的，即使是 OpenSSL 出了 Bloodheart 这样的问题之后，锤子的老板直接给了项目100万，也不过是哗众取宠罢了（因为后来再也未见持续性的投入，就非常的吃亏）。话说回来，既然是个人的观察，会有极大可能有偏见的，比如大多数公司会搞合作伙伴社区、用户论坛之类的，开源社区对于他们离盈利太远！多数人认为是一种慈善的行为，一般言称公司有了钱一定会去做的。但是，社区对于一家公司的益处是由来已久的，而且很多公司就是以社区的名义而成就的，如哈雷摩托等。
 就是这样一个偏差，将我的思考带到了寻求这方面答案的探求上来。随着开源在软件开发占有的地位上升，本土越来越多的企业将自己的项目开源，那么面临的一个问题就是：只见代码，未见社区。于是尴尬的一批，慌的一批。那么我们不妨找出十年前研究开源和开放式创新的经济学家的论文看看，对于企业的决策者或许有一些参考。
 在开始之前，开源之道推荐两篇文章： 1. 来自 forbes 的评论文：开源软件的商业化正站在迷茫的十字路口 https://www.forbes.com/sites/udinachmany/2019/01/16/thoughts-about-2018-the-year-of-open-source-teenagedom/#13701133393b 2. StrictlyVC Insider 系列 之一，http://haystack.vc/2015/09/17/transcript-chamath-at-strictlyvcs-insider-series/
@@ -255,10 +255,10 @@ IT 厂商的实例 其实，作者作为 Salesforce的创始团队成员，对�
     
     <item>
       <title>《软件悖论:商业软件的崛起与陨落》导读&#43;书评</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/the-software-paradox-book-review/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/the-software-paradox-book-review/</link>
       <pubDate>Thu, 17 Jan 2019 10:16:30 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/the-software-paradox-book-review/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/the-software-paradox-book-review/</guid>
       <description>开源之道共读圈精彩评论  很是认同 ”The Challenge of Developer Empowerment” 的讨论。我很认同 Enterprise-focused sales forces -&amp;gt; technical evangelists and developer engagement professionals 的转变。 以前企业卖产品，由于信息不对称，只需要搞定CIO就可以了，卖得再贵都没有关系。 现在开源来了，客户的能力也提升了， 虽然开发者手里没有钱，但是利用开源项目可以攒出来很多解决方案，企业级软件产品销售模式发生了改变，越来越向围绕着开发者进行公关。开发者生态，社区的价值就越来越大。 ———— Apache Member 姜宁
 这是一本每位计算机相关专业同学和职场人士都应该读的书，开源正在成为一把打开未来之门的钥匙，拥有了它，你才能更好的理解这个软件定义一切的世界，进而在这个数字时代安身立命；除了开发者，创业者和投资人也应该读，开源同时作为一种科学与人文精神开始渗透到整个IT产业中，有了它你可以更好的掌握时代脉搏、构建你的产品、打造你的商业模式，进而在整个行业中生存与发展。 ———— 开源社理事，华东师范大学研究员 王伟
 A must for anyone worried about making money with software, specially for startups that need to design a business model. &amp;ndash; 亚马逊读者 Raul
@@ -267,10 +267,10 @@ Best part of the book was the discussion of shift towards making money with soft
     
     <item>
       <title>开源之道共读图书列表（2019版）</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/2019_book_lists/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/2019_book_lists/</link>
       <pubDate>Sun, 02 Dec 2018 06:16:31 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/2019_book_lists/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/2019_book_lists/</guid>
       <description>共读之申明篇 本文列举的是2019年所精心选择的12本开源相关图书，关于共读的初衷，以及参与方式，请看官移步：开源之道图书和文献共读申明，有更多详细的内容。
 2019 第一季度 主题：软件的形态、商业化以及开源软件的商业化的合理性探讨 2019 年1月 第一期 英文版：The Software Paradox：商业软件市场的崛起与陨落, O’Reilly Media, Stephen O’Grady 著(2015)
 内容提要：
@@ -285,10 +285,10 @@ In Subscribed, you&amp;rsquo;ll learn how these companies made the shift, and ho
     
     <item>
       <title>开源之道图书和文献共读申明</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/establish_reading_os_community/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/establish_reading_os_community/</link>
       <pubDate>Mon, 26 Nov 2018 22:55:45 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/establish_reading_os_community/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/establish_reading_os_community/</guid>
       <description>题记 2018 是开源之年，或者称之为胜利之年，至少从商业上看来是如此：IBM 以高达340亿美金收购著名开源厂商红帽、微软以75亿美金收购知名开源代码托管服务站点 GitHub、Cloudera 和 Hartonworks 合并、Elastic 首次 IPO、专注于开源风险投资的公司 OSS.Captil 成立，其标榜的口号是：开源软件正在吞噬一切！ &amp;hellip;&amp;hellip;
 开源的革命似乎是胜利了! 它经过了20年的发展和成长，其内涵和外延变得日渐丰富和复杂。开源不再仅仅是代码，也不再仅仅是社区，它还在伦理、社会心理、文化、法律、经济上各有所绽放，无论是商业模式、市场营销、企业战略，还是开发者心理、软件工程、道德伦理平衡，开源从来就没有看起来那么的理想化和脸谱化。它正在成为一门科学，那么我们可以称之为：开源学,其实一点也不为过。
 所以它需要更多的研究和诠释，从而能够让人看得明白、瞧的透彻，不迷惘、不偏激，心平气和的去认识真正的开源，寻找自己的归属，并创造价值。
@@ -305,10 +305,10 @@ In Subscribed, you&amp;rsquo;ll learn how these companies made the shift, and ho
     
     <item>
       <title>开源中的行为经济学现象——《“错误”的行为》读后感</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/misbehaving_after_reading/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/misbehaving_after_reading/</link>
       <pubDate>Thu, 24 May 2018 14:33:34 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/misbehaving_after_reading/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/misbehaving_after_reading/</guid>
       <description>题记 众所周知，行为经济学是一门研究经济学和心理学跨学科融合的分支，已经成为了经济学分支的一门显学，有好几届的诺贝尔经济学奖得主都是研究此类问题的，如著名的丹尼尔.卡尼曼，理查德.泰勒等人。开源之道则陷入了某种困局，在一个周围遍地都是只愿意谈论编程语言、计算机产品、前沿科技（巫术）的氛围中，谈文化、心理、经济、商业显得有点儿不搭调，只是偶尔有人搭讪一下，也是一些评论性的内容。但是，面对世界的文明趋势，不得不提高自己的认知。开源软件，从爱好者的小范围讨论，发展成为互联网世界的中流砥柱，从历史的角度讲，这绝非偶然，因为失败是经历不起历史的淘汰的。所以开源绝非简单像它表面看起来，只是一种软件的生态方式，这其中包罗万象：有人性的、社会的、商业的、心理的、理想的、腐败的&amp;hellip;&amp;hellip;各种林林总总。
 但是，问题总归是问题，唯一不能做的，就是对人本身失去希望。所以想办法去解决，从提高自己的认知开始！
 自我控制或延迟满足 书中摘录部分 这个故事或研究结论被广泛传播，是来自心理学家沃尔特.米歇尔（Walter Mischel)的研究。米歇尔当时在斯坦福大学工作，并在校园里的一家托儿所做了一项实验。实验人员让一个（四五岁的）孩子到一个房间里，给他两个选择：一个是较小的奖励，马上可以得到；另一个是较大的奖励，但要过一会儿才能得到。奖励是一些好吃的食物，比如棉花糖或奥利奥饼干。实验人员告诉孩子，他可以现在或在任何他想吃的时候吃一块奥利奥饼干，但如果他能等到实验人员回来，就可以得到三块饼干。孩子可以随时摁铃，这样实验人员就会回来，但他只能得到较小的鼓励。
@@ -338,10 +338,10 @@ In Subscribed, you&amp;rsquo;ll learn how these companies made the shift, and ho
     
     <item>
       <title>莎士比亚和李纳斯.托瓦兹</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/shakespeare_and_linus_torvalds/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/shakespeare_and_linus_torvalds/</link>
       <pubDate>Sat, 14 Apr 2018 15:12:24 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/shakespeare_and_linus_torvalds/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/shakespeare_and_linus_torvalds/</guid>
       <description> 引子 古语有云：”时势造英雄”，当然此处的时势要放入整个人类的进化，而不是简单的军事和政治方面的。著名学者弗朗西斯.福山曾断言人类将在逐步的民主化当中终结，当然他指的是政治。而我们今天要谈的是知识的民主化和技术的民主化。
 知识的民主化 莎士比亚来到伦敦闯荡的时间是16世纪80年代中期，恰是宗教改革后的鼎盛时期，当时执政的伊丽莎白一世也是鼓励和实行新政，一系列的措施，以及注重文本解释的教育，直接的结果就是当时的公民识字率达到50%，由于宗教改革鼓励大家读书，因此，这极大的有助于一个新的图书市场的建立。据考证，当时出的图书有7000多种，到1600年，考文特花园周边地区差不多有100多家独立出版商，甚至连当地的居民都抱怨街道上散发着难闻的墨水味。这样的结果就是知识的剧烈民主化。莎士比亚和他同时代的作家们得以接触到数不胜数的新故事和新文本。
 莎士比亚在到达伦敦寻找发展机会之前，和那个时代大多数一样，没有机会接受大学教育，牛津和剑桥这样的高等学府的大门对于他是牢牢关闭的。他只能去演戏剧，并在演的过程学习创作。其中对他影响最大的莫过于克里斯托弗.马洛，创作了《帖木儿大帝》，马洛从一系列大众的历史书中借用情节。而马洛在剑桥大学专修文科，可以在剑桥大学图书馆丰富的藏书中找到自己的想要的素材，比如《帖木儿大帝》的重要素材来源之一：亚伯拉罕.奥特柳斯及其昂贵的手稿，当时只有剑桥有两本。
@@ -356,10 +356,10 @@ In Subscribed, you&amp;rsquo;ll learn how these companies made the shift, and ho
     
     <item>
       <title>开源书籍推荐 ————《路与桥——现代世界数字基础设施那些隐藏的劳动》</title>
-      <link>http://www.ocselected.org/posts/paper_or_book_reading/road_and_bridges_the_unseen_labor_behind_our_digital_infrastructure/</link>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/road_and_bridges_the_unseen_labor_behind_our_digital_infrastructure/</link>
       <pubDate>Tue, 13 Mar 2018 15:12:14 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/paper_or_book_reading/road_and_bridges_the_unseen_labor_behind_our_digital_infrastructure/</guid>
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/road_and_bridges_the_unseen_labor_behind_our_digital_infrastructure/</guid>
       <description>请打开你的手机：开启社交媒体App、新闻App、健身记录App、银行账户App&amp;hellip;&amp;hellip;：所有这些应用都在使用自由的和开放的代码！
  推荐语 换一个角度来看自由和开源软件，比如使用类比的方式，我们社会或国家的基础设施：公路、桥梁、自来水、发电站等等，和我们的日常生活是息息相关的，那么在信息化时代，数字化的基础设施——操作系统、编译器、程序运行时库等等，俨然已经是我们无法离开的设施了。你可能没有想到，数字基础设施使用的几乎全部都是自由和开源代码！既然现实的情况究竟是什么样子？它存在什么样的问题？它还能给我们带来何种机会？而我们应该去做什么？
 不妨用宏观的思维来理解开源软件给我们所生存的世界所带来的影响。

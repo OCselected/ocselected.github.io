@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>哲学 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E5%93%B2%E5%AD%A6/</link>
+    <link>http://www.opensourceway.community/tags/%E5%93%B2%E5%AD%A6/</link>
     <description>Recent content in 哲学 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Sat, 30 Jun 2018 10:08:01 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E5%93%B2%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E5%93%B2%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>开源之道</title>
-      <link>http://www.ocselected.org/posts/the_way_of_open_source/open_source_way/</link>
+      <link>http://www.opensourceway.community/posts/the_way_of_open_source/open_source_way/</link>
       <pubDate>Sat, 30 Jun 2018 10:08:01 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/the_way_of_open_source/open_source_way/</guid>
+      <guid>http://www.opensourceway.community/posts/the_way_of_open_source/open_source_way/</guid>
       <description>引子 多年以来一直从事和开源相关的工作，从接触到自由和开源软件文化，到以软件为职业，再回归到布道，一晃已经15年过去了，15年，对于一个人的生命周期来说，在从青年到壮年的最为丰富多彩的一段时间，在其中有过欢笑、有过沉沦、有过奋斗、有过挣扎、有过冲突、有过彷徨，但唯一没有做的是放弃。从好奇，到参与，再到宣扬，一路走来，遇到过很多人，也经历了很多事，自己也努力的追求着本质。
 于是，希望将自己对于开源的理解写下来，表达出来，让更多的人受益。
 自信与宏观思维 毫无疑问，认识成长于社会的环境当中的，在自己的头脑没有成熟到一定程度时，是会被环境所左右，而武装自己的头脑，唯一的办法就是不断的训练它，让它不断的吸收新的知识、体验。其中，读书是至为重要的一种方式，我已经忘记我是为何一直以来都喜欢读书的，从能记事起，就喜欢翻书，脑子里总是有太多的问题，而现实中的人们或其它媒介又无法作答，唯有书籍能带给我不断求索的答案和方法。

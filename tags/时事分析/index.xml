@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>时事分析 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E6%97%B6%E4%BA%8B%E5%88%86%E6%9E%90/</link>
+    <link>http://www.opensourceway.community/tags/%E6%97%B6%E4%BA%8B%E5%88%86%E6%9E%90/</link>
     <description>Recent content in 时事分析 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Tue, 06 Jun 2017 22:12:03 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E6%97%B6%E4%BA%8B%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E6%97%B6%E4%BA%8B%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>开源界的现状如何？——2017开源调查</title>
-      <link>http://www.ocselected.org/posts/event_analysis/github_open_source_survey_2017/</link>
+      <link>http://www.opensourceway.community/posts/event_analysis/github_open_source_survey_2017/</link>
       <pubDate>Tue, 06 Jun 2017 22:12:03 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/event_analysis/github_open_source_survey_2017/</guid>
+      <guid>http://www.opensourceway.community/posts/event_analysis/github_open_source_survey_2017/</guid>
       <description>背景介绍 GitHub 作为大名鼎鼎的基于社交的代码托管平台颇受大众欢迎，但是GitHub似乎并没有止步，仍在不断的探索更多的可能性，比如在今年2月14日发布了开源指南项目，并在随后发布了GitHub开源社区，这一连串的事件，明确的说明，伴随着开源力量的崛起，GitHub要在这方面发力。
 当然科学的做事，是需要一些背景调查的。于是GitHub联合学术界、开源社区、以及软件界，搞了一次大规模的调查。目标一部分来自于GitHub上的仓库，超过3800个，随机询问了5500个开发者，而在其它的开源社区则是定向的500个调查。
 相信根据这些调查，GitHub后面会有一系列的动作，比如帮助开发者更好的维护项目。当然，从开发者的角度来讲，了解下现在开源的现状，不止于项目本身，而是 方法论、文化、软实力 等方面的内容，也是对自身视野的提升有很大的帮助的。以下便是这次GitHub调查的详细内容。

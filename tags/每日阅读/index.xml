@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日阅读 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/</link>
+    <link>http://www.opensourceway.community/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/</link>
     <description>Recent content in 每日阅读 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 07:05:38 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>开源之道(bye 2016 hello 2017)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93bye-2016-hello-2017/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93bye-2016-hello-2017/</link>
       <pubDate>Sun, 01 Jan 2017 07:05:38 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93bye-2016-hello-2017/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93bye-2016-hello-2017/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 web开发的未来：GitLab CEO 专访 原文链接：The Future Of Web Development With GitLab CEO Sid Sijbrandij
 适兕点评：
@@ -34,10 +34,10 @@
     
     <item>
       <title>开源之道一周精选(2016 12 25)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892016-12-25/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892016-12-25/</link>
       <pubDate>Sun, 25 Dec 2016 18:47:22 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892016-12-25/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892016-12-25/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 2017年值得关注的技术 原文链接：Top tech to watch for partners in 2017
 适兕点评：
@@ -55,10 +55,10 @@
     
     <item>
       <title>开源之道变更为每周精选</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/weekly_reading_about_open_source_articles/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/weekly_reading_about_open_source_articles/</link>
       <pubDate>Wed, 21 Dec 2016 22:27:55 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/weekly_reading_about_open_source_articles/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/weekly_reading_about_open_source_articles/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 如果你能看到这篇文章，说明你一直在关注着我的“开源之道”，首先我要做的一件事，就是郑重的感谢你！感谢你一路的陪伴！
 现在回过头来看，从第一篇开源之道算起，已经整整坚持了半年的时间了。半年说长不算长，但坚持一件事情总归是值得庆贺的！
@@ -71,10 +71,10 @@
     
     <item>
       <title>开源之道(2016 12 18)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-18/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-18/</link>
       <pubDate>Sun, 18 Dec 2016 06:44:00 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-18/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-18/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 众包成功的动力是什么? 原文链接：What Drives Successful Crowdsourcing?
 适兕点评：
@@ -92,10 +92,10 @@
     
     <item>
       <title>开源之道(2016 12 16)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-16/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-16/</link>
       <pubDate>Fri, 16 Dec 2016 08:29:57 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-16/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-16/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 GitHub 正在构建码农们的天堂，付出也是蛮昂贵的 原文链接：GitHub Is Building a Coder’s Paradise. It’s Not Coming Cheap
 适兕点评：
@@ -116,10 +116,10 @@ VC 的钱不好花。但是目前为之看起来GitHub还是可以扛得住，�
     
     <item>
       <title>开源之道(2016 12 15)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-15/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-15/</link>
       <pubDate>Thu, 15 Dec 2016 09:01:19 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-15/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-15/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 拥抱开源之前请先了解它 原文链接：Open Source: Know It Before You Embrace It
 适兕点评：
@@ -130,10 +130,10 @@ VC 的钱不好花。但是目前为之看起来GitHub还是可以扛得住，�
     
     <item>
       <title>开源之道(2016 12 14)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-14/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-14/</link>
       <pubDate>Wed, 14 Dec 2016 08:49:12 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-14/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-14/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 开源助力云计算的采用 —— 2016未来云计算调查 原文链接：Open Source Helps Drive Cloud Adoption Says 2016 Future of Cloud Survey
 适兕点评：
@@ -145,10 +145,10 @@ VC 的钱不好花。但是目前为之看起来GitHub还是可以扛得住，�
     
     <item>
       <title>开源之道(2016 12 13)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-13/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-13/</link>
       <pubDate>Tue, 13 Dec 2016 08:40:37 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-13/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-13/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 计算当如1989 原文链接：Compute like it&amp;rsquo;s 1989
 适兕点评：
@@ -171,10 +171,10 @@ VC 的钱不好花。但是目前为之看起来GitHub还是可以扛得住，�
     
     <item>
       <title>开源之道(2016 12 12)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-12/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-12/</link>
       <pubDate>Mon, 12 Dec 2016 08:28:08 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-12/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-12/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 2017年最赚钱的5个技术 原文链接：5 Technologies that Should Make You Money in 2017
 适兕点评：
@@ -186,10 +186,10 @@ VC 的钱不好花。但是目前为之看起来GitHub还是可以扛得住，�
     
     <item>
       <title>开源之道(2016 12 11)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-11/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-11/</link>
       <pubDate>Sun, 11 Dec 2016 06:31:06 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-11/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-11/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 印度本土公司Amrut软件与GitHub成了合作伙伴 原文链接：This Indian software company just partnered with the world’s biggest open source community
 适兕点评：
@@ -201,10 +201,10 @@ VC 的钱不好花。但是目前为之看起来GitHub还是可以扛得住，�
     
     <item>
       <title>开源之道(2016 12 10)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-10/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-10/</link>
       <pubDate>Sat, 10 Dec 2016 07:12:32 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-10/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-10/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 企业若想发展，就得正视开源，并让开源回归自由 原文链接：Open source needs social freedoms for business to thrive
 适兕点评：
@@ -217,10 +217,10 @@ VC 的钱不好花。但是目前为之看起来GitHub还是可以扛得住，�
     
     <item>
       <title>开源之道(2016 12 09)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-09/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-09/</link>
       <pubDate>Fri, 09 Dec 2016 08:58:15 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-09/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-09/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Google开源数据可视化工具 Embedding Projector 原文链接：Google open sources Embedding Projector to make high-dimensional data more manageable
 适兕点评：
@@ -241,10 +241,10 @@ Google 在面临AWS的巨大压力面前，很多技术人员不服，我们的�
     
     <item>
       <title>开源之道(2016 12 08)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-08/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-08/</link>
       <pubDate>Thu, 08 Dec 2016 09:02:19 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-08/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-08/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 开源治理所带来的价值 原文链接：Open governance enhances the value of land use policy software
 适兕点评：
@@ -264,10 +264,10 @@ YunOS 究竟能走多远？ 还得看其所建立起来的生态。</description
     
     <item>
       <title>开源之道(2016 12 07)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-07/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-07/</link>
       <pubDate>Wed, 07 Dec 2016 08:49:28 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-07/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-07/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 红帽将 JBoss 套件全部移植到了 OpenShift 原文链接：Red Hat brings full JBoss software stack to OpenShift
 适兕点评：
@@ -287,10 +287,10 @@ YunOS 究竟能走多远？ 还得看其所建立起来的生态。</description
     
     <item>
       <title>开源之道(2016 12 06)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-06/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-06/</link>
       <pubDate>Tue, 06 Dec 2016 09:07:47 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-06/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-06/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 技术可以将人从被工资所奴役的状态下解放出来 原文链接：“TECHNOLOGY CAN FREE PEOPLE FROM WAGE SLAVERY” 
 适兕点评：
@@ -307,10 +307,10 @@ now I think the biggest opportunities are applying all the things we learned to 
     
     <item>
       <title>开源之道(2016 12 05)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-05/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-05/</link>
       <pubDate>Mon, 05 Dec 2016 08:36:39 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-05/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-05/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 永远不要从Google市场之外的地方下载Android应用 原文链接：Never Ever (Ever) Download Android Apps Outside of Google Play
 适兕点评：
@@ -326,10 +326,10 @@ now I think the biggest opportunities are applying all the things we learned to 
     
     <item>
       <title>开源之道(2016 12 04)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-04/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-04/</link>
       <pubDate>Sun, 04 Dec 2016 08:57:37 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-04/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-04/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 拥抱开源还是拒绝，是个问题！ 原文链接：To Go Open or Not To Go Open ,that is the question
 适兕点评：
@@ -345,10 +345,10 @@ now I think the biggest opportunities are applying all the things we learned to 
     
     <item>
       <title>开源之道(2016 12 03)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-03/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-03/</link>
       <pubDate>Sat, 03 Dec 2016 21:04:00 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-03/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-03/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 所有的公司都是技术公司：看开源和 Inner Source 是如何改变IT领域的 原文链接：All companies Are Tech Companies：How Open Source and Inner Source are changing the IT Landscape
 适兕点评：
@@ -367,10 +367,10 @@ AWS 这个时候开始玩开源战略，一点也不晚！其实也就是争取�
     
     <item>
       <title>开源之道(2016 12 02)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-02/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-02/</link>
       <pubDate>Fri, 02 Dec 2016 22:06:38 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-02/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-02/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 让开发者保持挑战技术的5条建议 原文链接：5 tips to help developers keep up with changing technologies
 适兕点评：
@@ -383,10 +383,10 @@ AWS 这个时候开始玩开源战略，一点也不晚！其实也就是争取�
     
     <item>
       <title>开源之道(2016 12 01)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-01/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-01/</link>
       <pubDate>Thu, 01 Dec 2016 08:27:44 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-01/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-12-01/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 SUSE 收购了 HPE 的 OpenStack 和CloudFoundry团队 原文链接：SUSE acquires HPE OpenStack and Cloud Foundry assets
 适兕点评：
@@ -404,10 +404,10 @@ This isn’t Bill Gates’ or Steve Ballmer’s Microsoft. They were all about t
     
     <item>
       <title>开源之道(2016 11 30)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-30/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-30/</link>
       <pubDate>Wed, 30 Nov 2016 08:44:40 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-30/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-30/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 如何深刻理解开源的8条潜规则 原文链接：How to play by the eight (unwritten) rules of open source
 适兕点评：
@@ -422,10 +422,10 @@ This isn’t Bill Gates’ or Steve Ballmer’s Microsoft. They were all about t
     
     <item>
       <title>开源之道(2016 11 29)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-29/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-29/</link>
       <pubDate>Tue, 29 Nov 2016 08:34:28 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-29/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-29/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 开源所解决和支持的当今业务需求 原文链接：Open source Solves and Supports Today&amp;rsquo;s Business Needs
 适兕点评：
@@ -442,10 +442,10 @@ This isn’t Bill Gates’ or Steve Ballmer’s Microsoft. They were all about t
     
     <item>
       <title>开源之道(2016.11.28)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-28/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-28/</link>
       <pubDate>Mon, 28 Nov 2016 08:39:13 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-28/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-28/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 如果机器会写代码了，人类怎么办？ 原文链接：What happens when bots start writing code instead of humans
 适兕点评：
@@ -457,10 +457,10 @@ This isn’t Bill Gates’ or Steve Ballmer’s Microsoft. They were all about t
     
     <item>
       <title>开源之道(2016.11.27)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-27/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-27/</link>
       <pubDate>Sun, 27 Nov 2016 06:31:21 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-27/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-27/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Unix整个历史代码现在托管到了GitHub上 原文链接：Unix history repository, now on GitHub
 适兕点评：
@@ -475,10 +475,10 @@ This isn’t Bill Gates’ or Steve Ballmer’s Microsoft. They were all about t
     
     <item>
       <title>开源之道(2016.11.26)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-26/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-26/</link>
       <pubDate>Sat, 26 Nov 2016 07:02:03 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-26/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-26/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 开源领导者峰会 原文链接：Open Source Leadership Summit
 适兕点评：
@@ -499,10 +499,10 @@ Apple 一向以封闭著称，但是从根上，Apple从最开始都是Hacking�
     
     <item>
       <title>开源之道(2016.11.25)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-25/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-25/</link>
       <pubDate>Fri, 25 Nov 2016 08:41:56 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-25/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-25/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 你是否让你的业务采用开源技术？本文告诉你答案 原文链接：Are you powering your business with open source tech? Here’s why you should
 适兕点评：
@@ -522,10 +522,10 @@ Apple 一向以封闭著称，但是从根上，Apple从最开始都是Hacking�
     
     <item>
       <title>开源之道(2016.11.24)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-24/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-24/</link>
       <pubDate>Thu, 24 Nov 2016 11:01:58 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-24/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-24/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 迪斯尼的最佳产品也许是这些开源的工具 原文链接：Disney&amp;rsquo;s best releases may be its open source tools
 适兕点评：
@@ -542,10 +542,10 @@ Linux 商业发行版，基本仅剩下了三家：红帽、SuSE、Canonical。O
     
     <item>
       <title>开源之道(2016.11.23)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-23/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-23/</link>
       <pubDate>Wed, 23 Nov 2016 08:12:06 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-23/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-23/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 为什么说开放会战胜封闭 原文链接：Why Open Beats Closed
 适兕点评：
@@ -566,10 +566,10 @@ Linux 商业发行版，基本仅剩下了三家：红帽、SuSE、Canonical。O
     
     <item>
       <title>开源之道(2016.11.22)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-22/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-22/</link>
       <pubDate>Tue, 22 Nov 2016 08:48:46 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-22/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-22/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 红帽首席执行官解释为何当下这么多的技术巨头们都转向开源 原文链接：Red Hat CEO explains why tech giants are turning to open source
 适兕点评：
@@ -586,10 +586,10 @@ Linux 商业发行版，基本仅剩下了三家：红帽、SuSE、Canonical。O
     
     <item>
       <title>开源之道(2016.11.18)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-18/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-18/</link>
       <pubDate>Fri, 18 Nov 2016 07:19:29 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-18/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-18/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 图片说明：开源真的能让美国政府节省几十亿美金？
 开源在政府的信息技术：除了省钱之外还有更多 原文链接：Open source in government IT: It is about savings but that&amp;rsquo;s not the whole story
@@ -605,10 +605,10 @@ Linux 商业发行版，基本仅剩下了三家：红帽、SuSE、Canonical。O
     
     <item>
       <title>开源之道(2016.11.17)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-17/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-17/</link>
       <pubDate>Thu, 17 Nov 2016 08:55:50 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-17/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-17/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 微软加入Linux基金会 原文链接：Microsoft joins Linux Foundation in another nod to open-source code
 适兕点评：
@@ -627,10 +627,10 @@ Linux 商业发行版，基本仅剩下了三家：红帽、SuSE、Canonical。O
     
     <item>
       <title>开源之道(2016.11.16)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-16/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-16/</link>
       <pubDate>Wed, 16 Nov 2016 06:55:44 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-16/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-16/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 将搜索带回 PageRank 年代的开源项目———通用搜索 原文链接：Common Search: The open source project bringing back PageRank
 适兕点评：
@@ -649,10 +649,10 @@ Linux 商业发行版，基本仅剩下了三家：红帽、SuSE、Canonical。O
     
     <item>
       <title>开源之道(2016.11.15)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-15/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-15/</link>
       <pubDate>Tue, 15 Nov 2016 15:01:30 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-15/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-15/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Capital One 是如何拥抱开源的 原文链接：How Capital One is embracing open source
 适兕点评：
@@ -670,10 +670,10 @@ Ceph 软件定义存储开源项目中的翘楚！Mirantis、红帽几乎三分�
     
     <item>
       <title>开源之道(2016.11.12)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-12/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-12/</link>
       <pubDate>Sat, 12 Nov 2016 06:43:02 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-12/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-12/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Java 开源十年，依旧争议不断 原文链接：After a decade, open source Java is still controversial
 适兕点评：
@@ -690,10 +690,10 @@ Java 已经20多年了，基于它的框架、应用都成了云原生应用的�
     
     <item>
       <title>开源之道(2016.11.11)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-11/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-11/</link>
       <pubDate>Fri, 11 Nov 2016 08:41:15 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-11/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-11/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 昔日采用开源的标杆，近日重投微软的怀抱 原文链接：Open source champion mulls return to Microsoft
 适兕点评：
@@ -709,10 +709,10 @@ Java 已经20多年了，基于它的框架、应用都成了云原生应用的�
     
     <item>
       <title>开源之道(2016.11.10)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-10/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-10/</link>
       <pubDate>Thu, 10 Nov 2016 08:50:45 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-10/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-10/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 开源需要更多女性的参与 原文链接：GUEST BLOG: Open source needs to deliver diversity
 适兕点评：
@@ -733,10 +733,10 @@ Apple 即使如此有钱，也难免会底下高贵的头颅。开发者是它�
     
     <item>
       <title>开源之道(2016.11.09)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-09/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-09/</link>
       <pubDate>Wed, 09 Nov 2016 08:47:40 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-09/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-09/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 阿里巴巴承诺的Java大事件哪里去了？ 原文链接：Open-source Sesame! Alibaba promises super-size magic for Java
 适兕点评：
@@ -758,10 +758,10 @@ Apple 即使如此有钱，也难免会底下高贵的头颅。开发者是它�
     
     <item>
       <title>开源之道(2016.11.08)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-08/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-08/</link>
       <pubDate>Tue, 08 Nov 2016 09:25:29 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-08/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-08/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Linux 基金会发布开放云2016指南 原文链接：Linux Foundation Releases 2016 Guide to the Open Cloud
 适兕点评：
@@ -779,10 +779,10 @@ The decision of supporting Kubernetes and open sourcing ACS reflects the new cul
     
     <item>
       <title>开源之道(2016.11.07)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-07/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-07/</link>
       <pubDate>Mon, 07 Nov 2016 08:25:08 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-07/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-07/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 如何为 GitHub 上的开源项目贡献代码 原文链接：How to contribute to an open source project on GitHub
 适兕点评：
@@ -802,10 +802,10 @@ As a developer evangelist, I get to create my own job. That means that I can spe
     
     <item>
       <title>开源之道(2016.11.06)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-06/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-06/</link>
       <pubDate>Sun, 06 Nov 2016 07:37:26 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-06/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-06/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 原 Bitcoin 核心开发者 Jeff Garzik 加入Linux基金董事会 原文链接：Former Bitcoin Core Developer Jeff Garzik Joins Linux Foundation Board
 适兕点评：
@@ -825,10 +825,10 @@ Jeff的战略是想做区块链的红帽，希望向红帽为企业提供Linux�
     
     <item>
       <title>开源之道(2016.11.05)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-05/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-05/</link>
       <pubDate>Sat, 05 Nov 2016 10:25:24 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-05/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-05/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 著名的文本编辑器 Vim 庆祝25岁生日 原文链接：The iconic text editor Vim celebrates 25 years
 适兕点评：
@@ -850,10 +850,10 @@ In my spare time, I decided to start sharing my knowledge and improving it devel
     
     <item>
       <title>开源之道(2016.11.03)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-03/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-03/</link>
       <pubDate>Thu, 03 Nov 2016 06:55:36 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-03/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-03/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Linux 基金会又添一大将，著名开源领导者 Nithya Ruff加盟 原文链接：Open Source leader Nithya Ruff joins the Linux Foundation Board of Directors
 适兕点评：
@@ -870,10 +870,10 @@ In my spare time, I decided to start sharing my knowledge and improving it devel
     
     <item>
       <title>开源之道(2016.11.02)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-02/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-02/</link>
       <pubDate>Wed, 02 Nov 2016 08:09:45 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-02/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-02/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 编码是很容易学会的，即使你不是科班出身 原文链接：Learn To Code With Ease, Even If You Are Not A Computer Science Graduate
 适兕点评：
@@ -889,10 +889,10 @@ being nice to the newbies. Open source needs more people involved, not fewer.
     
     <item>
       <title>开源之道(2016.11.01)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-01/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-01/</link>
       <pubDate>Tue, 01 Nov 2016 08:11:51 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-01/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-11-01/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 微软会真的开源吗？ 原文链接：Does Microsoft Finally Get Open Source?
 适兕点评：
@@ -910,10 +910,10 @@ being nice to the newbies. Open source needs more people involved, not fewer.
     
     <item>
       <title>开源之道(2016.10.28)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-28/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-28/</link>
       <pubDate>Fri, 28 Oct 2016 06:47:10 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-28/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-28/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
  As computing pushes us forward, open source is a positive sum game. Jonathan Bryce (executive director of the OpenStack Foundation)
  文章点评 匹兹堡大学合作为癌症基因数据开发开源软件 原文链接：Pitt, partners create open source software for cancer genome data
@@ -929,10 +929,10 @@ GFW 不是障碍，障碍的是若你未自己设限，那真的就永远不可�
     
     <item>
       <title>开源之道(2016.10.27)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-27/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-27/</link>
       <pubDate>Thu, 27 Oct 2016 08:24:28 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-27/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-27/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 红帽 CEO：“万物皆开放” 并非仅仅指技术 原文链接：Red Hat CEO: &amp;lsquo;All things open&amp;rsquo; isn&amp;rsquo;t just about technology
 适兕点评：
@@ -949,10 +949,10 @@ GFW 不是障碍，障碍的是若你未自己设限，那真的就永远不可�
     
     <item>
       <title>开源之道(2016.10.26)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-26/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-26/</link>
       <pubDate>Wed, 26 Oct 2016 08:42:12 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-26/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-26/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 文化对于鼓励创新作用非常之大 原文链接：Culture matters for encouraging innovative behaviors
 适兕点评：
@@ -965,10 +965,10 @@ GFW 不是障碍，障碍的是若你未自己设限，那真的就永远不可�
     
     <item>
       <title>开源之道(2016.10.25)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-25/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-25/</link>
       <pubDate>Tue, 25 Oct 2016 07:32:03 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-25/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-25/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 CloudNativeCon 有关开源、容器和云原生应用的盛宴 原文链接：CloudNativeCon Unites Leaders in Open Source, Container and Cloud Native Tech
 适兕点评：
@@ -989,10 +989,10 @@ GitHub 做的蛮好，其借鉴了 SourceForge的教训，知道如何做到让�
     
     <item>
       <title>开源之道(2016.10.24)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-24/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-24/</link>
       <pubDate>Mon, 24 Oct 2016 07:48:29 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-24/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-24/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 开源软件质量保证的基本事项 原文链接：The basics of open source quality assurance
 适兕点评：
@@ -1009,10 +1009,10 @@ AT&amp;amp;T 运用的竞争策略，是典型的以进军竞争对手的领域�
     
     <item>
       <title>开源之道(2016.10.23)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-23/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-23/</link>
       <pubDate>Sun, 23 Oct 2016 08:55:44 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-23/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-23/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 为开源编写代码可以拯救世界吗？ 原文链接：Could open-source coding ‘save the world’? 
 适兕点评：
@@ -1033,10 +1033,10 @@ IDC 预测，未来在2020年，人们将全面采用OCP。服务器、机架、
     
     <item>
       <title>开源之道(2016.10.22)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-22/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-22/</link>
       <pubDate>Sat, 22 Oct 2016 09:11:45 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-22/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-22/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Twitter 该及时悔改了 原文链接：Fixing Twitter
 适兕点评：
@@ -1055,10 +1055,10 @@ IDC 预测，未来在2020年，人们将全面采用OCP。服务器、机架、
     
     <item>
       <title>开源之道(2016.10.21)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-21/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-21/</link>
       <pubDate>Fri, 21 Oct 2016 07:44:23 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-21/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-21/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Adtran 为电信业的建议：使用开放平台，或者出局 原文链接：Use Open Platforms or Die, Adtran Tells Telcos
 适兕点评：
@@ -1075,10 +1075,10 @@ IDC 预测，未来在2020年，人们将全面采用OCP。服务器、机架、
     
     <item>
       <title>开源之道(2016.10.20)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-20/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-20/</link>
       <pubDate>Thu, 20 Oct 2016 06:57:23 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-20/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-20/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 爱立信和红帽在开源方面结为合作伙伴 原文链接：Ericsson, Red Hat Partner on Open Source
 适兕点评：
@@ -1090,10 +1090,10 @@ IDC 预测，未来在2020年，人们将全面采用OCP。服务器、机架、
     
     <item>
       <title>开源之道(2016.10.19)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-19/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-19/</link>
       <pubDate>Wed, 19 Oct 2016 07:28:21 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-19/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-19/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 让我们数数迪斯尼的开源项目 原文链接：Disney has its own Open Source Program
 适兕点评：
@@ -1112,10 +1112,10 @@ IDC 预测，未来在2020年，人们将全面采用OCP。服务器、机架、
     
     <item>
       <title>开源之道(2016.10.18)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-18/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-18/</link>
       <pubDate>Tue, 18 Oct 2016 11:06:12 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-18/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-18/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 如何打造一个强大的开源团队就像是养鸡一样 原文链接：How Building Strong Open Source Teams Is Like Raising Chickens
 适兕点评：
@@ -1137,10 +1137,10 @@ IQ 绝非是衡量一个团队的唯一因素，它甚至都不能被列入最�
     
     <item>
       <title>开源之道(2016.10.17)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-17/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-17/</link>
       <pubDate>Mon, 17 Oct 2016 07:35:13 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-17/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-17/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 回顾 LinuxCon 2016 原文链接：LinuxCon 2016 Review
 适兕点评：
@@ -1163,10 +1163,10 @@ LinuxCon 2016 欧洲区，今年在柏林举行，“大牌“”云集，本篇
     
     <item>
       <title>开源之道(2016.10.16)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-16/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-16/</link>
       <pubDate>Sun, 16 Oct 2016 08:12:17 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-16/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-16/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 开源架构的特色文化：没有版权、没有专利 原文链接：The culture of open source architecture: No copyrights, no patents
 适兕点评：
@@ -1178,10 +1178,10 @@ LinuxCon 2016 欧洲区，今年在柏林举行，“大牌“”云集，本篇
     
     <item>
       <title>开源之道(2016.10.15)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-15/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-15/</link>
       <pubDate>Sat, 15 Oct 2016 07:58:22 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-15/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-15/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Apple 将开放其在日本的研发中心 原文链接：Apple will open another R&amp;amp;D center in Japan
 适兕点评：
@@ -1202,10 +1202,10 @@ LinuxCon 2016 欧洲区，今年在柏林举行，“大牌“”云集，本篇
     
     <item>
       <title>开源之道(2016.10.14)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-14/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-14/</link>
       <pubDate>Fri, 14 Oct 2016 07:08:59 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-14/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-14/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 红帽将举办2016政府研讨会 原文链接：2016 Red Hat Government Symposium to Highlight Open Source&amp;rsquo;s Role in Government Digital Transformation
 适兕点评：
@@ -1224,10 +1224,10 @@ LinuxCon 2016 欧洲区，今年在柏林举行，“大牌“”云集，本篇
     
     <item>
       <title>开源之道(2016.10.13)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-13/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-13/</link>
       <pubDate>Thu, 13 Oct 2016 07:36:56 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-13/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-13/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 红帽2017高峰会议开始召集演讲者了 原文链接：Call for Proposals for Red Hat Summit 2017 Now Open
 适兕点评：
@@ -1246,10 +1246,10 @@ LinuxCon 2016 欧洲区，今年在柏林举行，“大牌“”云集，本篇
     
     <item>
       <title>开源之道(2016.10.11)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-11/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-11/</link>
       <pubDate>Tue, 11 Oct 2016 07:33:06 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-11/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-11/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 技术内幕：开源的商业模式 原文链接：TECH INSIDER: OPEN SOURCE BUSINESS MODELS
 适兕点评：
@@ -1264,10 +1264,10 @@ LinuxCon 2016 欧洲区，今年在柏林举行，“大牌“”云集，本篇
     
     <item>
       <title>开源之道(2016.10.10)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-10/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-10/</link>
       <pubDate>Mon, 10 Oct 2016 08:15:34 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-10/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-10/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 在竞争中我们需转向平台的竞争 原文链接：Here&amp;rsquo;s How Platforms Are Transforming How We Need To Compete
 适兕点评：
@@ -1285,10 +1285,10 @@ Web的发展超出了当年Tim Berners-Lee等人提出的样子。未来将会�
     
     <item>
       <title>开源之道(2016.10.9)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-9/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-9/</link>
       <pubDate>Sun, 09 Oct 2016 07:13:04 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-9/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-10-9/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Samba 项目损失一名大将 原文链接：Samba project loses senior developer
 适兕点评：
@@ -1310,10 +1310,10 @@ Web的发展超出了当年Tim Berners-Lee等人提出的样子。未来将会�
     
     <item>
       <title>开源之道(2016.9.29)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-29/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-29/</link>
       <pubDate>Thu, 29 Sep 2016 07:23:03 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-29/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-29/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 开源存储正在成为主流 原文链接：Open source storage hits the mainstream
 适兕点评：
@@ -1327,10 +1327,10 @@ open source storage is not just ready for the mainstream – it is already there
     
     <item>
       <title>开源之道(2016.9.28)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-28/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-28/</link>
       <pubDate>Wed, 28 Sep 2016 07:12:16 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-28/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-28/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 ![]()
 微软是如何衡量开源的成功的 原文链接：How Microsoft Measures Open Source Success
@@ -1348,10 +1348,10 @@ open source storage is not just ready for the mainstream – it is already there
     
     <item>
       <title>开源之道(2016.9.27)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-27/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-27/</link>
       <pubDate>Tue, 27 Sep 2016 07:32:33 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-27/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-27/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 为何开放和封闭会打起来 原文链接：Why Open Beats Closed
 适兕点评：
@@ -1365,10 +1365,10 @@ open source storage is not just ready for the mainstream – it is already there
     
     <item>
       <title>开源之道(2016.9.26)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-26/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-26/</link>
       <pubDate>Mon, 26 Sep 2016 07:16:25 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-26/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-26/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 ###中国开源社区离成功还有多远？
 适兕点评：
@@ -1382,10 +1382,10 @@ open source storage is not just ready for the mainstream – it is already there
     
     <item>
       <title>开源之道(2016.9.23)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-23/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-23/</link>
       <pubDate>Fri, 23 Sep 2016 08:20:55 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-23/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-23/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 美国国防部的软件考查 原文链接：THE DEPARTMENT OF SOFTWARE?
 适兕点评：
@@ -1401,10 +1401,10 @@ GitHub 正在努力塑造自己的品牌形象，不想因为开源与否而被�
     
     <item>
       <title>开源之道(2016.9.22)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-22/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-22/</link>
       <pubDate>Thu, 22 Sep 2016 07:02:17 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-22/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-22/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Oracle CTO 拉里埃里森直言不讳抨击AWS 原文链接：Oracle&amp;rsquo;s Larry Ellison throws punches at AWS
 适兕点评：
@@ -1423,10 +1423,10 @@ GitHub 正在努力塑造自己的品牌形象，不想因为开源与否而被�
     
     <item>
       <title>开源之道(2016.9.20)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-20/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-20/</link>
       <pubDate>Tue, 20 Sep 2016 06:29:52 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-20/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-20/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 为什么说你的下一代存储会依赖于区块链 原文链接：Why your next storage solution may depend on blockchain
 适兕点评：
@@ -1440,10 +1440,10 @@ GitHub 正在努力塑造自己的品牌形象，不想因为开源与否而被�
     
     <item>
       <title>开源之道(2016.9.19)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-19/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-19/</link>
       <pubDate>Mon, 19 Sep 2016 06:50:42 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-19/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-19/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 什么是云原生应用？ 原文链接：What is cloud native computing?
 适兕点评：
@@ -1461,10 +1461,10 @@ central orchestration processing ，是今年的主题。云原生，Each micros
     
     <item>
       <title>开源之道(2016.9.15)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-15/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-15/</link>
       <pubDate>Thu, 15 Sep 2016 07:33:07 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-15/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-15/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 TaxBrain: 开源经济预测工具 原文链接：TaxBrain: Open source economic forecasting
 适兕点评：
@@ -1480,10 +1480,10 @@ TaxBrain uses the open science Anaconda software from Continuum Analytics, and t
     
     <item>
       <title>开源之道(2016.9.14)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-14/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-14/</link>
       <pubDate>Wed, 14 Sep 2016 06:24:36 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-14/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-14/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 这家创业公司意图简化企业的软件开发 原文链接：This Startup Wants to Simplify Corporate Software Development
 适兕点评：
@@ -1499,10 +1499,10 @@ TaxBrain uses the open science Anaconda software from Continuum Analytics, and t
     
     <item>
       <title>开源之道(2016.9.13)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-13/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-13/</link>
       <pubDate>Tue, 13 Sep 2016 07:09:54 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-13/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-13/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 区块链和 Hyperledger 项目：只有干货 原文链接：Blockchain and Hyperledger Project: beyond the hype
 适兕点评：
@@ -1518,10 +1518,10 @@ IBM 真是将它的开源策略进行到底，利用Linux基金会的影响力�
     
     <item>
       <title>开源之道(2016.9.11)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-11/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-11/</link>
       <pubDate>Sun, 11 Sep 2016 12:23:25 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-11/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-11/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 从Google 到联合国，Perth 到 Moodle正在撼动世界 原文链接：From Google to the UN, Perth’s Moodle is making waves
 适兕点评：
@@ -1532,10 +1532,10 @@ IBM 真是将它的开源策略进行到底，利用Linux基金会的影响力�
     
     <item>
       <title>开源之道(2016.9.10)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-10/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-10/</link>
       <pubDate>Sat, 10 Sep 2016 06:19:12 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-10/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-10/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 新的研发模式－开源项目 原文链接：The New Research and Development (R&amp;amp;D) Model - Open Source Projects
 适兕点评：
@@ -1548,10 +1548,10 @@ IBM 真是将它的开源策略进行到底，利用Linux基金会的影响力�
     
     <item>
       <title>开源之道(2016.9.9)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-9/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-9/</link>
       <pubDate>Fri, 09 Sep 2016 06:34:32 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-9/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-9/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 开源是否已成主流？ 原文链接：Has open source gone mainstream?
 适兕点评：
@@ -1564,10 +1564,10 @@ IBM 真是将它的开源策略进行到底，利用Linux基金会的影响力�
     
     <item>
       <title>开源之道(2016.9.8)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-8/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-8/</link>
       <pubDate>Thu, 08 Sep 2016 06:55:35 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-8/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-8/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 加利福尼亚州启动了开源数据门户 原文链接：California launches open source data portal
 适兕点评：
@@ -1582,10 +1582,10 @@ IBM 真是将它的开源策略进行到底，利用Linux基金会的影响力�
     
     <item>
       <title>开源之道(2016.9.7)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-7/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-7/</link>
       <pubDate>Wed, 07 Sep 2016 06:59:35 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-7/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-7/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 开源的 NFV 项目将在2017年在北京举办峰会 原文链接：Open Source NFV Project to Host 2017 Summit in Beijing
 适兕点评：
@@ -1605,10 +1605,10 @@ NFV 将会是未来电信级运营商主要的技术路线，因为AT&amp;amp;T�
     
     <item>
       <title>开源之道(2016.9.6)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-6/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-6/</link>
       <pubDate>Tue, 06 Sep 2016 07:04:01 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-6/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-6/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 做技术演讲时所学到的7点心得 原文链接：7 tips for learning how to give a technical talk
 适兕点评：
@@ -1626,10 +1626,10 @@ NFV 将会是未来电信级运营商主要的技术路线，因为AT&amp;amp;T�
     
     <item>
       <title>开源之道(2016.9.5)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-5/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-5/</link>
       <pubDate>Mon, 05 Sep 2016 07:14:52 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-5/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-5/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 OpenOffice 严重缺人 原文链接：OpenOffice Contemplates Shutdown Amid Volunteer Drought
 适兕点评：
@@ -1647,10 +1647,10 @@ NFV 将会是未来电信级运营商主要的技术路线，因为AT&amp;amp;T�
     
     <item>
       <title>开源之道(2016.9.4)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-4/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-4/</link>
       <pubDate>Sun, 04 Sep 2016 07:30:19 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-4/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-4/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Linux 25周年了，你需要知道的6件事 原文链接：6 things you should know from Linux&amp;rsquo;s first 25 years
 适兕点评：
@@ -1669,10 +1669,10 @@ NewKind 这样的公司在美国活的很好，那么在中国有没有希望了
     
     <item>
       <title>开源之道(2016.9.3)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-3/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-3/</link>
       <pubDate>Sat, 03 Sep 2016 07:05:36 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-3/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-3/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 哪个国家正式颁布了支持开源的法律？ 原文链接：Which countries have open-source laws on the books?
 适兕点评：
@@ -1697,10 +1697,10 @@ OpenVswitch 是我一直以来都想去掌握的项目之一，可惜过度的�
     
     <item>
       <title>开源之道(2016.9.1)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-1/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-1/</link>
       <pubDate>Thu, 01 Sep 2016 06:38:33 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-1/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-9-1/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 几张图说明了开源的崛起还是开发者的青睐有关 原文链接：Infographic Shows Open Source Increasingly Embraced by Developers
 适兕点评：
@@ -1716,10 +1716,10 @@ OpenVswitch 是我一直以来都想去掌握的项目之一，可惜过度的�
     
     <item>
       <title>开源之道(2016.8.31)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-31/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-31/</link>
       <pubDate>Wed, 31 Aug 2016 06:41:42 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-31/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-31/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 报告指出：如果美国国防部不鼓励开源，将会落伍 原文链接：REPORT: IF DOD DOESN&amp;rsquo;T EMBRACE OPEN SOURCE, IT&amp;rsquo;LL &amp;lsquo;BE LEFT BEHIND&amp;rsquo;
 适兕点评：
@@ -1730,10 +1730,10 @@ OpenVswitch 是我一直以来都想去掌握的项目之一，可惜过度的�
     
     <item>
       <title>开源之道(2016.8.30)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-30/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-30/</link>
       <pubDate>Tue, 30 Aug 2016 06:32:36 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-30/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-30/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Linux25周岁了，25个让你大吃一惊的真相 原文链接：Linux is 25. Yay! Let’s celebrate with 25 stunning facts about Linux.
 适兕点评：
@@ -1746,10 +1746,10 @@ OpenVswitch 是我一直以来都想去掌握的项目之一，可惜过度的�
     
     <item>
       <title>开源之道(2016.8.26)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-26/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-26/</link>
       <pubDate>Fri, 26 Aug 2016 06:22:21 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-26/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-26/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 生日快乐！Linux，恭喜你25周岁了！ 原文链接：Happy Birthday Linux! Celebrating 25 years of the open source Linux operating system
 适兕点评：
@@ -1762,10 +1762,10 @@ OpenVswitch 是我一直以来都想去掌握的项目之一，可惜过度的�
     
     <item>
       <title>开源之道(2016.8.25)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-25/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-25/</link>
       <pubDate>Thu, 25 Aug 2016 06:24:58 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-25/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-25/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Ubuntu 创始人为OpenStack若要成功需要做的几件事 原文链接：Ubuntu Founder Sets the Bar for Successful OpenStack Implementations
 适兕点评：
@@ -1779,10 +1779,10 @@ OpenVswitch 是我一直以来都想去掌握的项目之一，可惜过度的�
     
     <item>
       <title>开源之道(2016.8.24)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-24/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-24/</link>
       <pubDate>Wed, 24 Aug 2016 06:40:01 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-24/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-24/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 开源 Windows 这件事，可能希望不大 原文链接：Open Source Windows May Not Be that Big a Long Shot After All
 适兕点评：
@@ -1796,10 +1796,10 @@ OpenVswitch 是我一直以来都想去掌握的项目之一，可惜过度的�
     
     <item>
       <title>开源之道(2016.8.23)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-23/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-23/</link>
       <pubDate>Tue, 23 Aug 2016 06:47:17 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-23/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-23/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 每个周一，总是缺少任何点文章。昨天就没有点评。
 文章点评 Linux基金会掌门人谈开源的25年 原文链接：Linux Foundation chief reflects on 25 years of open source
@@ -1815,10 +1815,10 @@ Linux对于下一代的影响也是蛮深的，13岁的孩子将Linus视为他�
     
     <item>
       <title>开源之道(2016.8.21)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-21/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-21/</link>
       <pubDate>Sun, 21 Aug 2016 08:14:16 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-21/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-21/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 人才依然是企业中部署开源的最大短板 原文链接：Talent remains the biggest issue for deploying open source in the enterprise
 适兕点评：
@@ -1837,10 +1837,10 @@ Big data has pushed enterprises to think about their data infrastructure differe
     
     <item>
       <title>开源之道(2016.8.20)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-20/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-20/</link>
       <pubDate>Sat, 20 Aug 2016 06:30:24 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-20/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-20/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 AT&amp;amp;T: 话说什么是“开源”？ 原文链接：AT&amp;amp;T: What Is &amp;lsquo;Open Source,&amp;rsquo; Anyway?
 适兕点评：
@@ -1853,10 +1853,10 @@ AT&amp;amp;T 是如何看待开源的？这个网络的巨人上个月还开源�
     
     <item>
       <title>开源之道(2016.8.19)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-19/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-19/</link>
       <pubDate>Fri, 19 Aug 2016 06:49:34 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-19/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-19/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 开始之前，简单聊聊一些想法。有的时候，我会怀疑自己所认为的事情是否是正确的、有意义的。尤其是处于大多数人的时候。比如最近在读本土云计算布道师刘黎明先生的书《云计算时代》，他提到很多和云计算相关的厂商和产品，但是和开源几无关系。以及哪个炒作的市场理论。我是在炒作开源吗？
 文章点评 在Oracle搞了21年Linux的老兵，现在跑去微软主持微软的开源工作 原文链接：This 21-year Oracle veteran is now in charge of Microsoft&amp;rsquo;s most surprising initiative
@@ -1869,10 +1869,10 @@ AT&amp;amp;T 是如何看待开源的？这个网络的巨人上个月还开源�
     
     <item>
       <title>开源之道(2016.8.18)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-18/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-18/</link>
       <pubDate>Thu, 18 Aug 2016 06:40:37 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-18/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-18/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Apple即将开放其在中国的研发部门 原文链接：Apple to open first R&amp;amp;D centre in China
 适兕点评：
@@ -1890,10 +1890,10 @@ AT&amp;amp;T 是如何看待开源的？这个网络的巨人上个月还开源�
     
     <item>
       <title>开源之道(2016.8.17)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-17/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-17/</link>
       <pubDate>Wed, 17 Aug 2016 06:51:03 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-17/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-17/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 开源软件正在吞噬世界吗？ 原文链接：Is open source eating the world?
 适兕点评：
@@ -1913,10 +1913,10 @@ AT&amp;amp;T 是如何看待开源的？这个网络的巨人上个月还开源�
     
     <item>
       <title>开源之道(2016.8.16)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-16/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-16/</link>
       <pubDate>Tue, 16 Aug 2016 06:18:32 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-16/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-16/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Andreessen Horowitz 依旧在企业级软件掘金 原文链接：Andreessen Horowitz Still Sees Big Money In Enterprise Software
 适兕点评：
@@ -1933,10 +1933,10 @@ AT&amp;amp;T 是如何看待开源的？这个网络的巨人上个月还开源�
     
     <item>
       <title>开源之道(2016.8.14)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-14/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-14/</link>
       <pubDate>Sun, 14 Aug 2016 07:49:52 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-14/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-14/</guid>
       <description> 声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 开源学校重新定义了意大利的教育 原文链接：The Open Source School Redefines Education in Italy
 适兕点评：
@@ -1951,10 +1951,10 @@ AT&amp;amp;T 是如何看待开源的？这个网络的巨人上个月还开源�
     
     <item>
       <title>开源之道(2016.8.13)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-13/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-13/</link>
       <pubDate>Sat, 13 Aug 2016 06:17:35 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-13/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-13/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 Fuchsia: 由Google开发的针对手机、PC新的开源操作系统 原文链接：Fuchsia: a new open source OS by Google for phones, PCs
 适兕点评：
@@ -1978,10 +1978,10 @@ Google 是对熊彼特对理论有多畏惧？市场上已经是那么多的操�
     
     <item>
       <title>开源之道(2016.8.12)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-12/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-12/</link>
       <pubDate>Fri, 12 Aug 2016 06:48:45 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-12/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-12/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 开源已经赢了，那么，接下来做什么？ 原文链接：Open Source Won. So, Now What?
 适兕点评：
@@ -1998,10 +1998,10 @@ Google 是对熊彼特对理论有多畏惧？市场上已经是那么多的操�
     
     <item>
       <title>开源之道(2016.8.11)</title>
-      <link>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-11/</link>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-11/</link>
       <pubDate>Thu, 11 Aug 2016 06:18:46 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-11/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2016/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%932016-8-11/</guid>
       <description>声明：本博客言论，仅代表我自己，不管任何其它！
 文章点评 如果你开源了自己的项目，但是却没有人来参与：为什么你的项目需要好的营销 原文链接：If you build it, they won&amp;rsquo;t come: Why your project needs better marketing
 适兕点评：

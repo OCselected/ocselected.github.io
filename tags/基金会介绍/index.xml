@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>基金会介绍 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%8B%E7%BB%8D/</link>
+    <link>http://www.opensourceway.community/tags/%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%8B%E7%BB%8D/</link>
     <description>Recent content in 基金会介绍 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Thu, 09 Jan 2020 12:01:53 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%8B%E7%BB%8D/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%8B%E7%BB%8D/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Apache 基金会创始成员访谈录 ———— 回顾 Apache 20年历程！</title>
-      <link>http://www.ocselected.org/posts/foundation_introduce/asf-founders-look-back-on-20-years/</link>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/asf-founders-look-back-on-20-years/</link>
       <pubDate>Thu, 09 Jan 2020 12:01:53 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/foundation_introduce/asf-founders-look-back-on-20-years/</guid>
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/asf-founders-look-back-on-20-years/</guid>
       <description>引言 刚刚过去的2019年是 Apache 基金会成立的20周年，来自Apache 基金会的Sally Khudairi搞了一件事，那就是找找当年的创始成员，除了祝贺之外，就是想听听这些人是持什么样的态度。
 Sameer Parekh Brenn, Mark Cox, Lars Eilebrecht, Jim Jagielski, Aram Mirzadeh, Bill Stoddard, Randy Terbush, and Dirk-Willem van Gulik,
 问题：你第一次参与Apache HTTP 服务是什么时间？做什么？ Mark：  1993年，我还在读博士，当时为 NCSA web 服务撰写一些特性以及修复一些Bug，而且也会做一些安全方面的工作，在1995年四月我收到了 Brian Behlendorf 的邀请，他希望我加入到 Apache 的核心开发团队中，其实大家都是那时候的参与进去的， Apache 开发小组才刚刚成立了几周不到。
@@ -28,10 +28,10 @@ Sameer Parekh Brenn, Mark Cox, Lars Eilebrecht, Jim Jagielski, Aram Mirzadeh, Bi
     
     <item>
       <title>（开源项目）治理模式</title>
-      <link>http://www.ocselected.org/posts/foundation_introduce/oss_governance_models/</link>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/oss_governance_models/</link>
       <pubDate>Thu, 23 May 2019 14:33:01 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/foundation_introduce/oss_governance_models/</guid>
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/oss_governance_models/</guid>
       <description>开源之道按 说到治理，没有比政府更为擅长这个了，因为他们有几千年的经验可以借鉴，人性是复杂，尽管很多科学理论都证明了人类是天性趋于合作的，但是本能仅限制于近亲和血缘关系，要想做更大、更多的事，必须通过治理来实现，否则就陷于一片混乱。开源项目的发展也是同样的道理，因为涉及到人的劳动和协作，以及荣誉、成果的归属等。成功的开源项目如Linux、Hadoop、Kubernetes等是超越了大多数中国人的想象力的，在一个弱社会、信任度极低的社会中，没有强大的政府背书这几乎是不可能的事，而且还涉及到跨越国家、种族、时区等诸多组织力量。庆幸的是社会学家、实干家、开发者布道师们也在观察和总结这些背后的思想、方法论。OSS Watch 就是其中的翘楚！
 引言 我们首先需要厘清治理模式是什么？治理模式描述了项目参与者可以承担的角色，以及项目内的决策流程。此外，治理模型还对参与项目的基本规则、项目团队和社区内的沟通和共享流程等的描述，换句话说，有效的治理模型，可以防止开源项目陷入焦油坑。本文会解释为何说治理模式是有必要的，对于在开源项目中采用治理模型相关的挑战方面的思考，且进一步的深入了解模型所覆盖的关键领域。另外还就关于治理模型的文档整理做了一些必要的说明。
 为什么项目需要治理模式？ 一千个人眼中就有一千个哈姆雷特，几乎是每有一个开源项目，就会有一个相应的开源策略，正因为此，关于项目的各项细节如政策、战略等，要准确无误的传递给对于项目有产出的潜在用户和开发者。一个清晰的治理模式可以让潜在的贡献者能够如何参与到项目中来，以及能够获得什么，甚至是提供哪些保护措施以确保大家的贡献始终是可用的。此外，它描述了有助于确保潜在用户项目可行性的质量控制流程，清晰简洁的开发沟通是开放式开发实现可持续性的最重要的步骤。
@@ -50,10 +50,10 @@ Apache 软件基金会为每个项目设置了两份治理文档，首先是基�
     
     <item>
       <title>Apache 之道，开源可持续成功的秘籍</title>
-      <link>http://www.ocselected.org/posts/foundation_introduce/the_apache_way_to_sustainable_os/</link>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/the_apache_way_to_sustainable_os/</link>
       <pubDate>Sun, 24 Mar 2019 12:58:10 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/foundation_introduce/the_apache_way_to_sustainable_os/</guid>
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/the_apache_way_to_sustainable_os/</guid>
       <description>毫无疑问，开源软件是越来越重要了，那么作为开源软件中重要的中流砥柱的 Apache 软件基金会也迎来了20周年，那么我们是不是应该反思一下关于Apache的能够如此长盛不衰？以Apache之道为原则的社区驱动开放模式尽管遇到了不少的挑战，但是仍然在开源的生态系统中发挥着举足轻重的作用。
 Apache之道的历史要更为远久一点，该方法论的提出是在基金会建立之前，即24年前，那时还称之为原创Apache小组。该方法论经过时间的证明，是Apache成功的一个重要的基础，而且我们认为它对于开源之所以能走到今天是至为重要的。
 这么多年下来，Apache 之道尽管修改了不少内容，但它仍然坚持初心：高度的透明性，让所有人可访问的中立的环境中进行社区驱动的协作。
@@ -76,10 +76,10 @@ Apache 项目在很多领域里都是成功的，这要归功于我们所遵守�
     
     <item>
       <title>云原生的旭日东升 —— CNCF 2018年度报告解读</title>
-      <link>http://www.ocselected.org/posts/foundation_introduce/review-cncf-2018-annual-report/</link>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/review-cncf-2018-annual-report/</link>
       <pubDate>Wed, 13 Feb 2019 12:31:27 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/foundation_introduce/review-cncf-2018-annual-report/</guid>
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/review-cncf-2018-annual-report/</guid>
       <description>引言 阅读非盈利基金会的年度报告有的时候是一种享受，如 Apache 2018年度报告 （PDF） ，你想知道的全部都在，甚至会引导你进一步的探索。但是有的时候，却是一种折磨，如OpenStack 2018年度报告，就是那种蹩脚的售前做的PPT一般，让人味同爵蜡。可是还有一种是位于两者之间，既遮遮掩掩，又欲说还羞，让你不得不去进一步的进行解读。于是有了这篇文章。
 当然，著名的云原生布道师宋净超也做了为题：CNCF年度报告解读（2018年），解读的非常不错，推荐大家阅读，我这边尽可能的读点和Jimmy不一样的视角。
 阅读非盈利基金会报告需要的基础知识 我们可以肆无忌惮的说，非盈利性的、中立的开源软件基金会所生产的开源软件项目，将会是现在和未来的软件主流生产方式！这个无论是从公共产品的角度，还是商业联盟的角度，乃至天然的人类协作方式，都讲的过去。请允许我在这里再一次引用 Nathen Harvey 在 Information Week 中的文章中指出了三个问题：
@@ -102,10 +102,10 @@ Marketing 工作 ———— 维持生态的重要手段 关于这点的内容�
     
     <item>
       <title>Apache 软件基金会未来的5年战略规划</title>
-      <link>http://www.ocselected.org/posts/foundation_introduce/five-year-strategic-plan-for-the-asf-2018/</link>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/five-year-strategic-plan-for-the-asf-2018/</link>
       <pubDate>Tue, 05 Feb 2019 21:52:33 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/foundation_introduce/five-year-strategic-plan-for-the-asf-2018/</guid>
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/five-year-strategic-plan-for-the-asf-2018/</guid>
       <description>引言 2018年末，开源界最为让人瞩目的事情，莫过于MongoDB、Redis、Neo4j等公司纷纷修改许可证，各种媒体便落井下石，开始煽风点火，称云计算厂商将会把开源吃掉，唯恐天下不乱。然而媒体毕竟是媒体，是开发者之外的世界，永远是“隔着玻璃亲不着嘴”，这不AWS 直接升级为Apache的铂金会员，这直接将国内那些媒体的扇了多个耳光。开源的势头是前所未有的好！ 只是售卖软件许可的商业模式正在走向衰落。而开源发展的最大势力，则是依托于非盈利基金会下的开源项目和社区。毫无疑问，ASF 是其中的翘楚，那么开源之道在新年之际，就和大家一起看看Apache 软件基金会的未来5年战略规划。
 开源之道过去也介绍过Apache软件基金会：
  Apache 基金会是如何运作的 Apache 2017 年度报告 开放的 Apache 究竟有多开放?  ##
@@ -125,10 +125,10 @@ Apache 社区成员均是由独立的个人来担当，成员的权力和责任�
     
     <item>
       <title>CNCF 是如何工作的</title>
-      <link>http://www.ocselected.org/posts/foundation_introduce/how_cncf_works/</link>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/how_cncf_works/</link>
       <pubDate>Tue, 19 Jun 2018 13:25:30 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/foundation_introduce/how_cncf_works/</guid>
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/how_cncf_works/</guid>
       <description>引子 技术创新与社会创新是同等重要的，在人类有限的历史中，二者是相辅相成不可分割的，福特汽车既将制造的步骤划分，也将工人的组织结构进行了调整；贝尔实验室那些无数的创新，不得不说和它的开放的办公环境和平等的文化有关；硅谷成功的秘密，那些历史学家和成功的商人们，从来不仅仅提及某个技术的颠覆，而总是会谈到资本、宽松、鼓励失败等社会创新。反思本土，是否被技术蒙蔽了双眼？是的，应该努力提高自我的认知，在关注技术创新的同时也要关注社会创新，因为现代技术的发展绕不过去的就是协作，一个大型的软件项目工程，参与的人何止千万？该如何组织和协调诸如Kubernetes大规模全球性的协作？在围绕利益分配、政治角逐、文化冲突、技术先进和创新等等方面必须做到应对之道。
 这次开源之道介绍的是CNCF，近年来随着容器编排和微服务发展起来的新一代基金会，随着其坐着火箭般的上升速度以及引起的轰动效应，你不得不关注它背后的运行机理。
 CNCF的使命 CNCF 没有偏离自己的主题，核心是解决技术问题：基金会的使命是创建并推动采用新的计算模式，该模式针对现代分布式系统环境进行了优化，能够扩展至数万个自愈式多租户节点。
@@ -141,10 +141,10 @@ CNCF的使命 CNCF 没有偏离自己的主题，核心是解决技术问题：�
     
     <item>
       <title>关于Linux基金会的简介</title>
-      <link>http://www.ocselected.org/posts/foundation_introduce/linux_foundation_introduce/</link>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/linux_foundation_introduce/</link>
       <pubDate>Mon, 09 Apr 2018 16:01:16 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/foundation_introduce/linux_foundation_introduce/</guid>
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/linux_foundation_introduce/</guid>
       <description>开源之道导读 一般的软件公司，尤其是针对2B的企业，都会设置一个叫做市场的部门，这是一个颇让人产生困惑的部门，因为 Marketing 在英文中的意思地营销，你去寻找相关的资料是万万不得的。而其职能往往是诸如对外宣传、举办活动、在社交媒体上和客户互动、撰写所谓的软文、做SEO等等，而公司往往还会设置另外一个部门叫销售部，类似于传统行业的陌拜、客户关系处理、行业客户等等的职能。
 让我们先转回到开源领域，很多公司将加入诸如Linux基金会之类的事情，认为是一种市场活动，即Marketing events，反正每年公司都有一些预算的，大家都在加，我不加的话显得不够大气。于是大家纷纷加入，我们来看看2018年Linux基金会的名单（中国大陆境内）：博图纵横、数人云、才云、链链、超算云、招商银行、中信、EasyStack、DaoCloud、房掌柜、金丘股份、众享比特、易健科技、复杂美、谐云科技、趣链科技、Lenovo、橙色魔方、全息互信、雷盈、Rancher、四方精创、点融网、太一、时速云、Thundersoft、联动优势、万达飞凡科技、万向集团、云象、梧桐树、保全网、中国印钞造币、ZTE等等。有很多是我们没有听说过的，但是它会加入基金会，这是件好事情，因为这是Linux基金会的主要收入来源，也是维系Linux内核正常运转的必备。
 但是，加入这个基金会的公司真的理解基金会的意义吗？更多的不知道，但是就资质荣誉来讲：可以看到官网、公众号，会将此大肆的做宣传。诸如Linux基金会正式会员、Linux基金会官方合作伙伴、CNCF会员之类的。大约是给自己的顾客看的吧。谁又知道了呢？如果你恰好是上述公司的加入基金会的负责人，不妨给我们留言，说出你的真实感受。
@@ -164,10 +164,10 @@ Linux基金会，作为其创始人 Linus Torvalds和目前的kernel维护的领
     
     <item>
       <title>Apache 是如何运作的？</title>
-      <link>http://www.ocselected.org/posts/foundation_introduce/how_apache_works/</link>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/how_apache_works/</link>
       <pubDate>Thu, 15 Mar 2018 15:30:38 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/foundation_introduce/how_apache_works/</guid>
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/how_apache_works/</guid>
       <description>引言 本文将会以概述的形式为读者您提供 Apache 软件基金会的一切内容，相信一定是您一直以来都存有疑问，但还没有来得及细问的内容。涵盖：member 与 committer 的区别、谁决定什么事、选举是如何进行的、基础设施又是如何工作的、董事会又是什么、什么是PMC、孵化器背后的哲学思想又是什么、以及ASF是如何处理多年以来新项目和贡献者的惊人增长所带来的挑战。本文将带你走近 Apache 软件基金会的幕后，一探其背后的运作机理。
 Apache 软件基金会是什么？ Apache 软件基金会 是美国注册的503&amp;copy;3 的非营利的公共慈善组织，于1999年成立，目的主要有：
  通过提供硬件、沟通工具以及业务基础架构，从而为开放式协作开发软件项目提供后盾 创立独立的法律实体，这样就可以接受个人或公司的赞助，并能够确保这些资源将用于公共利益 为个人志愿者提供避免针对基金会项目的法律诉讼 保护“apache”的品牌，适用于其软件产品，免遭其他组织滥用  敬告读者，以下内容将会是干巴巴枯燥的事实说明，但是相信很多人对于Apache还是保持好奇的，这一切是如何发生的呢？它的细节究竟是怎么回事? 不过不要着急，让我们先来回味一小段历史。

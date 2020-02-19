@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opensource on 开源之道</title>
-    <link>http://www.ocselected.org/tags/opensource/</link>
+    <link>http://www.opensourceway.community/tags/opensource/</link>
     <description>Recent content in Opensource on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Sat, 07 May 2016 11:07:40 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>我们无法从开源本身获利</title>
-      <link>http://www.ocselected.org/posts/opensource/you_cant_make_money_from_open_source/</link>
+      <link>http://www.opensourceway.community/posts/opensource/you_cant_make_money_from_open_source/</link>
       <pubDate>Sat, 07 May 2016 11:07:40 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/you_cant_make_money_from_open_source/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/you_cant_make_money_from_open_source/</guid>
       <description>开源的商业模式出问题了？ 在开放网络峰会（ONS）上，来自著名风投公司 Andreessen Horowitz 的合伙人： Peter Levine 说道：“开源需要商业模式”。之后在 OpenStack 峰会上，我偶遇了一位和 Levine 持相同观点的顾问，他的原话是：“请你告诉我哪家公司和红帽一样利用 Linux 赚了1亿美元。”
 这是我经常听到的对于开源最为重要的问题：仅仅只有红帽在开源上赚钱了，至今依然没有出现第二家。
 其实，我想写这样一篇文章已经很久了，但是一直没有非常充足的理由去付诸于实践，但是在经历了上述二者的对话以后，我知道是该下笔的时候了，于是就有了此文。

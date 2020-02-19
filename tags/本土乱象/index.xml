@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>本土乱象 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E6%9C%AC%E5%9C%9F%E4%B9%B1%E8%B1%A1/</link>
+    <link>http://www.opensourceway.community/tags/%E6%9C%AC%E5%9C%9F%E4%B9%B1%E8%B1%A1/</link>
     <description>Recent content in 本土乱象 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Sat, 05 May 2018 15:12:24 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E6%9C%AC%E5%9C%9F%E4%B9%B1%E8%B1%A1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E6%9C%AC%E5%9C%9F%E4%B9%B1%E8%B1%A1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>历史的维度——开源、拿来主义与自主可控的历史对比</title>
-      <link>http://www.ocselected.org/posts/opensource/open_source_tao_and_way/latitude_of_history/</link>
+      <link>http://www.opensourceway.community/posts/opensource/open_source_tao_and_way/latitude_of_history/</link>
       <pubDate>Sat, 05 May 2018 15:12:24 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/open_source_tao_and_way/latitude_of_history/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/open_source_tao_and_way/latitude_of_history/</guid>
       <description>历史是治病的良方。 —— 丹尼尔·J·布尔斯廷 《发现者》
  引子 硅谷著名投资人 Paul Graham，当然是影响几代程序员的散文集《黑客与画家》的作者，写过一篇散文叫做“时空差异”，意思就是说我们可以回顾过去，将过去的观念和现在的观念diff一下，当然也可以diff这个世界上不同的地方和文化，进而验证自己的想法。而这大概就是每天都会有人通过社交媒体同步华尔街、硅谷、湾区甚至是GitHub到本土的最佳注解。
 在纬度发明之前，人类是很早就发现了经度并掌握了它的测量方法的，但是纬度却花了很长的时间，而之后经历了海洋时代，乃至全球化的时代，则花了更长的时间。所谓的时间的纬度，就是人们对于同一时间正在整个世界上发生的许多事情的一种感觉。这更是一项复杂的多得的发现，或许可以说，只有进入了互联网时代才实现的。不过我们首先要确定的一件事情是时间的同步。

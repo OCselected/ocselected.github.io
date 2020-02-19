@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>开源 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90/</link>
+    <link>http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90/</link>
     <description>Recent content in 开源 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Fri, 06 May 2016 18:33:47 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>为什么说你的员工应该去为开源做贡献</title>
-      <link>http://www.ocselected.org/posts/opensource/why_employees_should_be_contributing_to_open_source/</link>
+      <link>http://www.opensourceway.community/posts/opensource/why_employees_should_be_contributing_to_open_source/</link>
       <pubDate>Fri, 06 May 2016 18:33:47 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/why_employees_should_be_contributing_to_open_source/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/why_employees_should_be_contributing_to_open_source/</guid>
       <description>英文原文：Why Your Employees Should Be Contributing to Open Source
 译者写在前面的话 就我来说，在职业生涯中，就说服老板参与到开源社区中是非常失败的，甚至于最后均是不欢而散。那么如果当初我也能像作者一样，以平和的心态、严谨的数据、耐心的说服，结果可能会好点。年少轻狂之时，只注重自己的内心世界，认为不懂的可以通过努力去获取，而忘却了这个世界的复杂，他人是否愿意学习？他人也是有许多经历和接受了许多文化、意识形态的。改变自己可以，想要改变别人是不可能的，哪怕是影响都微乎其微。现在的我，看人要谨慎许多，在头脑充血的那一刻，尽可能的去做深呼吸。然后，再以理服人。
 相信这篇文章对于每个热爱开源，对开源充满美好憧憬的年轻人，依然还在为他人打工的有志者。说服自己的老板、或者是为开源尽一份力。是有一定用处的。

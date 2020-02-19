@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Innersource on 开源之道</title>
-    <link>http://www.ocselected.org/tags/innersource/</link>
+    <link>http://www.opensourceway.community/tags/innersource/</link>
     <description>Recent content in Innersource on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Mon, 12 Jun 2017 21:12:39 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/innersource/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/innersource/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>内部开源系列之二 —— 经典案例</title>
-      <link>http://www.ocselected.org/posts/innersource/use_case_of_innersource/</link>
+      <link>http://www.opensourceway.community/posts/innersource/use_case_of_innersource/</link>
       <pubDate>Mon, 12 Jun 2017 21:12:39 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/innersource/use_case_of_innersource/</guid>
+      <guid>http://www.opensourceway.community/posts/innersource/use_case_of_innersource/</guid>
       <description>引子 InnerSource 的介绍，我似乎陷入了一种不知该从何讲起的尴尬局面，也就是所谓的破局，理论？历史？案例？实践？文化？曾几何时，脑子灵光一闪，希望通过某个假想中的案例来阐述，从管理、文化、开发、协作、产品、生态、人才等多个角度来逐步细致将一个InnerSource贯彻到底。但是想法总归是想法，需要时间来慢慢的完善。难道是我的每周一篇文章时间定错了？还是应该将InnerSource单独拿出来，独立成系列？我陷入了思考和停滞状态。
 但是，国人的思维是喜欢案例的！尤其是你出身于某个案例，因为保守，不愿冒险！好吧，思考归思考，材料还的积累。于是有了此文，尝试将现有的InnerSource案例整理出来。
 InnerSource 案例 在一个普遍推崇模仿、山寨的文化中，谈案例是最受欢迎的，我也顺着这个思路来写一篇试试水，以实际行动来验证下。
@@ -43,10 +43,10 @@ Google Google 向来是支持开源的，是少有的对开源有着执着情怀
     
     <item>
       <title>InnerSource 介绍</title>
-      <link>http://www.ocselected.org/posts/innersource/introduction_of_innersource/</link>
+      <link>http://www.opensourceway.community/posts/innersource/introduction_of_innersource/</link>
       <pubDate>Fri, 06 Jan 2017 22:35:15 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/innersource/introduction_of_innersource/</guid>
+      <guid>http://www.opensourceway.community/posts/innersource/introduction_of_innersource/</guid>
       <description>&amp;ldquo;no matter who you are, most of the smartest people work for someone else,” —— Bill Joy 太阳微系统公司联合创始人
  引子 开源是如此的成功，以至于现在用一句时髦的话来形容：“开源软件正在吞噬世界”，一点都不为过。这从侧面反映出，开源的开发方法是有效的，而且可以开发出Linux 内核这样既能在超级运算中应用也能在智能手机上运行的卓越的项目。开源项目的工作流程解释了为何来自世界各地的志愿者们可以如此高效的完成如此巨大的项目。这样就给那些大型的跨国公司带来许多的灵感，和成功的开源项目的社区一样，大型公司的软件工程师们亦是分布在全球各地，而且不在同一个部门，他们并不能够频繁的见面，报告的老板也不一样。为了在企业内部能够增强合作，一些公司开始采用开源项目的工作流程。Tim O’Reilly 首次使用了术语“InnerSource”这个词汇，我们翻译它为”内部开源”。（华为的同仁称之为内源，我以为损失了一些意义，四个字就四个字吧，大家更容易理解一些。）
 开源界著名的程序员、Hacker——Eric Raymond，在对比了开源项目和传统软件的开发方法和流程之后，写了经典的著作《大教堂与集市》，将自顶向下的过去的开发方法称之为“大教堂”，将开源的扁平式的、分布式的开发称之为“集市”。那么我们今天谈到的InnerSource，可以概括为“大教堂”下的“集市”。也就是在企业内部实行开源软件的开发方法。

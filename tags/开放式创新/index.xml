@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>开放式创新 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E5%BC%80%E6%94%BE%E5%BC%8F%E5%88%9B%E6%96%B0/</link>
+    <link>http://www.opensourceway.community/tags/%E5%BC%80%E6%94%BE%E5%BC%8F%E5%88%9B%E6%96%B0/</link>
     <description>Recent content in 开放式创新 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Thu, 12 Sep 2019 16:27:21 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%94%BE%E5%BC%8F%E5%88%9B%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%94%BE%E5%BC%8F%E5%88%9B%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Open Core 和基于 API 的服务，商业软件如何搭上开源的顺风车！</title>
-      <link>http://www.ocselected.org/posts/business_model/open-core-vs-open-perimeter/</link>
+      <link>http://www.opensourceway.community/posts/business_model/open-core-vs-open-perimeter/</link>
       <pubDate>Thu, 12 Sep 2019 16:27:21 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/business_model/open-core-vs-open-perimeter/</guid>
+      <guid>http://www.opensourceway.community/posts/business_model/open-core-vs-open-perimeter/</guid>
       <description>作者 译者 备注     Ruth Suehle 开源之道：适兕     副标题：API以及基于云计算解决方案的兴起，正在推动商业开源供应商模式的变革
 （图片说明：Thomas Hawk 发表在Flick上，基于 CC BY-NC 2.0 ，opensource.com 修改）
 在当今，软件开发是围绕API所构建起来的，开发者再也不会将供应商的产品整合到自己的应用中，而是通过调用供应商所提供的API来进行服务。开发者毋须知道自己所调用的后端是什么，他们只需要知道供应商能够提供什么样的API、能够返回什么内容。它真正实现了彼此独立、自己负责的理想“爱情”！
@@ -34,10 +34,10 @@ Open Core 的典型模式 各位看官，请允许我为了更加清晰的表达
     
     <item>
       <title>个人做开源商业咨询的清单</title>
-      <link>http://www.ocselected.org/posts/business_model/list_of_open_source_consulting_single_people/</link>
+      <link>http://www.opensourceway.community/posts/business_model/list_of_open_source_consulting_single_people/</link>
       <pubDate>Tue, 03 Jul 2018 11:40:33 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/business_model/list_of_open_source_consulting_single_people/</guid>
+      <guid>http://www.opensourceway.community/posts/business_model/list_of_open_source_consulting_single_people/</guid>
       <description> 引子 如何找寻出意义来？如何才能让人心甘情愿的买你的账？
 清单 Shane Curcuru Shane 为企业或社区提供三类服务：
  自由/开源软件项目品牌 ： 作为曾经的Apache基金会品牌管理V.P，拥有丰富的开源项目品牌经验，有超过200+项目。 社区指导： 在个人和项目均有经验的过来人来说，可以帮助人们迅速的找到开源的贡献的流程。 商业意识： 让企业了解自己所依赖的开源技术、法律以及人员。从而降低商业上的风险。  Shane 有着长长的履历：在1999年，通过发起 Apache Xalan 项目而成为Apache PMC，在2002~2008年一直都有在做ApacheCon 的组织委员，2009年之后，成为ASF的委员，做PR方面的事情。
@@ -53,10 +53,10 @@ Jaime Arredondo 相对Jaime就是籍籍无名之辈了。但是他有一直在�
     
     <item>
       <title>红帽成功背后的秘密武器是什么？</title>
-      <link>http://www.ocselected.org/posts/business_model/what_is_the_secret_of_redhat_success/</link>
+      <link>http://www.opensourceway.community/posts/business_model/what_is_the_secret_of_redhat_success/</link>
       <pubDate>Mon, 18 Jun 2018 11:12:11 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/business_model/what_is_the_secret_of_redhat_success/</guid>
+      <guid>http://www.opensourceway.community/posts/business_model/what_is_the_secret_of_redhat_success/</guid>
       <description>引子 红帽在全球范围内，依托于开源项目和开放的文化、卓越的服务意识、精打细算的财务，将自己的收入逐年翻番，随着整个开源软件在业界影响力的提升，红帽在服务器软件，尤其是企业级Linux，占据了举足轻重的地位，在Linux kernel、虚拟化、OpenStack、Kubernetes等重大开源项目上，贡献度也是非常的耀眼，基于开源项目的商业产品线也是日渐的丰富。俨然就是开源界的霸主。
 那么它背后成功的原因究竟是什么？今天我们就从西方的一位洞见者的角度来审视一番，要知道本土有着完全不一样的文化、环境和认知，所以红帽的这些成功武器未必在本土适用，或许再等上10年这样的模式行得通，但是至少现在不行。但是依然具有参考价值，让本土的那些既愿意要自由，又想要免费的啤酒的人们，起到抛砖引玉的作用。
  注：本文写于2012年。
@@ -82,10 +82,10 @@ Jaime Arredondo 相对Jaime就是籍籍无名之辈了。但是他有一直在�
     
     <item>
       <title>如何为开源项目做市场</title>
-      <link>http://www.ocselected.org/posts/business_model/marketing-open-source-project/</link>
+      <link>http://www.opensourceway.community/posts/business_model/marketing-open-source-project/</link>
       <pubDate>Mon, 09 Apr 2018 11:46:23 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/business_model/marketing-open-source-project/</guid>
+      <guid>http://www.opensourceway.community/posts/business_model/marketing-open-source-project/</guid>
       <description>概要 本文是根据Deirdré Straughan在北美开源峰会2017会上的演讲整理而成，演示文稿可到slideshare下载。
 Deirdré Straughan 是一位经验丰富、精力充沛的女士，她目前在亚马逊云计算（AWS）的开源部门工作，但是此次分享并不是代表AWS，而仅仅是代表其本人。她过去曾经在爱立信、甲骨文、Joyent等公司工作，最近几年一直在云计算和开源领域。
 Deirdré 对自己的职业生涯的总结是：”通过各种市场和社区活动来帮助技术野蛮成长！”，本文堪称是Deirdré 的精髓，尤其是她所解释的市场手段，以及这些手段为什么对于开源是非常重要的。
@@ -116,10 +116,10 @@ Deirdré 声称，开源项目中非常重要的资源——人本身，以及�
     
     <item>
       <title>LWN 的20年</title>
-      <link>http://www.ocselected.org/posts/business_model/lwn_20_years/</link>
+      <link>http://www.opensourceway.community/posts/business_model/lwn_20_years/</link>
       <pubDate>Mon, 29 Jan 2018 14:24:38 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/business_model/lwn_20_years/</guid>
+      <guid>http://www.opensourceway.community/posts/business_model/lwn_20_years/</guid>
       <description>开源之道引言 从“得到”、“极客时间”等APP 的流行，也就是说明知识付费时代的来临。但是，就是这样一个订报纸的模式，在开源界是最颇为能接受的和被大众理解的。红帽的Linux操作系统订阅模式，随着时间的推移，越发显得后劲十足。殊不知，在专门撰写Linux深度好文，还有一个在线媒体，也是订阅模式。它就是 Linux Weekly News，即Linux周刊。本土的大众还不能适应这样的模式，不过他们终究会被爆炸的讯息所淹没，再返回头来，已经迷失。
 LWN 这20年 让时间倒退到1997年的年中，作为编辑的 Jonathan Corbet 和 Liz Coolbaugh 针对如何通过优雅的、稳定的、可靠的工作来应对不确定的、贫困的、没日没夜的日子进行了“扩日持久”的讨论。事实上，他们也只是想想罢了。恰好这时，红帽发起了“支持合作伙伴”计划，于是我们决定加入，一切并不会马上就能发生，于是在等待红帽的一段间歇期，我们做了一个非正式的项目：每周通讯——不会很大，但是是非常专业的，像正式的出版物一样—— 而且还一定是创立在社区的基础之上的。结果谁也没有预料到，到今天，就是这样一个非正式的项目，我们整整运营了20年，这是让所有人都很惊奇的伟大成绩。
 在经历了一段思考究竟要做什么样的内容之后，在1998年的1月22日， Jonathan Corbet 和 Liz Coolbaugh 发布了LWN的第一期，第一期包含了如下一下内容：
@@ -133,10 +133,10 @@ LWN 的模式是独一无二的，但是非常的有效。依靠订阅模式，L
     
     <item>
       <title>如何成功进入自由开源软件这个新兴市场</title>
-      <link>http://www.ocselected.org/posts/business_model/how_to_successfully_enter_the_foss_emerging_market/</link>
+      <link>http://www.opensourceway.community/posts/business_model/how_to_successfully_enter_the_foss_emerging_market/</link>
       <pubDate>Sun, 05 Nov 2017 22:26:21 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/business_model/how_to_successfully_enter_the_foss_emerging_market/</guid>
+      <guid>http://www.opensourceway.community/posts/business_model/how_to_successfully_enter_the_foss_emerging_market/</guid>
       <description>引子 从商业的角度讲，所谓的“新兴市场”，就是说一个市场还是尚待挖掘的市场，且有着巨大的潜力，有望能够成为发达的市场。维基百科的定义则更加的倾向于将这个世界以国家来划分，即拥有发达市场的国家和不发达（发展中）国家，我个人以为那是对“市场”含义的局限看法。
 无论市场是否已经饱和或是一片“蓝海”，都是完全取决于你所提供的产品或服务，以及市场对该产品或服务的接受度和认知度。举例来说，意大利就不会被维基百科的定义视为新兴市场。然而，截止目前为止，意大利的互联网覆盖率为58%，那么作为宽带的互联网就会考虑进入。
 那么通过更为广泛的定义，自由和开源软件（FOSS）对于大多数企业和商业界来说，就完全是一个新兴的市场。这完全是一片尚未开垦的新大陆，这里有充足的资源和各种愿景，企业对各种可能性早已虎视眈眈。但是，这里对于多数人，仍然陌生，完全是另外一套不同的文化，企业若想在这片新大陆有所斩获，就得去学习其独特的文化。
@@ -153,10 +153,10 @@ LWN 的模式是独一无二的，但是非常的有效。依靠订阅模式，L
     
     <item>
       <title>竞争中合作：开源商业化的爱与恨</title>
-      <link>http://www.ocselected.org/posts/business_model/coopetition_all_fair_in_love_and_open_source/</link>
+      <link>http://www.opensourceway.community/posts/business_model/coopetition_all_fair_in_love_and_open_source/</link>
       <pubDate>Mon, 16 Oct 2017 22:00:36 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/business_model/coopetition_all_fair_in_love_and_open_source/</guid>
+      <guid>http://www.opensourceway.community/posts/business_model/coopetition_all_fair_in_love_and_open_source/</guid>
       <description>引子 PostgreSQL vs. MySQL、 MongoDB vs. Cassandra、 Solr vs. Elasticsearch、 ReactJS vs. AngularJS。如果你是一名开源界的人士，你一定由自己所热衷的开源项目，而这个开源项目一般均会由相应的竞争项目，甚至几乎是实现了相同的功能，而且都有各自的粉丝。尽管作为个体在开源项目中标榜着自己：“我们乐意分享我们的代码。”但是，作为开源的商业公司来说，却意味着充满竞争，和其它商业模式不同的是，开源在竞争中提供了独特的挑战和机遇。
 我们不妨去想象一下：福特汽车在其最新款的汽车进入工厂之前，对外公布了此款车的最新设计、规格、流程乃至细节，又或者是Apple对于下一代的iPhone做了同样的事情。你是不是觉得很奇怪？但是这样的事情在开源界每天都在上演。更加出乎人们意料的还有，很多开源的公司本来是竞争关系，却会去为同一个项目做贡献。有时候还会引起公众的热烈讨论。举例来说，在搜索这个细分领域，Lucidworks、Elastic、IBM 都在为项目Apache Lucene和Solr 贡献力量，而这三家在商业上完全是竞争关系，无独有偶，HortonWorks、MapR、Cloudera都为项目Apache Hadoop作贡献，但是这三家在大数据领域却竞争的异常激烈。
 然后我们再回到福特／Apple的例子，假设他们真的发布了所有的细节，这是不是也就意味着通用汽车或三星电子会去花时间去了解这些计划，而不是走马观花的粗略审查一下？这是一个非常好的问题，而这也恰好说明了开源项目和商业竞争有着不一样的挑战和机遇。
@@ -176,10 +176,10 @@ Lucidworks 在开始的时候，就是采用的开放核心策略（即我们最
     
     <item>
       <title>企业开源的福音书 —— Linux基金会发布企业开源指南</title>
-      <link>http://www.ocselected.org/posts/business_model/linux_foundation_product_open_sourceg_guide_enterprise/</link>
+      <link>http://www.opensourceway.community/posts/business_model/linux_foundation_product_open_sourceg_guide_enterprise/</link>
       <pubDate>Mon, 18 Sep 2017 21:09:29 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/business_model/linux_foundation_product_open_sourceg_guide_enterprise/</guid>
+      <guid>http://www.opensourceway.community/posts/business_model/linux_foundation_product_open_sourceg_guide_enterprise/</guid>
       <description>引子 开源的方法论正在层出不穷的被创造和整理，一边是闹的沸沸扬扬的FaceBook 的开源项目React许可证问题，另一边是开源峰会如火如荼的集聚着大量的人气。以开放式创新的理论大旗，开源软件以事实上的成功证明了——开源是开发软件优秀的一种实现方式，企业究竟是以何种方式来参与到开源中来，一直都是观望者们踌蹰不前的理由。但是2017年注定必须要迈出这一步。
 发布企业开源指南的缘由 故事还得从今年三月讲起，在举办开源领导力峰会（开源领导力峰会是致力于分享企业治理开源的最佳实践，以及运营开源办公室的经验。）的时候，TODO Group也举行了闭门会议，来自十几个公司的开源办公室的领导者或企业的管理者，都热切的分享了他们的实践和疑惑。
 再往远了谈点，我们看到诸如亚马逊这样桀骜不驯的公司，也通过@AWSOpen创立了开源办公室，还有VMware这样开源的对手，打破先例雇佣了首席开源官，而且也经常会有人问该如何成立开源办公室。
@@ -198,10 +198,10 @@ Lucidworks 在开始的时候，就是采用的开放核心策略（即我们最
     
     <item>
       <title>东方文化与技术社区</title>
-      <link>http://www.ocselected.org/posts/opensource_culture/culture_and_community/</link>
+      <link>http://www.opensourceway.community/posts/opensource_culture/culture_and_community/</link>
       <pubDate>Sun, 06 Aug 2017 22:30:25 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_culture/culture_and_community/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_culture/culture_and_community/</guid>
       <description>开源之道的主要作者适兕，今年报名了COSCUP 2017的分会场——開放社群經營藝術，并被入选，于是远走台北，为大家分享了《东方文化与技术社区》为主题的演讲。以下为适兕的摘录。
 演讲的演示文稿下载地址：《东方文化与技术社区》
  Hello，大家好！
@@ -227,10 +227,10 @@ Lucidworks 在开始的时候，就是采用的开放核心策略（即我们最
     
     <item>
       <title>关于开源软件的12条模因</title>
-      <link>http://www.ocselected.org/posts/business_model/12-memes-explain-open-source-software/</link>
+      <link>http://www.opensourceway.community/posts/business_model/12-memes-explain-open-source-software/</link>
       <pubDate>Sun, 30 Jul 2017 22:30:25 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/business_model/12-memes-explain-open-source-software/</guid>
+      <guid>http://www.opensourceway.community/posts/business_model/12-memes-explain-open-source-software/</guid>
       <description>题记 开源之道的主要作者适兕在LC3中国的会议上拜会了知名的社区人物：Stephen R. Walli， 并表达了自己心中的崇拜之情。Stephen R. Walli先生不仅对于开源有着切身的理解和认识，也希望能够让更多的人知道他的想法，于是开源之道经过Stephen R. Walli先生的允许，将陆续的将他的文章翻译为中文，将他对于开源和商业的思考介绍给本土的读者。本文是他的第二篇，第一篇根本就没有所谓的开源商业模式。
  何为memes？ memes 一般翻译为模因，对于模因目前比较公认的定义是“一个想法，行为或风格从一个人到另一个人的文化传播过程。 ” &amp;ndash; wikipedia
  开源软件意味着什么？当你向其他人解释的时候，你是如何传达开源的价值及其本质的？而不是自己另外创一套。要知道开源自从1997年被发明以来，已经有很多成功的案例，但是也有很多惨痛的教训。
@@ -253,10 +253,10 @@ Meme #5: 吃瓜群众是成功的关键 有江湖传言是这么讲的：“一�
     
     <item>
       <title>根本就没有什么所谓的开源商业模式</title>
-      <link>http://www.ocselected.org/posts/business_model/there_is_no_open_source_business_model/</link>
+      <link>http://www.opensourceway.community/posts/business_model/there_is_no_open_source_business_model/</link>
       <pubDate>Thu, 20 Jul 2017 10:46:43 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/business_model/there_is_no_open_source_business_model/</guid>
+      <guid>http://www.opensourceway.community/posts/business_model/there_is_no_open_source_business_model/</guid>
       <description>题记 开源之道的主要作者适兕在LC3中国的会议上拜会了知名的社区人物：Stephen Walli， 并表达了自己心中的崇拜之情。Stephen Walli先生不仅对于开源有着切身的理解和认识，也希望能够让更多的人知道他的想法，于是开源之道经过Stephen Walli先生的允许，将陆续的将他的文章翻译为中文，将他对于开源和商业的思考介绍给本土的读者。
 前言 在这里我首先要提醒大家的是，撰写此文并非是要说明开源是“肮脏的商业主义”或“天下根本没有利他主义”。我的主张是经济学是关于行为而不是金钱，我是德鲁克的追随者（一家公司的存在是因为解决问题而创造了市场），我反对弗里德曼的观点（一家公司就是为股东提供回报而存在）。我信奉慷慨的人，我深信拉帕波特的解决方案对于囚徒困境是有效的，即始终以最慷慨的选择开始。我也坚信我们知道社区运行的意义，即如果你有一把篝火，是不介意我坐下来的。
 我曾有幸观看了Bob Young在&amp;ldquo;All things open&amp;rdquo; 上的演讲，Bob Young 在演讲中重申了一家成功的公司应是聚焦于其客户的成功。我以为这就是红帽创立之初所种下的DNA，直到今天红帽仍然以客户的成功为己任，不断的前进。我相信分享好的软件是使我们所有人成功的唯一途径，就像我们可以作为一个部落一样。我亦坚信软件没有规矩难成气候。
@@ -277,10 +277,10 @@ Interix 是上世纪90年代后期的一款产品，旨在提供在Windows NT环
     
     <item>
       <title>开源正在成为公有云巨头们的战场</title>
-      <link>http://www.ocselected.org/posts/business_model/open_source_is_battle_field_of_public_cloud/</link>
+      <link>http://www.opensourceway.community/posts/business_model/open_source_is_battle_field_of_public_cloud/</link>
       <pubDate>Wed, 28 Jun 2017 11:26:33 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/business_model/open_source_is_battle_field_of_public_cloud/</guid>
+      <guid>http://www.opensourceway.community/posts/business_model/open_source_is_battle_field_of_public_cloud/</guid>
       <description>开源成为热门的由来 计算机编程在大型的项目中表现的至关重要，代码的优劣直接决定项目的成败，而编码本身是一项非常需要沉浸的艺术，优秀而卓越的工程师非常的难求。然而，资本所带来的技术变革，又非常的求才若渴，苦于寻找，鉴于目前的大学教育，毕业生需要花费很大的精力去培养，而且还不知道结果。突然有一天，人们发现开源社区简直是人才的巨大宝库，这里的优秀的编码人员实在是实打实的，有实际的架构设计、代码实现，于是乎，蜂拥而至！开源社区的人才成了企业争夺的对象。
 时代变了，过去的软件产业是先有商业产品，然后社区有人重新实现，如操作系统，web服务器等，现在则是领先的技术先开源，如Docker、大数据生态、机器学习等。
 技术社区所成立的基金会，开始渐渐的进入了商业化运作，如Linux基金会、OpenStack基金会，在培训、会议、宣传上推波助澜。更要一提的是GitHub代码托管站点，改变了人们的协作方式，影响已经不止于代码领域。
@@ -302,10 +302,10 @@ Interix 是上世纪90年代后期的一款产品，旨在提供在Windows NT环
     
     <item>
       <title>初入开源世界的企业会犯哪些常见的错误？如何避免？</title>
-      <link>http://www.ocselected.org/posts/business_model/opensource_mistake_for_enterprise_newcomers/</link>
+      <link>http://www.opensourceway.community/posts/business_model/opensource_mistake_for_enterprise_newcomers/</link>
       <pubDate>Mon, 08 May 2017 22:01:57 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/business_model/opensource_mistake_for_enterprise_newcomers/</guid>
+      <guid>http://www.opensourceway.community/posts/business_model/opensource_mistake_for_enterprise_newcomers/</guid>
       <description>  借鉴开放源码，将其应用于企业的整体流程，而不仅仅是开发。
  开源软件越来越多的被采用，且延展到技术行业的每个角落，几乎所有的技术公司现在都在其产品中使用开放源码，很多公司会积极的参与到外部的开源项目中，甚至越来越多的公司开始创建开源项目用来达到商业目的。几乎在任何地方，我们都能看到开源以及人们更加深入的参与。
 但是现实中，我们却看到太多的对于开源的错误理解，有的甚至丧失了很好的机会。
@@ -345,10 +345,10 @@ James Vasile 拥有在自由和开源软件世界的用户、开发者、倡导�
     
     <item>
       <title>每家公司都应设立开源项目部门（OSPO）！</title>
-      <link>http://www.ocselected.org/posts/business_model/whats_open_source_program_office/</link>
+      <link>http://www.opensourceway.community/posts/business_model/whats_open_source_program_office/</link>
       <pubDate>Fri, 24 Feb 2017 21:21:46 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/business_model/whats_open_source_program_office/</guid>
+      <guid>http://www.opensourceway.community/posts/business_model/whats_open_source_program_office/</guid>
       <description>任何一家具有雄心壮志的现代公司，都应设置开源项目部，以对软件的整个生态施加影响。一家公司若是想增强自己在业界的影响力，将开源的消息放出、最大限度地发挥其项目的影响力，或者是为了提高产品的开发效率，一个全方位的开源计划是必须的。在观察了许多类似团队的运作后，我总结了成功的开源程序的六个共同特点：
  营销很重要。 千万不要低估牛X的营销计划和品牌战略的力量。 对开源的社区和生态作战略投资。 一些社区相比之下，会更加契合企业的技术目标。 拥有强大的法律顾问。 没有强大的法律顾问，无疑是置企业管理于危险的境地。当然这些法律顾问可能也会扼杀创新，所以你要准备好平衡的艺术。 要和产品策略一致。 如果开源项目部对于公司的产品策略毫无帮助，无疑是白白的浪费资源。 制定并传达您的最终用户和开发人员社区支持战略和指南。 你公司的任何人，若有意要参与一个现有项目的话，能够清晰的理解社区是如何运作的，并轻松入门。一定会吸引更多的人来。 雇佣那些开源大拿。 那些开源的实用主义者们无处不在，但是真正具有创新精神、超前思维、低调的开源倡导者们却是非常稀有和罕见的。如果你想做到与众不同，那么雇佣他们来运营开源项目部，是非常明智的选择。  嗯，接下来，我们就来聊聊开源项目部的进化史。
 何为成功的开源 回想一下，当年“开源”还是新鲜事的时候，很多人都迫切的想知道它的结果。从开发者到系统管理员，再到企业的管理层，每一个都在努力的尝试着去理解这样一个代码开放的世界。这其中当然也包括大型的软件供应商的高层、以及有风投看中的创业公司，而这些人的疑问是：这些商业模式能成为独角兽？如何在开源的大潮中获得好处？
@@ -368,10 +368,10 @@ Google 不仅仅是为开源贡献代码和以及将开源应用到自己的产�
     
     <item>
       <title>开源厂商（中间服务机构）万岁！</title>
-      <link>http://www.ocselected.org/posts/business_model/long_live_open_source_company/</link>
+      <link>http://www.opensourceway.community/posts/business_model/long_live_open_source_company/</link>
       <pubDate>Tue, 21 Feb 2017 18:16:03 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/business_model/long_live_open_source_company/</guid>
+      <guid>http://www.opensourceway.community/posts/business_model/long_live_open_source_company/</guid>
       <description>题记 当我兴致勃勃的拿着文章：开源软件是开放式创新的最佳注解给花姐看的时候，花姐是如此回答我的：
  &amp;ldquo;开源本身是激发创新的，这个我相信大部分人都认可，但大家更多讨论的是开源如何商业变形（现）的事情&amp;rdquo;
  我明白了，花姐更加的理解IT界的商人们喜欢读什么样的文章。而我知道我更加关注的是——“布道”！无论这个对象是谁。直到有另外一天，我被一问题给惊住了：“开源的商业模式的持续性是怎么保住的？”
@@ -392,10 +392,10 @@ Google 不仅仅是为开源贡献代码和以及将开源应用到自己的产�
     
     <item>
       <title>开源软件商业模式之收入来源概览</title>
-      <link>http://www.ocselected.org/posts/business_model/opensource_business_model_overview/</link>
+      <link>http://www.opensourceway.community/posts/business_model/opensource_business_model_overview/</link>
       <pubDate>Fri, 13 Jan 2017 21:50:10 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/business_model/opensource_business_model_overview/</guid>
+      <guid>http://www.opensourceway.community/posts/business_model/opensource_business_model_overview/</guid>
       <description>引子 Eric S Remand 在《大教堂与集市》一书的第三章论述了开源和商业的几种关系，也即是反映在开源的热忱度和对商业的反对性，我们以表格表示下：
 表格留空，聪明的读者请自行对号入座。
 从开源软件这个名词诞生起，其实就是对于自由软件的妥协。是不排斥商业因素的，毕竟这是个资本的时代，但是开放式的创新又魅力难挡。开源软件 + 商业模式，何乐不为？比如红帽就在此看到了商机，经过多年苦心经营，终于成为了年营业额达2亿美元的开源公司。特别说明的是，这里的商业模式所涉及的开源软件所指的是直接的产生利益相关，而比如Google、AWS、等互联网公司间接的利用开源软件业务并不包含在内。

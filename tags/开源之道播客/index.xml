@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>开源之道播客 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E6%92%AD%E5%AE%A2/</link>
+    <link>http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E6%92%AD%E5%AE%A2/</link>
     <description>Recent content in 开源之道播客 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Sat, 15 Feb 2020 13:18:36 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E6%92%AD%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E6%92%AD%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>开源之道 Talking 节目 Episode 汇总（2020）</title>
-      <link>http://www.ocselected.org/posts/opensource_talking/2020-done-and-plan-index/</link>
+      <link>http://www.opensourceway.community/posts/opensource_talking/2020-done-and-plan-index/</link>
       <pubDate>Sat, 15 Feb 2020 13:18:36 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_talking/2020-done-and-plan-index/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_talking/2020-done-and-plan-index/</guid>
       <description>关于【开源之道 Talking】 开源之道 talking 这款播客节目，是开源之道共同体下的一个特别项目，旨在通过 Podcast 的形式，收集、探讨业界关于开源的思想、知识、价值的见解、观点、洞见，能够让更为轻松的谈话、聊天、辩论的方式得以施展，乃布道开源之新优势也。
 除了「鼠年话开源之外」，我们会每个月选一个特别的主题，邀请特定的资深开源嘉宾，欢迎大家将自己感兴趣的主题或内容发给我们，以让我们的话题更为聚焦。
 【鼠年话开源】系列 开源之道 talking，适兕一直都在酝酿，终于在2020年的春节接着 &amp;ldquo;Community Leadership Development&amp;rdquo;的人气，开了一个良好的头：
@@ -26,10 +26,10 @@
     
     <item>
       <title>鼠年话开源之七：社群的交流工具 </title>
-      <link>http://www.ocselected.org/posts/opensource_talking/2020-02-10-what-is-good-communition-tool/</link>
+      <link>http://www.opensourceway.community/posts/opensource_talking/2020-02-10-what-is-good-communition-tool/</link>
       <pubDate>Mon, 10 Feb 2020 11:40:17 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_talking/2020-02-10-what-is-good-communition-tool/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_talking/2020-02-10-what-is-good-communition-tool/</guid>
       <description>致力于开源相关思想、知识和价值的探究！ 春节期间，由开源之道共同体旗下 Community Leadeship Development 小组组织了一场「鼠年话开源」系列播客，本期是由开源社理事兼执行长庄表伟发起并主持，开源之道借光发布的第七弹，（「鼠年话开源」最后一期，顺序是大年初七，1.31日，全国疫情隔离整一周零二天）。
 本期话题  工具的演变，是否有某种发展趋势，比如：越是GUI的工具，越是容易替代字符界面的工具？ 工具的演变趋势，是否有可能预测？ 未来的工具，你期望是什么形态的？ 交流工具  收听  Apple Podcast 订阅地址：http://www.ximalaya.com/album/32915040.xml
 讨论中的相关链接 我们的奋起宣言 RouseChina - Woodpecker Wiki for CPUG
@@ -43,10 +43,10 @@ Python中文社区创始人(之一) / 管理员, 热心于 Python 等等社区�
     
     <item>
       <title>鼠年话开源之六：开源共同体和开源社区是不是一回事？如果不是的话，又有何不同？ </title>
-      <link>http://www.ocselected.org/posts/opensource_talking/2020-02-09-what-is-open-source-community/</link>
+      <link>http://www.opensourceway.community/posts/opensource_talking/2020-02-09-what-is-open-source-community/</link>
       <pubDate>Sun, 09 Feb 2020 12:31:11 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_talking/2020-02-09-what-is-open-source-community/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_talking/2020-02-09-what-is-open-source-community/</guid>
       <description>致力于开源相关思想、知识和价值的探究！ 春节期间，由开源之道共同体旗下 Community Leadeship Development 小组组织了一场「鼠年话开源」系列播客，本期是由101.camp 创始人周琦（人称大妈）发起并主持，开源之道借光发布的第六弹，（顺序是大年初六，1.30日，全国疫情隔离整一周零一天）。
 本期话题 本期节目里我们聊到了以下主题：
  什么是开源共同体？ 请每个人解释一下“开源社区” Open Source Community 翻译为开源共同体是不是新翻译？或发明新名词？ 开源共同体的提出引发了众多人的质疑和反对 中国的语境为何需要沥青？  收听  Apple Podcast 订阅地址：http://www.ximalaya.com/album/32915040.xml
@@ -61,10 +61,10 @@ Python中文社区创始人(之一) / 管理员, 热心于 Python 等等社区�
     
     <item>
       <title>鼠年话开源之五：Apache不会给其下的项目开发者发工资，那Apache是如何保证做事的专业性和持续投入的？ </title>
-      <link>http://www.ocselected.org/posts/opensource_talking/2020-02-07-motivation-beyond-of-money/</link>
+      <link>http://www.opensourceway.community/posts/opensource_talking/2020-02-07-motivation-beyond-of-money/</link>
       <pubDate>Fri, 07 Feb 2020 19:52:00 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_talking/2020-02-07-motivation-beyond-of-money/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_talking/2020-02-07-motivation-beyond-of-money/</guid>
       <description>致力于开源相关思想、知识和价值的探究！ 春节期间，由开源之道共同体旗下 Community Leadership Development 小组组织了一场「鼠年话开源」系列播客，本期是由Apache member 姜宁发起并主持，开源之道借光发布的第五弹，（顺序是大年初五，1.29日，全国疫情隔离整一周）。
 话题由来 在开源社区，直接的物质激励的作用很小，在社区中其他的短期长期的非物质激励扮演了很重要的角色，本次夜话就是想结合开源社区运作特点讨论一下这些非物质激励有哪些，为什么这些激励能够长效的支持很多专业人士提供高质量的专业服务。
 本期话题 本期节目里我们聊到了以下主题：
@@ -79,10 +79,10 @@ Python中文社区创始人(之一) / 管理员, 热心于 Python 等等社区�
     
     <item>
       <title>鼠年话开源之四：开源项目商业化理念与路径 </title>
-      <link>http://www.ocselected.org/posts/opensource_talking/2020-02-06-business-and-open-source/</link>
+      <link>http://www.opensourceway.community/posts/opensource_talking/2020-02-06-business-and-open-source/</link>
       <pubDate>Fri, 07 Feb 2020 09:42:46 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_talking/2020-02-06-business-and-open-source/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_talking/2020-02-06-business-and-open-source/</guid>
       <description>致力于开源相关思想、知识和价值的探究！ 春节期间，由开源之道共同体旗下 Community Leadeship Development 小组组织了一场「鼠年话开源」系列播客，本期是由社会人科技评论主持并剪辑发布，开源之道借光发布的第四弹，（社会人科技评论第二期，顺序是大年初八最后一夜）。
 本期话题 本期节目里我们聊到了以下主题：
  现实世界中证明过可行的开源项目商业化
@@ -111,10 +111,10 @@ apisix
     
     <item>
       <title>鼠年话开源之三：Apache 之道在本土的障碍有哪些？还是无缝的？</title>
-      <link>http://www.ocselected.org/posts/opensource_talking/2020-02-05-is-apache-way-worked-in-china/</link>
+      <link>http://www.opensourceway.community/posts/opensource_talking/2020-02-05-is-apache-way-worked-in-china/</link>
       <pubDate>Wed, 05 Feb 2020 21:42:46 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_talking/2020-02-05-is-apache-way-worked-in-china/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_talking/2020-02-05-is-apache-way-worked-in-china/</guid>
       <description>致力于开源相关思想、知识和价值的探究！ 欢迎大家来到开源之道 talking，本次节目也是鼠年话开源第三期，参与者来自 Apache 资深成员，本期的话题是apache之道和本土文化是否有冲突？还是无缝融合？亦或是中间存在Gap，需要我们去搭桥或弥补？
 开源之道 talking 这款播客节目除了鼠年话开源之外，我们会每个月选一个特别的主题，邀请特定的资深开源嘉宾，欢迎大家将自己感兴趣的主题或内容发给我们，以让我们的话题更为聚焦。
 本期话题概述 2019年初，Apache 基金会终于发布了一篇关于诠释Aapche之道的文章，开源之道也第一时间认领了翻译的任务，并首发开源社，并得到了很多关心Apache 之道的开源圈的人的呼应和反馈，文章的题目是：Apache 之道，开源可持续成功的秘籍。基于这个再看Apache 20年的年度报告，对于它的成绩也就没什么大惊小怪。
@@ -126,10 +126,10 @@ apisix
     
     <item>
       <title>鼠年话开源之二：商业公司如何拥抱开源共同体（Open Source Community） </title>
-      <link>http://www.ocselected.org/posts/opensource_talking/2020-02-03-business-embrave-osc/</link>
+      <link>http://www.opensourceway.community/posts/opensource_talking/2020-02-03-business-embrave-osc/</link>
       <pubDate>Tue, 04 Feb 2020 11:22:48 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_talking/2020-02-03-business-embrave-osc/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_talking/2020-02-03-business-embrave-osc/</guid>
       <description>本期简介 登场人物 汉洋：航空类开源项目 GAAS 创始人：https://github.com/generalized-intelligence/GAAS
 堵俊平：腾讯开源联盟主席，有近十年的开源社区项目的开发和管理经验。目前是Apache软件基金会Member, 担任多个项目（包括：Hadoop, Incubator, Submarine等）的PMC以及多个项目（如TubeMQ, YuniKorn）的导师，他同时还是Linux AI基金会技术委员会（TAC）委员，以及ACUMOS项目的TSC技术顾问。
 姜宁：华为开源软件中心技术专家，前红帽软件首席软件工程师，有十五年企业级开源中间件开发经验，有丰富的 Java 开发和使用经验，函数式编程爱好者。从 2006 年开始一直从事 Apache 开源中间件项目的开发工作，先后参与 Apache CXF， Apache Camel，Apache ServiceMix，以及Apache ServiceComb的开发。对微服务架构，WebServices，Enterprise Integration Pattern，SOA， OSGi 有比较深入的研究。
@@ -138,10 +138,10 @@ apisix
     
     <item>
       <title>鼠年话开源之一：开源开发者有何特征？ </title>
-      <link>http://www.ocselected.org/posts/opensource_talking/2020-02-02-open-source-developer/</link>
+      <link>http://www.opensourceway.community/posts/opensource_talking/2020-02-02-open-source-developer/</link>
       <pubDate>Sun, 02 Feb 2020 21:05:45 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_talking/2020-02-02-open-source-developer/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_talking/2020-02-02-open-source-developer/</guid>
       <description>为什么要聊这个话题？ 在疫情肆虐的中华大地，实行了隔离，春节期间不可以走街串坊，于是 Community Leadership Development 小组的人们自动发起了这个“鼠年话开源”节目，开源之道作者适兕发起了第一期，聊聊开源的开发者有何特征，如果这些改变世界的人有什么文化特色的话，我们是不是可以培养更多？或者是寻找到更多?进而融入这个开源的滚滚大潮之中！
 听！这些资深的开源圈的人能聊出点啥。
  Shownote 本次 talking 探讨了以下几点内容：

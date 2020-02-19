@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>开源经济 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E7%BB%8F%E6%B5%8E/</link>
+    <link>http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E7%BB%8F%E6%B5%8E/</link>
     <description>Recent content in 开源经济 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Tue, 07 May 2019 14:31:32 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E7%BB%8F%E6%B5%8E/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E7%BB%8F%E6%B5%8E/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>为什么说下一个红帽永远不会出现：开源经济学的启示</title>
-      <link>http://www.ocselected.org/posts/open-source-economic/why-there-will-never-be-another-redhat-the-economics-of-open-source/</link>
+      <link>http://www.opensourceway.community/posts/open-source-economic/why-there-will-never-be-another-redhat-the-economics-of-open-source/</link>
       <pubDate>Tue, 07 May 2019 14:31:32 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/open-source-economic/why-there-will-never-be-another-redhat-the-economics-of-open-source/</guid>
+      <guid>http://www.opensourceway.community/posts/open-source-economic/why-there-will-never-be-another-redhat-the-economics-of-open-source/</guid>
       <description>引言 红帽从2018年底被IBM以高达340亿美金的价格收购，热度就一直没有衰减，甚至是成为了开源胜利的证据，被各种引用。（开源之道亦不能例外）近期又由于其一年一度的全球峰会而被社交媒体刷屏，当然，还有刚刚切换logo的消息，也是被人们议论纷纷。
 面对开源的新的形势，笔者不由得想起了一篇旧文，即著名的Peter Levine 在2014年所撰写的这篇文章，开源确实在面临着巨大的变化，比如微软的强势拥抱。是的，5年过去了，很多试图模仿红帽的公司都倒下了，当然更加的不用提及本土那些不入流的开源的搭便车者了。
 开篇语 开放源代码软件为我们的世界提供着源源不断的动力。在过去的十多年，有非常多的计算任务都避无可避的采用了开源，我们可以稍微想一下，如果没有开源，Google、Facebook、Amazon以及其它所有的现代的技术公司都将不复存在。开源，有着令人叹为观止的社区创新、顶级的开发者，它已经成为云计算、软件即服务、下一代数据库、移动设备、消费的互联网、乃至Bit币的基石。
@@ -48,10 +48,10 @@
     
     <item>
       <title>一份被忽略的开源经济学报告 —— 再读 Bruce Perens</title>
-      <link>http://www.ocselected.org/posts/open-source-economic/review-the-emerging-economic-paradigm-of-open-source/</link>
+      <link>http://www.opensourceway.community/posts/open-source-economic/review-the-emerging-economic-paradigm-of-open-source/</link>
       <pubDate>Wed, 13 Feb 2019 12:28:56 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/open-source-economic/review-the-emerging-economic-paradigm-of-open-source/</guid>
+      <guid>http://www.opensourceway.community/posts/open-source-economic/review-the-emerging-economic-paradigm-of-open-source/</guid>
       <description>引言 开源之道在2018年一月份，专门写了一篇关于 Bruce Perens 的文章：Bruce Perens，向全世界宣布“开源”的人，对，没错，就是这位跨界的、才华横溢的开发者、律师，然而，我们在文章中也提及了他在2004年公开发表的一份关于开源经济学的报告。适兕由于各种事情，并没有细读它，直到近来得空整理自己打印出来的paper的时候，于是干脆细研一番。可是读完之后才发现。这是一篇既被程序界，又被经济学界忽略的重要文章！忍不住和大家分享、解读一番。
 论文背景 写这篇论文的时候，Perens 的身份是乔治华盛顿大学网络安全政策研究所的开源高级研究员。当然我们也知道Bruce Pernens 的其它身份，他是开源运动的领袖之一，Debian/GNU Linux的领导者、也是开源定义的发起者。他当然是开源的坚定捍卫者之一，那么作为理解商业的自由软件追随者，他要从经济学角度来告诉世人，开源是有未来的！
 于是，有了这篇：The Emerging Economic Paradigm of Open Source，翻译过来就是：开源的新兴经济范式。
@@ -69,10 +69,10 @@
     
     <item>
       <title>如何评估一个 Linux 发行版的总体成本</title>
-      <link>http://www.ocselected.org/posts/open-source-economic/estimating-the-total-cost-of-linux-distribution/</link>
+      <link>http://www.opensourceway.community/posts/open-source-economic/estimating-the-total-cost-of-linux-distribution/</link>
       <pubDate>Thu, 31 Jan 2019 19:58:16 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/open-source-economic/estimating-the-total-cost-of-linux-distribution/</guid>
+      <guid>http://www.opensourceway.community/posts/open-source-economic/estimating-the-total-cost-of-linux-distribution/</guid>
       <description>开源之道引言：为什么要翻译十一年前的一份白皮书？ 答案很简单，就是要学会算经济账，一个开源项目，尤其是大型的、经过多年开发的，企业利用该项目就要在开始的时候算好一笔经济账，它不是零成本，它像一个快速向前滚动（发展）的巨大磁石，如果你没有投入，那么很快便失去了任何的话语权，经过一段时间，则会被狠狠的甩下，体无完肤！不仅失去了创新的能力，而且成为了自己最大的负担。最后以失败而告终。
 如果单单的只是将项目的某个时间的临时性成果来作为自己的产品或服务，那么就要想好要不要跟上步伐，要怎么跟？不过这些都要基于一个基础：这个阶段性的成果总成本是多少？该如何评估？于是就有了这篇文章。
 介绍 Linux 操作系统是历史上最为成功的开源项目，但是一个Linux发行版中的软件究竟“价值”多少钱？2002年，David A. Wheeler 发表了一份备受后人推崇的研究，其指出典型的Linux发行版中软件代码行数的意义所在。那么他的发现是什么？结果令人震惊：典型Linux发行版中的总开发成本高达12亿美元。我们将基于 Wheeler 先生的发现而继续挖掘。使用相同的工具，我们重新以当前的美元来计算，构建 Fedora 9发行版的成本需要大约108亿美元。另外，仅内核一项的开发需要约14亿美元，本论文概述了我们研究过程中使用的技术，并指出开发 Linux 的成本计算模式。

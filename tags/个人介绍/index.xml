@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>个人介绍 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/</link>
+    <link>http://www.opensourceway.community/tags/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/</link>
     <description>Recent content in 个人介绍 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Sat, 11 May 2019 11:01:51 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>关于适兕的简历</title>
-      <link>http://www.ocselected.org/all_about_kuosi/</link>
+      <link>http://www.opensourceway.community/all_about_kuosi/</link>
       <pubDate>Sat, 11 May 2019 11:01:51 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/all_about_kuosi/</guid>
+      <guid>http://www.opensourceway.community/all_about_kuosi/</guid>
       <description>基本信息   中文姓名：李建盛 网络标识： 适兕 GitHub: lijiangsheng1  当前所做的事情  X-lab 开放实验室首席开源导师 开源社教育工作组负责人 ”开源之道” 作者 “开源之道图书共读” 活动发起者 “开源之道企业培训” 主讲师 InfoQ 社区编辑 大学开源教程项目发起者、主笔  个人描述 简要描述一下自己的见解、性格：
  开源信徒 &amp;amp; 布道师 技术作家、译者 每日至少阅读两小时 戒烟者，亦是戒酒者 尝试对自我时间进行苛刻的管理 极真空手道修行者 Google 重度依赖者 坚持撰写博客 热爱计算机技术，感谢它改变了世界，改变了我。 自认为是一个Linux、云计算领域的窥视者  职业生涯 2016 ~ 现在 职场经历：自由职业、社区贡献、UMCloud咨询顾问、QingCloud产品经理等
 思想上的转变：开源不止于技术，更深的背后的思想、文化以及方法论，并以大无畏的精神，进行了风险极高的职业转变，身体力行。撰写博客、四处演讲、参与开源组织、企业培训等，赶上了开源的黄金时代。

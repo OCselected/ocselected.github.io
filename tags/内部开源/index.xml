@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>内部开源 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E5%86%85%E9%83%A8%E5%BC%80%E6%BA%90/</link>
+    <link>http://www.opensourceway.community/tags/%E5%86%85%E9%83%A8%E5%BC%80%E6%BA%90/</link>
     <description>Recent content in 内部开源 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Fri, 18 Aug 2017 21:22:49 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E5%86%85%E9%83%A8%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E5%86%85%E9%83%A8%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>为什么说企业应该雇佣开源项目上游贡献者</title>
-      <link>http://www.ocselected.org/posts/innersource/why_you_should_hire_upstream/</link>
+      <link>http://www.opensourceway.community/posts/innersource/why_you_should_hire_upstream/</link>
       <pubDate>Fri, 18 Aug 2017 21:22:49 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/innersource/why_you_should_hire_upstream/</guid>
+      <guid>http://www.opensourceway.community/posts/innersource/why_you_should_hire_upstream/</guid>
       <description>从企业的角度讲，让自己的团队参与到开源软件项目中是一个非常复杂的任务。之所以这么说，并非说是因为授权或者所了解的社区正在使用的技术，而是说的是一些非技术的软实力，如社交、文化等方面，会让人望而却步，假如说团队中没有参与过开源项目上游的人才的话，这将会更加的艰难。这就是本文的来由：为什么说企业应该雇佣开源项目上游贡献者。
  为什么不是让更多的员工接受培训？为他们提供充足的时间和优越的工具？  好的开发者永远是稀缺的！
  当企业去为团队招聘新人的时候，所面临的挑战就是：“当新成员加入以后，他们需要学习融入团队。” 无论这个人是从哪里来的。那么在一些开源项目社区中，核心团队的成员其实和专有软件厂商是类似的。

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>文化 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E6%96%87%E5%8C%96/</link>
+    <link>http://www.opensourceway.community/tags/%E6%96%87%E5%8C%96/</link>
     <description>Recent content in 文化 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Fri, 20 May 2016 08:36:54 -0700</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E6%96%87%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E6%96%87%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>为雷鸟寻找新的东家</title>
-      <link>http://www.ocselected.org/posts/opensource/finding_a_home_for_thunderbird/</link>
+      <link>http://www.opensourceway.community/posts/opensource/finding_a_home_for_thunderbird/</link>
       <pubDate>Fri, 20 May 2016 08:36:54 -0700</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/finding_a_home_for_thunderbird/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/finding_a_home_for_thunderbird/</guid>
       <description>Thunderbird 寻找、选择社区的分析报告 译者的话 在为 InfoQ 中国寻找新闻线索的过程中，找到了这篇文章：Mozilla 在为雷鸟寻找下一个主人 ，而我自己和雷鸟的渊源，大约要从2005年左右算起，那时是 Firefox 进军中国之前，由国内的爱好者们组成的论坛，那时候社交媒体还没有这么的多和发达，而我第一次为社区做贡献，就是那个时候在论坛里做“Linux下的雷鸟客户端”版块的版主。差不多是10年过去了！雷鸟的发展似乎渐渐的淡出了我的视野，我自己的邮件客户端基本就是Gmail的web版。Mozilla 在捐献 Thunderbird，其背后的意义我可能暂时还没有时间去探究，但是由Simon Phipps所提交的报告引发了我的兴趣。于是就将此文翻译了。
 至于我要学习的东西，可能就是文章所列出的捐献给谁的好处、坏处列举吧！
 PDF 原版 请自行下载阅读。 应 Mozilla 基金会的要求，Simon Phipps所准备的报告 2016.4.7 版本1.0

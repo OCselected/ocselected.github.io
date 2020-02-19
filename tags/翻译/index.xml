@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>翻译 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E7%BF%BB%E8%AF%91/</link>
+    <link>http://www.opensourceway.community/tags/%E7%BF%BB%E8%AF%91/</link>
     <description>Recent content in 翻译 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Fri, 20 May 2016 19:35:45 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E7%BF%BB%E8%AF%91/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E7%BF%BB%E8%AF%91/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>精心布局的开源</title>
-      <link>http://www.ocselected.org/posts/opensource/open_by_design/</link>
+      <link>http://www.opensourceway.community/posts/opensource/open_by_design/</link>
       <pubDate>Fri, 20 May 2016 19:35:45 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/open_by_design/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/open_by_design/</guid>
       <description>由开源和开放治理所带来的云计算的转变 原文链接：Open By Design，作者：Philip Estes和Doug Davis，写于2016年1月26日
 介绍 如果说软件正在慢条斯理的将这个世界吃掉的话，那么我们可以毫不夸张的说开源软件正在吞噬世界。现在的开源可不像十几年前那样——几乎无人问津，现在则到处都在谈论开源（对于入门者来说，看看讲解 Linux 丰富的历史吧），据统计，无论是社区参与、代码提交行数，还是企业参与、乃至金钱的收入，都以惊人的速度上升。举个例子，在2015年8月份举办的北美 LinuxCon 会场，Linux 基金会介绍说，仅仅是旗下的子项目就有六千四百万行代码的提交，这并没有包括 Linux 本身！这些提交来自成百上千的独立的贡献者，从学生到服务于公司的工程师，据粗略的估价，这些代码的软件是已经超过50多亿美元的项目。
 虽然目前开源已经深入人心，但是我们这里要探讨的更加的耐人寻味，因为开源已经不再仅仅是指传统意义上的将代码仓库公开访问，以及以某种开源许可证来分发。开源还意味着由开放治理和合作基金会的管理，使得来自世界各地的开发人员能够协同起来，一起解决来自围绕云计算的挑战：从基础设施服务，到平台、应用的打包，乃至日益扩展的 Web 产品的交付和运维。
@@ -36,10 +36,10 @@
     
     <item>
       <title>VAR Guy 在2008年遴选出来的 top 50开源公司，现在是什么状况？</title>
-      <link>http://www.ocselected.org/posts/opensource/where_they_are_now_top_50_open_source_company/</link>
+      <link>http://www.opensourceway.community/posts/opensource/where_they_are_now_top_50_open_source_company/</link>
       <pubDate>Mon, 16 May 2016 23:04:20 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/where_they_are_now_top_50_open_source_company/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/where_they_are_now_top_50_open_source_company/</guid>
       <description>原文链接：The VAR Guy&amp;rsquo;s Top 50 Open Source Companies: Where Are They Now?
 N.B.: 可能原网站的内容已经无法访问，不知是何缘故。或许用 Google 能找到其它的转载，请读者自行处理。
 在大约7年前，VAR Guy 发布了开源50强的报道，报道中谈及的都是当年在开源公司的先行者，这几年，开源界早已发生了翻天覆地的变化，是时候将他们拿出来再捋一捋了。看看他们现在都过得怎么样？
@@ -49,10 +49,10 @@ N.B.: 可能原网站的内容已经无法访问，不知是何缘故。或许�
     
     <item>
       <title>自由和开源软件历史上的里程碑：1969～2015</title>
-      <link>http://www.ocselected.org/posts/opensource/milestones_in_free_and_open_source_software_history/</link>
+      <link>http://www.opensourceway.community/posts/opensource/milestones_in_free_and_open_source_software_history/</link>
       <pubDate>Thu, 12 May 2016 10:39:17 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/milestones_in_free_and_open_source_software_history/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/milestones_in_free_and_open_source_software_history/</guid>
       <description>原文链接：Milestones in Free and Open Source Software History, 1969-2015
 题记 今年是 Linux 内核诞生25周年，非常有必要回顾一下Linux以及相关的开源软件的历史，VAR Guy 斗胆担当起这个责任，以自己的视角切入，回顾这段历史的里程碑：从介绍 Unix 的创建开始到微软拥抱Linux为止。
 1969年，Unix 诞生 Unix，1969年诞生于 AT&amp;amp;T 贝尔实验室的操作系统，永远也不会是自由或开源的操作系统！但是它的代码被 Unix 社区的 Hacker 们自由的共享着，在20世纪80年代早期 AT&amp;amp;T 将之商业化之前，Hacker 们一直在改进它。也因为此，Unix 成为了自由和开源程序员们试图通过开放代码来复制的操作系统。因此，Unix 为开源奠定了非常重要的基础。
@@ -63,10 +63,10 @@ N.B.: 可能原网站的内容已经无法访问，不知是何缘故。或许�
     
     <item>
       <title>为什么说你的员工应该去为开源做贡献</title>
-      <link>http://www.ocselected.org/posts/opensource/why_employees_should_be_contributing_to_open_source/</link>
+      <link>http://www.opensourceway.community/posts/opensource/why_employees_should_be_contributing_to_open_source/</link>
       <pubDate>Fri, 06 May 2016 18:33:47 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource/why_employees_should_be_contributing_to_open_source/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource/why_employees_should_be_contributing_to_open_source/</guid>
       <description>英文原文：Why Your Employees Should Be Contributing to Open Source
 译者写在前面的话 就我来说，在职业生涯中，就说服老板参与到开源社区中是非常失败的，甚至于最后均是不欢而散。那么如果当初我也能像作者一样，以平和的心态、严谨的数据、耐心的说服，结果可能会好点。年少轻狂之时，只注重自己的内心世界，认为不懂的可以通过努力去获取，而忘却了这个世界的复杂，他人是否愿意学习？他人也是有许多经历和接受了许多文化、意识形态的。改变自己可以，想要改变别人是不可能的，哪怕是影响都微乎其微。现在的我，看人要谨慎许多，在头脑充血的那一刻，尽可能的去做深呼吸。然后，再以理服人。
 相信这篇文章对于每个热爱开源，对开源充满美好憧憬的年轻人，依然还在为他人打工的有志者。说服自己的老板、或者是为开源尽一份力。是有一定用处的。

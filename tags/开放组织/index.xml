@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>开放组织 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E5%BC%80%E6%94%BE%E7%BB%84%E7%BB%87/</link>
+    <link>http://www.opensourceway.community/tags/%E5%BC%80%E6%94%BE%E7%BB%84%E7%BB%87/</link>
     <description>Recent content in 开放组织 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Fri, 07 Jun 2019 16:19:08 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%94%BE%E7%BB%84%E7%BB%87/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%94%BE%E7%BB%84%E7%BB%87/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>打造精英式开放组织：知易行难</title>
-      <link>http://www.ocselected.org/posts/the_way_of_open_source/build_a_positive_meritocracy/</link>
+      <link>http://www.opensourceway.community/posts/the_way_of_open_source/build_a_positive_meritocracy/</link>
       <pubDate>Fri, 07 Jun 2019 16:19:08 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/the_way_of_open_source/build_a_positive_meritocracy/</guid>
+      <guid>http://www.opensourceway.community/posts/the_way_of_open_source/build_a_positive_meritocracy/</guid>
       <description>引言 著名基于开源项目做商业的公司红帽，其首席执行官前几年写了一本书叫做《开放式组织》，而且由此书而延伸出一系列的实践，试图在开放源代码社区、精英式治理、自下而上的决策等等先进的管理贯彻到底，由此而引领这一全新的管理方式。那么其中精英式的管理就是其中颇为关键的部分，那么本文就给大家细致的述说一些关于该方式下的经历。
 Michale Young 在1958年创造了“Meritocracy”这个词，他可能从来没有想到过50多年之后，这个成为了难以企及的理想化的无法实现的场景。在他的《精英政治的崛起》一书中，他表达了如果英国继续采用标准化的测试来对个人做排名的话，那么英国的未来明显是堪忧的。
 在今天，Meritocracy 仍然是受人们所尊敬的，非常遗憾的是，Young 在50年前所担心的问题，今天仍然存在，甚至还多了一些额外的。

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>开源企业指南 on 开源之道</title>
-    <link>http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%BC%81%E4%B8%9A%E6%8C%87%E5%8D%97/</link>
+    <link>http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%BC%81%E4%B8%9A%E6%8C%87%E5%8D%97/</link>
     <description>Recent content in 开源企业指南 on 开源之道</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, 适兕; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
     <lastBuildDate>Tue, 22 Jan 2019 09:22:53 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ocselected.org/tags/%E5%BC%80%E6%BA%90%E4%BC%81%E4%B8%9A%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%BC%81%E4%B8%9A%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Linux基金会企业开源指南系列之十二 ———— 企业开源战略制定</title>
-      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/setting-an-open-source-strategy/</link>
+      <link>http://www.opensourceway.community/posts/opensource_enterprise_guide/setting-an-open-source-strategy/</link>
       <pubDate>Tue, 22 Jan 2019 09:22:53 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/setting-an-open-source-strategy/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_enterprise_guide/setting-an-open-source-strategy/</guid>
       <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
 引言 企业利用开源主要是要理解其价值，并对开源的诸如高效、灵活、互操作性强、快速的创新等优点有足够的认识。然而，现实的情况却远远不是这样，据最新的一项关于开源未来的调查显示，参与调查的公司有半数以上仅仅实践了基本的开源管理，如社区开发、代码维护诸如此类的，距离战略还有很长一段距离。
 创建开源战略，并将之诉诸文字，是意识到开源的投资回报率的重要的第一步。贵司的开源战略和管理、参与、创建开源软件的计划与计划所服务的业务目标联系起来，这将开启很多的机会并加速创新。
@@ -34,10 +34,10 @@
     
     <item>
       <title>Linux基金会企业开源指南系列之十一 ———— 打造开源社区领导力</title>
-      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/building-leadership-in-an-open-source-community/</link>
+      <link>http://www.opensourceway.community/posts/opensource_enterprise_guide/building-leadership-in-an-open-source-community/</link>
       <pubDate>Tue, 22 Jan 2019 09:13:45 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/building-leadership-in-an-open-source-community/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_enterprise_guide/building-leadership-in-an-open-source-community/</guid>
       <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
 打造开源社区领导力 融入到开源社区是需要花费一定时间且付出一定努力的，甚至产品的开发策略也得做一些变化。过去那些传统的、私有的开发需要秘密的进行、严格的层级管理，而开放的开放方法则需要更为开放的环境和共同的价值取向。代码贡献决定影响力和技术方向，而不是官衔、或公司的位置，这是开源项目中最大的特色。
 开源项目是在多样化和全球化的环境中所开发而成，它本身拥有属于自身的角色、约定俗成、工具、以及流程。简单地说，每个社区均拥有自己独特的文化、且花时间去建立信任和合作的方式，在开源当中理解相应的文化需要一番努力，这一点无可否认。
@@ -63,10 +63,10 @@
     
     <item>
       <title>Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目</title>
-      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/shutting-down-an-open-source-project/</link>
+      <link>http://www.opensourceway.community/posts/opensource_enterprise_guide/shutting-down-an-open-source-project/</link>
       <pubDate>Wed, 16 Jan 2019 10:48:03 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/shutting-down-an-open-source-project/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_enterprise_guide/shutting-down-an-open-source-project/</guid>
       <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
 如何优雅的关闭一个失败的开源项目 当一款开源项目对于贵司来讲已经没有意义，或者说处于各种缘由，需要将投入开源项目的资源撤离，这个时候或许作为读者的你还有些困惑，请放心，本篇指南就是专门为你遇到这样的情况所准备的，该指南为贵司和贵司的开发团队提供一些关于关闭开源项目的建议。通过优雅的关闭项目，或者是将项目转移给愿意继续负责的团队，确保贵司是以一种责任感的方式来认真对待项目的整个生命周期的。基于这样一个前提，要为项目的用户设定合理的期望，以确保其能长期项目对项目代码的依赖关系保持下去，并也可以维护贵公司作为一个参与者在这个开源项目中负责的声誉。
 本指南会帮助你决定一个项目何时不再有用、理解如何从项目撤离、确认准备进入开始一个新项目时，如何处理原有项目中的代码、仓库、网站，维基以及其他项目资产。
@@ -91,10 +91,10 @@
     
     <item>
       <title>Linux基金会企业开源指南系列之九————公司如何提升开源开发的影响力</title>
-      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/improve-open-source-dev-impact/</link>
+      <link>http://www.opensourceway.community/posts/opensource_enterprise_guide/improve-open-source-dev-impact/</link>
       <pubDate>Thu, 03 Jan 2019 09:00:10 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/improve-open-source-dev-impact/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_enterprise_guide/improve-open-source-dev-impact/</guid>
       <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
 改进贵司的开源开发影响力 开源的开发方式对于绝大多数公司所习以为常的软件工程有着非常不一样的内容，当然也不要畏惧或排斥它，凡是尽力计划就好。不过值得庆幸的是，贵司并非是拓荒者，已经有很多的公司和个人通过战略性的方式已经成功的为重要的开源项目做出了贡献。本指南将会帮助读者你和贵司来改进内部的开发流程，并会帮助贵司准备好贡献到开源项目中，尤其是对于贵司业务很重要的开源项目。众所周知，能够贡献到 Linux 内核对于开源开发者来说是最具挑战性的事情之一，所以本指南就以贡献Linux社区为例说明，这件事本身就极具代表性。当然，本指南对于其它的开源项目也具有普适性。
 什么是开源开发的影响力？ 开发者的贡献作为贵司开源项目办公室实现业务目标（贵司开源战略的支撑）的主要方式，其实有多种影响开源项目方向的办法，从在不同的环境下测试代码、为代码添加文档注释，到资金赞助项目或基金会、参与项目委员会、甚至是在其它开源项目中引入现在的开源项目等等，但是归根结底，贵司在开源项目中的影响力来自代码贡献的质量、数量和一致性，才是发挥最大影响力的因素。因此，为贵司的团队提供高质量、高效的代码工具和流程，才是符合贵司最佳利益的方式。
@@ -120,10 +120,10 @@
     
     <item>
       <title>Linux基金会企业开源指南系列之八——公司如何正确的使用开源代码</title>
-      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/using-open-source/</link>
+      <link>http://www.opensourceway.community/posts/opensource_enterprise_guide/using-open-source/</link>
       <pubDate>Mon, 26 Nov 2018 22:08:43 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/using-open-source/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_enterprise_guide/using-open-source/</guid>
       <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
 高效而正确的使用开源代码 作为开源项目办公室其中最重要的责任就是确保贵司是合法合规的集成开源代码的，无论这些代码是商业专有的，还是第三方整合的。
 作为开源项目办公室的负责人，你需要为开发者们创立相应的向导和指南，告诉他们该如何使用开源代码，更要非常细节的跟踪开源代码来自哪里、使用的何种许可证书、最终用到了哪里？等等。
@@ -150,10 +150,10 @@
     
     <item>
       <title>Linux基金会企业开源指南系列之七 ———— 如何正确的招聘开源人才</title>
-      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/recruiting-developers/</link>
+      <link>http://www.opensourceway.community/posts/opensource_enterprise_guide/recruiting-developers/</link>
       <pubDate>Fri, 23 Nov 2018 22:52:45 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/recruiting-developers/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_enterprise_guide/recruiting-developers/</guid>
       <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
 招募开源开发者 拥有丰富经验的开源开发者是稀有人才。要吸引顶级的人才，作为公司需要花些心思和技巧的，而不是常见的在流行的人力网站上或者普通的招聘就草草了事的，因为你那样做可能找不到。
 贵司的开源项目可以成为最有效的招聘利器！
@@ -175,10 +175,10 @@
     
     <item>
       <title>Linux基金会企业开源指南系列之六 ———— 开源管理工具集介绍和使用 </title>
-      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/tools-for-managing-open-source-programs/</link>
+      <link>http://www.opensourceway.community/posts/opensource_enterprise_guide/tools-for-managing-open-source-programs/</link>
       <pubDate>Wed, 14 Nov 2018 22:18:43 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/tools-for-managing-open-source-programs/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_enterprise_guide/tools-for-managing-open-source-programs/</guid>
       <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
 用于管理开源项目的工具集 采用开源的战略之路，开始于小心翼翼的规划、精心的组织、以及成立开源项目办公室，从而希望能够指导和管理开源项目的创建、分发以及使用。但是要知道，这仅仅是万里长征的第一步。欲使开源项目办公室按照预定的顺利运行，我们还需要有效的利用一些工具。这些工具在整个开源当中都起着重要的作用，它们被用来跟踪各个部门的目标、各项指标，包括工程、法律、以及行政管理、公关、市场营销等等部门，同时给予员工所有它们需要收集的资源，并提供业绩表现的记录，以及管理公司内部日常使用的开源。
 本指南提供了如何管理开源项目工具的详细介绍和场景使用，其中包括用于跟踪和管理开源项目这样最为重要工具的信息。本指南中的所提及的大多数工具来自于Linux基金会所创建，且是开源的，当然也收录了其它相关的优秀的厂商或社区的工具，它们多数是免费而容易获得的。另外，还有一些工具提供了整合式的工具，通过一个集中的仪表操作多项工具。
@@ -203,10 +203,10 @@
     
     <item>
       <title>Linux基金会企业开源指南系列之五 —— 公司如何以利益最大化的姿态参与开源社区</title>
-      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/participating-in-open-source/</link>
+      <link>http://www.opensourceway.community/posts/opensource_enterprise_guide/participating-in-open-source/</link>
       <pubDate>Tue, 30 Oct 2018 23:04:26 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/participating-in-open-source/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_enterprise_guide/participating-in-open-source/</guid>
       <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
 参与到开源社区 开源已经是构建软件的事实上的方式，这不仅体现在 IT 技术本身，而且跨多个行业。那么企业一旦使用开源代码来构建他们自身的商业产品和服务，那么就应该考虑参与到项目中去，而且要提高到战略的高度。
 那么问题来了，如果没有正确的理解项目、社区，以及开源项目是如何运转的，就开始参与开源，就可能会带来不好的影响，不仅是贵公司，甚至也会波及到社区。就开源而言，一家公司若是没有将之列为战略上的考虑，就冒然的去进军开源，可能会犯错，进而影响公司在开源社区的声誉，甚至会招来法律上的风险。
@@ -224,10 +224,10 @@
     
     <item>
       <title>Linux基金会企业开源指南系列之四 ———— 度量开源项目的成功要素 </title>
-      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/measuring_open_source_program/</link>
+      <link>http://www.opensourceway.community/posts/opensource_enterprise_guide/measuring_open_source_program/</link>
       <pubDate>Tue, 09 Oct 2018 22:53:01 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/measuring_open_source_program/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_enterprise_guide/measuring_open_source_program/</guid>
       <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
 引子 开放源代码办公室经理必须为自己所付出的努力进行投资回报率的计算。本篇指南旨在概述企业经理们评估他们开源项目、办公室、以及贡献的常见做法。
 学习如何来衡量各项指标，如何定义开源项目的成功，以及如何充分利用各种信息来改进开源项目办公室的目标，说明有效性、并获得更多的支持。
@@ -250,10 +250,10 @@ Facebook 和 Google 在开源项目展示有着非常良好的标杆效果。
     
     <item>
       <title>Linux基金会企业开源指南系列之三--一份让你彻底理解开源的读书列表</title>
-      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/open_source_reading_list/</link>
+      <link>http://www.opensourceway.community/posts/opensource_enterprise_guide/open_source_reading_list/</link>
       <pubDate>Sun, 16 Sep 2018 22:50:51 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/open_source_reading_list/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_enterprise_guide/open_source_reading_list/</guid>
       <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
 开源阅读列表 本阅读列表大名鼎鼎的 TODO Group 社区针对开源办公室相关人员所强烈推荐的图书列表。
 英文原版：New Frontiers in Open Innovation, OUP Oxford, Henry William Chesbrough 著 (2014）
@@ -268,10 +268,10 @@ Facebook 和 Google 在开源项目展示有着非常良好的标杆效果。
     
     <item>
       <title>Linux基金会企业开源指南系列之二 -- 开始创建开源项目</title>
-      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/starting_open_source_project/</link>
+      <link>http://www.opensourceway.community/posts/opensource_enterprise_guide/starting_open_source_project/</link>
       <pubDate>Thu, 06 Sep 2018 09:07:59 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/starting_open_source_project/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_enterprise_guide/starting_open_source_project/</guid>
       <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
 创建一个开源项目 一旦企业已经参与到开源社区足够长，而且也建立了一定的声誉，那么这个时候就有了创建自己的开源项目的资格了。处于此阶段的企业由于参与了开源，也已经意识到从开放的协作中可以获得的益处。那么就会考虑将专有的项目开源出来，社区也许也会用得着。另外一个常见做法是从头开始创建新的开源项目，并从一开始就受益于外部开发人员之间的协作。
 本文旨在帮助那些已经熟悉开源的企业，他们希望学习和了解更多信息，用以启动他们自己的开源项目。全文会带着读者你完成整个开源的过程：从觉得开源什么、到预算和法律的考量，等等非常细致的各个方面。读者你可能觉得创建开源项目相对比较陌生，但是要知道，Google、IBM、FaceBook、Twitter、微软等公司已经开源了很多项目了，他们早已经为我们开辟好了开源这条道路。按照本文所提供的建议和提示做，你一定不会走偏。
@@ -299,10 +299,10 @@ Facebook 和 Google 在开源项目展示有着非常良好的标杆效果。
     
     <item>
       <title>Linux基金会企业开源指南系列之一——公司如何创建开源项目办公室</title>
-      <link>http://www.ocselected.org/posts/opensource_enterprise_guide/creating-an-open-source-program/</link>
+      <link>http://www.opensourceway.community/posts/opensource_enterprise_guide/creating-an-open-source-program/</link>
       <pubDate>Sun, 19 Aug 2018 23:46:09 +0800</pubDate>
       
-      <guid>http://www.ocselected.org/posts/opensource_enterprise_guide/creating-an-open-source-program/</guid>
+      <guid>http://www.opensourceway.community/posts/opensource_enterprise_guide/creating-an-open-source-program/</guid>
       <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
 如何创建开源项目办公室 处于中心位置的开源项目办公室是在公司内部成立的一个指定的部门，用户开源的支持、培育、共享、诠释、以及增长，通过这样一个机构，企业可以明确地建立和执行开源战略，为其公司的决策层、开发人员、营销人员以及其他员工提供必要的工具，从而让开源帮助公司在运营中取得成功。
 本文的目标是帮助读者理清楚为什么、以及如何在公司的内部去建立这样的一个部门，进而去管理开源的使用，更为重要的是会告诉读者如何去让公司的开发者去参与到外部的开源项目中去。开源办公室所涉及到的类别有：角色和职责、公司结构、开源管理项目的因素、如何选择和雇佣开源项目经理等等。
