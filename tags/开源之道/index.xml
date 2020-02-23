@@ -32,6 +32,26 @@
     </item>
     
     <item>
+      <title>Google 是否正在远离开源？AWS 和云中的商业开源：错综复杂的纠缠，等开源之道一周精选2020 02 23</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-23/</link>
+      <pubDate>Tue, 18 Feb 2020 17:07:11 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-02-23/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 ![]()
+Google 是否正在远离开源？ 原文链接：Is Google cooling on open-source foundations?
+适兕点评：
+ 这是Google既Knative之后，又一次被质疑的观点，这次是因为Istio项目，美国空军警告Google半年之内不把项目控制权交给基金会，他们就撤离，并放下狠话： If you work with Google on open-source projects it controls, you&amp;rsquo;re working for Google. 是这样的吗？开源确实应该讲究个人伦理。
+ ![]()
+Oracle-Google java fight 即将开庭 原文链接：Trump&amp;rsquo;s DOJ and Sun founder McNealy back Oracle in Google&amp;rsquo;s Android-Java fight
+适兕点评：
+ 阵营已经非常的明确，Google、IBM、微软是站在一起的，Oracle如果这次胜利了，对于民主是一次重击。
+ 每位领导者都需要把握这7种张力 原文链接：Every Leader Needs to Navigate These 7 Tensions
+适兕点评：
+ 学习者、adaptor、倾听者、&amp;hellip;&amp;hellip;等等现代化管理的良好素质，均是人类经过漫长的社会淘汰，“进化”出来的文化良质，这些都没啥可说的，有一大堆管理的书籍等着人们去读，去如何克服本能！我对这篇文章最感兴趣的是举的Red Hat CEO Jim Whitehurst 的例子，oVirt 是红帽历史上最失败的产品之一。他却没有因此被怎么样，但是这个故事却总是被说。</description>
+    </item>
+    
+    <item>
       <title>开源之道文章写作风格指南</title>
       <link>http://www.opensourceway.community/posts/ttoos-style/</link>
       <pubDate>Sat, 15 Feb 2020 22:48:54 +0800</pubDate>
@@ -302,11 +322,11 @@ L: 没有，相反我非常的高兴，有那么多人受益。
       <pubDate>Tue, 07 Jan 2020 15:33:33 +0800</pubDate>
       
       <guid>http://www.opensourceway.community/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</guid>
-      <description>引言 2019年是开源的重要转折之年，开源文化中重要的斗争对象——微软，俨然180度的大转弯竟然成了企业开源的领头羊，各大云计算厂商也深谙开源，无论是AWS，还是阿里云，都将开源拿的死死的，当然还有Kubernetes这样颠覆式的技术平台和共同体的发展所展示的威力&amp;hellip;&amp;hellip;当然，也不应忘记国内的乱象。
+      <description>该文全部使用issue 跟踪处理 引言 2019年是开源的重要转折之年，开源文化中重要的斗争对象——微软，俨然180度的大转弯竟然成了企业开源的领头羊，各大云计算厂商也深谙开源，无论是AWS，还是阿里云，都将开源拿的死死的，当然还有Kubernetes这样颠覆式的技术平台和共同体的发展所展示的威力&amp;hellip;&amp;hellip;当然，也不应忘记国内的乱象。
 2019年的开源之道也是收获颇丰，企业培训、撰写教材、协助华师大开源课程、图书共读共同体建设和内容输出、Community Leadership development 小组成立、X-lab 开放实验室开源导师、OpenI/O 开发者大会分论坛出品人等，至少开源之道影响了一些人，圈内人渐渐知道了其主要作者——适兕的努力。
 2020年，开源之道会加倍努力，除了每周一篇文章、每周开源评论之外，还要外加一个关于开源共同体领导力相关的文章输出，当然这都要基于开源之道共同体的建设，只有共同体（Community）有所建树，项目、创新菜具有无限的可能性。
 加油！功不唐捐！
-具体事项 开源共同体内容： 翻译 共同体的艺术：打造归属感 Come from English :The Art of Community: Building Belonging Measuring the performance of a community manager Real open source projects take mentoring seriously []() 来自英文：红帽社区知识库 参考资料：When Metrics Go Wrong 参考资料：Balancing Makers and Takers to scale and sustain Open Source 参考资料: Twelve tips for growing communities around your open source project 参考资料： The Open Source Contributor Funnel (or: Why People Don’t Contribute To Your Open Source Project) Kubernetes 是如何做到让贡献变得更加容易上手的 参考资料：How Kubernetes is making contributing easy  原创 Community Leadership Development 是什么？做什么？ 如何感受开源共同体的力量  开源其它内容 原创 专题翻译 RedMonk 上关于开源的所有文章</description>
+具体事项 开源共同体内容： 翻译 共同体的艺术：打造归属感 Come from English :The Art of Community: Building Belonging Measuring the performance of a community manager Real open source projects take mentoring seriously []() 来自英文：红帽社区知识库 []() Come from English :Growing a Contributor Base: Speed Matters [激励新的贡献者]() Come from English :Encouraging New Contributors 参考资料：When Metrics Go Wrong 参考资料: Twelve tips for growing communities around your open source project 参考资料： The Open Source Contributor Funnel (or: Why People Don’t Contribute To Your Open Source Project) Kubernetes 是如何做到让贡献变得更加容易上手的 参考资料：How Kubernetes is making contributing easy 可持续的自由和开源社区介绍 我们需要可持续的自由和开源社区 创造者和豪夺者的平衡之道 Balancing Makers and Takers to scale and sustain Open Source 参考资料：Is DevOps compatible with part-time community teams?</description>
     </item>
     
     <item>
@@ -2117,26 +2137,6 @@ Linux操作系统是当今计算中最流行的开源操作系统，在2008年�
  Google 和索尼合作推出开源的 VFX 渲染 原文链接：Google partners with Sony Pictures Imageworks to launch an open-source VFX render manager
 适兕点评：
  Google was also a founding member of the Academy Software Foundation, an open-source foundation that focuses specifically on tools for the film industry.</description>
-    </item>
-    
-    <item>
-      <title>Linux基金会企业开源指南系列之十二 ———— 企业开源战略制定</title>
-      <link>http://www.opensourceway.community/posts/opensource_enterprise_guide/setting-an-open-source-strategy/</link>
-      <pubDate>Tue, 22 Jan 2019 09:22:53 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource_enterprise_guide/setting-an-open-source-strategy/</guid>
-      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
-引言 企业利用开源主要是要理解其价值，并对开源的诸如高效、灵活、互操作性强、快速的创新等优点有足够的认识。然而，现实的情况却远远不是这样，据最新的一项关于开源未来的调查显示，参与调查的公司有半数以上仅仅实践了基本的开源管理，如社区开发、代码维护诸如此类的，距离战略还有很长一段距离。
-创建开源战略，并将之诉诸文字，是意识到开源的投资回报率的重要的第一步。贵司的开源战略和管理、参与、创建开源软件的计划与计划所服务的业务目标联系起来，这将开启很多的机会并加速创新。
-为什么要创建业务战略？ 将贵司的开源管理纳入正式的方法论，并以战略形式来重视，是有效提高效率和减少风险的途径。无论贵司现在是否围绕开源相关制定了业务战略，但是一定明白这件事非常的重要。
-增加开源投资的关键第一步是创建战略文档。这么做可以帮助贵司最大化的从开源当中获益，同时避免因错误而导致的麻烦，例如选择了错误的许可证，亦或无法正确维护代码。战略文档应包含以下几点内容：
- 让公司的领导有意愿并积极的参与
- 获得公司内部各级的认可 促进分散的多部门组织的决策 帮助个人和发明者做出更好的决策 帮助围绕发明构建一个健康的社区 对贵司的开源方法论进行最终的解释，并支持它积极的落地 明确贵司在社区驱动的外部研发中愿意投资的地方，以及贵司将重点放在那些有增值差异化的地方   “如果你没有在开始的时候就在高层达成共识，就政策细节和流程投资达成协议往往是非常困难的，甚至是不可能的。” Ibrahim Haddad, 三星研发副总监兼开源实验室头目在其著作《企业合规性》中如是说
- 开源战略文档 让我们首先明确一下最终的目标，然后再来诠释一下如何才能够达成目标。你的目标就是将开源战略的所有细节都记录在案，所有人都可以随时随地查看，包括但不限于工程团队、法律团队、营销人员、各个管理层等等。该战略文档可以很好的帮助人们理解开源项目背后的业务对象，从而确保更佳的决策制定、最小化风险。
- “ 在 Salesforce，我们会将内部的文档分发给工程团队，围绕开源为他们提供指导并激励他们。这会鼓励大家使用开源项目，乃至创建开源项目，让工程师们清晰明白的理解拥抱开源是公司管理层的决定，并获得完全的支持，另外，如果我们不希望工程师们使用某些许可协议的代码，或者是其它类型的开源向导，我们的内部文档均会明确的进行说明。” – Ian Varley，Salesforce 软件架构师
-  退一万步讲，文档最起码应该做到：  解释贵司的开源方法论以及文档背后的目的。 贵司自身所追求的成功样子是什么？开源在其中将扮演何等角色？
- “以 Autodesk 为例，我们新的开源方法论背后的原因是让公司迁移到云计算相关，因为Autodesk 的产品聚焦于向云计算环境的转型。现实的情况就是：‘构建在云端的技术均是基于开源的，所以必须慎重思考开源战略’。” – Guy Martin，Autodesk 开放总监(Open@ADSK).
-  明确指出贵司的开发者如何使用开源代码： 如果代码从具有不同许可设置的项目进入您的某个产品，该怎么办？开发人员应遵循哪些接受、拒绝、例外的策略？贵司对开源开发整体的立场又是什么？一份好的战略文档应该明确回答这些问题。 明确指定贵司的开发者如何贡献代码到上游开源项目，且要明确哪些项目对于贵司的业务战略很重要（且鼓励开发去做积极的贡献）： 如果开发人员想要将代码从一个开源项目贡献给您正在处理的项目，但这两个项目有不同的许可证，该怎么办？开发者如何贡献方能达到一个良性的循环，即最佳的平衡？即收获和付出是称正比的。 这些考量都要纳入到战略的制定中。   “ 如果贵司的产品严重依赖于某开源项目，然而贵司在该项目并没有任何的话语权，公司也没有打算去获得领导力，那么贵司的业务就是出于严重的风险当中。” – Guy Martin,Autodesk 开放总监(Open@ADSK).</description>
     </item>
     
   </channel>
