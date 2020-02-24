@@ -503,19 +503,6 @@ L: 没有，相反我非常的高兴，有那么多人受益。
     </item>
     
     <item>
-      <title>开源之道 2020 年文章计划表</title>
-      <link>http://www.opensourceway.community/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</link>
-      <pubDate>Tue, 07 Jan 2020 15:33:33 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</guid>
-      <description>该文全部使用issue 跟踪处理 引言 2019年是开源的重要转折之年，开源文化中重要的斗争对象——微软，俨然180度的大转弯竟然成了企业开源的领头羊，各大云计算厂商也深谙开源，无论是AWS，还是阿里云，都将开源拿的死死的，当然还有Kubernetes这样颠覆式的技术平台和共同体的发展所展示的威力&amp;hellip;&amp;hellip;当然，也不应忘记国内的乱象。
-2019年的开源之道也是收获颇丰，企业培训、撰写教材、协助华师大开源课程、图书共读共同体建设和内容输出、Community Leadership development 小组成立、X-lab 开放实验室开源导师、OpenI/O 开发者大会分论坛出品人等，至少开源之道影响了一些人，圈内人渐渐知道了其主要作者——适兕的努力。
-2020年，开源之道会加倍努力，除了每周一篇文章、每周开源评论之外，还要外加一个关于开源共同体领导力相关的文章输出，当然这都要基于开源之道共同体的建设，只有共同体（Community）有所建树，项目、创新菜具有无限的可能性。
-加油！功不唐捐！
-具体事项 开源共同体内容： 翻译 共同体的艺术：打造归属感 Come from English :The Art of Community: Building Belonging Measuring the performance of a community manager Real open source projects take mentoring seriously []() 来自英文：红帽社区知识库 []() Come from English :Growing a Contributor Base: Speed Matters [激励新的贡献者]() Come from English :Encouraging New Contributors 参考资料：When Metrics Go Wrong 参考资料: Twelve tips for growing communities around your open source project 参考资料： The Open Source Contributor Funnel (or: Why People Don’t Contribute To Your Open Source Project) Kubernetes 是如何做到让贡献变得更加容易上手的 参考资料：How Kubernetes is making contributing easy 可持续的自由和开源社区介绍 我们需要可持续的自由和开源社区 创造者和豪夺者的平衡之道 Balancing Makers and Takers to scale and sustain Open Source 参考资料：Is DevOps compatible with part-time community teams?</description>
-    </item>
-    
-    <item>
       <title>从开源软件的代码中淘金、2019 开源技术的7个改变世界的时刻、等开源之道一周精选(2020 01 05)</title>
       <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-01-05/</link>
       <pubDate>Sun, 29 Dec 2019 12:37:17 +0800</pubDate>
@@ -2156,6 +2143,34 @@ Apache 项目在很多领域里都是成功的，这要归功于我们所遵守�
  品牌与营销：当今数字市场的创新解决方案 原文链接：Branding vs Marketing: Innovative Solutions In Today&amp;rsquo;s Digital Marketplace
 适兕点评：
  “why did I set up this brand?” “What is my purpose with my product(s) for the long term?</description>
+    </item>
+    
+    <item>
+      <title>开源之道共读图书列表（2020版）</title>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/2020_book_lists/</link>
+      <pubDate>Fri, 15 Mar 2019 13:40:02 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/2020_book_lists/</guid>
+      <description>那些对自身所处环境缺乏知识和理解的人，通常其思想自由也会受到限制，进而就会在他们的行为选择方面产生影响。有限的知识限制了自由的思想。
+​ ———— Joel Charon 《Ten Questions： A Sociological Perspective》
+ 共读之规则 本文列举的是2020年所精心选择的开源相关图书，以及如下规则：
+1. 读者可以根据自己的兴趣、问题求解、思考来选择开源相关图书 2. 读者可以自行组织共读小组（可选：撰写读后感或短评） 3. 开源之道图书共读发起人适兕会按照自己的路径进行阅读和撰写读后感，读者可自由选择是否follow 4. 读者根据自身情况组织线下交流活动，并决定是否记录当时的讨论 关于共读的初衷，以及参与方式，请看官移步：开源之道图书和文献共读申明，有更多详细的内容。
+2020 主题一：开放式组织  2020，毫无疑问仍将是开源之年，开源在协作、工程、管理、创新、经济效益方面仍将保持增长，这个季度我们不妨放开月度一本的规划，一个季度读6本小书，试试效果如何。开放式组织小书系列，
+ 英文版：The Open Organization Field Guide
+此书直译为中文是：《开放组织领域指南》，是社区根据Jim Whitehurst 关于未来的工作、管理和领导力的构思加工而成。该书收集了一些非常先进的理念，有关开源之道的价值如何改变我们的工作、管理和领导力。
+英文版：The Open Organization Leaders Manual
+此书直译为中文是： 《开放组织领导者参考》，是任何想要利用开放的力量的参考手册，让自己的团队更加的透明、灵活、而且良好的协作，能够达到自下而上的任务驱动。
+开源之道推荐短评：
+ 开放式组织适合于几乎所有的行业和公司，不过也需要对应的学习。
+ 更多内容，请参考完整版开源之道共读导读与书评：[]()
+英文版：The Open Organization Guide to IT Culture Change
+此书直译为中文是：《转变为开放组织的文化变更指南》，顾名思义，即关于文化的变更，该书的贡献者有超过25名来自开源社区、公司企业，该书提供了这些资深人士的切身经验和实用建议，为创造一个开放的IT部分提供良好的、能够快速得到好的结果的、无与伦比的业务价值。
+英文版：The Open Organization Workbook
+此书直译为中文是：《开放组织工作手记》，该书的编写汇集了30多位专家的真知灼见，他们的角色有企业管理者、教育工作者、技术大拿、咨询师、等等。该书提供了将透明度，包容性，适应性，协作和社区原则付诸实践的具体和可行的战略。
+开源之道推荐短评：
+ 请相信我，开源的文化是可以习得的，而且有方法。
+ 更多内容，请参考完整版开源之道共读导读与书评：[]()
+英文版：The Open Organization Guide for Educators</description>
     </item>
     
   </channel>

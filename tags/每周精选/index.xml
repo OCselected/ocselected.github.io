@@ -250,19 +250,6 @@ over-the-air 编程 原文链接：Over-the-air programming
     </item>
     
     <item>
-      <title>开源之道 2020 年文章计划表</title>
-      <link>http://www.opensourceway.community/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</link>
-      <pubDate>Tue, 07 Jan 2020 15:33:33 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</guid>
-      <description>该文全部使用issue 跟踪处理 引言 2019年是开源的重要转折之年，开源文化中重要的斗争对象——微软，俨然180度的大转弯竟然成了企业开源的领头羊，各大云计算厂商也深谙开源，无论是AWS，还是阿里云，都将开源拿的死死的，当然还有Kubernetes这样颠覆式的技术平台和共同体的发展所展示的威力&amp;hellip;&amp;hellip;当然，也不应忘记国内的乱象。
-2019年的开源之道也是收获颇丰，企业培训、撰写教材、协助华师大开源课程、图书共读共同体建设和内容输出、Community Leadership development 小组成立、X-lab 开放实验室开源导师、OpenI/O 开发者大会分论坛出品人等，至少开源之道影响了一些人，圈内人渐渐知道了其主要作者——适兕的努力。
-2020年，开源之道会加倍努力，除了每周一篇文章、每周开源评论之外，还要外加一个关于开源共同体领导力相关的文章输出，当然这都要基于开源之道共同体的建设，只有共同体（Community）有所建树，项目、创新菜具有无限的可能性。
-加油！功不唐捐！
-具体事项 开源共同体内容： 翻译 共同体的艺术：打造归属感 Come from English :The Art of Community: Building Belonging Measuring the performance of a community manager Real open source projects take mentoring seriously []() 来自英文：红帽社区知识库 []() Come from English :Growing a Contributor Base: Speed Matters [激励新的贡献者]() Come from English :Encouraging New Contributors 参考资料：When Metrics Go Wrong 参考资料: Twelve tips for growing communities around your open source project 参考资料： The Open Source Contributor Funnel (or: Why People Don’t Contribute To Your Open Source Project) Kubernetes 是如何做到让贡献变得更加容易上手的 参考资料：How Kubernetes is making contributing easy 可持续的自由和开源社区介绍 我们需要可持续的自由和开源社区 创造者和豪夺者的平衡之道 Balancing Makers and Takers to scale and sustain Open Source 参考资料：Is DevOps compatible with part-time community teams?</description>
-    </item>
-    
-    <item>
       <title>从开源软件的代码中淘金、2019 开源技术的7个改变世界的时刻、等开源之道一周精选(2020 01 05)</title>
       <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-01-05/</link>
       <pubDate>Sun, 29 Dec 2019 12:37:17 +0800</pubDate>
@@ -2021,6 +2008,18 @@ Kubernetes 已经在发展的迅猛方面超越了历史上所有的开源项目
  红帽25年，接下来的规划是？ 原文链接：A (Belated) Happy 25th to Red Hat: So, What Does the Future Hold?
 适兕点评：
  这是对现任CEO的一个采访，What makes Red Hat different is our offerings; we have free version of everything we do。</description>
+    </item>
+    
+    <item>
+      <title>开源之道两周精选(2018 04 14)</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-04-14/</link>
+      <pubDate>Sat, 14 Apr 2018 15:08:35 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-04-14/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 领导力才是开源商业模式的秘密武器 原文链接：Leadership Is The Secret To An Open Source Business Model
+适兕点评：
+ leadership is the magic that creates markets where they did not exist and aligns paying customers with value that you can deliver in a profitable manner. Leadership and vision are ultimately the most proprietary aspects of a technology business, over every patentable piece of hardware or licensable piece of software. Whether you create a new market or bring efficiency to an existing one, your leadership is your secret weapon &amp;ndash; not your level of control.</description>
     </item>
     
   </channel>
