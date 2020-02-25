@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 21 Feb 2020 16:38:02 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 16:16:01 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>【编程之夏】GSoC申请全攻略：14位入选者访谈、近10所大学讲座综合整理</title>
+      <link>http://www.opensourceway.community/posts/gsoc/how-to-ask-for-gsoc-2020/</link>
+      <pubDate>Tue, 25 Feb 2020 16:16:01 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/gsoc/how-to-ask-for-gsoc-2020/</guid>
+      <description>前言 文章中的观点与实例均建立在以下两类数据基础之上。
+ 2018 年 10 月至 2019 年 2 月，自媒体所发布的 14 位 GSoC 入选者访谈。 2018 年，自媒体成员从中国近 10 所大学举办的国际开源实习讲座中所获取的学生反馈  我们对这些参与访谈的同学，以及为我们提供讲座机会的中国大学老师们表示衷心地感谢！
+*注：文中所列举的开源社区均为 GSoC 2019 入选组织*。
+正本清源，GSoC 是怎样一种编程活动 知己知彼，百战不殆。大家申请 GSoC，首先要清楚 GSoC 的特点。
+在这项大赛中，尽管 Google 定义了 GSoC 的运作框架并提供了所有的资金支持，但具体的实施则全部交由开源社区完成。
+ 例 1，Google 虽然规定了项目申请的形式，即提交申请书「proposal」，但申请书的审核、筛选，甚至包括项目最后是否通过，则完全由开源社区负责。 例 2，Google 虽然为 GSoC 提供全部的资金支持，但 GSoC 中所有的项目题目，都是由开源社区自行制定。  这种由开源社区驱动的运作模式，导致 GSoC 没有一个严格统一的审核标准与难度级别。这并非缺点，恰恰相反，我们认为这是 GSoC 最有魅力之处。因为这本来就是现实世界的模样。
+ GSoC 的这种模式并非毫无破绽。我们的一位受访者就曾表示这种模式导致了 mentor 拥有过大的权力。但这不是我们今天讨论的重点。
+ 一、没有统一的审核标准 要求上千名来自不同国家、不同年龄、不同背景的 mentor 以统一的标准审核学生是不现实的。尽管 Google 推出了 mentor guide，但也只是一个建议，且很难保证所有人都有相同的理解。
+此外，一些开源社区除了申请书外还有附加申请要求，如完成一个指定小项目「如ns-3社区」，阅读相关参考文献「如Framenet」，回答指定问题「如TensorFlow」等等。
+在 GSoC 2016 中，年龄最大 mentor 为 78 岁，最小的只有 14 岁，相差达半个多世纪！</description>
+    </item>
     
     <item>
       <title>生物界的innersource故事：生物圈二号实验【摘自《知识大融通》】</title>
@@ -152,9 +170,9 @@ Oracle-Google java fight 即将开庭 原文链接：Trump&amp;rsquo;s DOJ and S
 开发者 开源之道目前所使用到的技术栈：Markdown + hugo + GitHub page + Travis-CI
 你我都知道，开发者的特点：无限！ 作为发起者，我对开发者是持敬畏态度的，因为他们总是能够带给我惊奇，让他们充分的施展自己的想象力，这是我唯一能做的事情。
  看 issue 前端有点丑陋[🤦‍♂️]  翻译或撰写文章 请点击右上角的fork按钮，将本项目fork到自己的账户下，如果不知道fork,请阅读GitHub相关文档，或到 communication.md slack 寻求帮助。
-模板介绍 开源之道根据文章的分类而做了几个不同的模板，均放在目录：../archetypes 下：
- business_model.md ：关于开源和商业模式方面的介绍 enterprise_guide.md：企业如果搞开源。 opensource_culture.md：开源文化，开源之道重点攻关突破。 opensource_technology.md：关于开放源代码技术的，尽量采用抽象程度高的语言来讲述，避免技术细节。 supply_chain.md： 软件供应链也是开源之道非常愿意关注的内容。 community_management.md：开源共同体方面的内容，领导力、亲和力等。 foundation_introduce.md： 开源非营利基金会介绍 opensource_economic.md：开源经济学 paper_reading.md： 学术论文阅读 ttoos.md： 如果你不知道分类，使用这个模板就好。 default.md： 废弃不用，你想删除它也没有问题。 opensource_com.md：翻译来自opensource.com站点上的文章， opensource_hero.md： 那些个为开源做出过重大或突破性贡献的人，当然风格尽量保持在民主的基础上。 weekly_template.md： 开源之道每周评论模板。 osw_podcast.md：开源之道Talking Podcast 节目的模板 redmonk.md: 与晨兴资本副总裁一起翻译来自 RedMonk 合伙人 Stephen 先生的文章。  根据模板创建文件 在终端下执行命令：
-hugo -k 模板名 new posts/文件路径  例如，开源之道每周评论使用的模板名称：weekly_template ，路径是 OpenSource/daily_reading/2020/开源之道一周精选\ , 要创建的文件名为：\(2019-02-02\).</description>
+以下两篇文章非常的有帮助：
+ 开源之道文章写作风格指南 开源之道需要你的帮助  模板介绍 开源之道根据文章的分类而做了几个不同的模板，均放在目录：../archetypes 下：
+ business_model.md ：关于开源和商业模式方面的介绍 enterprise_guide.md：企业如果搞开源。 opensource_culture.md：开源文化，开源之道重点攻关突破。 opensource_technology.md：关于开放源代码技术的，尽量采用抽象程度高的语言来讲述，避免技术细节。 supply_chain.md： 软件供应链也是开源之道非常愿意关注的内容。 community_management.md：开源共同体方面的内容，领导力、亲和力等。 foundation_introduce.md： 开源非营利基金会介绍 opensource_economic.md：开源经济学 paper_reading.md： 学术论文阅读 ttoos.md： 如果你不知道分类，使用这个模板就好。 default.md： 废弃不用，你想删除它也没有问题。 opensource_com.md：翻译来自opensource.com站点上的文章， opensource_hero.md： 那些个为开源做出过重大或突破性贡献的人，当然风格尽量保持在民主的基础上。 weekly_template.md： 开源之道每周评论模板。 osw_podcast.md：开源之道Talking Podcast 节目的模板 redmonk.md: 与晨兴资本副总裁一起翻译来自 RedMonk 合伙人 Stephen 先生的文章。 gsoc.md : 编程之夏公众号同步发表，专栏。  根据模板创建文件 在终端下执行命令：</description>
     </item>
     
     <item>
@@ -2124,26 +2142,6 @@ Linux操作系统是当今计算中最流行的开源操作系统，在2008年�
  Google 和索尼合作推出开源的 VFX 渲染 原文链接：Google partners with Sony Pictures Imageworks to launch an open-source VFX render manager
 适兕点评：
  Google was also a founding member of the Academy Software Foundation, an open-source foundation that focuses specifically on tools for the film industry.</description>
-    </item>
-    
-    <item>
-      <title>Linux基金会企业开源指南系列之十二 ———— 企业开源战略制定</title>
-      <link>http://www.opensourceway.community/posts/opensource_enterprise_guide/setting-an-open-source-strategy/</link>
-      <pubDate>Tue, 22 Jan 2019 09:22:53 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource_enterprise_guide/setting-an-open-source-strategy/</guid>
-      <description>特别声明 本文拥有创作共用授权之相同方式共享授权4.0版国际许可协议（Creative Commons Attribution ShareAlike 4.0 International License）授权许可。 开源之道独立精心翻译分享，欢迎同道中人商讨。
-引言 企业利用开源主要是要理解其价值，并对开源的诸如高效、灵活、互操作性强、快速的创新等优点有足够的认识。然而，现实的情况却远远不是这样，据最新的一项关于开源未来的调查显示，参与调查的公司有半数以上仅仅实践了基本的开源管理，如社区开发、代码维护诸如此类的，距离战略还有很长一段距离。
-创建开源战略，并将之诉诸文字，是意识到开源的投资回报率的重要的第一步。贵司的开源战略和管理、参与、创建开源软件的计划与计划所服务的业务目标联系起来，这将开启很多的机会并加速创新。
-为什么要创建业务战略？ 将贵司的开源管理纳入正式的方法论，并以战略形式来重视，是有效提高效率和减少风险的途径。无论贵司现在是否围绕开源相关制定了业务战略，但是一定明白这件事非常的重要。
-增加开源投资的关键第一步是创建战略文档。这么做可以帮助贵司最大化的从开源当中获益，同时避免因错误而导致的麻烦，例如选择了错误的许可证，亦或无法正确维护代码。战略文档应包含以下几点内容：
- 让公司的领导有意愿并积极的参与
- 获得公司内部各级的认可 促进分散的多部门组织的决策 帮助个人和发明者做出更好的决策 帮助围绕发明构建一个健康的社区 对贵司的开源方法论进行最终的解释，并支持它积极的落地 明确贵司在社区驱动的外部研发中愿意投资的地方，以及贵司将重点放在那些有增值差异化的地方   “如果你没有在开始的时候就在高层达成共识，就政策细节和流程投资达成协议往往是非常困难的，甚至是不可能的。” Ibrahim Haddad, 三星研发副总监兼开源实验室头目在其著作《企业合规性》中如是说
- 开源战略文档 让我们首先明确一下最终的目标，然后再来诠释一下如何才能够达成目标。你的目标就是将开源战略的所有细节都记录在案，所有人都可以随时随地查看，包括但不限于工程团队、法律团队、营销人员、各个管理层等等。该战略文档可以很好的帮助人们理解开源项目背后的业务对象，从而确保更佳的决策制定、最小化风险。
- “ 在 Salesforce，我们会将内部的文档分发给工程团队，围绕开源为他们提供指导并激励他们。这会鼓励大家使用开源项目，乃至创建开源项目，让工程师们清晰明白的理解拥抱开源是公司管理层的决定，并获得完全的支持，另外，如果我们不希望工程师们使用某些许可协议的代码，或者是其它类型的开源向导，我们的内部文档均会明确的进行说明。” – Ian Varley，Salesforce 软件架构师
-  退一万步讲，文档最起码应该做到：  解释贵司的开源方法论以及文档背后的目的。 贵司自身所追求的成功样子是什么？开源在其中将扮演何等角色？
- “以 Autodesk 为例，我们新的开源方法论背后的原因是让公司迁移到云计算相关，因为Autodesk 的产品聚焦于向云计算环境的转型。现实的情况就是：‘构建在云端的技术均是基于开源的，所以必须慎重思考开源战略’。” – Guy Martin，Autodesk 开放总监(Open@ADSK).
-  明确指出贵司的开发者如何使用开源代码： 如果代码从具有不同许可设置的项目进入您的某个产品，该怎么办？开发人员应遵循哪些接受、拒绝、例外的策略？贵司对开源开发整体的立场又是什么？一份好的战略文档应该明确回答这些问题。 明确指定贵司的开发者如何贡献代码到上游开源项目，且要明确哪些项目对于贵司的业务战略很重要（且鼓励开发去做积极的贡献）： 如果开发人员想要将代码从一个开源项目贡献给您正在处理的项目，但这两个项目有不同的许可证，该怎么办？开发者如何贡献方能达到一个良性的循环，即最佳的平衡？即收获和付出是称正比的。 这些考量都要纳入到战略的制定中。   “ 如果贵司的产品严重依赖于某开源项目，然而贵司在该项目并没有任何的话语权，公司也没有打算去获得领导力，那么贵司的业务就是出于严重的风险当中。” – Guy Martin,Autodesk 开放总监(Open@ADSK).</description>
     </item>
     
   </channel>

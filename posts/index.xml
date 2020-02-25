@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 22 Feb 2020 11:42:24 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 16:16:01 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>【编程之夏】GSoC申请全攻略：14位入选者访谈、近10所大学讲座综合整理</title>
+      <link>http://www.opensourceway.community/posts/gsoc/how-to-ask-for-gsoc-2020/</link>
+      <pubDate>Tue, 25 Feb 2020 16:16:01 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/gsoc/how-to-ask-for-gsoc-2020/</guid>
+      <description>前言 文章中的观点与实例均建立在以下两类数据基础之上。
+ 2018 年 10 月至 2019 年 2 月，自媒体所发布的 14 位 GSoC 入选者访谈。 2018 年，自媒体成员从中国近 10 所大学举办的国际开源实习讲座中所获取的学生反馈  我们对这些参与访谈的同学，以及为我们提供讲座机会的中国大学老师们表示衷心地感谢！
+*注：文中所列举的开源社区均为 GSoC 2019 入选组织*。
+正本清源，GSoC 是怎样一种编程活动 知己知彼，百战不殆。大家申请 GSoC，首先要清楚 GSoC 的特点。
+在这项大赛中，尽管 Google 定义了 GSoC 的运作框架并提供了所有的资金支持，但具体的实施则全部交由开源社区完成。
+ 例 1，Google 虽然规定了项目申请的形式，即提交申请书「proposal」，但申请书的审核、筛选，甚至包括项目最后是否通过，则完全由开源社区负责。 例 2，Google 虽然为 GSoC 提供全部的资金支持，但 GSoC 中所有的项目题目，都是由开源社区自行制定。  这种由开源社区驱动的运作模式，导致 GSoC 没有一个严格统一的审核标准与难度级别。这并非缺点，恰恰相反，我们认为这是 GSoC 最有魅力之处。因为这本来就是现实世界的模样。
+ GSoC 的这种模式并非毫无破绽。我们的一位受访者就曾表示这种模式导致了 mentor 拥有过大的权力。但这不是我们今天讨论的重点。
+ 一、没有统一的审核标准 要求上千名来自不同国家、不同年龄、不同背景的 mentor 以统一的标准审核学生是不现实的。尽管 Google 推出了 mentor guide，但也只是一个建议，且很难保证所有人都有相同的理解。
+此外，一些开源社区除了申请书外还有附加申请要求，如完成一个指定小项目「如ns-3社区」，阅读相关参考文献「如Framenet」，回答指定问题「如TensorFlow」等等。
+在 GSoC 2016 中，年龄最大 mentor 为 78 岁，最小的只有 14 岁，相差达半个多世纪！</description>
+    </item>
     
     <item>
       <title>【Redmonk专栏】真正的 Serverless 革命</title>
@@ -2143,34 +2161,6 @@ Apache 项目在很多领域里都是成功的，这要归功于我们所遵守�
  品牌与营销：当今数字市场的创新解决方案 原文链接：Branding vs Marketing: Innovative Solutions In Today&amp;rsquo;s Digital Marketplace
 适兕点评：
  “why did I set up this brand?” “What is my purpose with my product(s) for the long term?</description>
-    </item>
-    
-    <item>
-      <title>开源之道共读图书列表（2020版）</title>
-      <link>http://www.opensourceway.community/posts/paper_or_book_reading/2020_book_lists/</link>
-      <pubDate>Fri, 15 Mar 2019 13:40:02 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/2020_book_lists/</guid>
-      <description>那些对自身所处环境缺乏知识和理解的人，通常其思想自由也会受到限制，进而就会在他们的行为选择方面产生影响。有限的知识限制了自由的思想。
-​ ———— Joel Charon 《Ten Questions： A Sociological Perspective》
- 共读之规则 本文列举的是2020年所精心选择的开源相关图书，以及如下规则：
-1. 读者可以根据自己的兴趣、问题求解、思考来选择开源相关图书 2. 读者可以自行组织共读小组（可选：撰写读后感或短评） 3. 开源之道图书共读发起人适兕会按照自己的路径进行阅读和撰写读后感，读者可自由选择是否follow 4. 读者根据自身情况组织线下交流活动，并决定是否记录当时的讨论 关于共读的初衷，以及参与方式，请看官移步：开源之道图书和文献共读申明，有更多详细的内容。
-2020 主题一：开放式组织  2020，毫无疑问仍将是开源之年，开源在协作、工程、管理、创新、经济效益方面仍将保持增长，这个季度我们不妨放开月度一本的规划，一个季度读6本小书，试试效果如何。开放式组织小书系列，
- 英文版：The Open Organization Field Guide
-此书直译为中文是：《开放组织领域指南》，是社区根据Jim Whitehurst 关于未来的工作、管理和领导力的构思加工而成。该书收集了一些非常先进的理念，有关开源之道的价值如何改变我们的工作、管理和领导力。
-英文版：The Open Organization Leaders Manual
-此书直译为中文是： 《开放组织领导者参考》，是任何想要利用开放的力量的参考手册，让自己的团队更加的透明、灵活、而且良好的协作，能够达到自下而上的任务驱动。
-开源之道推荐短评：
- 开放式组织适合于几乎所有的行业和公司，不过也需要对应的学习。
- 更多内容，请参考完整版开源之道共读导读与书评：[]()
-英文版：The Open Organization Guide to IT Culture Change
-此书直译为中文是：《转变为开放组织的文化变更指南》，顾名思义，即关于文化的变更，该书的贡献者有超过25名来自开源社区、公司企业，该书提供了这些资深人士的切身经验和实用建议，为创造一个开放的IT部分提供良好的、能够快速得到好的结果的、无与伦比的业务价值。
-英文版：The Open Organization Workbook
-此书直译为中文是：《开放组织工作手记》，该书的编写汇集了30多位专家的真知灼见，他们的角色有企业管理者、教育工作者、技术大拿、咨询师、等等。该书提供了将透明度，包容性，适应性，协作和社区原则付诸实践的具体和可行的战略。
-开源之道推荐短评：
- 请相信我，开源的文化是可以习得的，而且有方法。
- 更多内容，请参考完整版开源之道共读导读与书评：[]()
-英文版：The Open Organization Guide for Educators</description>
     </item>
     
   </channel>

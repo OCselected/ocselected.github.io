@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 22 Feb 2020 11:42:24 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 16:16:01 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>【编程之夏】GSoC申请全攻略：14位入选者访谈、近10所大学讲座综合整理</title>
+      <link>http://www.opensourceway.community/posts/gsoc/how-to-ask-for-gsoc-2020/</link>
+      <pubDate>Tue, 25 Feb 2020 16:16:01 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/gsoc/how-to-ask-for-gsoc-2020/</guid>
+      <description>前言 文章中的观点与实例均建立在以下两类数据基础之上。
+ 2018 年 10 月至 2019 年 2 月，自媒体所发布的 14 位 GSoC 入选者访谈。 2018 年，自媒体成员从中国近 10 所大学举办的国际开源实习讲座中所获取的学生反馈  我们对这些参与访谈的同学，以及为我们提供讲座机会的中国大学老师们表示衷心地感谢！
+*注：文中所列举的开源社区均为 GSoC 2019 入选组织*。
+正本清源，GSoC 是怎样一种编程活动 知己知彼，百战不殆。大家申请 GSoC，首先要清楚 GSoC 的特点。
+在这项大赛中，尽管 Google 定义了 GSoC 的运作框架并提供了所有的资金支持，但具体的实施则全部交由开源社区完成。
+ 例 1，Google 虽然规定了项目申请的形式，即提交申请书「proposal」，但申请书的审核、筛选，甚至包括项目最后是否通过，则完全由开源社区负责。 例 2，Google 虽然为 GSoC 提供全部的资金支持，但 GSoC 中所有的项目题目，都是由开源社区自行制定。  这种由开源社区驱动的运作模式，导致 GSoC 没有一个严格统一的审核标准与难度级别。这并非缺点，恰恰相反，我们认为这是 GSoC 最有魅力之处。因为这本来就是现实世界的模样。
+ GSoC 的这种模式并非毫无破绽。我们的一位受访者就曾表示这种模式导致了 mentor 拥有过大的权力。但这不是我们今天讨论的重点。
+ 一、没有统一的审核标准 要求上千名来自不同国家、不同年龄、不同背景的 mentor 以统一的标准审核学生是不现实的。尽管 Google 推出了 mentor guide，但也只是一个建议，且很难保证所有人都有相同的理解。
+此外，一些开源社区除了申请书外还有附加申请要求，如完成一个指定小项目「如ns-3社区」，阅读相关参考文献「如Framenet」，回答指定问题「如TensorFlow」等等。
+在 GSoC 2016 中，年龄最大 mentor 为 78 岁，最小的只有 14 岁，相差达半个多世纪！</description>
+    </item>
     
     <item>
       <title>【Redmonk专栏】真正的 Serverless 革命</title>
