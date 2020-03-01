@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 21 Feb 2020 16:38:02 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 10:44:20 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源许可证：复盘2019；文化的争夺才是开源的切肤之痛；等开源之道一周精选2020 03 01</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-01/</link>
+      <pubDate>Wed, 26 Feb 2020 10:44:20 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-01/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 文化的争夺才是开源的切肤之痛 原文链接：The culture war at the heart of open source
+适兕点评：
+ 喜欢历史的人，（无论哪个角度的历史）都会明白一个道理，文明的进程总是曲折的，总是伴随着各种力量的妥协、糅合，仿佛一次次的化学实验，而调节其中的危险因素往往是人性、情感。伤害总是有的，如果伤害的对象是具体的，和自己有亲密关系的，那么往往都会妥协，如果伤害的是人们制造的怪物，那么往往就会产生严重的问题。从自由软件运动，到开源软件运动，再到基金会的黄金时代，接下来还有什么？降低壁垒才是本质，创新才能让世界进步。
+ OSCAFEST2020 都呈现了什么 原文链接：In case you missed OSCAFEST2020
+适兕点评：
+ 当我看到这篇文章的时候，仿若是我在大学时代的兴奋，感觉呼吸到了自由的空气，我一辈子也忘不了的感觉！这也是我愿意奋斗的根本理由。这篇Karen Efereyan 的新作，我绝得非洲非常的有希望，文化上的转变，物质仅仅是基础，在这点上中国已经输了，给多少钱都无法抵抗熵增，创新是需要文化来塑造有序。祝福非洲！开源落地开花。
+ 仇外心理的进化根源 原文链接：Xenophobia&amp;rsquo;s Evolutionary Roots
+适兕点评：
+ 这是从阅读《硅谷生态圈》中一篇衍生阅读，从生物学上来理解开源，其实蛮有意思的，当然，主要是人们经常使用“开源生态”这个词汇。开源之道会慢慢探究这个词汇的准确涵义。这里我想说的是和一些本土的开源圈的人交流，总是和我聊的时候说他们公司开源怎么怎么，说一些我听不懂的话，大概的意思就是很难，我很无奈，我虽然热爱开源，但是没有任何办法之类的。内外部的界线划得非常明确，都忘了开源的初心了，就是打破壁垒，增加交流。其实完全可以将自己的身份置换掉，开源自称体系，这种归属感没有，则永远是开源的门外汉。
+ FaceBook 如何改变计算的世界 原文链接：How Facebook Has Changed Computing
+适兕点评：
+ FaceBook 改变了社交的方式，同样也改变了计算的世界，通过开源之道来完成：GraphQL、 Cassandra、PyTorch、Open Compute Project、 React &amp;hellip;&amp;hellip;以及不计其数的上游贡献，好吧，和FaceBook，甚至比FaceBook有钱的中国公司能拿出这个成绩吗？当然我们不应该苛求，因为这个世界不止开源一种方式做贡献，还可以通过割韭菜的方式，制造出无数的僵尸和奴隶。
+ Deviceplane 意图将 over-the-air 的升级方式带入基于linux 的边缘设备 原文链接：Deviceplane wants to bring over-the-air updates to Linux edge devices</description>
+    </item>
     
     <item>
       <title>生物界的innersource故事：生物圈二号实验【摘自《知识大融通》】</title>
@@ -2008,18 +2030,6 @@ Kubernetes 已经在发展的迅猛方面超越了历史上所有的开源项目
  红帽25年，接下来的规划是？ 原文链接：A (Belated) Happy 25th to Red Hat: So, What Does the Future Hold?
 适兕点评：
  这是对现任CEO的一个采访，What makes Red Hat different is our offerings; we have free version of everything we do。</description>
-    </item>
-    
-    <item>
-      <title>开源之道两周精选(2018 04 14)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-04-14/</link>
-      <pubDate>Sat, 14 Apr 2018 15:08:35 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-04-14/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 领导力才是开源商业模式的秘密武器 原文链接：Leadership Is The Secret To An Open Source Business Model
-适兕点评：
- leadership is the magic that creates markets where they did not exist and aligns paying customers with value that you can deliver in a profitable manner. Leadership and vision are ultimately the most proprietary aspects of a technology business, over every patentable piece of hardware or licensable piece of software. Whether you create a new market or bring efficiency to an existing one, your leadership is your secret weapon &amp;ndash; not your level of control.</description>
     </item>
     
   </channel>

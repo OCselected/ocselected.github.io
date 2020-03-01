@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 25 Feb 2020 16:16:01 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 10:44:20 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源许可证：复盘2019；文化的争夺才是开源的切肤之痛；等开源之道一周精选2020 03 01</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-01/</link>
+      <pubDate>Wed, 26 Feb 2020 10:44:20 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-01/</guid>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！
+文章点评 文化的争夺才是开源的切肤之痛 原文链接：The culture war at the heart of open source
+适兕点评：
+ 喜欢历史的人，（无论哪个角度的历史）都会明白一个道理，文明的进程总是曲折的，总是伴随着各种力量的妥协、糅合，仿佛一次次的化学实验，而调节其中的危险因素往往是人性、情感。伤害总是有的，如果伤害的对象是具体的，和自己有亲密关系的，那么往往都会妥协，如果伤害的是人们制造的怪物，那么往往就会产生严重的问题。从自由软件运动，到开源软件运动，再到基金会的黄金时代，接下来还有什么？降低壁垒才是本质，创新才能让世界进步。
+ OSCAFEST2020 都呈现了什么 原文链接：In case you missed OSCAFEST2020
+适兕点评：
+ 当我看到这篇文章的时候，仿若是我在大学时代的兴奋，感觉呼吸到了自由的空气，我一辈子也忘不了的感觉！这也是我愿意奋斗的根本理由。这篇Karen Efereyan 的新作，我绝得非洲非常的有希望，文化上的转变，物质仅仅是基础，在这点上中国已经输了，给多少钱都无法抵抗熵增，创新是需要文化来塑造有序。祝福非洲！开源落地开花。
+ 仇外心理的进化根源 原文链接：Xenophobia&amp;rsquo;s Evolutionary Roots
+适兕点评：
+ 这是从阅读《硅谷生态圈》中一篇衍生阅读，从生物学上来理解开源，其实蛮有意思的，当然，主要是人们经常使用“开源生态”这个词汇。开源之道会慢慢探究这个词汇的准确涵义。这里我想说的是和一些本土的开源圈的人交流，总是和我聊的时候说他们公司开源怎么怎么，说一些我听不懂的话，大概的意思就是很难，我很无奈，我虽然热爱开源，但是没有任何办法之类的。内外部的界线划得非常明确，都忘了开源的初心了，就是打破壁垒，增加交流。其实完全可以将自己的身份置换掉，开源自称体系，这种归属感没有，则永远是开源的门外汉。
+ FaceBook 如何改变计算的世界 原文链接：How Facebook Has Changed Computing
+适兕点评：
+ FaceBook 改变了社交的方式，同样也改变了计算的世界，通过开源之道来完成：GraphQL、 Cassandra、PyTorch、Open Compute Project、 React &amp;hellip;&amp;hellip;以及不计其数的上游贡献，好吧，和FaceBook，甚至比FaceBook有钱的中国公司能拿出这个成绩吗？当然我们不应该苛求，因为这个世界不止开源一种方式做贡献，还可以通过割韭菜的方式，制造出无数的僵尸和奴隶。
+ Deviceplane 意图将 over-the-air 的升级方式带入基于linux 的边缘设备 原文链接：Deviceplane wants to bring over-the-air updates to Linux edge devices</description>
+    </item>
     
     <item>
       <title>【编程之夏】GSoC申请全攻略：14位入选者访谈、近10所大学讲座综合整理</title>
@@ -2126,22 +2148,6 @@ Linux操作系统是当今计算中最流行的开源操作系统，在2008年�
 方法论 我们的基本方法是：
  以非压缩格式安装源代码文件;这需要下载源代码并在我们的测试机器上正确安装。 计算源代码行数（SLOC）;这需要仔细定义SLOC。 使用估算模型（基于COCOMO实践）来估算以专有方式开发相同系统的工作量和成本。  如果大家对于我们是如何安装和分析源代码感兴趣的话，请参阅附录内容。
 为了延续原作者的研究，我们决定使用和2002年所采用同一套基础代码，即选择了 Fedora 社区发行版，这也是红帽企业Linux（RHEL）的基础平台。经过一番考量，我们决定采用 Fedora 9 这个版本。我们统计了所有在 http://mirror.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 01 27)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-27/</link>
-      <pubDate>Sun, 27 Jan 2019 22:55:55 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-27/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Linux 基金会成立了边缘计算子基金会：LF Edge 原文链接：Bringing open-source rhyme and reason to edge computing: LF Edge
-原文链接：Linux Foundation Fosters Unified Open Source Framework For The Edge
-适兕点评：
- 其实关于新闻本身没什么要说的，我想说的是新兴技术，或标准、或项目，往非盈利基金会托管的这样的模式，正在成为主流。
- Google 和索尼合作推出开源的 VFX 渲染 原文链接：Google partners with Sony Pictures Imageworks to launch an open-source VFX render manager
-适兕点评：
- Google was also a founding member of the Academy Software Foundation, an open-source foundation that focuses specifically on tools for the film industry.</description>
     </item>
     
   </channel>
