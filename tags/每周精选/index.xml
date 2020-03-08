@@ -7,10 +7,48 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 26 Feb 2020 10:44:20 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2020 15:33:33 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道 2020 年文章计划表</title>
+      <link>http://www.opensourceway.community/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</link>
+      <pubDate>Sat, 07 Mar 2020 15:33:33 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</guid>
+      <description>该文全部使用issue 跟踪处理 引言 2019年是开源的重要转折之年，开源文化中重要的斗争对象——微软，俨然180度的大转弯竟然成了企业开源的领头羊，各大云计算厂商也深谙开源，无论是AWS，还是阿里云，都将开源拿的死死的，当然还有Kubernetes这样颠覆式的技术平台和共同体的发展所展示的威力&amp;hellip;&amp;hellip;当然，也不应忘记国内的乱象。
+2019年的开源之道也是收获颇丰，企业培训、撰写教材、协助华师大开源课程、图书共读共同体建设和内容输出、Community Leadership development 小组成立、X-lab 开放实验室开源导师、OpenI/O 开发者大会分论坛出品人等，至少开源之道影响了一些人，圈内人渐渐知道了其主要作者——适兕的努力。
+2020年，开源之道会加倍努力，除了每周一篇文章、每周开源评论之外，还要外加一个关于开源共同体领导力相关的文章输出，当然这都要基于开源之道共同体的建设，只有共同体（Community）有所建树，项目、创新菜具有无限的可能性。
+加油！功不唐捐！
+具体事项 开源共同体内容： 翻译 共同体的艺术：打造归属感 Come from English :The Art of Community: Building Belonging Measuring the performance of a community manager Real open source projects take mentoring seriously []() 来自英文：红帽社区知识库 []() Come from English :Growing a Contributor Base: Speed Matters [激励新的贡献者]() Come from English :Encouraging New Contributors 参考资料：When Metrics Go Wrong 参考资料: Twelve tips for growing communities around your open source project 参考资料： The Open Source Contributor Funnel (or: Why People Don’t Contribute To Your Open Source Project) Kubernetes 是如何做到让贡献变得更加容易上手的 参考资料：How Kubernetes is making contributing easy 可持续的自由和开源社区介绍 我们需要可持续的自由和开源社区 创造者和豪夺者的平衡之道 Balancing Makers and Takers to scale and sustain Open Source 参考资料：Is DevOps compatible with part-time community teams?</description>
+    </item>
+    
+    <item>
+      <title>开源公司在云中蓬勃发展；从开源的丰富性所学到的；等 开源之道一周精选 2020 03 08</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-08/</link>
+      <pubDate>Mon, 02 Mar 2020 16:51:54 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-08/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点。
+文章点评 ![]()
+从开源的丰富性所学到的 原文链接：Lessons from Google and Red Hat for Facebook and open source
+适兕点评：
+ Matt Asay 在2007年写就的一篇文章。将软件的稀缺性称之为20世纪的商业模式，而21世纪须是丰富得来的商业。尽管我对富足的了解并不太够，但是通过这几年对于开源的发展，事实上确实是这样。但是作为个体如何来生存却是个麻烦的事情。
+ ![]()
+Linux 内核 5.5 开发统计信息 原文链接：Some 5.5 kernel development statistics
+适兕点评：
+ 最近一直在酝酿一篇文章，《如何让人们感受到共同体的力量》，其实这些统计信息，无论是个体还是公司，对于绝大多数人而言是抽象化的，无法撼动的，就如坐在家里听人家说大海、高山一样，是无法产生敬畏的，和任何的心理表征的，这让我陷入了两难的境地，究竟要不要写下去？还是继续收集材料，正如那篇Linux民主化的文章一样。
+ 《连线》特别报告：气候变化 原文链接：The WIRED Guide to Climate Change
+适兕点评：
+ 环境确实是个大问题，目前全球流行的新型冠状病毒肆虐就是最佳例证，尽管这是一个外行人对于生物的可怕直觉联想，动物的栖息地在减少，人类的无限制的扩张，地球需要被拯救吗？不需要，地球已经存在很久了，而人类可能在找到下一个适宜居住的地方之前，可能需要反思些什么。但是，人都是理性的吗？你永远都不知道别人在想什么，这和开源的处境是一个道理，开源的可持续性是谁在维系？
+ 请启动 InnerSource 计划 原文链接：Keep Calm and Innersource On
+适兕点评：
+ 前几日百度的谭中意给开源中国出了一个主意，让Gitee推广InnerSource，貌似没有什么毛病，但是InnerSource到底是个什么东西？是Community 开发软件项目的方式？还是代码被全公司的人都可以看到？开源到底是文化还是工具？有了工具是不是就可以叫InnerSource了呢？从哲学层面来讲，似乎这是有巨大的缝隙的。
+ ![]()
+企业无法获得开源的十大征兆 原文链接：Top 10 Signs Your Enterprise Doesn’t ‘Get’ Open Source</description>
+    </item>
     
     <item>
       <title>开源许可证：复盘2019；文化的争夺才是开源的切肤之痛；等开源之道一周精选2020 03 01</title>
@@ -1990,46 +2028,6 @@ Open Source has become the de facto standard for developing new networking servi
 各种社群云集 和大陆地区形成反差的是，台湾有着浓厚的社群文化，就拿北京来说吧，大多的所谓的社区是背后某个商业公司自己的社区罢了，每次Meetup之类的都是宣讲产品之类的商业动机。而没有完全的有着共同兴趣而定时定点的聚会和讨论。当然，也吸引着华语圈的其它社群，如香港开源社群、北京Linux用户组等。
 COSCUP 某种程度上就是华语地区的各大开源相关社群的大社群，不过这个集会变成每年一次罢了。人才济济，覆盖的学科也是百花齐放，我个人就遇到一位学习生物科技的开源爱好者，当然，律师、农业、教育等就更不用提了。
 总结 开源20年，开源人年会13年，在开源正在成为主流和显学的2018，你怎么能错过如此重大的一个盛宴？</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 05 13)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-05-13/</link>
-      <pubDate>Mon, 14 May 2018 07:44:03 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-05-13/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Kubernetes 站在重要的分水岭 原文链接：Kubernetes stands at an important inflection point
-适兕点评：
- “Open source gives us the opportunity to do things we could never do on our own. Diversity of thought and participation is what makes open source so powerful and so innovative,”
-Kubernetes 已经在发展的迅猛方面超越了历史上所有的开源项目，The challenge ahead is to take that early enthusiasm and translate it into more actual business use cases.
-这就是分水岭，再好的口碑也要有实际的使用场景。
- 随着Kubernetes的发展，一个创业生态系统也随之发展 原文链接：As Kubernetes grows, a startup ecosystem develops in its wake</description>
-    </item>
-    
-    <item>
-      <title>开源之道三周精选(2018 05 06)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-05-06/</link>
-      <pubDate>Sun, 06 May 2018 14:29:35 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-05-06/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 红帽2018峰会有何期待 原文链接：What to expect from Red Hat Summit 2018
-适兕点评：
- 有的时候，我在怀疑每家厂商搞如此的活动的意义。但是从红帽、Google、Apple等等之类的，玩生态的厂家来看，效果还是非常的明显。但是，如果只是自个一家玩，真的是一点意思也没有。
-红帽今年是它的25周年，最让人期待的也就是它收购CoreOS之后的OpenShift平台会如何发展下去。gVisor近来也发布了。容器和容器编排的市场将会竞争更加的激烈。
-不过，Linux、KVM这些底层技术还是值得关注的。
- Google 开源gVisor，容器运行时沙箱 原文链接：Google open sources gVisor, a sandboxed container runtime
-适兕点评：
- 容器的安全性一直被人诟病，但是其优点远远大于这个，于是乎使用者越来越多，那么带来的技术问题就会有人来解决。前有KataContainer，今有gVisor，况且就不说难以上位的iSula、Paunch之类的。
-技术的本质就是解决新问题，引出新问题，如此周而复始。本土的厂商依旧缺乏对开源的认知，即使是华为和阿里，也难以将开源视为一种市场行为，而且是一种完全可量化的。不懂得江湖的意义。这是整个大环境的想法和做法，而开源之道所呼吁的，力量太小。
- 企业如何能够像Netflix、Apple以及Amazon那样进行数字化转型 原文链接：How companies can digitally transform like Netflix, Apple, and Amazon
-适兕点评：
- 这是一个大问题，非常非常大的问题。
-成功的公司，业务找的对，技术支撑也找的对。一切都在正常的决策之中。反而，技术只是最后的一个落地的内容。
- 红帽25年，接下来的规划是？ 原文链接：A (Belated) Happy 25th to Red Hat: So, What Does the Future Hold?
-适兕点评：
- 这是对现任CEO的一个采访，What makes Red Hat different is our offerings; we have free version of everything we do。</description>
     </item>
     
   </channel>

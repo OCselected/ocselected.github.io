@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 02 Mar 2020 16:57:42 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2020 15:33:33 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道 2020 年文章计划表</title>
+      <link>http://www.opensourceway.community/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</link>
+      <pubDate>Sat, 07 Mar 2020 15:33:33 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</guid>
+      <description>该文全部使用issue 跟踪处理 引言 2019年是开源的重要转折之年，开源文化中重要的斗争对象——微软，俨然180度的大转弯竟然成了企业开源的领头羊，各大云计算厂商也深谙开源，无论是AWS，还是阿里云，都将开源拿的死死的，当然还有Kubernetes这样颠覆式的技术平台和共同体的发展所展示的威力&amp;hellip;&amp;hellip;当然，也不应忘记国内的乱象。
+2019年的开源之道也是收获颇丰，企业培训、撰写教材、协助华师大开源课程、图书共读共同体建设和内容输出、Community Leadership development 小组成立、X-lab 开放实验室开源导师、OpenI/O 开发者大会分论坛出品人等，至少开源之道影响了一些人，圈内人渐渐知道了其主要作者——适兕的努力。
+2020年，开源之道会加倍努力，除了每周一篇文章、每周开源评论之外，还要外加一个关于开源共同体领导力相关的文章输出，当然这都要基于开源之道共同体的建设，只有共同体（Community）有所建树，项目、创新菜具有无限的可能性。
+加油！功不唐捐！
+具体事项 开源共同体内容： 翻译 共同体的艺术：打造归属感 Come from English :The Art of Community: Building Belonging Measuring the performance of a community manager Real open source projects take mentoring seriously []() 来自英文：红帽社区知识库 []() Come from English :Growing a Contributor Base: Speed Matters [激励新的贡献者]() Come from English :Encouraging New Contributors 参考资料：When Metrics Go Wrong 参考资料: Twelve tips for growing communities around your open source project 参考资料： The Open Source Contributor Funnel (or: Why People Don’t Contribute To Your Open Source Project) Kubernetes 是如何做到让贡献变得更加容易上手的 参考资料：How Kubernetes is making contributing easy 可持续的自由和开源社区介绍 我们需要可持续的自由和开源社区 创造者和豪夺者的平衡之道 Balancing Makers and Takers to scale and sustain Open Source 参考资料：Is DevOps compatible with part-time community teams?</description>
+    </item>
     
     <item>
       <title>开源软件基金会的崛起与演化</title>
@@ -32,6 +45,31 @@ Outercurve Foundation 是最近（在本文翻译的过程中，2020年3月，�
 通常是由众多的供应商（如，软件公司）合力来指定组织，如果他们要参与到项目中来、或者资助项目、或者参与组织的架构，不过都是为了控制权的平衡。虽然这里的主要区别是，基金会的成员是基金会运作之下的受益者，但在大多数情况下，更为广泛的共同体参与贡献并享受劳动成果。Linux项目是自由/开源软件项目的一个很好的例子，它通过一个基金会从大量的供应商投资中获益。Linux基金会(美国税法下的一个贸易组织)通过其成员计划和成员章程来平衡其成员在一个非常大的共同体中的需要和利益。在大多数情况下，对税收的影响不是主要因素;治理结构和知识产权管理更为重要。
 基金会的价值 其实无关乎自由/开源软件基金会的具体性质，贸易组织也好，慈善组织也罢，他们的价值主要是体现在以下三个方面：
  为参与者提供了一个软件知识产权管理的法律框架，在这个框架中，商业公司可以和自由/开源软件项目的贡献者和谐的在一起工作。 还提供一些技术服务，如软件仓库、问题跟踪、代码签署证书、以及技术指导等。 提供日常的运营和治理支持，如财务和现金服务、会员管理以及项目的沟通和公关相关。  法律框架和知识产权管理 所有权中立 对于非营利性的自由/开源软件基金会来说，企业参与到基金会来主要的益处，就是由于基金会对于软件知识产权的管理和拥有所有权，让项目成为了一个中立的地方，是企业之间的协作成为了可能。没有哪家公司愿意参与到其他公司（可能是友商或合作伙伴）持有的 FOSS 项目。企业也会担心自己的钱打了水漂，或者是为友商做嫁衣裳，这些都是难以让商业公司接受的。那么作为中立的基金会在此所起的作用就非常的大了，因为中立的机构拥有所有权，并允许所有公司平等参与，没有哪家公司称拥有项目，因此，无论公司彼此之间是竞争还是合作伙伴，都可以从项目中获得最大的回报，还毋须担心将优势拱手想让给对手。</description>
+    </item>
+    
+    <item>
+      <title>开源公司在云中蓬勃发展；从开源的丰富性所学到的；等 开源之道一周精选 2020 03 08</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-08/</link>
+      <pubDate>Mon, 02 Mar 2020 16:51:54 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-08/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点。
+文章点评 ![]()
+从开源的丰富性所学到的 原文链接：Lessons from Google and Red Hat for Facebook and open source
+适兕点评：
+ Matt Asay 在2007年写就的一篇文章。将软件的稀缺性称之为20世纪的商业模式，而21世纪须是丰富得来的商业。尽管我对富足的了解并不太够，但是通过这几年对于开源的发展，事实上确实是这样。但是作为个体如何来生存却是个麻烦的事情。
+ ![]()
+Linux 内核 5.5 开发统计信息 原文链接：Some 5.5 kernel development statistics
+适兕点评：
+ 最近一直在酝酿一篇文章，《如何让人们感受到共同体的力量》，其实这些统计信息，无论是个体还是公司，对于绝大多数人而言是抽象化的，无法撼动的，就如坐在家里听人家说大海、高山一样，是无法产生敬畏的，和任何的心理表征的，这让我陷入了两难的境地，究竟要不要写下去？还是继续收集材料，正如那篇Linux民主化的文章一样。
+ 《连线》特别报告：气候变化 原文链接：The WIRED Guide to Climate Change
+适兕点评：
+ 环境确实是个大问题，目前全球流行的新型冠状病毒肆虐就是最佳例证，尽管这是一个外行人对于生物的可怕直觉联想，动物的栖息地在减少，人类的无限制的扩张，地球需要被拯救吗？不需要，地球已经存在很久了，而人类可能在找到下一个适宜居住的地方之前，可能需要反思些什么。但是，人都是理性的吗？你永远都不知道别人在想什么，这和开源的处境是一个道理，开源的可持续性是谁在维系？
+ 请启动 InnerSource 计划 原文链接：Keep Calm and Innersource On
+适兕点评：
+ 前几日百度的谭中意给开源中国出了一个主意，让Gitee推广InnerSource，貌似没有什么毛病，但是InnerSource到底是个什么东西？是Community 开发软件项目的方式？还是代码被全公司的人都可以看到？开源到底是文化还是工具？有了工具是不是就可以叫InnerSource了呢？从哲学层面来讲，似乎这是有巨大的缝隙的。
+ ![]()
+企业无法获得开源的十大征兆 原文链接：Top 10 Signs Your Enterprise Doesn’t ‘Get’ Open Source</description>
     </item>
     
     <item>
@@ -2106,48 +2144,6 @@ Apache 社区成员均是由独立的个人来担当，成员的权力和责任�
 我们根据已证明的需求为我们的项目提供法律和品牌管理服务，并定义品牌指导方针，以帮助我们的项目以适当的方式从强大的Apache品牌中受益。
 我们非常欢迎各种新的项目进入 Apache 孵化器，经验丰富的导师将会帮助你，快速的学习 Apache社区和项目的运作方式。孵化器的存在，就是社区所定义和决定的，所以基金会对于项目的孵化阶段是相当的重视，这也是基金会在壮大发展的同时，能够始终坚守价值观的秘诀所在。
 目标  确保 Apache 软件基金会为软件项目的社区提供的服务能够得到明确、清晰的定义，而且能够确保以满足社区期望的形式成功的进行交付。 不断改进我们在识别、吸引、欢迎、发展等环节，以迈向 ASF 的目标: “志同道合的社区”。 以这种方式有效地扩展我们的运营和治理流程，从而让 ASF 继续成为简单的流程、轻量的治理模式、大型的分布式组织，使得其中心业务以符合 PMC 预期为其社区服务的方式服务于项目。 确保 ASF 在计划期限内的没有什么财务压力，并为长期稳定发展奠定基础。  ASF 提供的服务  说到底，ASF 的核心任务是孵化出优秀的项目，并让项目健康的成长，那么围绕这一切就是提供相应的最佳服务。 ———— 开源之道注</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 02 03)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-03/</link>
-      <pubDate>Mon, 04 Feb 2019 11:53:41 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-03/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Amazon 开源 SageMaker Neo，在边缘运行机器学习模式 原文链接：Amazon Open Sources SageMaker Neo To Run Machine Learning Models At The Edge
-原文链接：Amazon Web Services boosts open source credentials
-适兕点评：
- 机器学习领域，只有开源！因为没有几个人能够看得懂！从这个角度讲，开源是最为高级的。大自然向所有人开源，但是人类至今没有搞清楚为什么？人类为什么有意识？
-  Neo-AI 这个图很明确的解释了AWS吞噬一切的野心。
- 发现后 Kubernetes 开源计算时代的平衡之道 原文链接：Finding equilibrium in post-Kubernetes open-source computing
-适兕点评：
- 哇，已经是后Kubernetes时代了！一不小心就错过了一整个时代。
- CNCF通过社区聚会来回答供应商的问题 原文链接：CNCF answers vendor-handholding with community meetups
-适兕点评：
- CNCF 准确的定位自己，那么客户又该如何准确定位社区、基金会、和供应商？这点开源之道可以回答，也应该去说清楚。
- Shanku Niyogi 加盟 GitHub 担任高级产品副总裁 原文链接：He led open source projects in Microsoft’s early days of exploring it.</description>
-    </item>
-    
-    <item>
-      <title>2019.1 开源之道论文共读笔记及探讨记录</title>
-      <link>http://www.opensourceway.community/posts/paper_or_book_reading/paper_reading_notes_2019_01/</link>
-      <pubDate>Sat, 02 Feb 2019 22:30:31 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/paper_reading_notes_2019_01/</guid>
-      <description>一、 《the role of participation architecture in growing sponsored Open Source Communities》 开源之道引言：为什么要读这篇论文？ 适兕观察本土企业活动开源，极少见到公司赞助某个开源社区或者是自己运营一个开源社区，大多数是公司的市场部门赞助一个会议之类的，即使是 OpenSSL 出了 Bloodheart 这样的问题之后，锤子的老板直接给了项目100万，也不过是哗众取宠罢了（因为后来再也未见持续性的投入，就非常的吃亏）。话说回来，既然是个人的观察，会有极大可能有偏见的，比如大多数公司会搞合作伙伴社区、用户论坛之类的，开源社区对于他们离盈利太远！多数人认为是一种慈善的行为，一般言称公司有了钱一定会去做的。但是，社区对于一家公司的益处是由来已久的，而且很多公司就是以社区的名义而成就的，如哈雷摩托等。
-就是这样一个偏差，将我的思考带到了寻求这方面答案的探求上来。随着开源在软件开发占有的地位上升，本土越来越多的企业将自己的项目开源，那么面临的一个问题就是：只见代码，未见社区。于是尴尬的一批，慌的一批。那么我们不妨找出十年前研究开源和开放式创新的经济学家的论文看看，对于企业的决策者或许有一些参考。
-在开始之前，开源之道推荐两篇文章： 1. 来自 forbes 的评论文：开源软件的商业化正站在迷茫的十字路口 https://www.forbes.com/sites/udinachmany/2019/01/16/thoughts-about-2018-the-year-of-open-source-teenagedom/#13701133393b 2. StrictlyVC Insider 系列 之一，http://haystack.vc/2015/09/17/transcript-chamath-at-strictlyvcs-insider-series/
-至于论文本身，却是比较易懂的。开明宗义，企业赞助开源社区与自己所建立的合作伙伴究竟有何不同？通过研究了12个不同的开源项目的社区，来说明这一点。
-技术社区其实由来已久了，很多重要的公司都非常的看中这点，毕竟技术是需要有受众的，也需要不同的反馈的，甚至也需要带来创新的灵感。
-开源技术社区某种程度上就是技术社区的一种，它具有技术社区的机会所有的特征。
-企业赞助建立和运营开源社区其实也有一段时间了，如Mozilla、Fedora等，研究他们的也有了一定的成果。
-企业赞助开源社区要考虑的几件事:1、知识产权 2、开发方法 3、社区治理模式
-开放环境的文化：透明度、可访问性，作为企业该如何考虑这些与自己控制权的问题。
-既然是论文，就是抛出问题，给出研究方法，调查的过程，最后总结下接下来要做什么。大多数时候是没有结论的，需要读者根据自身情况进行探索和反思。
-二、《Nonprofit Foundations and Their Role in Community-Firm Software Collaboration》 该文是 Siobhán 在2005年为《Perspectives on Free and Open Source Software》 一书写就，交待了个体开发者的历史传统和诉求，以及成立非盈利基金会的伦理、法律境遇，然后是基金会成立的借鉴场景，介绍了截止到2005年基金会发展的时间轴，并以Debian、Apache、Gnome三大典型基金会为案例详细讲述了理念、孵化项目的原则等，最后则阐述了商业公司对于这些组织的诉求，有关发展的平衡艺术。总而言之，这是一篇难得的质量上乘的文章。
-一图形象的解释了开源社区、基金会和商业公司的关系。实在是高明啊，我怎么原来没有读过这本书了呢？真是罪过。
-三、《Contrasting Community Building in Sponsored and Community Founded Open Source Projects》阅读笔记 来源：38th Hawaii International Conference on System Sciences</description>
     </item>
     
   </channel>

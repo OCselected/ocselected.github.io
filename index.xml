@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 02 Mar 2020 16:57:42 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2020 15:33:33 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道 2020 年文章计划表</title>
+      <link>http://www.opensourceway.community/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</link>
+      <pubDate>Sat, 07 Mar 2020 15:33:33 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</guid>
+      <description>该文全部使用issue 跟踪处理 引言 2019年是开源的重要转折之年，开源文化中重要的斗争对象——微软，俨然180度的大转弯竟然成了企业开源的领头羊，各大云计算厂商也深谙开源，无论是AWS，还是阿里云，都将开源拿的死死的，当然还有Kubernetes这样颠覆式的技术平台和共同体的发展所展示的威力&amp;hellip;&amp;hellip;当然，也不应忘记国内的乱象。
+2019年的开源之道也是收获颇丰，企业培训、撰写教材、协助华师大开源课程、图书共读共同体建设和内容输出、Community Leadership development 小组成立、X-lab 开放实验室开源导师、OpenI/O 开发者大会分论坛出品人等，至少开源之道影响了一些人，圈内人渐渐知道了其主要作者——适兕的努力。
+2020年，开源之道会加倍努力，除了每周一篇文章、每周开源评论之外，还要外加一个关于开源共同体领导力相关的文章输出，当然这都要基于开源之道共同体的建设，只有共同体（Community）有所建树，项目、创新菜具有无限的可能性。
+加油！功不唐捐！
+具体事项 开源共同体内容： 翻译 共同体的艺术：打造归属感 Come from English :The Art of Community: Building Belonging Measuring the performance of a community manager Real open source projects take mentoring seriously []() 来自英文：红帽社区知识库 []() Come from English :Growing a Contributor Base: Speed Matters [激励新的贡献者]() Come from English :Encouraging New Contributors 参考资料：When Metrics Go Wrong 参考资料: Twelve tips for growing communities around your open source project 参考资料： The Open Source Contributor Funnel (or: Why People Don’t Contribute To Your Open Source Project) Kubernetes 是如何做到让贡献变得更加容易上手的 参考资料：How Kubernetes is making contributing easy 可持续的自由和开源社区介绍 我们需要可持续的自由和开源社区 创造者和豪夺者的平衡之道 Balancing Makers and Takers to scale and sustain Open Source 参考资料：Is DevOps compatible with part-time community teams?</description>
+    </item>
     
     <item>
       <title>开源软件基金会的崛起与演化</title>
@@ -32,6 +45,31 @@ Outercurve Foundation 是最近（在本文翻译的过程中，2020年3月，�
 通常是由众多的供应商（如，软件公司）合力来指定组织，如果他们要参与到项目中来、或者资助项目、或者参与组织的架构，不过都是为了控制权的平衡。虽然这里的主要区别是，基金会的成员是基金会运作之下的受益者，但在大多数情况下，更为广泛的共同体参与贡献并享受劳动成果。Linux项目是自由/开源软件项目的一个很好的例子，它通过一个基金会从大量的供应商投资中获益。Linux基金会(美国税法下的一个贸易组织)通过其成员计划和成员章程来平衡其成员在一个非常大的共同体中的需要和利益。在大多数情况下，对税收的影响不是主要因素;治理结构和知识产权管理更为重要。
 基金会的价值 其实无关乎自由/开源软件基金会的具体性质，贸易组织也好，慈善组织也罢，他们的价值主要是体现在以下三个方面：
  为参与者提供了一个软件知识产权管理的法律框架，在这个框架中，商业公司可以和自由/开源软件项目的贡献者和谐的在一起工作。 还提供一些技术服务，如软件仓库、问题跟踪、代码签署证书、以及技术指导等。 提供日常的运营和治理支持，如财务和现金服务、会员管理以及项目的沟通和公关相关。  法律框架和知识产权管理 所有权中立 对于非营利性的自由/开源软件基金会来说，企业参与到基金会来主要的益处，就是由于基金会对于软件知识产权的管理和拥有所有权，让项目成为了一个中立的地方，是企业之间的协作成为了可能。没有哪家公司愿意参与到其他公司（可能是友商或合作伙伴）持有的 FOSS 项目。企业也会担心自己的钱打了水漂，或者是为友商做嫁衣裳，这些都是难以让商业公司接受的。那么作为中立的基金会在此所起的作用就非常的大了，因为中立的机构拥有所有权，并允许所有公司平等参与，没有哪家公司称拥有项目，因此，无论公司彼此之间是竞争还是合作伙伴，都可以从项目中获得最大的回报，还毋须担心将优势拱手想让给对手。</description>
+    </item>
+    
+    <item>
+      <title>开源公司在云中蓬勃发展；从开源的丰富性所学到的；等 开源之道一周精选 2020 03 08</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-08/</link>
+      <pubDate>Mon, 02 Mar 2020 16:51:54 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-08/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点。
+文章点评 ![]()
+从开源的丰富性所学到的 原文链接：Lessons from Google and Red Hat for Facebook and open source
+适兕点评：
+ Matt Asay 在2007年写就的一篇文章。将软件的稀缺性称之为20世纪的商业模式，而21世纪须是丰富得来的商业。尽管我对富足的了解并不太够，但是通过这几年对于开源的发展，事实上确实是这样。但是作为个体如何来生存却是个麻烦的事情。
+ ![]()
+Linux 内核 5.5 开发统计信息 原文链接：Some 5.5 kernel development statistics
+适兕点评：
+ 最近一直在酝酿一篇文章，《如何让人们感受到共同体的力量》，其实这些统计信息，无论是个体还是公司，对于绝大多数人而言是抽象化的，无法撼动的，就如坐在家里听人家说大海、高山一样，是无法产生敬畏的，和任何的心理表征的，这让我陷入了两难的境地，究竟要不要写下去？还是继续收集材料，正如那篇Linux民主化的文章一样。
+ 《连线》特别报告：气候变化 原文链接：The WIRED Guide to Climate Change
+适兕点评：
+ 环境确实是个大问题，目前全球流行的新型冠状病毒肆虐就是最佳例证，尽管这是一个外行人对于生物的可怕直觉联想，动物的栖息地在减少，人类的无限制的扩张，地球需要被拯救吗？不需要，地球已经存在很久了，而人类可能在找到下一个适宜居住的地方之前，可能需要反思些什么。但是，人都是理性的吗？你永远都不知道别人在想什么，这和开源的处境是一个道理，开源的可持续性是谁在维系？
+ 请启动 InnerSource 计划 原文链接：Keep Calm and Innersource On
+适兕点评：
+ 前几日百度的谭中意给开源中国出了一个主意，让Gitee推广InnerSource，貌似没有什么毛病，但是InnerSource到底是个什么东西？是Community 开发软件项目的方式？还是代码被全公司的人都可以看到？开源到底是文化还是工具？有了工具是不是就可以叫InnerSource了呢？从哲学层面来讲，似乎这是有巨大的缝隙的。
+ ![]()
+企业无法获得开源的十大征兆 原文链接：Top 10 Signs Your Enterprise Doesn’t ‘Get’ Open Source</description>
     </item>
     
     <item>
@@ -2078,45 +2116,6 @@ There’s no easy solution to this challenge, but it’s one we need to take ser
  这个其实没有什么，我是想指出大众也设立了开源专家这个职位。
  Google 在云计算领域继续挑战AWS，这次是通过和开源的厂商结盟 原文链接：Google is challenging Amazon in the cloud by partnering with open-source companies instead of competing with them
 原文链接：Google Cloud makes a big open-source move: Managed databases from Redis Labs, MongoDB, and Elastic coming soon</description>
-    </item>
-    
-    <item>
-      <title>历史上那些在高校里发生的开源项目的故事一二则</title>
-      <link>http://www.opensourceway.community/posts/opensource_and_university/the_story_of_opensource_in_high_school/</link>
-      <pubDate>Thu, 11 Apr 2019 15:09:55 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource_and_university/the_story_of_opensource_in_high_school/</guid>
-      <description>引言 我去年分别在苏州大学和郑州大学做过演讲分享，试图从就业方向入手来向同学们解释，开源有助于他们的就业。这是我主观的以为现在的学生比较关心未来的就业，因为这是媒体经常称道，也是和同学们打交道的时候，被问的最多的问题。但是演讲之后，并没有同学和我作交流，所以也就没有收集到任何有用的反馈。
-布道这件事，恐慌的莫过于，没人搭理。正负的反馈均有效，最糟糕的情况就是没有人搭理。
-今年索性就驻扎在高校，尽可能的布道开源，让学生们有一个选择的机会。这不，又要开始在高校搞开源相关的活动了，我这次该布道点什么了呢？
- 「人在教中學習。」—羅馬哲學家 塞尼加
- 恰好近期读到了关于CROSS的故事，于是灵机一动，不妨就谈下大学里的开源故事。每个人都喜欢好的故事，好的故事不仅容易让人理解，而且可能会引起人们的兴趣。
-既然是故事，不妨一个一个来讲：
-FreeBSD 和 Bill Joy 上世纪60年代，Unix诞生于Bell实验室，在1973年11月，Ken Thompson 和 Dennis Ritchie 在操作系统原理研讨会上发表了关于Unix的第一篇论文，当时也在会场的Bob Fabry 对该系统非常的感兴趣，并将之带回伯克利。并在伯克利开始了Unix的开发，随后，1975年 Ken Thompson决定在他的母校加州大学伯克利分校担任客座教授，为期一年。 Thompson和Jeff Schriebman以及Bob Kridle在新安装的11/70上推出了最新的Unix版本 6。
-同年秋天，伯克利来了两名研究生，即Bill Joy 和 Chuck Haley，开始Unix 6 下工作，如Pascal编译器、ed编辑器等，在1976年，Thompson 离开了伯克利，Bill Joy 也转向了 Unix的内核。之后，他们专门为自己改进的Unix版叫“Berkeley Software Distribution”，即伯克利软件分发版，简称BSD，从此便落地生根了，直到现在，BSD 仍然是很多领域重要的操作系统，如 MacOS、Juniper交换机等。
-这个故事的主人翁便是 Bill Joy，被人们称之为天才的开发者，1971年，Joy 以优异的成绩考取了密西根大学，那时他只有17岁，Joy 在这一年迷上了计算机，在整个大学生涯中，Joy都在学习编程，用他自己的话说就是：
- I lived in the north campus, and the Computer Center was in the north campus, How much time did I spend there?</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 04 07)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-07/</link>
-      <pubDate>Mon, 08 Apr 2019 15:56:56 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-07/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 为什么聪明的工程师会写一些坏的代码 原文链接：Why smart engineers write bad code
-适兕点评：
- 微软资深工程师，23+年的工作经历，告诉你学术界与工业界的差异。值得细细阅读吗？
- 卓越工程师的定义 原文链接：Defining a Distinguished Engineer
-适兕点评：
- 好吧，这简直是个完人，不过确实值得为之奋斗！值得追求！
- 平台战略:如何向技术公司一样运营 原文链接：The platform play: How to operate like a tech company
-适兕点评：
- 来自麦肯锡的分析文章， IT is not a cumbersome estate “that gets in the way,” but an enabler and driver of continuous innovation and adaptation.似乎正在验证那句所有的公司都是软件公司话来着，没有哪家公司对于IT的依赖性有这么强！
- 开源技术将如何变更政府？ 原文链接：How does open source tech transform Government?
-适兕点评：
- 这应该是一个愚人节玩笑，The purpose of government should be simple — serve the public — but the manner by which governments deliver services is often a complicated mess。 在本土，政府是一个不可同日而语的东西。政府离开源的倡导还差了十万八千里。即使要动，也要动不少人的利益。</description>
     </item>
     
   </channel>
