@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 02 Mar 2020 16:57:42 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 18:58:12 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%8B%E7%BB%8D/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>以法律的名义捍卫自由软件的权益之一 —— 软件自由保护组织（SFC）的来龙去脉</title>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/introduction_of_software_freedom_conservancy/</link>
+      <pubDate>Mon, 09 Mar 2020 18:58:12 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/introduction_of_software_freedom_conservancy/</guid>
+      <description>违反GPL？来，我们法庭见！ 中国 GPL 诉讼第一案 2019年12月，中国 GPL 诉讼第一案：关于 GPL 问题的探讨终于算是尘埃落定。这对于很多开源圈内的律师、相关人员是蛮开眼界的，要知道，GPL 已经将近三十多年的历史了，在盗版横行的中国，却仅仅才发生了一次诉讼！简直是苍天有眼啊！自由/开源软件似乎有了曙光的感觉。
+不过等等，文中的原告和被告竟然是：
+ 数字天堂（北京）网络技术有限公司（下称：数字天堂）诉柚子（北京）科技有限公司、柚子（北京）移动技术有限公司（下称：两柚子）侵犯计算机软件著作权纠纷案，由北京高级人民法院二审作出终审判决。
+ 竟然是公司与公司的对簿公堂！
+史上著名的GPL 案例概述 思科产品（WRT54G） 违反GPL案 2003年9月，思科发布的路由器产品，遭到自由软件基金会起诉，称其产品中使用了GPL自由软件，但是违反了GPL相关条款。
+OpenTV 违反GPL 案 同样是在2003年5月，在硅谷的厂商OpenTV ，被自由软件基金会起诉，称其产品使用了GPL的项目，但是却没有将最后的产品的源码以同样的许可证再发布。
+VMware 被起诉 BusyBox 起诉众多手机厂商 2009年12月14日，14家公司被起诉，其中包括Best Buy, Samsung,Westinghouse，因为其分发知名自由软件 BusyBox 时违反了 GPLv2 许可协议。在发布自己的产品时，并没有包括 BusyBox及其衍生的源代码。
+谁来帮助开发者打官司？ 看完以上的故事，那么问题来了，如果开源项目的作者是某个独立的个体，由于各种原因，惹上了官司，该如何处理？请各位看官，看下面一个故事：
+ 本世纪初，Phil Zimmerman 撰写了一款相当优秀的邮件加密程序Pretty Good Privacy (PGP)，但是根据美国的法律，可怜的Phil 还是违反了一条: 美国对于加密软件的出口做了严格的限制，是有法可依的。美国政府还是起诉了齐默尔曼（Zimmerman）， 理由就是在互联网上发布了 PGP ，其性质是违反了美国法规。辛亏Zimmerman 并非孤身一人，他最终得到了 Eben Moglen 的帮助，而且还是无偿的。最终的结果是美国政府撤诉了。
+ 我们再来回忆另外一个结果截然不同的另外一个耐人寻味的故事：
+ 身处Great firewall 之中的人，大概对于使用VPN等软件来获得被封锁的站点和服务都习以为常，其中有一款开源软件叫做Shadowsocks，以简单的配置和快速的安装而获得非常之多的用户，但是其作者有一天出来说，搞不下去了，于是删除了其在GitHub上的所有代码。这个作者据说只是被相关部门叫去喝了一次茶。Ta 连对簿公堂的机会都没有。
+ 那么我们不妨细细的思考一番，如果一家公司或一个人所开发的开源项目，使用的是GPL或其它许可协议，而另外有一些公司或个人违反了这个协议里面的条款，那么谁可以来起诉这些公司？例如，最近中国发布了汉语版的开源协议——木兰许可证，那么如果有公司违反了其中的条款，谁来去法院状告？
+SFLC 的成立与发展 随着开源的日渐流行，相关的法律问题也日渐凸显，尤其是以Linux为首的重量级项目，尤其是和SCO 打官司的过程，当时的OSDL（Linux基金会的前身）斥资4百万美金，成立了软件自由法律中心（Software Freedom Law Center），由一直以来担当自由软件基金会的法律顾问 Eben Moglen 担任第一任主席。</description>
+    </item>
     
     <item>
       <title>开源软件基金会的崛起与演化</title>

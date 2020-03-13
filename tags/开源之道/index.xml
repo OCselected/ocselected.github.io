@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 07 Mar 2020 15:33:33 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 18:58:12 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>以法律的名义捍卫自由软件的权益之一 —— 软件自由保护组织（SFC）的来龙去脉</title>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/introduction_of_software_freedom_conservancy/</link>
+      <pubDate>Mon, 09 Mar 2020 18:58:12 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/introduction_of_software_freedom_conservancy/</guid>
+      <description>违反GPL？来，我们法庭见！ 中国 GPL 诉讼第一案 2019年12月，中国 GPL 诉讼第一案：关于 GPL 问题的探讨终于算是尘埃落定。这对于很多开源圈内的律师、相关人员是蛮开眼界的，要知道，GPL 已经将近三十多年的历史了，在盗版横行的中国，却仅仅才发生了一次诉讼！简直是苍天有眼啊！自由/开源软件似乎有了曙光的感觉。
+不过等等，文中的原告和被告竟然是：
+ 数字天堂（北京）网络技术有限公司（下称：数字天堂）诉柚子（北京）科技有限公司、柚子（北京）移动技术有限公司（下称：两柚子）侵犯计算机软件著作权纠纷案，由北京高级人民法院二审作出终审判决。
+ 竟然是公司与公司的对簿公堂！
+史上著名的GPL 案例概述 思科产品（WRT54G） 违反GPL案 2003年9月，思科发布的路由器产品，遭到自由软件基金会起诉，称其产品中使用了GPL自由软件，但是违反了GPL相关条款。
+OpenTV 违反GPL 案 同样是在2003年5月，在硅谷的厂商OpenTV ，被自由软件基金会起诉，称其产品使用了GPL的项目，但是却没有将最后的产品的源码以同样的许可证再发布。
+VMware 被起诉 BusyBox 起诉众多手机厂商 2009年12月14日，14家公司被起诉，其中包括Best Buy, Samsung,Westinghouse，因为其分发知名自由软件 BusyBox 时违反了 GPLv2 许可协议。在发布自己的产品时，并没有包括 BusyBox及其衍生的源代码。
+谁来帮助开发者打官司？ 看完以上的故事，那么问题来了，如果开源项目的作者是某个独立的个体，由于各种原因，惹上了官司，该如何处理？请各位看官，看下面一个故事：
+ 本世纪初，Phil Zimmerman 撰写了一款相当优秀的邮件加密程序Pretty Good Privacy (PGP)，但是根据美国的法律，可怜的Phil 还是违反了一条: 美国对于加密软件的出口做了严格的限制，是有法可依的。美国政府还是起诉了齐默尔曼（Zimmerman）， 理由就是在互联网上发布了 PGP ，其性质是违反了美国法规。辛亏Zimmerman 并非孤身一人，他最终得到了 Eben Moglen 的帮助，而且还是无偿的。最终的结果是美国政府撤诉了。
+ 我们再来回忆另外一个结果截然不同的另外一个耐人寻味的故事：
+ 身处Great firewall 之中的人，大概对于使用VPN等软件来获得被封锁的站点和服务都习以为常，其中有一款开源软件叫做Shadowsocks，以简单的配置和快速的安装而获得非常之多的用户，但是其作者有一天出来说，搞不下去了，于是删除了其在GitHub上的所有代码。这个作者据说只是被相关部门叫去喝了一次茶。Ta 连对簿公堂的机会都没有。
+ 那么我们不妨细细的思考一番，如果一家公司或一个人所开发的开源项目，使用的是GPL或其它许可协议，而另外有一些公司或个人违反了这个协议里面的条款，那么谁可以来起诉这些公司？例如，最近中国发布了汉语版的开源协议——木兰许可证，那么如果有公司违反了其中的条款，谁来去法院状告？
+SFLC 的成立与发展 随着开源的日渐流行，相关的法律问题也日渐凸显，尤其是以Linux为首的重量级项目，尤其是和SCO 打官司的过程，当时的OSDL（Linux基金会的前身）斥资4百万美金，成立了软件自由法律中心（Software Freedom Law Center），由一直以来担当自由软件基金会的法律顾问 Eben Moglen 担任第一任主席。</description>
+    </item>
     
     <item>
       <title>开源之道 2020 年文章计划表</title>
@@ -2121,29 +2142,6 @@ Marketing 工作 ———— 维持生态的重要手段 关于这点的内容�
 文章点评 Stefanie Chiras 的采访：开源的力量 原文链接：Interview: The power of open source
 适兕点评：
  “Sometimes people forget about the things that have to fundamentally work. But when they don’t work, everything falls apart.” 所谓的技术下沉就是这个道理，不是不重要了，而是成为默认了。“The upstream open source communities become the beds of innovation for everything we do. There are some misconceptions in the industry about open source. There is an onus on the customer, and on us, to ensure the integrity of open source is protected.</description>
-    </item>
-    
-    <item>
-      <title>Apache 软件基金会未来的5年战略规划</title>
-      <link>http://www.opensourceway.community/posts/foundation_introduce/five-year-strategic-plan-for-the-asf-2018/</link>
-      <pubDate>Tue, 05 Feb 2019 21:52:33 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/foundation_introduce/five-year-strategic-plan-for-the-asf-2018/</guid>
-      <description>引言 2018年末，开源界最为让人瞩目的事情，莫过于MongoDB、Redis、Neo4j等公司纷纷修改许可证，各种媒体便落井下石，开始煽风点火，称云计算厂商将会把开源吃掉，唯恐天下不乱。然而媒体毕竟是媒体，是开发者之外的世界，永远是“隔着玻璃亲不着嘴”，这不AWS 直接升级为Apache的铂金会员，这直接将国内那些媒体的扇了多个耳光。开源的势头是前所未有的好！ 只是售卖软件许可的商业模式正在走向衰落。而开源发展的最大势力，则是依托于非盈利基金会下的开源项目和社区。毫无疑问，ASF 是其中的翘楚，那么开源之道在新年之际，就和大家一起看看Apache 软件基金会的未来5年战略规划。
-开源之道过去也介绍过Apache软件基金会：
- Apache 基金会是如何运作的 Apache 2017 年度报告 开放的 Apache 究竟有多开放?  ##
- 由于本文翻译之 Apache 官网，原文以第一人称写就，开源之道保留第一人称的翻译，特别说明，下文中的我们指代的是 Apache软件基金会。
- 愿景 我们的使命是根据我们的章程，在Apache许可下免费支持创建和分发开源软件。为此，我们为志同道合的社区提供项目空间和资源，以便在我们的法律保护伞下蓬勃发展，开发和发布软件。
-我们视项目的独立为第一要务，不会受到任何公司、组织或其它外部的影响，这使得我们能够为社区提供中立的立场。
-作为一个基金会，我们并不规划技术战略，而是将具体的技术战略委托于具体的项目。
-Apache 软件基金会是由成员（个人志愿者）管理和指导，在这点上始终坚持如此，Apache 软件基金会没有公司或组织形式的参与，公司和组织也不能成为成员，而且也不能直接参与由Apache托管的项目。
-我们帮助社区了解和实践 Apache 之道，众所周知，Apache 之道是多年以来将最佳实践记录和积淀下来最为有效的协作和让项目可持续性发展的方法论。
-Apache 社区成员均是由独立的个人来担当，成员的权力和责任也是基于他们个人的优点具体而定，他们在社区所做的事情和其本人在外部无关，无论其外部的身份为何（职位、学位、组织贡献等）。
-我们为开源项目提供高可靠、高自动化的核心基础设施服务，当然也鼓励项目成员根据具体自身需求，自行决定是否使用一些非 Apache 基金会提供的服务，当然这些服务是可以让我们更加的专注。为了提高服务的高可靠，我们所有关键的数据和服务都在自身完全可控的系统上进行管理，并做了镜像。
-我们的营销和外展活动，同样侧重于践行 Apache 使命的活动，当然也会兼顾支持和赞助我们的厂商，以及我们自身的筹款。
-我们根据已证明的需求为我们的项目提供法律和品牌管理服务，并定义品牌指导方针，以帮助我们的项目以适当的方式从强大的Apache品牌中受益。
-我们非常欢迎各种新的项目进入 Apache 孵化器，经验丰富的导师将会帮助你，快速的学习 Apache社区和项目的运作方式。孵化器的存在，就是社区所定义和决定的，所以基金会对于项目的孵化阶段是相当的重视，这也是基金会在壮大发展的同时，能够始终坚守价值观的秘诀所在。
-目标  确保 Apache 软件基金会为软件项目的社区提供的服务能够得到明确、清晰的定义，而且能够确保以满足社区期望的形式成功的进行交付。 不断改进我们在识别、吸引、欢迎、发展等环节，以迈向 ASF 的目标: “志同道合的社区”。 以这种方式有效地扩展我们的运营和治理流程，从而让 ASF 继续成为简单的流程、轻量的治理模式、大型的分布式组织，使得其中心业务以符合 PMC 预期为其社区服务的方式服务于项目。 确保 ASF 在计划期限内的没有什么财务压力，并为长期稳定发展奠定基础。  ASF 提供的服务  说到底，ASF 的核心任务是孵化出优秀的项目，并让项目健康的成长，那么围绕这一切就是提供相应的最佳服务。 ———— 开源之道注</description>
     </item>
     
   </channel>

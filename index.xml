@@ -37,6 +37,27 @@
     </item>
     
     <item>
+      <title>以法律的名义捍卫自由软件的权益之一 —— 软件自由保护组织（SFC）的来龙去脉</title>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/introduction_of_software_freedom_conservancy/</link>
+      <pubDate>Mon, 09 Mar 2020 18:58:12 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/introduction_of_software_freedom_conservancy/</guid>
+      <description>违反GPL？来，我们法庭见！ 中国 GPL 诉讼第一案 2019年12月，中国 GPL 诉讼第一案：关于 GPL 问题的探讨终于算是尘埃落定。这对于很多开源圈内的律师、相关人员是蛮开眼界的，要知道，GPL 已经将近三十多年的历史了，在盗版横行的中国，却仅仅才发生了一次诉讼！简直是苍天有眼啊！自由/开源软件似乎有了曙光的感觉。
+不过等等，文中的原告和被告竟然是：
+ 数字天堂（北京）网络技术有限公司（下称：数字天堂）诉柚子（北京）科技有限公司、柚子（北京）移动技术有限公司（下称：两柚子）侵犯计算机软件著作权纠纷案，由北京高级人民法院二审作出终审判决。
+ 竟然是公司与公司的对簿公堂！
+史上著名的GPL 案例概述 思科产品（WRT54G） 违反GPL案 2003年9月，思科发布的路由器产品，遭到自由软件基金会起诉，称其产品中使用了GPL自由软件，但是违反了GPL相关条款。
+OpenTV 违反GPL 案 同样是在2003年5月，在硅谷的厂商OpenTV ，被自由软件基金会起诉，称其产品使用了GPL的项目，但是却没有将最后的产品的源码以同样的许可证再发布。
+VMware 被起诉 BusyBox 起诉众多手机厂商 2009年12月14日，14家公司被起诉，其中包括Best Buy, Samsung,Westinghouse，因为其分发知名自由软件 BusyBox 时违反了 GPLv2 许可协议。在发布自己的产品时，并没有包括 BusyBox及其衍生的源代码。
+谁来帮助开发者打官司？ 看完以上的故事，那么问题来了，如果开源项目的作者是某个独立的个体，由于各种原因，惹上了官司，该如何处理？请各位看官，看下面一个故事：
+ 本世纪初，Phil Zimmerman 撰写了一款相当优秀的邮件加密程序Pretty Good Privacy (PGP)，但是根据美国的法律，可怜的Phil 还是违反了一条: 美国对于加密软件的出口做了严格的限制，是有法可依的。美国政府还是起诉了齐默尔曼（Zimmerman）， 理由就是在互联网上发布了 PGP ，其性质是违反了美国法规。辛亏Zimmerman 并非孤身一人，他最终得到了 Eben Moglen 的帮助，而且还是无偿的。最终的结果是美国政府撤诉了。
+ 我们再来回忆另外一个结果截然不同的另外一个耐人寻味的故事：
+ 身处Great firewall 之中的人，大概对于使用VPN等软件来获得被封锁的站点和服务都习以为常，其中有一款开源软件叫做Shadowsocks，以简单的配置和快速的安装而获得非常之多的用户，但是其作者有一天出来说，搞不下去了，于是删除了其在GitHub上的所有代码。这个作者据说只是被相关部门叫去喝了一次茶。Ta 连对簿公堂的机会都没有。
+ 那么我们不妨细细的思考一番，如果一家公司或一个人所开发的开源项目，使用的是GPL或其它许可协议，而另外有一些公司或个人违反了这个协议里面的条款，那么谁可以来起诉这些公司？例如，最近中国发布了汉语版的开源协议——木兰许可证，那么如果有公司违反了其中的条款，谁来去法院状告？
+SFLC 的成立与发展 随着开源的日渐流行，相关的法律问题也日渐凸显，尤其是以Linux为首的重量级项目，尤其是和SCO 打官司的过程，当时的OSDL（Linux基金会的前身）斥资4百万美金，成立了软件自由法律中心（Software Freedom Law Center），由一直以来担当自由软件基金会的法律顾问 Eben Moglen 担任第一任主席。</description>
+    </item>
+    
+    <item>
       <title>开源之道 2020 年文章计划表</title>
       <link>http://www.opensourceway.community/posts/planing_and_reflection/2020/planning_and_schedule_of_year/</link>
       <pubDate>Sat, 07 Mar 2020 15:33:33 +0800</pubDate>
@@ -2097,32 +2118,6 @@ GitHub  在这方面做的相当出色，其设计的单个工具链，从修改
 适兕点评：
  As Bradley M. Kuhn, president of the Software Freedom Conservancy, has said, software freedom should be “equal for everyone, whether they’re a commercial actor or not.”
 There’s no easy solution to this challenge, but it’s one we need to take seriously. The open source model is not fragile and won’t be broken overnight.</description>
-    </item>
-    
-    <item>
-      <title>开源之道解读红帽企业开源调查报告2019</title>
-      <link>http://www.opensourceway.community/posts/event_analysis/redhat_enterprise_open_source_survey/</link>
-      <pubDate>Fri, 19 Apr 2019 16:37:15 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/event_analysis/redhat_enterprise_open_source_survey/</guid>
-      <description>导读概念 关于企业开源，红帽博客首席编辑Joe Brockmeier撰写过一篇文章：什么是企业开源？，就企业开源的几个特性做了细细的处理：
- 经过测试和加固的，针对企业使用的 企业级特性 产品可预见，而且有时间较长的周期 经过认证的 服务水平协议和支持力度 培训、集成 项目和产品之间的异同  可以简单的理解，是传统意义上使用诸如Unix、关系型数据库等软件授权时代的交付方式和开源形态的方式的一个平衡，Linux kernel 和 RHEL 就是最好的、经过事实验证的绝佳例证。
-关于报告的背景 该报告对来自世界各地 950 位 IT 领导者进行访谈后的成果，调查区域包括美国、英国、拉丁美洲及亚太地区，旨在了解不同地理区域的企业开源概况。其中来自美国的有400位，来自英国的有150位，拉丁美洲的（Argentina、 Brazil、 Chile、 Colombia、 Mexico）有250位，以及说英语的亚太区（澳大利亚、新西兰、香港和新加坡）的150位。
-至于都询问了那些问题，该报告中并没有透露，不过访谈者是Gordon Haff，说起这位作者我们可不陌生，他是开源之道图书共读2019年第九期的图书《How Open Source Ate Software》一书的作者，目前是红帽的技术布道师。
-红帽CEO的寄语  开源之道注：为什么要翻译Jim的寄语？因为从这位CEO的字里行间可以才可以真正看出调查的实际意义。
- 毫无疑问，今天最令人激动人心的技术创新均由开源社区来打磨，在大数据、自动化、机器学习、以及人工智能领域中，绝大多数的开发均是由来自分布在全球各地的团队通过共享资源、建立非常规的联系、以及相互挑战，从而推进最先进的技术的结果。
-那么，最直观的结果就是，这些创新以惊人的速度发展，而企业是想将这些创新整合到自己的业务当中的，并愿意去探索各种可能性，但是想利用它们为客户创造价值时，可能会有点茫然 ———— 尤其是企业需要平衡创新的愿望和稳定、一致性的时候显得尤其明显。
-红帽非常理解企业的这种张力，作为一家开放式组织，红帽身处两种情形的交集：一方面是快速前进的开源上游，另一方面是稳中求胜且希望转换创新模式的企业。25年以来，红帽创造了强大的、改变规则的开源技术，并让企业就绪。红帽不仅仅是开源的专家，还是企业开源的专家。
-这就是我非常激动的和大家分享 “企业开源现状” 报告，（由红帽赞助），该报告详细介绍了开源解决方案如何以及为什么能以如此强劲的势头进入企业。也解释了客户转向使用开源工具实现 IT 现代化的一些方法。
-现在摆着大家面前的问题已经不再是企业是否采用开源技术，而是什么时候、该如何采用的问题了。我们希望这份报告能够为各个行业选择创新开源的方式有所促进作用。
-关于报告本身的内容 开源在企业战略中的地位 该饼图相当的吸引人，绝大多数人认为开源对企业整体的基础架构软件战略具有战略重要性。事实上，超过 69％ 的人表示这非常或极其重要，只有1% 的人认为不重要。如下图所示：
-企业开源使用的技术领域 web开发、大数据和分析、云管理工具、数据库、安全、web服务等六大方向做出细分。具体见下图：
-具体用在哪里（技术类型划分） IT 基础设施现代化、数字化转型、应用集成、应用现代化、应用开发、DevOps等六大块，具体如下图：
-使用企业开源的益处 按具体等级的排名：总体拥有成本低廉、接触最新的创新成果、更好的安全性、更可靠的软件质量、获得企业级的支持、定制化的能力：
-接下来还会继续使用企业开源吗？ 这个问题相当的棒，从侧面反映开源是否具有“上瘾”的特征：
-在未来期望使用容器，以及降低专有软件的使用 是的，最后这条很关键，所有人都在拥抱开源，但是没有那么的快，要慢慢来，这个时间可能比两年更长。
-正如《Crossing The Chasm》书中所言，想赢得大众的采用，还需要做更多事情！也需要更多创新！
-总结 结论是显而易见的，那就是面对数字化转型这个大的经济趋势，传统企业想要灵活的IT，开源避无可避！那么又如何平衡自己保守的性质？类似的”企业开源”恰是解药。调查结果所显露出来的使用Linux、容器、基于Kubernetes的OpenShift等等明显已经是选用的基石。</description>
     </item>
     
   </channel>
