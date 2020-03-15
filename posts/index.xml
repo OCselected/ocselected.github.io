@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 13 Mar 2020 09:43:29 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 11:11:53 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>数据分享和开源软件有助于对抗新型冠状肺炎，开源布道师等；开源之道一周精选2020 03 15</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-15/</link>
+      <pubDate>Sun, 15 Mar 2020 11:11:53 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-15/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点
+文章点评 共同体工作项列表 原文链接：Community Worksheet Downloads
+适兕点评：
+ 我很想知道，为何费孝通先生当年要将Community一词翻译为社区，而不是后来广为社会学人们所使用的”共同体“，当然，中国历经了40年的翻天覆地的变化，城市化进程是史无前例的，那么社区进一步成了和街道委员会一样成为了一个政体的统治单位，但是非这个专业的人，并不了解这个词的变化，而是顺手翻译了，包括可怕的开源也无意中被构建。但是Community的构建，尤其是开源共同体的构建，有那么容易吗？真的可以通过居委会一样的大妈发动起来吗？生活与工作，日常上是完全不一样的。
+ 开源布道师 原文链接：Open-source evangelist
+适兕点评：
+ 来自红帽东南亚总经理的公关文，从人生观、价值观，以及商业理念等诸多角度来阐述一位红帽销售的立场、历程和未来展望。称之为开源布道师，虽然有点牵强，但是他自己对于文化这一层次的理解可谓是至关重要，尤其是哲学和基督教，开源想在中国扎根，文化这关必须去做，否则就是无根之水，永远离这个市场太远！
+ 开源加速技术创新、激活能源转型 原文链接：Open Source will speed technological innovation and enable the energy transition
+适兕点评：
+ 环保问题已经迫在眉睫了，这个问题犹如人类的灾难新型冠状病毒一样，是全人类的事情，谁也无法幸免。Linux基金会下的能源子基金会能做多少事情，现在看来还非常的弱小，但是这才是人类的希望所在。合作才能够生存下去，没有人都够独自走下去。不过TARS基金会可能肩负的使命感，可能就有点迷惘。
+ ![]()
+Linux和开源研讨会：取消或线上列表 原文链接：Linux and open-source conferences: List of what&amp;rsquo;s canceled or going virtual
+原文链接：Cloud And Open Source Can Reinvent Tech Conferences In The COVID-19 (And Carbon-Negative) Era
+适兕点评：
+ 病毒来袭，逼着人类停止日常的社交活动，城市交通、飞机等诸多都受损，但也仅仅是人的工具受损。Linux基金会等组织，会议组织是其工作的主要内容之一，这等于剥夺了他们的一个重大功能项，未来将如何处置？
+ 数据分享和开源软件有助于对抗新型冠状肺炎 原文链接：Data Sharing and Open Source Software Help Combat Covid-19</description>
+    </item>
     
     <item>
       <title>类 Google 编程之夏能否在中国被复制？ </title>
@@ -2110,27 +2134,6 @@ FreeBSD 和 Bill Joy 上世纪60年代，Unix诞生于Bell实验室，在1973年
 同年秋天，伯克利来了两名研究生，即Bill Joy 和 Chuck Haley，开始Unix 6 下工作，如Pascal编译器、ed编辑器等，在1976年，Thompson 离开了伯克利，Bill Joy 也转向了 Unix的内核。之后，他们专门为自己改进的Unix版叫“Berkeley Software Distribution”，即伯克利软件分发版，简称BSD，从此便落地生根了，直到现在，BSD 仍然是很多领域重要的操作系统，如 MacOS、Juniper交换机等。
 这个故事的主人翁便是 Bill Joy，被人们称之为天才的开发者，1971年，Joy 以优异的成绩考取了密西根大学，那时他只有17岁，Joy 在这一年迷上了计算机，在整个大学生涯中，Joy都在学习编程，用他自己的话说就是：
  I lived in the north campus, and the Computer Center was in the north campus, How much time did I spend there?</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 04 07)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-07/</link>
-      <pubDate>Mon, 08 Apr 2019 15:56:56 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-07/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 为什么聪明的工程师会写一些坏的代码 原文链接：Why smart engineers write bad code
-适兕点评：
- 微软资深工程师，23+年的工作经历，告诉你学术界与工业界的差异。值得细细阅读吗？
- 卓越工程师的定义 原文链接：Defining a Distinguished Engineer
-适兕点评：
- 好吧，这简直是个完人，不过确实值得为之奋斗！值得追求！
- 平台战略:如何向技术公司一样运营 原文链接：The platform play: How to operate like a tech company
-适兕点评：
- 来自麦肯锡的分析文章， IT is not a cumbersome estate “that gets in the way,” but an enabler and driver of continuous innovation and adaptation.似乎正在验证那句所有的公司都是软件公司话来着，没有哪家公司对于IT的依赖性有这么强！
- 开源技术将如何变更政府？ 原文链接：How does open source tech transform Government?
-适兕点评：
- 这应该是一个愚人节玩笑，The purpose of government should be simple — serve the public — but the manner by which governments deliver services is often a complicated mess。 在本土，政府是一个不可同日而语的东西。政府离开源的倡导还差了十万八千里。即使要动，也要动不少人的利益。</description>
     </item>
     
   </channel>

@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 09 Mar 2020 18:58:12 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 11:11:53 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>数据分享和开源软件有助于对抗新型冠状肺炎，开源布道师等；开源之道一周精选2020 03 15</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-15/</link>
+      <pubDate>Sun, 15 Mar 2020 11:11:53 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-15/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点
+文章点评 共同体工作项列表 原文链接：Community Worksheet Downloads
+适兕点评：
+ 我很想知道，为何费孝通先生当年要将Community一词翻译为社区，而不是后来广为社会学人们所使用的”共同体“，当然，中国历经了40年的翻天覆地的变化，城市化进程是史无前例的，那么社区进一步成了和街道委员会一样成为了一个政体的统治单位，但是非这个专业的人，并不了解这个词的变化，而是顺手翻译了，包括可怕的开源也无意中被构建。但是Community的构建，尤其是开源共同体的构建，有那么容易吗？真的可以通过居委会一样的大妈发动起来吗？生活与工作，日常上是完全不一样的。
+ 开源布道师 原文链接：Open-source evangelist
+适兕点评：
+ 来自红帽东南亚总经理的公关文，从人生观、价值观，以及商业理念等诸多角度来阐述一位红帽销售的立场、历程和未来展望。称之为开源布道师，虽然有点牵强，但是他自己对于文化这一层次的理解可谓是至关重要，尤其是哲学和基督教，开源想在中国扎根，文化这关必须去做，否则就是无根之水，永远离这个市场太远！
+ 开源加速技术创新、激活能源转型 原文链接：Open Source will speed technological innovation and enable the energy transition
+适兕点评：
+ 环保问题已经迫在眉睫了，这个问题犹如人类的灾难新型冠状病毒一样，是全人类的事情，谁也无法幸免。Linux基金会下的能源子基金会能做多少事情，现在看来还非常的弱小，但是这才是人类的希望所在。合作才能够生存下去，没有人都够独自走下去。不过TARS基金会可能肩负的使命感，可能就有点迷惘。
+ ![]()
+Linux和开源研讨会：取消或线上列表 原文链接：Linux and open-source conferences: List of what&amp;rsquo;s canceled or going virtual
+原文链接：Cloud And Open Source Can Reinvent Tech Conferences In The COVID-19 (And Carbon-Negative) Era
+适兕点评：
+ 病毒来袭，逼着人类停止日常的社交活动，城市交通、飞机等诸多都受损，但也仅仅是人的工具受损。Linux基金会等组织，会议组织是其工作的主要内容之一，这等于剥夺了他们的一个重大功能项，未来将如何处置？
+ 数据分享和开源软件有助于对抗新型冠状肺炎 原文链接：Data Sharing and Open Source Software Help Combat Covid-19</description>
+    </item>
     
     <item>
       <title>以法律的名义捍卫自由软件的权益之一 —— 软件自由保护组织（SFC）的来龙去脉</title>
@@ -2130,18 +2154,6 @@ Marketing 工作 ———— 维持生态的重要手段 关于这点的内容�
 自由软件与开源的区别 作为“Open Source”的定义者，Bruce Perens 当然对自由软件和开源有着深刻的理解，是平衡的艺术大师！这里他提到开源是基于自由软件的理念的，即 Richard Stallman 在1983年提出的自由哲学！是站在巨人的肩膀上的！
  开源之道特别赞赏这样的科学精神，之所以今天能走到这里，全是靠着前人的成果！无论我是顺着还是颠覆。反观国内乱象：总是称自己是石头蹦出来的齐天大圣！
  然而，Perens认为：”Stallman 选择了一个吸引程序员的哲学表达。而商人都是实用主义，更感兴趣的是经济利益。” 于是，联合Eric Raymond 选择了以更为务实的方式和商人们接触，并期望这些商人们能够从中看出自由软件的诸多益处。于是，开放源代码定义诞生了！</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 02 10)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-10/</link>
-      <pubDate>Sun, 10 Feb 2019 14:46:01 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-10/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Stefanie Chiras 的采访：开源的力量 原文链接：Interview: The power of open source
-适兕点评：
- “Sometimes people forget about the things that have to fundamentally work. But when they don’t work, everything falls apart.” 所谓的技术下沉就是这个道理，不是不重要了，而是成为默认了。“The upstream open source communities become the beds of innovation for everything we do. There are some misconceptions in the industry about open source. There is an onus on the customer, and on us, to ensure the integrity of open source is protected.</description>
     </item>
     
   </channel>

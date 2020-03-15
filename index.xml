@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 13 Mar 2020 09:43:29 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 11:11:53 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>数据分享和开源软件有助于对抗新型冠状肺炎，开源布道师等；开源之道一周精选2020 03 15</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-15/</link>
+      <pubDate>Sun, 15 Mar 2020 11:11:53 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-15/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点
+文章点评 共同体工作项列表 原文链接：Community Worksheet Downloads
+适兕点评：
+ 我很想知道，为何费孝通先生当年要将Community一词翻译为社区，而不是后来广为社会学人们所使用的”共同体“，当然，中国历经了40年的翻天覆地的变化，城市化进程是史无前例的，那么社区进一步成了和街道委员会一样成为了一个政体的统治单位，但是非这个专业的人，并不了解这个词的变化，而是顺手翻译了，包括可怕的开源也无意中被构建。但是Community的构建，尤其是开源共同体的构建，有那么容易吗？真的可以通过居委会一样的大妈发动起来吗？生活与工作，日常上是完全不一样的。
+ 开源布道师 原文链接：Open-source evangelist
+适兕点评：
+ 来自红帽东南亚总经理的公关文，从人生观、价值观，以及商业理念等诸多角度来阐述一位红帽销售的立场、历程和未来展望。称之为开源布道师，虽然有点牵强，但是他自己对于文化这一层次的理解可谓是至关重要，尤其是哲学和基督教，开源想在中国扎根，文化这关必须去做，否则就是无根之水，永远离这个市场太远！
+ 开源加速技术创新、激活能源转型 原文链接：Open Source will speed technological innovation and enable the energy transition
+适兕点评：
+ 环保问题已经迫在眉睫了，这个问题犹如人类的灾难新型冠状病毒一样，是全人类的事情，谁也无法幸免。Linux基金会下的能源子基金会能做多少事情，现在看来还非常的弱小，但是这才是人类的希望所在。合作才能够生存下去，没有人都够独自走下去。不过TARS基金会可能肩负的使命感，可能就有点迷惘。
+ ![]()
+Linux和开源研讨会：取消或线上列表 原文链接：Linux and open-source conferences: List of what&amp;rsquo;s canceled or going virtual
+原文链接：Cloud And Open Source Can Reinvent Tech Conferences In The COVID-19 (And Carbon-Negative) Era
+适兕点评：
+ 病毒来袭，逼着人类停止日常的社交活动，城市交通、飞机等诸多都受损，但也仅仅是人的工具受损。Linux基金会等组织，会议组织是其工作的主要内容之一，这等于剥夺了他们的一个重大功能项，未来将如何处置？
+ 数据分享和开源软件有助于对抗新型冠状肺炎 原文链接：Data Sharing and Open Source Software Help Combat Covid-19</description>
+    </item>
     
     <item>
       <title>类 Google 编程之夏能否在中国被复制？ </title>
@@ -2102,22 +2126,6 @@ GitHub  在这方面做的相当出色，其设计的单个工具链，从修改
 这是一个伟大的时代，软件开始吞噬世界， 开发者开始觉醒，借助开源，云，Internet，以及种子阶段基金，开发者将征服整个世界。
  ———— Apache Member，华为开源专家， 姜宁  这是一本信息量巨大的”小“书， 深刻理解这本书需要具备众多的知识: 商业、人力资源、管理、云计算、开源、IT、软件开发以及颇为经典的商业案例。如果读者想要证明作者是否如书名那样言过其实，就需要潜心去专研更多的内容，再返回头来看，那么就会收获更多的知识，从而对未来做出更多的准备。
  ———— 开源之道作者，X-lab 开放实验室开源导师 李建盛   作者及图书内容介绍 作者介绍 Stephen O&amp;rsquo;Grady 是知名专注于开发者行业的分析公司RedMonk 的联合创始人，在RedMonk， Stephen 和诸如 IBM、DELL、VMWare、RedHat 等IT公司合作解决各种问题。有超过十多年的丰富经验，他还有另外一本很著名的书籍《王者归来（the new kingmaker)》（开源之道暂译），文章经常被各大财经媒体引用，如纽约时报、NPR、波士顿全球、华尔街日报等，他也是各种会议的主持人和受欢迎的演讲者。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 04 21)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-21/</link>
-      <pubDate>Sun, 21 Apr 2019 11:48:05 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-21/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 学习更多编程语言，哪怕是用不到它们 原文链接：Learn more programming languages, even if you won&amp;rsquo;t use them
-适兕点评：
- 技术控必备，工匠之必备。语言会重塑你的思维方式！这点才是最为重要的。
- 开源如何在云中存活 原文链接：How open source can survive the cloud
-适兕点评：
- As Bradley M. Kuhn, president of the Software Freedom Conservancy, has said, software freedom should be “equal for everyone, whether they’re a commercial actor or not.”
-There’s no easy solution to this challenge, but it’s one we need to take seriously. The open source model is not fragile and won’t be broken overnight.</description>
     </item>
     
   </channel>
