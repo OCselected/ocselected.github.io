@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 15 Mar 2020 11:11:53 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2020 12:09:29 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开放式创新的状态；GitHub 收购 NPM，微软帝国又下一城，等开源之道一周精选2020 03 22</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-22/</link>
+      <pubDate>Sun, 22 Mar 2020 12:09:29 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-22/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点
+文章点评 开放式创新的状态 原文链接：The State of Open Innovation
+适兕点评：
+ Henry Chesbrough 在2003年发布了自己关于开放式创新的书籍之后，已经是第17个年头了，那么今天又有什么结果了呢？毫无疑问，开源的形式，正如开源之道在前几年写的文章一样，成为了开放式创新的绝佳例证。就软件工程的角度而言，所有的公司都在或聪明、或愚蠢的在实施着开放式创新。
+ ![]()
+利用开源来跟踪真实的美国新冠肺炎测试 原文链接：Tracking the real US coronavirus testing numbers with open source
+适兕点评：
+ 网络爬虫、R 封装、JSON 数据格式&amp;hellip;..非常熟悉的技术语言，相比于中国发起的一些站点如Wuhan2020，大概就是有数据支撑，美国的 CDC 有数据公开出来，还没有见到什么民间发起的拯救物资之类的信息。开放和透明大概只有在这个时候才能对比出来。
+ 开源模式进入主流：分享如何是如何塑造音乐的未来的 原文链接：Open Source Goes Mainstream – How Sharing Is Shaping The Future Of Music
+适兕点评：
+ 开源正在影响着其它行业，因为人类已经进入了富足的时代，而不是简单的匮乏的年代，如果你不能做到公开透明，那么很多人就会选择其它的行业，很有可能的结果就是封闭的行业的衰落，或者被开放透明所打败，中国功夫将是一个鲜明的例证，再就是搭便车心态的利用开源软件的企业或个人。
+ GitHub 收购 NPM，微软帝国又下一城 原文链接：Microsoft and GitHub Strengthen Their Hold on Open Source
+原文链接：Microsoft&amp;rsquo;s GitHub absorbs NPM into its code-hosting empire: JavaScript library vault used by 12 million devs now under Redmond&amp;rsquo;s roof</description>
+    </item>
     
     <item>
       <title>数据分享和开源软件有助于对抗新型冠状肺炎，开源布道师等；开源之道一周精选2020 03 15</title>
@@ -2122,25 +2143,6 @@ GitHub  在这方面做的相当出色，其设计的单个工具链，从修改
 成为下一个红帽，是一个让人非常钦佩的目标，但是当你看到今天的趋势时，或许会有些动摇，因为即使是红帽也在考虑成为下一个亚马逊。
 关于作者 Peter Levine，现在是风险投资公司 Andreessen Horowitz （a16z)的合伙人，聚焦于企业方面。他在a16z已经干了9年了，其中最著名的投资莫过于在GitHub A轮的时候就对该公司进行了投资，GitHub去年被微软以75亿美金收购。Peter 在加入a16z之前在Citrix担任云计算部门的副总裁，其之所以加入Citrix，是因为2007年，Citrix收购了其担任CEO的公司——XenSource，一家基于开源的企业级虚拟化软件公司。更多关于Peter Levine的介绍可以参考其在a16z的主页：https://a16z.com/author/peter-levine/。
 原文链接 Why There Will Never Be Another Red Hat: The Economics of Open Source</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 05 05)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-05/</link>
-      <pubDate>Mon, 06 May 2019 07:46:25 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-05/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 Linux 基金会和ETSI 合作，让开源和标准更加的紧密 原文链接：The Linux Foundation and ETSI to bring open source and standards closer
-适兕点评：
- 这是一个让人沮丧的利好消息，ICT 服务的标准，和开源走的如此之近。到底是谁找谁？我们还需观望中，但是确凿无疑的是二者之间有着很大的交集，可能是由于时间上的差异而有所差别。
- 创建一个成功的开源战略 原文链接：Creating a winning open-source strategy
-适兕点评：
- 这决定于一家公司的认知问题，比如QingCloud的黄大骗子，讲情怀，吹牛逼，都是一套一套的，然而实际上不过想以开源为幌子走捷径罢了。像黄这样的试图走FreeRider的路的人有很多。大师将开源提升到战略高度的公司没有几家，对于人性的理解、技术的本质、社会学视野、管理者的高度、企业家的精神，能够达到如此高度的人也真是没有多少。
- Apache基金会将GitHub整合作为其基础设施的扩展 原文链接：The Apache Software Foundation Expands Infrastructure with GitHub Integration
-原文链接：Apache hooks up with GitHub
-适兕点评：
- 我一直以来都在惊叹Apache的成绩：As the world&amp;rsquo;s largest Open Source foundation, the ASF&amp;rsquo;s 200M+ lines of code are overseen by an all-volunteer community of 730 individual ASF Members and 7,000 Apache code committers.</description>
     </item>
     
   </channel>
