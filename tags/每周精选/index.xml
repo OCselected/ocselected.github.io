@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 22 Mar 2020 12:09:29 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 19:53:45 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>新冠肺炎病毒下的开放式协作；低成本、开源的呼吸机设计能拯救生命吗?等开源之道一周精选2020 03 29</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-29/</link>
+      <pubDate>Thu, 26 Mar 2020 19:53:45 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-29/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点
+文章点评 新冠肺炎病毒下的开放式协作 原文链接：Open collaboration on COVID-19
+适兕点评：
+ 来自 GitHub 博客上的一篇关于开放式协作的整理，围绕 Git 形成的大规模社会化协作将改变人类的进程，当然这个进程不会特别的顺利，正如掌握资源的僵尸们一样，不会让所有人参与，并提供支持，以保证活力。影响世界的走势的因素太多，看起来颇为有效的方式，往往会遇到意想不到的障碍，比如国产。
+ LibrePlanet 2020 在线会议回顾 原文链接：Looking back at LibrePlanet 2020: Freeing the future together
+适兕点评：
+ 自由软件现在已经是一个被忽略的群体了，似乎它从未成为主流，走进大众的视野。但是它依然保持着自己的群体，而且有新人不断的加入。自由仍然可以吸引着很多人！如果世界不善待软件的话，那么软件的持续性将如何发展？没有商业的驱动和支撑，人类会陷入何种境地? 商业化必然会损失一些或削弱一些其它的属性，平衡的艺术，走任何的极端都会让世界难以承受：世界需要多样性！
+ 开源项目是如何在技术中驱动创新的 原文链接：How Open-Source Projects Are Driving Innovation In Tech
+适兕点评：
+ Intuit 的CTO写的一篇关于开放源代码的益处，在开源的大环境下，讲究纯技术的时候，可以吸引不少人，尤其是现代分工细化下的学生，根本不会考虑所谓的知识产权、自由、专利等等诸多的社会因素，而高深的技术是最具吸引力的，如果是开源的话，那就更不错了。
+开源，只是其中的一个可选项罢了，而且是可有可无的。CTO们深谙此道。
+ 开源和云计算：金融服务的双保险 原文链接：Open Source and Cloud: A Power Couple in Financial Services
+适兕点评：
+ 开源和云平台珠联璧合，加入企业数字化转型。开源的优势在于：The psychology of engineers often fuels further innovation. Typically, they like to work on cutting-edge projects and they appreciate the peer recognition that stems from contributing to open source projects.</description>
+    </item>
     
     <item>
       <title>开放式创新的状态；GitHub 收购 NPM，微软帝国又下一城，等开源之道一周精选2020 03 22</title>
@@ -2013,24 +2035,6 @@ Across industries and academia open source collaborative software development ha
  Linux基金会承认对微软购买 GitHub 的担忧 原文链接：Linux Foundation Acknowledges Concerns About Microsoft’s Purchase of GitHub
 适兕点评：
  这里面和所有人所担心和带来错觉的一样，其实有一句话就可以解释一切：““However (and I triple checked this with our lawyers), Microsoft does not own Kubernetes or Node.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 06 03)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-06-03/</link>
-      <pubDate>Sun, 03 Jun 2018 09:51:42 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-06-03/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 FRINX 和中国电信北京研究所联合开发基于开源的网络控制系统 原文链接：FRINX and China Telecom Beijing Research Institute Collaborate to Create Open Source-Based Network Control System
-适兕点评：
- 这在过去是常见的事情？我是不知道的。就开源合作在未来将会是常事。个人以为下面这句是某种程度上是对的：
-Open Source has become the de facto standard for developing new networking services and support functions.
-其实我很关注的是中国这边的领导人的言谈，正如去年看到Alibaba的MySQL的开发者在国外发表的言论一样，我一直认为这些精英是两面派。要持续的观察。看他们在开源的路上是如何说一套，做一套的。
- OpenShift到底是不是Kubernetes的一个分支？ 原文链接：The Kubernetes ‘fork’: Open source purists miss the point
-适兕点评：
- Heptio CEO 首先发难诟病OpenShift，然后一堆人出来澄清，这就说明了一个问题，OpenShift一家独大，有Kubernetes的RHEL之嫌，引起众多嫉妒。
-要知道“OpenShift, like the other 54 distributions and platforms (and unlike Heptio and the other seven installers) carries patches and so is not vanilla, upstream Kubernetes.</description>
     </item>
     
   </channel>

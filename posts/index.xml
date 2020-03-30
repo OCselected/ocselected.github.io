@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 22 Mar 2020 12:09:29 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 19:53:45 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>新冠肺炎病毒下的开放式协作；低成本、开源的呼吸机设计能拯救生命吗?等开源之道一周精选2020 03 29</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-29/</link>
+      <pubDate>Thu, 26 Mar 2020 19:53:45 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-29/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点
+文章点评 新冠肺炎病毒下的开放式协作 原文链接：Open collaboration on COVID-19
+适兕点评：
+ 来自 GitHub 博客上的一篇关于开放式协作的整理，围绕 Git 形成的大规模社会化协作将改变人类的进程，当然这个进程不会特别的顺利，正如掌握资源的僵尸们一样，不会让所有人参与，并提供支持，以保证活力。影响世界的走势的因素太多，看起来颇为有效的方式，往往会遇到意想不到的障碍，比如国产。
+ LibrePlanet 2020 在线会议回顾 原文链接：Looking back at LibrePlanet 2020: Freeing the future together
+适兕点评：
+ 自由软件现在已经是一个被忽略的群体了，似乎它从未成为主流，走进大众的视野。但是它依然保持着自己的群体，而且有新人不断的加入。自由仍然可以吸引着很多人！如果世界不善待软件的话，那么软件的持续性将如何发展？没有商业的驱动和支撑，人类会陷入何种境地? 商业化必然会损失一些或削弱一些其它的属性，平衡的艺术，走任何的极端都会让世界难以承受：世界需要多样性！
+ 开源项目是如何在技术中驱动创新的 原文链接：How Open-Source Projects Are Driving Innovation In Tech
+适兕点评：
+ Intuit 的CTO写的一篇关于开放源代码的益处，在开源的大环境下，讲究纯技术的时候，可以吸引不少人，尤其是现代分工细化下的学生，根本不会考虑所谓的知识产权、自由、专利等等诸多的社会因素，而高深的技术是最具吸引力的，如果是开源的话，那就更不错了。
+开源，只是其中的一个可选项罢了，而且是可有可无的。CTO们深谙此道。
+ 开源和云计算：金融服务的双保险 原文链接：Open Source and Cloud: A Power Couple in Financial Services
+适兕点评：
+ 开源和云平台珠联璧合，加入企业数字化转型。开源的优势在于：The psychology of engineers often fuels further innovation. Typically, they like to work on cutting-edge projects and they appreciate the peer recognition that stems from contributing to open source projects.</description>
+    </item>
     
     <item>
       <title>开放式创新的状态；GitHub 收购 NPM，微软帝国又下一城，等开源之道一周精选2020 03 22</title>
@@ -2132,22 +2154,6 @@ GitHub  在这方面做的相当出色，其设计的单个工具链，从修改
 这是一个伟大的时代，软件开始吞噬世界， 开发者开始觉醒，借助开源，云，Internet，以及种子阶段基金，开发者将征服整个世界。
  ———— Apache Member，华为开源专家， 姜宁  这是一本信息量巨大的”小“书， 深刻理解这本书需要具备众多的知识: 商业、人力资源、管理、云计算、开源、IT、软件开发以及颇为经典的商业案例。如果读者想要证明作者是否如书名那样言过其实，就需要潜心去专研更多的内容，再返回头来看，那么就会收获更多的知识，从而对未来做出更多的准备。
  ———— 开源之道作者，X-lab 开放实验室开源导师 李建盛   作者及图书内容介绍 作者介绍 Stephen O&amp;rsquo;Grady 是知名专注于开发者行业的分析公司RedMonk 的联合创始人，在RedMonk， Stephen 和诸如 IBM、DELL、VMWare、RedHat 等IT公司合作解决各种问题。有超过十多年的丰富经验，他还有另外一本很著名的书籍《王者归来（the new kingmaker)》（开源之道暂译），文章经常被各大财经媒体引用，如纽约时报、NPR、波士顿全球、华尔街日报等，他也是各种会议的主持人和受欢迎的演讲者。</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 04 21)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-21/</link>
-      <pubDate>Sun, 21 Apr 2019 11:48:05 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-21/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 学习更多编程语言，哪怕是用不到它们 原文链接：Learn more programming languages, even if you won&amp;rsquo;t use them
-适兕点评：
- 技术控必备，工匠之必备。语言会重塑你的思维方式！这点才是最为重要的。
- 开源如何在云中存活 原文链接：How open source can survive the cloud
-适兕点评：
- As Bradley M. Kuhn, president of the Software Freedom Conservancy, has said, software freedom should be “equal for everyone, whether they’re a commercial actor or not.”
-There’s no easy solution to this challenge, but it’s one we need to take seriously. The open source model is not fragile and won’t be broken overnight.</description>
     </item>
     
   </channel>

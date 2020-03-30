@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 22 Mar 2020 12:09:29 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 19:53:45 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>新冠肺炎病毒下的开放式协作；低成本、开源的呼吸机设计能拯救生命吗?等开源之道一周精选2020 03 29</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-29/</link>
+      <pubDate>Thu, 26 Mar 2020 19:53:45 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-03-29/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点
+文章点评 新冠肺炎病毒下的开放式协作 原文链接：Open collaboration on COVID-19
+适兕点评：
+ 来自 GitHub 博客上的一篇关于开放式协作的整理，围绕 Git 形成的大规模社会化协作将改变人类的进程，当然这个进程不会特别的顺利，正如掌握资源的僵尸们一样，不会让所有人参与，并提供支持，以保证活力。影响世界的走势的因素太多，看起来颇为有效的方式，往往会遇到意想不到的障碍，比如国产。
+ LibrePlanet 2020 在线会议回顾 原文链接：Looking back at LibrePlanet 2020: Freeing the future together
+适兕点评：
+ 自由软件现在已经是一个被忽略的群体了，似乎它从未成为主流，走进大众的视野。但是它依然保持着自己的群体，而且有新人不断的加入。自由仍然可以吸引着很多人！如果世界不善待软件的话，那么软件的持续性将如何发展？没有商业的驱动和支撑，人类会陷入何种境地? 商业化必然会损失一些或削弱一些其它的属性，平衡的艺术，走任何的极端都会让世界难以承受：世界需要多样性！
+ 开源项目是如何在技术中驱动创新的 原文链接：How Open-Source Projects Are Driving Innovation In Tech
+适兕点评：
+ Intuit 的CTO写的一篇关于开放源代码的益处，在开源的大环境下，讲究纯技术的时候，可以吸引不少人，尤其是现代分工细化下的学生，根本不会考虑所谓的知识产权、自由、专利等等诸多的社会因素，而高深的技术是最具吸引力的，如果是开源的话，那就更不错了。
+开源，只是其中的一个可选项罢了，而且是可有可无的。CTO们深谙此道。
+ 开源和云计算：金融服务的双保险 原文链接：Open Source and Cloud: A Power Couple in Financial Services
+适兕点评：
+ 开源和云平台珠联璧合，加入企业数字化转型。开源的优势在于：The psychology of engineers often fuels further innovation. Typically, they like to work on cutting-edge projects and they appreciate the peer recognition that stems from contributing to open source projects.</description>
+    </item>
     
     <item>
       <title>开放式创新的状态；GitHub 收购 NPM，微软帝国又下一城，等开源之道一周精选2020 03 22</title>
@@ -2136,29 +2158,6 @@ Linux最引人注目的特性之一就是让所有的开发人员都可以访问
 适兕点评：
  人人都喜欢Open的东西。开放式的厨房、开放式的流程、开放式的代码&amp;hellip;&amp;hellip;只是开放有时候有一个副作用就是容易被复制和效仿。但是，从民主化的角度来讲，这其实是个此消彼长的过程。
  Linux 基金会启动 ELISA 项目，旨在构建安全的系统 原文链接：Linux Foundation launches ELISA, an open source project for building safety-critical systems</description>
-    </item>
-    
-    <item>
-      <title> 数字化转型时代的主流商业模式 ——《订阅》 导读&#43;书评</title>
-      <link>http://www.opensourceway.community/posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future/</link>
-      <pubDate>Mon, 18 Feb 2019 07:03:37 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future/</guid>
-      <description>为什么要阅读这本书？ 开源之道图书共读，这本《订阅》乍看起来似乎和开源没有半毛钱关系，实际上二者是惊人的相似。伴随着数字化转型的全面到来的时代，和客户打成一片，通过建立紧密的联系，依靠客户的正负反馈来进一步提供更优质、更合适的服务，而这不就是开源软件生态多践行和倡导的吗？正如书中所言，我们正处于商业史上的关键时刻，而这是工业革命以来从未见过的。世界正在从产品转向服务，而开源的发展也已经进入一个逐步成熟的时期，开始从软件工业走出来，影响和渗透其它行业。换句话说，如果你想把握好下一代商业模式，有了开源的背景，理解起来会更加的容易，掌握的也更快。
-评论区 Salesforce 主席兼CEO Marc Benioff 如此评价本书作者和书籍：
- 我很幸运地能够在 Salesforce 创业早期，找到了 Tien Tzuo 成为 Salesforce 的第十一名员工，（本书）为任何能够驾驭我们这个时代最重要的商业模式转变的人撰写了权威的参考指南。
-由数字化转型 引发的现在商业模式从单一的产品销售，转变到以围绕着为客户更好产生价值的服务订阅模式。 这种观念上的根本变革所带来的不断持续交付带来的客户黏度的增加，以及加快产品生产过程的有效反馈所带来的效率提升。 对应到开源软件开发上， Internet出现让我们的软件开发和用户之间可以进行高效的协作，通过不断地迭代式交付持续为客户产生价值。 ———— Apache member、华为开源专家 姜宁
- 关于作者 Tien Tzuo，是 Zuora 公司的首席执行官，也是公司的联合创始人之一。在创办Zuora之前，Tien Tzuo 曾担任过 Salesforce 的首席营销官兼首席战略官。同时Tien Tzuo还主持 Subscribed 全球峰会。Tien Tzuo 居住在旧金山。
-关于 Zuora 公司 Zuora成立于2006年，是基于云计算的先锋，旨在帮助公司管理和增加订阅收入。Zuora®提供基于云的订阅管理平台，该平台可以作为任何行业的订阅业务记录系统。公司在2018年4月在纽约证券交易所上市，（股票代码：ZUO），股票在交易首日上涨42.9％，当时的市值达到约20亿美元。虽然该公司不是一个家喻户晓的名字，但它已经能够为许多知名品牌的核心商业模式提供动力。其中包括DocuSign，NVIDIA，HBO，达美航空，福特汽车公司和卡特彼勒。
-图书内容简介 该书的内容分为三个部分：
- 讲述为什么说订阅的模式是商业的未来，从各个行业来进行阐述。 如何才能够实现订阅模式？从管理、财务、组织、文化等角度告诉读者如何实现一个基于订阅模式的商业服务。 订阅经济的数据展示，其实这部分是附录部分，该部分采用了大量的图表的方式对现有的订阅经济进行的展示。  开源之道荐读  开源之道声明：这是一本有关产品、服务、消费者、公司、管理、信息技术等的商业类图书，宏观的视野也有，微观的细节也有所涉猎。重要的是和现在的生活息息相关，能引起思考最好！其实开源又何尝不是呢？
- 和开源的相似之处诠释 新的商业模式图示：
-订阅模式是真正的以客户为中心的模式，一切围绕以解决客户实际问题而生。对比过去的产品模式，订阅模式总是能够抢先一步来满足用户的需求，因为用户的所有消费信息都是可分析的、用户购买的产品所生成的数据也是可以分析的、推荐系统的进一步强化则可以进一步强化这个闭环。用户放心的使用服务即可，所有的环节：物流、渠道、售后、维修等等都不会暴露给客户。对于客户/顾客来讲，我也甘心享受这样的服务，毋须操劳那么多。
-我们再来回顾一下开源的生态图示：
-是如此的相似，开源将最终用户和开发者拉在了一起，最终用户使用软件、改进软件、提出反馈，进而和上游进行沟通、协商、交流，进一步完善这个闭环。中间没有任何的销售、售前、售后、市场等等一系列角色的出现。
-或许有的软件厂商不乐意了，那么我的建议是读上一篇文章：《软件悖论:商业软件的崛起与陨落》导读+书评。
-IT 厂商的实例 其实，作者作为 Salesforce的创始团队成员，对于IT行业的转型是有着独到理解的，文中提到的几个例子都是值得细细品味的。Amazon、Apple、NetFlix、ZipCar、Uber、Lyft、Zendesk、Okta、Xero、Salesforce 等等，无一不是订阅模式的翘楚，从信息技术的计算资源、存储资源，再到音乐、视频、流媒体，再到汽车、传统桌面应用软件，均以数字化转型为契机，转换思路，进一步贴合用户，抢先用户一步来以最佳服务满足用户所需。
-对于软件创新的诠释 这一部分要定位到第十章，这个世界在加速发展，这一切都应验了物理学的概念：熵！信息技术的革命，在于它加速了一切！那加速后的思维方式和生活都将面临更快的挑战和变化。</description>
     </item>
     
   </channel>
