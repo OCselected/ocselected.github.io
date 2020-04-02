@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 12 Mar 2020 16:46:06 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 20:31:22 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%8B%E7%BB%8D/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Debian 为什么没有成立非营利基金会？</title>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/how-debian-growing-without-foundation/</link>
+      <pubDate>Fri, 20 Mar 2020 20:31:22 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/how-debian-growing-without-foundation/</guid>
+      <description>Debian 简介 Debian 是一款非常流行的Linux 发行版，好不谦逊的说，从技术上讲，Debian 包揽了排名前五的所有的版本，因为另外4个版本都是从[Debian系列]()的，如Ubuntu、Mint。这么说的话：
+ Debian 是世界上最受欢迎的Linux发行版。
+ 没有任何毛病。
+关于 Linux 发行版的信息，我们以下图为例可以说明一下 Debian的重要性：
+Debian 以其稳定精干的形象闻名于世，坚持以自由软件为选择的基调，拥泵无数。支持数十种处理器架构，而且根据不同的内核，整合了数个版本，当然基于Linux kernel 的发行版是最为受欢迎的，其也是GNU Hurd的忠实追随者。
+熟悉Linux 发行版的读者，肯定明白发行版之间最大的不同在于其包管理器的异同，Debian 的dpkg、apt就是其特色的包管理器，也是区别于rpm、port等包管理器的发行版的明显特点。
+Debian的版本号也是非常的有特色，它采用的是“玩具总动员”中角色的名称来命名各个发行版的，另外一个始终如一的版本是“sid”，意即不稳定的版本，而sid这个名称在玩具总动员中是一名破坏玩具的角色。
+Debian 是相当迷人的，其共同体也是相当的有特色，这也是本文介绍的重点，使用Debian的同学，一般都具有非常高的忠诚度，当然更多的是有归属感的，常常引以自豪！
+当然，Debian最为突出的特点，就是该项目是完全由共同体驱动的，背后没有任何的商业公司，如红帽之于Fedora、SUSE之于Open SUSE。这是令常人非常惊讶的一点：实际上最流行的Linux发行版，是完全由共同体驱动的！来，感受一下。
+Debian 的历史故事 Debian 是最早期的Linux发行版之一，其起源要追溯到1993年，当时最流行的发行版叫做：SLS，基于 Slackware，Ian Murdock 也是 SLS 的用户，但是他对于这个版本越来越不满，尤其是在bug的修复上，以及糟糕的包管理器，于是在1993.8.16发起了 Debian 项目，Debian 这个名词也是非常的浪漫，Deb 来自于Ian Murdock 当时的女朋友：Debra Lynn ，后半段 ian 当然来自于他自己的名字 Ian Murdock。
+过了差不多一个多月，Debian 发布了其第一个内部版本：0.0.1，其首个公开版本是0.0.9, 这个版本颇具特色的一点在于，不仅包含了可以运行的操作系统发行版，还包括了Debian Linux 宣言，以及Murdock对于一个操作系统的理解，其呼吁 Debian 是为了发扬 GNU 和Linux的自由精神而创建！
+在1994年到1995年，Debian 发布了0.9.x若干个版本，同时这个时间段，也获得了自由软件基金会的资助，在此期间，Ian Murdock 将基础系统（Debian的核心软件包）交给了 Bruce Perens，自己则专注于包管理器的开发上，并在1996年发布1.x版本，同年，Bruce Perens 接管了项目的领导者，他还起草了Debian社会契约和Debian自由软件指南，在Debian 发布1.2版本时，Debian的志愿者达到了200多位，此时已经是2年后了，Perens 在1998年卸任了Debian领导者。
+1998年 Debian 领导者的接替者是 Ian Jackson，这个期间，Debian 2.</description>
+    </item>
     
     <item>
       <title>以法律的名义捍卫自由软件的权益之二 —— 软件自由法律中心（SFLC）的来龙去脉</title>
