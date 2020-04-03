@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 20 Mar 2020 20:31:22 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2020 17:19:40 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%8B%E7%BB%8D/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>想发展开源？给钱就好了，其它不用管 ———— 历届 SPI 主席序言</title>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/spi-annual-report-introduce/</link>
+      <pubDate>Thu, 02 Apr 2020 17:19:40 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/spi-annual-report-introduce/</guid>
+      <description>引言 开源之道在上一篇文章：Debian 为什么没有成立非营利基金会？中简单介绍了SPI 的创建和功能，正如本文的标题一样，SPI 与 Debian的关系相比于我们早些时候介绍的任何一个非营利机构都简单的多，所以几乎没有什么可介绍的，即使是看他们的年度报告，除了一些财务上的营收和支出之外，真的没有更多内容了，可以总结为：
+ 这里有一些自由/开源软件项目，用户还蛮多，有钱的捧个钱场，没钱的捧个人场。就酱。
+ 正如 Debian 社会契约中对于道德的强调一样，SPI 的创建就只是为了实现 Debian的道德目标而已。
+但是开源之道，开始的时候是不了解这些的，随着深入的了解，发现了这点，那么总得写点什么的吧？项目的介绍肯定是没有啥意思，本土的文章中，浅显的技术文章从来都不缺少，介绍思路和探究过程的却极少。在阅读年度报告的时候，发现主席致辞蛮有意思的，索性给大家翻译一遍，过过瘾。
+SPI 年度报告历届主席致辞（2003~2018） 2003~2004 年 Ean Schuessler  各位 Hacker 、各位朋友：
+SPI 走过快速成长的7年，这7年堪称是一路摸打滚爬。但这7年也是成就非凡的7年，我们见证了自由软件从一个形而上的思想落实到了实际的生活当中，我们确确实实的见证了时代！几乎每个IT机构都有使用自由软件的策略，即使没有也正在考虑当中，谁也没有想到，Linux 会成为微软最大的竞争对手。真是应了那句：Fortunes were won and lost. 但是随之而来的是原来没有考虑过的问题：法律陷阱、糟糕的立法、以及临阵叛逃的人，但是这些阴暗并没能阻止我们继续前进的步伐，因为这是我们的挚爱。SPI 经历了这些风风雨雨，幸而生存了下来，继续使命——为自由软件项目保驾护航。
+我们在内部也是充满了各种挑战，时常脱离正轨的活动也在挑战着我们的意志，甚至太多的劳作也在考验着志愿者们的极限，我们也经常性的犯错误，有些甚至是灾难性的，值得庆幸的是，我们的成员、管理者、支持者以及公益支持，才没有让这些错误继续。而成为了我们成长的必要教训。
+当然，我们也有值得庆贺的成功事件，作为SPI项目中的一颗闪亮的星，Debian继续着它的跨越式的增长。2004年，Netcraft 评出 Debian 是当今世上增长最快的用于web 的操作系统，巴西政府甚至在全国范围内推广Debian，新的维护者、软件包的可用数每天都在增长着。
+对于 SPI 来说，真是既令人兴奋，又颇具挑战而心怀忐忑，自由软件的可能性已不再仅仅是一个梦想，它是触手可及的，每一天都有更多的人们在使用自由软件，比如和朋友保持联系、和家人分享快乐、用于自身的业务系统、甚至是实现自己的创作梦&amp;hellip;.. 随着这些成功的来临，也意味着 SPI 将承担更多的责任，每一个新的自由软件项目都必须表现出专业的能力和承诺，否则失败随时都可能降临。这些项目需要 SPI 以及SPI 提供的服务，比以往的任何时候都需要。
+能参与其中而见证这一切，我感到非常的自豪，并感谢你们每个人给我这个机会。就让我们把未来的7年变得更加惊叹！
+Happy Hacking！
+ 2004~2005 John Goerzen,  &amp;ldquo;SPI 是干什么的？&amp;rdquo;
+我经常被问到这个问题，我通常是这么回答的：Software in the Public Interest, Inc. (SPI) 代表自由软件项目，是项目资产的合法代表。 但我认为这不是最有意思的问题，也不是最有意思的答案。
+&amp;ldquo;SPI 为什么这么干？&amp;rdquo;</description>
+    </item>
     
     <item>
       <title>Debian 为什么没有成立非营利基金会？</title>
