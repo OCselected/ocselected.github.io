@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 02 Apr 2020 17:19:40 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 10:35:13 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如何让开源多点成功的几率；开源和 COVID-19: 道高一尺魔高一丈；等开源之道一周精选2020 04 05</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-04-05/</link>
+      <pubDate>Sun, 05 Apr 2020 10:35:13 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-04-05/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点
+文章点评 避免边缘化：开源软件如何成功？ 原文链接：Avoiding the ragged edge: How open-source software must navigate success and conflict to survive
+适兕点评：
+ 来自红帽CTO Chris Wright 的采访，将近20年的开源经验，经历了从边缘到主流的全部历程，对于开源的理解总是从更高层面去理解：GitHub 的调查，Microsoft的动态、Facebook的OCP 等等，从技术、IT、市场、商业、协作等多种角度来阐述开源，这也是开源之道所要探讨的开源，不是某种具体的技术，也不是某个公司。
+ Eclipse 基金会发布 VS Code 竞品：Theia 1.0 原文链接：The Eclipse Foundation Releases Eclipse Theia 1.0, a True Open Source Alternative to Visual Studio Code
+原文链接：Eclipse Theia 1.0 is an open source alternative to VS Code
+适兕点评：
+ 最近想写一篇文章了，试图说一说开源布道师的重要性，搜集素材中，这篇就是最具说服力的,随着开源成为软件产业的主流，相应的竞争也在加大，不可能让VS Code这样的伪开源项目独自壮大的，微软不过是用自己的人力撑起来罢了，Eclipse 基金会使出了杀手锏，而且VS Code 的插件无缝使用。好吧，那么就看谁的布道师更厉害了！产品一样，打动别人的就是故事！
+ Georg Link 谈 CHAOSS 的共同体衡量项 原文链接：#53, Community Metrics with Georg Link of CHAOSS</description>
+    </item>
     
     <item>
       <title>想发展开源？给钱就好了，其它不用管 ———— 历届 SPI 主席序言</title>
@@ -2144,18 +2161,6 @@ Linux最引人注目的特性之一就是让所有的开发人员都可以访问
 那么我们就来说说脱离主干（out-of-tree)的代价是什么，以下列表从内核开发流程上的一小部分，其中大部分内容将在本文档后面详细讨论。考虑如下情形：
  合并到内核主干的代码是供所有 Linux 用户使用。它将自动出现在使用它的所有发行版中。不需要驱动程序磁盘，下载或支持多个版本的多个发行版的麻烦;这一切都适用于开发人员和用户。换句话说，并入主干解决了大部分的分发、支持问题。 虽然内核开发人员在努力的维护和用户空间接口，希望保持稳定，但是事实上，内核内部的 API 仍在不断的变化。缺乏稳定的内部界面是一个深思熟虑的设计决策;它允许随时进行基本改进，并产生更高质量的代码。基于该策略的一个结果就是，那些脱离主干的分支如果要使用新的内核，就要不断的从主干中获取这些代码，即需要不断的进行维护，而这需要大量的工作才能保持代码正常的工作。  相反，在主干中的代码就没有这些额外的工作，如果有 API 的变更，开发者们就会立即在主干中进行修复和处理。所以，合并到主干的代码在维护成本上具有显著的优势。
  除此之外，内核中的代码通常会被其他开发人员改进。有的时候，用户社区和客户所改进的产品，往往惊喜不断。  内核的代码在合并到主干之前和之后均是审核的，无论这些原创开发人员的技能有多强，这个审核过程总会能找到可以改进代码的地方。通常情况下，这样的审核都能够发现Bug以及安全方面的问题。对于在封闭环境中开发的代码尤其如此，某种程度上讲，linux内核非常受益于这些外部的开发人员的审核。脱离主干（Out-of-tree)的代码将意味着质量难以保证。  开发者只要参与到内核的开发中来，就可能会影响到项目的发展方向。如果说用户只是在旁边抱怨的话，真的没有啥意思，不如让事情按照自己的意愿去发生。那些活跃的开发者在社区拥有极强的声音 —— 以及改进的能力，这可以让内核满足他们自身的需求来进行发展和进化。 当分支代码被单独维护时，始终存在由第三方提供类似功能的不同实现的可能性。如果发生这种情况的话，合并代码将变得更加困难 —— 甚至到了几乎不可能的地步。真到了那个时候，就面临着令人非常不爽的选择：要么选择无限期地保持脱离主干的非标准特征，要么是放弃这些脱离主干的代码，然后回迁到主干版本。 代码的贡献是整个流程的最为基本的行为，这也是之所以现有的流程能够良好运作的前提。通过贡献代码，开发者可以向内核添加自己想要的功能，也是对于其他内核开发人员同样有实际用处。如果你已经为Linux写过代码（或者正在考虑这样做），那么您显然对该平台的持续成功感兴趣;贡献代码是帮助确保成功的最佳方式之一。  以上所有的可能结果，都是脱离主干（out-of-tree)所导致，也包括那些以专有的形式、仅发行二进制的方式。但是，在考虑任何类型的仅二进制内核代码分发之前，还应考虑其他因素。这些包括：</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 03 03)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-03/</link>
-      <pubDate>Sun, 03 Mar 2019 08:44:10 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-03/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 世界上最大的银行正在加速拥抱人工智能 原文链接：The World&amp;rsquo;s Biggest Banks Are Doubling Down On Artificial Intelligence
-适兕点评：
- 这里值得说一下的是Capital One，几乎和拥抱开源是一个套路：True diversity in tech will only come when everyone has access to the same technical information and educational opportunities . When young technologists feel welcomed into the AI development community — no matter what language they speak or culture they come from — that openness will go a long way to increasing the number of skilled engineers, along with more diverse perspectives and experiences in the field.</description>
     </item>
     
   </channel>

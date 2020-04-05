@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 26 Mar 2020 19:53:45 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 10:35:13 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如何让开源多点成功的几率；开源和 COVID-19: 道高一尺魔高一丈；等开源之道一周精选2020 04 05</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-04-05/</link>
+      <pubDate>Sun, 05 Apr 2020 10:35:13 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-04-05/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点
+文章点评 避免边缘化：开源软件如何成功？ 原文链接：Avoiding the ragged edge: How open-source software must navigate success and conflict to survive
+适兕点评：
+ 来自红帽CTO Chris Wright 的采访，将近20年的开源经验，经历了从边缘到主流的全部历程，对于开源的理解总是从更高层面去理解：GitHub 的调查，Microsoft的动态、Facebook的OCP 等等，从技术、IT、市场、商业、协作等多种角度来阐述开源，这也是开源之道所要探讨的开源，不是某种具体的技术，也不是某个公司。
+ Eclipse 基金会发布 VS Code 竞品：Theia 1.0 原文链接：The Eclipse Foundation Releases Eclipse Theia 1.0, a True Open Source Alternative to Visual Studio Code
+原文链接：Eclipse Theia 1.0 is an open source alternative to VS Code
+适兕点评：
+ 最近想写一篇文章了，试图说一说开源布道师的重要性，搜集素材中，这篇就是最具说服力的,随着开源成为软件产业的主流，相应的竞争也在加大，不可能让VS Code这样的伪开源项目独自壮大的，微软不过是用自己的人力撑起来罢了，Eclipse 基金会使出了杀手锏，而且VS Code 的插件无缝使用。好吧，那么就看谁的布道师更厉害了！产品一样，打动别人的就是故事！
+ Georg Link 谈 CHAOSS 的共同体衡量项 原文链接：#53, Community Metrics with Georg Link of CHAOSS</description>
+    </item>
     
     <item>
       <title>新冠肺炎病毒下的开放式协作；低成本、开源的呼吸机设计能拯救生命吗?等开源之道一周精选2020 03 29</title>
@@ -2011,30 +2028,6 @@ Across industries and academia open source collaborative software development ha
 适兕点评：
  微软收购GitHub，真是让不明就里的人们兴奋了几天，朋友圈刷屏刷到爆。可是细细的静下心来，看看这样的文章，你才能明白微软再打明天的仗。本文有两个观点我非常的认同:
   Arguably, open source is not an alternative to commercial software. Rather, it is a way to create software collaboratively, and at a global scale. Active contributors in the open source community resolve problems; the source code is visible and can be tweaked and updated by anyone.</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 06 10)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-06-10/</link>
-      <pubDate>Mon, 11 Jun 2018 14:25:48 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-06-10/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 为什么你需要理解你的软件供应链 原文链接：Why You Need To Understand Your Software Supply Chain
-适兕点评：
- 从应用的角度来讲，需要和各方的供应商打交道，如果引入开源的话，那么一切都开始变得复杂起来了。自己有法律风险、漏洞风险。
-我个人其实也应该从软件的供应链角度来思考开源和传统的软件供应商的关系。以及现代的云计算平台等。这确实是蛮值得研究的盲区。
-本文其实没有特别说明供应链本身，而是从开源的安全和法律角度来看第三方的软件组件。
- 微软收购GitHub 原文链接：Microsoft takes over GitHub as it expands its open source plan
-原文链接：Success of GitHub deal hinges on Azure&amp;rsquo;s open source appeal
-适兕点评：
- 这是过去一周的新闻热点，就像我很多的开源布道一样，我当然有我自己的观点。
-大家喜欢使用Gmail服务，Google提供很多的免费服务，甚至克里斯安德森还专门写过《免费》一书。GitHub 为个人提供免费的代码托管服务，前提是你的代码是遵循OSI的开源协议下发布。
-而GitHub本身就是一家商业公司，专门的社交和Readme的开发者社区。所以，商业公司的交易，一点都不奇怪。也和开源没有半毛钱关系。GitHub 即使被微软收购了，也要遵守其原先的法律条款，而这个才是根本。
-代码托管平台，从一开始就有很多公司试过。GitHub能走到今天，是因为他的透明度和社交性。
- Linux基金会承认对微软购买 GitHub 的担忧 原文链接：Linux Foundation Acknowledges Concerns About Microsoft’s Purchase of GitHub
-适兕点评：
- 这里面和所有人所担心和带来错觉的一样，其实有一句话就可以解释一切：““However (and I triple checked this with our lawyers), Microsoft does not own Kubernetes or Node.</description>
     </item>
     
   </channel>
