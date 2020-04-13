@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 06 Apr 2020 17:25:09 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 11:43:19 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>专注于开源数据科学软件的非营利基金会—— NumFOCUS 的来龙去脉</title>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/numfocus-introduce/</link>
+      <pubDate>Tue, 07 Apr 2020 11:43:19 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/numfocus-introduce/</guid>
+      <description>从开源项目说起 读者你如果是顺着开源之道关于介绍开源软件非营利基金会一路过来的，那么可能会明确的感受到了一点，那就是目前较为成功的基金会都是从小发展起来的，和世界上所有的机构组织的发展路径类似，可以总结为一个模式：
+发起开源项目 -&amp;gt; 以共同体的方式进行协作 -&amp;gt; 共同体发展的很不错 -&amp;gt; 建立治理和决策方式 -&amp;gt; 为了资助，建立法律实体 -&amp;gt; 法律实体分离出非营利软件基金会 -&amp;gt; 状大开源项目，孵化更多优秀的项目。
+而极少出现反过来的情形，也不清楚反过来的路径是否可行？尽管有一些尝试，也已失败而告终。如Outercurve Foundation，不过中国的情况要特殊许多，如果有机会的话，我也希望给大家介绍一些中国的组织，我指的是类似开源软件非营利基金会这样的组织，如开源社、中国开源软件推进联盟 COPU、中国开源云联盟、云计算产业开源联盟、启智开源社区等等，以及工信部可能会在今年成立的中国开源软件基金会之类的，这些组织的发展思路，就是想跳过1、2、3步，直接进入第5步。当然，就和中国现代所有的社会试验一样，开源非营利基金会也是同样的命运，要找到适合中国文化和环境的组织机构和运转方式，仍然需要很长的一段路要走。
+在此埋伏完伏笔之后，让我们进入本文的正题—— 开源项目说起，从务实的角度讲，工程师很少相信意识形态、形而上的内容，这就是在开源界非常流行的那句Linus 的经典语录：
+ Shut your f**k up, Show me your code.
+ IPython 从开源之道发起人适兕个人来讲，IPython 曾经是他最喜爱使用的一个交互式Shell，一度在自己的工作站上Gnome环境一登录就启动 IPython。
+IPython 可以说是一个Python和 Bash的一个整合，不仅对数字计算更加的友好，也可以直接调用操作系统的命令，当然后来作者基于IPython又开发了 Jupyter，而IPython就是Jupyter的默认内核。
+还有更为被人们喜欢的特性就是和其它可视化的工具直接的整合，如 matplotlib 。
+IPython 在2012年获得自由软件基金会颁发的自由软件奖，而Jupyter 则在2017年获得了ACM 软件系统奖。
+关于IPthon 和Jupyter 的具体细节，笔者这里就不赘述了，有兴趣的读者可以下载体验，由于其流行程度较高，文档、书籍也比较的全面。
+另外，我们还要提及IPython的作者：Fernando Pérez， 这位物理科学家，也是一位自由软件开发者，同时也是自由软件的布道师，目前在加州大学伯克利分校统计系助理教授。在2001年开始启动了IPython项目，并在4年后开发Jupyter，直到现在。他也是Python基金会的Fellow，同时是 NumFOCUS 的创始成员。
+SciPy 这是一个被广泛使用的Python类库，用于科学计算，它提供了许多用户友好且高效的数值例程：最优化](https://zh.wikipedia.org/wiki/最优化)、[线性代数](https://zh.wikipedia.org/wiki/线性代数)、[积分](https://zh.wikipedia.org/wiki/积分)、[插值](https://zh.wikipedia.org/wiki/插值)、[特殊函数](https://zh.wikipedia.org/wiki/特殊函数)、[快速傅里叶变换](https://zh.wikipedia.org/wiki/快速傅里叶变换)、[信号处理](https://zh.wikipedia.org/wiki/信号处理)和[图像处理](https://zh.wikipedia.org/wiki/图像处理)、[常微分方程](https://zh.wikipedia.org/wiki/常微分方程)求解和其他科学与工程中常用的计算。
+Matplotlib matplotlib 是Python编程语言及其数值数学扩展包 NumPy的可视化操作界面。它利用通用的图形用户界面工具包，如Tkinter, wxPython, Qt或GTK+，向应用程序嵌入式绘图提供了应用程序接口（API）。此外，matplotlib还有一个基于图像处理库（如开放图形库OpenGL）的pylab接口，其设计与MATLAB非常类似。SciPy 就是用matplotlib进行图形绘制。
+NumPy 这可以明星项目了，创始人Travis Oliphant 甚至创建了著名的数据公司 Anaconda ，2006年创建以来，项目非常活跃，也是科学共同体驱动的开源项目的典范，Python默认一般都带这个库。</description>
+    </item>
     
     <item>
       <title>软件生态系统：特性、收益和挑战；MIT  的计算思维课在疫情期间火了等，开源之道一周精选2020 04 12</title>
@@ -2109,28 +2131,6 @@ Apache 软件基金会为每个项目设置了两份治理文档，首先是基�
 为了找到合适的任务，我们可以将即兴贡献者区分为两种类型：多面手和专家。能充分发挥他们的能力是难以做到的，虽然有些人拥有特定的技能，我们称之为“专家”。应该为他们寻找、归类适合他们自身的任务。
 最适合多面手的任务有：
  需要较少的努力，能够快速完成。 是较小的聚焦细节 需要很少的前期投资 可以分成更小的部分 不要求熟练劳动力 让那些长期的持续贡献者去做更大型、更重要的任务。  对于专家来说，只有一个建议：</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 05 19)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-19/</link>
-      <pubDate>Sun, 19 May 2019 11:48:36 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-19/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 开源基金会能否修复持续交付 Pipline？ 原文链接：Can an Open Source Foundation Fix Continuous Delivery Pipelines?
-适兕点评：
- 持续交付是个技术问题吗？还是哲学的问题，那么那么多的软件，选择的时候就会产生很多的困惑。那么为什么还需要一个专门的基金会来搞定这件事了呢？ 当一件事情发展到社会中很多地方都需要的时候，那么标准的需要就来了。
- 微软回归其讨厌的根源对开发者来说是个好消息 原文链接：Microsoft&amp;rsquo;s return to its nerdy roots is good news for developers
-适兕点评：
- 得开发者得天下。
- 微软 CEO Satya Nadella 保护民主化进程 原文链接：Microsoft CEO Satya Nadella on Protecting the Democratic Process
-适兕点评：
- 选举系统，这个对于现实的政治体制是非常大的冲击。从来没有想到微软还能担当起如此巨大的责任。
- NPM 公司新上任CTO，旨在巩固企业和开源的能力 原文链接：New CTO Solidifies npm, Inc.’s Enterprise and Open Source Capabilities
-适兕点评：
- 这个新闻要对比着GitHub近期发布的包管理器来看待，无论是CDF、JFrog、还是NPM，都是极大的挑战，那么NPM添加如此的生力军。我的问题来了，技术能够解决的问题，为何还要出现官员？
- Adobe 是如何以及为什么将开源作为战略优先考虑的 原文链接：How and Why Adobe is Making Open Source A Strategic Priority</description>
     </item>
     
   </channel>
