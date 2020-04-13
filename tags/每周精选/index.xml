@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 05 Apr 2020 10:35:13 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2020 17:25:09 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>软件生态系统：特性、收益和挑战；MIT  的计算思维课在疫情期间火了等，开源之道一周精选2020 04 12</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-04-12/</link>
+      <pubDate>Mon, 06 Apr 2020 17:25:09 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-04-12/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点
+文章点评 开放源代码文档的艺术 原文链接：Art of Open Source Documentation
+适兕点评：
+ 文档确实非常的重要的，所有的软件，如果在没有人知道如何使用它，或者不知道是干什么的，那么一定很少有人问津。而且好的文档一定是能够事无巨细的让人知道、明白、以及接下来应该做什么的。本文言简意核、直击要害的说明了开源文档的重要性，代码是最好的文档吗？或许对于某些人是，不是全部。
+ 红帽任命 Paul Cormier 为总裁兼首席执行官 原文链接：Why not the best? Red Hat vet Paul Cormier takes over as CEO
+原文链接：Red Hat Names Paul Cormier President and Chief Executive Officer
+原文链接：Open-source giant Red Hat has a new CEO
+适兕点评：
+ Jim Whitehurst, 去 IBM 做高管去了，RedHat 的CEO 终于有了新的人选，这位对于红帽可是位大工程，无论是2002年的RHEL和订阅模式的推出，还是后来将红帽发展成为企业级的开源技术栈都归功于 Paul Cormier 的不懈努力，当然，各式各样的收购也是其强项。从产品走出来的掌门人一般都不会差，有工程和商业、管理全方位的优势，但是开源之道最希望的确实其在中国的发展，红帽一日不在中国布道，其业绩终究归于平常，难以有所起色。
+ ![]()
+2006年 OSCON 的高管花絮总结 原文链接：Tidbits from the O&amp;rsquo;Reilly Radar Executive Briefing at OSCON</description>
+    </item>
     
     <item>
       <title>如何让开源多点成功的几率；开源和 COVID-19: 道高一尺魔高一丈；等开源之道一周精选2020 04 05</title>
@@ -2011,23 +2030,6 @@ Across industries and academia open source collaborative software development ha
  开源：为什么越老越多的项目选择开放的运营模式 原文链接：Open source: Why it&amp;rsquo;s time to be more open about how projects are run
 适兕点评：
  此文堪称精彩，关于安全、治理我就不多说了，我只想引用几句专家的话： &amp;ldquo;People who want to join the community need to know what we work by.&amp;rdquo;&amp;ldquo;companies can distinguish themselves by chopping wood, carrying water and doing the unglamorous heavy lifting.&amp;rdquo;</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 06 23)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-06-23/</link>
-      <pubDate>Sat, 23 Jun 2018 16:45:05 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-06-23/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 微软利用AI来降低云计算的电力开销 原文链接：Microsoft is using AI to cut the cloud’s electric bill
-适兕点评：
- 云计算所带来的体系架构的改变也是前所未有的，大型数据中心，如果不能有效降低成本，那么就有可能被巨大的损耗给吞噬掉。除了计算、存储资源的优化和体系架构之外，就数电力了。
-除了拥抱著名的OCP，即开放计算工程，硬件的设计之外，接下来就是算法的问题的。开源不是全部，但是在其中起着至关重要的作用。
- 微软勇敢的闯入了新的世界 原文链接：Brave new world opens up for Microsoft
-适兕点评：
- 微软收购GitHub，真是让不明就里的人们兴奋了几天，朋友圈刷屏刷到爆。可是细细的静下心来，看看这样的文章，你才能明白微软再打明天的仗。本文有两个观点我非常的认同:
-  Arguably, open source is not an alternative to commercial software. Rather, it is a way to create software collaboratively, and at a global scale. Active contributors in the open source community resolve problems; the source code is visible and can be tweaked and updated by anyone.</description>
     </item>
     
   </channel>
