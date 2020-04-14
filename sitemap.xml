@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.opensourceway.community/posts/opensource_talking/2020-03-29-online-reading-engineering/</loc>
+    <lastmod>2020-04-14T17:32:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.opensourceway.community/posts/opensource_talking/2020-done-and-plan-index/</loc>
+    <lastmod>2020-04-14T13:18:36+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.opensourceway.community/posts/foundation_introduce/numfocus-introduce/</loc>
     <lastmod>2020-04-07T11:43:19+08:00</lastmod>
   </url>
@@ -105,11 +115,6 @@
   <url>
     <loc>http://www.opensourceway.community/posts/ttoos-style/</loc>
     <lastmod>2020-02-15T22:48:54+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.opensourceway.community/posts/opensource_talking/2020-done-and-plan-index/</loc>
-    <lastmod>2020-02-15T13:18:36+08:00</lastmod>
   </url>
   
   <url>
@@ -2513,7 +2518,7 @@
   
   <url>
     <loc>http://www.opensourceway.community/posts/</loc>
-    <lastmod>2020-04-07T11:43:19+08:00</lastmod>
+    <lastmod>2020-04-14T17:32:37+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2651,7 +2656,7 @@
   
   <url>
     <loc>http://www.opensourceway.community/</loc>
-    <lastmod>2020-04-07T11:43:19+08:00</lastmod>
+    <lastmod>2020-04-14T17:32:37+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2663,13 +2668,13 @@
   
   <url>
     <loc>http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93-talking/</loc>
-    <lastmod>2020-03-13T09:43:29+08:00</lastmod>
+    <lastmod>2020-04-14T17:32:37+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E6%92%AD%E5%AE%A2/</loc>
-    <lastmod>2020-03-13T09:43:29+08:00</lastmod>
+    <lastmod>2020-04-14T17:32:37+08:00</lastmod>
     <priority>0</priority>
   </url>
   
