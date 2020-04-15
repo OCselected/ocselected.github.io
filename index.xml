@@ -67,7 +67,7 @@ IPython 可以说是一个Python和 Bash的一个整合，不仅对数字计算�
 IPython 在2012年获得自由软件基金会颁发的自由软件奖，而Jupyter 则在2017年获得了ACM 软件系统奖。
 关于IPthon 和Jupyter 的具体细节，笔者这里就不赘述了，有兴趣的读者可以下载体验，由于其流行程度较高，文档、书籍也比较的全面。
 另外，我们还要提及IPython的作者：Fernando Pérez， 这位物理科学家，也是一位自由软件开发者，同时也是自由软件的布道师，目前在加州大学伯克利分校统计系助理教授。在2001年开始启动了IPython项目，并在4年后开发Jupyter，直到现在。他也是Python基金会的Fellow，同时是 NumFOCUS 的创始成员。
-SciPy 这是一个被广泛使用的Python类库，用于科学计算，它提供了许多用户友好且高效的数值例程：最优化](https://zh.wikipedia.org/wiki/最优化)、[线性代数](https://zh.wikipedia.org/wiki/线性代数)、[积分](https://zh.wikipedia.org/wiki/积分)、[插值](https://zh.wikipedia.org/wiki/插值)、[特殊函数](https://zh.wikipedia.org/wiki/特殊函数)、[快速傅里叶变换](https://zh.wikipedia.org/wiki/快速傅里叶变换)、[信号处理](https://zh.wikipedia.org/wiki/信号处理)和[图像处理](https://zh.wikipedia.org/wiki/图像处理)、[常微分方程](https://zh.wikipedia.org/wiki/常微分方程)求解和其他科学与工程中常用的计算。
+SciPy 这是一个被广泛使用的Python类库，用于科学计算，它提供了许多用户友好且高效的数值例程：最优化、线性代数、积分、插值、特殊函数、快速傅里叶变换、信号处理和图像处理、常微分方程 求解和其他科学与工程中常用的计算。
 Matplotlib matplotlib 是Python编程语言及其数值数学扩展包 NumPy的可视化操作界面。它利用通用的图形用户界面工具包，如Tkinter, wxPython, Qt或GTK+，向应用程序嵌入式绘图提供了应用程序接口（API）。此外，matplotlib还有一个基于图像处理库（如开放图形库OpenGL）的pylab接口，其设计与MATLAB非常类似。SciPy 就是用matplotlib进行图形绘制。
 NumPy 这可以明星项目了，创始人Travis Oliphant 甚至创建了著名的数据公司 Anaconda ，2006年创建以来，项目非常活跃，也是科学共同体驱动的开源项目的典范，Python默认一般都带这个库。</description>
     </item>
