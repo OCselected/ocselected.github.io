@@ -51,6 +51,28 @@ Python中文社区创始人(之一) / 管理员, 热心于 Python 等等社区�
     </item>
     
     <item>
+      <title>开源之道已被证明是开发软件的最佳解决方式；开源的四大发明，等开源之道一周精选2020 04 19</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-04-19/</link>
+      <pubDate>Tue, 14 Apr 2020 12:58:53 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-04-19/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点
+文章点评 开放式共同体健康：2019年workshop记录 原文链接：OPEN COMMUNITY HEALTH: WORKSHOP REPORT
+适兕点评：
+ 根据 Matt Germonprez 教授的简历而顺腾摸瓜找到一篇关于Community健康度衡量的文章，也就是说关于open Community 这个细小的领域，已经有人开始研究并探讨了，本文给我个人最大的收获是对Community的角色进行详细的划分，以及引用的：Goal-Question-Metrics 的方法，实在是太美妙了。
+ 突发的远程工作可以从开源共同体中学到什么 原文链接：What the open source community can teach the suddenly remote workforce
+适兕点评：
+ 疫情肆虐之下，很多公司万般无奈之下选择了远程办公，可是远程办公是说搞就搞的吗？很多公司和员工都难以适应，那么类似开源共同体这样的已经存在了好几十年了，而且基于互联网发展独特的协作和沟通文化，是不是大家应该能够学习到点什么？类似RedHat这样的公司完全不受影响。首要解决的问题是共同体和公司的差别。
+ 开源的四大发明 原文链接：4 innovations we owe to open source
+适兕点评：
+ 法律是大脑，共同体是核心，Git 等工具是途径，商业模式更关键，总而言之，开源改变了很多！也让这个世界更加的美好，本主题打算做成视频号。本文来自Dirk Riehle，弗里德里希·亚历山大大学，埃尔兰根-纽伦堡的一篇论文解读。
+ 开放源代码、开放科学：新冠肺炎危机下的思考与实践 原文链接：Open source, open science: the coronavirus crisis is when openness comes into its own
+适兕点评：
+ 2020初的这场疫情，将改变人类对于开放科学的看法，CDC的论文发表，某种程度上是渴望获得认可，巩固自身的权威，然而数据来源和数据本身却牢牢的掌控在他们手里，最后带来无可估量的损失，包括那么多的生命，这其实，就是开放数据并不能为技术官僚们带来个人的利益，那么就必然会被阻止。这也是集体行动的基础。
+ 开源成就了云计算 原文链接：Open source made the cloud in its image</description>
+    </item>
+    
+    <item>
       <title>专注于开源数据科学软件的非营利基金会—— NumFOCUS 的来龙去脉</title>
       <link>http://www.opensourceway.community/posts/foundation_introduce/numfocus-introduce/</link>
       <pubDate>Tue, 07 Apr 2020 11:43:19 +0800</pubDate>
@@ -2127,28 +2149,6 @@ Apache 软件基金会为每个项目设置了两份治理文档，首先是基�
 适兕点评：
  这个新闻要对比着GitHub近期发布的包管理器来看待，无论是CDF、JFrog、还是NPM，都是极大的挑战，那么NPM添加如此的生力军。我的问题来了，技术能够解决的问题，为何还要出现官员？
  Adobe 是如何以及为什么将开源作为战略优先考虑的 原文链接：How and Why Adobe is Making Open Source A Strategic Priority</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 05 12)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-12/</link>
-      <pubDate>Sun, 12 May 2019 11:19:06 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-12/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 微软开源量子计算开发工具 原文链接：Microsoft open-sources its quantum computing development tools
-适兕点评：
- 量子计算是炫头还是未来？ 谁能说清楚？不过可以确定的是，大家都在玩开源。其实，仅仅代码开放了是无妨的，比如这周的那个终端，整个开发过程没有透明化，开源不过是个幻象罢了。
- Build 2019：微软、红帽的合作项Serveless 原文链接：适兕点评：
- 同理心文明的典范，如此的紧密合作，而且是持续多年的结果。纳德拉真的对这个理解的太深刻了。
- 开源 ———— 基因亦如此 原文链接：Open Source&amp;ndash;It&amp;rsquo;s in the Genes
-适兕点评：
- Glyn Moody 的由一篇文章，这位老将（曾写作Rebel Code: Linux And The Open Source Revolution 一书）继续探索开源在人类社会中的作用。甚至开始有点生搬硬套。万物皆开源，即使是这样，人类仍然需要花费很久才能破解生命的奥秘。Moody能走多远？我又能跟多久？
- Guido van Rossum 之于Python 以及开源的多样性 原文链接：Guido van Rossum On Python and Diversity in Open Source
-适兕点评：
- Guido van Rossum 先生的采访，关于如何创建的Python项目、如何认为BDFL，以及去年推出Python委员会的决策层等等。好吧，这就是人类的进步。
- ![(https://www.redhat.com/cms/managed-files/styles/wysiwyg_full_width/s3/Saloni_BG-0_silo.jpg?itok=yP8GufYO)
-2019年度女性开源大奖 原文链接：Announcing the winners of the 2019 Women in Open Source Awards</description>
     </item>
     
   </channel>

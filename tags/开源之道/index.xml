@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 07 Apr 2020 11:43:19 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2020 12:58:53 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道已被证明是开发软件的最佳解决方式；开源的四大发明，等开源之道一周精选2020 04 19</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-04-19/</link>
+      <pubDate>Tue, 14 Apr 2020 12:58:53 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-04-19/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点
+文章点评 开放式共同体健康：2019年workshop记录 原文链接：OPEN COMMUNITY HEALTH: WORKSHOP REPORT
+适兕点评：
+ 根据 Matt Germonprez 教授的简历而顺腾摸瓜找到一篇关于Community健康度衡量的文章，也就是说关于open Community 这个细小的领域，已经有人开始研究并探讨了，本文给我个人最大的收获是对Community的角色进行详细的划分，以及引用的：Goal-Question-Metrics 的方法，实在是太美妙了。
+ 突发的远程工作可以从开源共同体中学到什么 原文链接：What the open source community can teach the suddenly remote workforce
+适兕点评：
+ 疫情肆虐之下，很多公司万般无奈之下选择了远程办公，可是远程办公是说搞就搞的吗？很多公司和员工都难以适应，那么类似开源共同体这样的已经存在了好几十年了，而且基于互联网发展独特的协作和沟通文化，是不是大家应该能够学习到点什么？类似RedHat这样的公司完全不受影响。首要解决的问题是共同体和公司的差别。
+ 开源的四大发明 原文链接：4 innovations we owe to open source
+适兕点评：
+ 法律是大脑，共同体是核心，Git 等工具是途径，商业模式更关键，总而言之，开源改变了很多！也让这个世界更加的美好，本主题打算做成视频号。本文来自Dirk Riehle，弗里德里希·亚历山大大学，埃尔兰根-纽伦堡的一篇论文解读。
+ 开放源代码、开放科学：新冠肺炎危机下的思考与实践 原文链接：Open source, open science: the coronavirus crisis is when openness comes into its own
+适兕点评：
+ 2020初的这场疫情，将改变人类对于开放科学的看法，CDC的论文发表，某种程度上是渴望获得认可，巩固自身的权威，然而数据来源和数据本身却牢牢的掌控在他们手里，最后带来无可估量的损失，包括那么多的生命，这其实，就是开放数据并不能为技术官僚们带来个人的利益，那么就必然会被阻止。这也是集体行动的基础。
+ 开源成就了云计算 原文链接：Open source made the cloud in its image</description>
+    </item>
     
     <item>
       <title>专注于开源数据科学软件的非营利基金会—— NumFOCUS 的来龙去脉</title>
@@ -1794,15 +1816,12 @@ GitHub  在这方面做的相当出色，其设计的单个工具链，从修改
       <pubDate>Sat, 11 May 2019 11:01:51 +0800</pubDate>
       
       <guid>http://www.opensourceway.community/all_about_kuosi/</guid>
-      <description>基本信息   中文姓名：李建盛 网络标识： 适兕 GitHub: lijiangsheng1  当前所做的事情  X-lab 开放实验室首席开源导师 开源社教育工作组负责人 ”开源之道” 作者 “开源之道图书共读” 活动发起者 “开源之道企业培训” 主讲师 InfoQ 社区编辑 大学开源教程项目发起者、主笔  个人描述 简要描述一下自己的见解、性格：
+      <description>基本信息   中文姓名：李建盛 网络标识： 适兕 GitHub: lijiangsheng1  当前所做的事情  ”开源之道共同体” 发起人和主要成员 金融行业开源技术应用社区个人成员 Apache ALC Beijing Member 开源社 执委会成员、教育工作组 “开源之道图书共读” 活动发起者 “开源之道企业培训” 主讲师 开源之道talking 播客主播 InfoQ 社区编辑 大学开源教程项目发起者、主笔 anaconda、红旗 Linux(2006~2010) 、oVirt、openstack 等开源项目的贡献者 前X-lab 开放实验室首席开源导师、华东师范大学数据学院开源软件设计主讲师  个人描述 简要描述一下自己的见解、性格：
  开源信徒 &amp;amp; 布道师 技术作家、译者 每日至少阅读两小时 戒烟者，亦是戒酒者 尝试对自我时间进行苛刻的管理 极真空手道修行者 Google 重度依赖者 坚持撰写博客 热爱计算机技术，感谢它改变了世界，改变了我。 自认为是一个Linux、云计算领域的窥视者  职业生涯 2016 ~ 现在 职场经历：自由职业、社区贡献、UMCloud咨询顾问、QingCloud产品经理等
 思想上的转变：开源不止于技术，更深的背后的思想、文化以及方法论，并以大无畏的精神，进行了风险极高的职业转变，身体力行。撰写博客、四处演讲、参与开源组织、企业培训等，赶上了开源的黄金时代。
 2010 ~ 2015 理想主义的Team Leader 职场经历：普华基础软件、云端时代、易云捷迅等公司。
 基于开源项目的商业化路程，无论是国产化还是创业公司，理想主义、上游优先的理念的实施，经历了CloudStack、oVirt、OpenStack、KVM、Linux等项目的锤炼，自以为是的打造了一支Geek团队。
-2005~ 2010 内向的工程师 职场经历：河南日报报业集团、中科红旗技术有限公司。
-从系统管理、到技术支持、再到系统开发工程师，Linux、Shell、Python、anaconda、peacemaker等等技术的专研，让我受益匪浅。
-2002 ~ 2005 愉快的大学生涯 偶遇Linux，巧逢开源文化，自学围绕Linux的各项技术，并贪婪的阅读一切关于开源的思想和文化内容。
-出版书籍  《云落谁家？OpenStack基于场景的架构设计实践》 ISBN: 9787121276491 出版社：电子工业出版社</description>
+2005~ 2010 内向的工程师 职场经历：河南日报报业集团、中科红旗技术有限公司。</description>
     </item>
     
     <item>
@@ -2127,34 +2146,6 @@ Apache 项目在很多领域里都是成功的，这要归功于我们所遵守�
  品牌与营销：当今数字市场的创新解决方案 原文链接：Branding vs Marketing: Innovative Solutions In Today&amp;rsquo;s Digital Marketplace
 适兕点评：
  “why did I set up this brand?” “What is my purpose with my product(s) for the long term?</description>
-    </item>
-    
-    <item>
-      <title>开源之道共读图书列表（2020版）</title>
-      <link>http://www.opensourceway.community/posts/paper_or_book_reading/2020_book_lists/</link>
-      <pubDate>Fri, 15 Mar 2019 13:40:02 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/2020_book_lists/</guid>
-      <description>那些对自身所处环境缺乏知识和理解的人，通常其思想自由也会受到限制，进而就会在他们的行为选择方面产生影响。有限的知识限制了自由的思想。
-​ ———— Joel Charon 《Ten Questions： A Sociological Perspective》
- 共读之规则 本文列举的是2020年所精心选择的开源相关图书，以及如下规则：
-1. 读者可以根据自己的兴趣、问题求解、思考来选择开源相关图书 2. 读者可以自行组织共读小组（可选：撰写读后感或短评） 3. 开源之道图书共读发起人适兕会按照自己的路径进行阅读和撰写读后感，读者可自由选择是否follow 4. 读者根据自身情况组织线下交流活动，并决定是否记录当时的讨论 关于共读的初衷，以及参与方式，请看官移步：开源之道图书和文献共读申明，有更多详细的内容。
-2020 主题一：开放式组织  2020，毫无疑问仍将是开源之年，开源在协作、工程、管理、创新、经济效益方面仍将保持增长，这个季度我们不妨放开月度一本的规划，一个季度读6本小书，试试效果如何。开放式组织小书系列，
- 英文版：The Open Organization Field Guide
-此书直译为中文是：《开放组织领域指南》，是社区根据Jim Whitehurst 关于未来的工作、管理和领导力的构思加工而成。该书收集了一些非常先进的理念，有关开源之道的价值如何改变我们的工作、管理和领导力。
-英文版：The Open Organization Leaders Manual
-此书直译为中文是： 《开放组织领导者参考》，是任何想要利用开放的力量的参考手册，让自己的团队更加的透明、灵活、而且良好的协作，能够达到自下而上的任务驱动。
-开源之道推荐短评：
- 开放式组织适合于几乎所有的行业和公司，不过也需要对应的学习。
- 更多内容，请参考完整版开源之道共读导读与书评：[]()
-英文版：The Open Organization Guide to IT Culture Change
-此书直译为中文是：《转变为开放组织的文化变更指南》，顾名思义，即关于文化的变更，该书的贡献者有超过25名来自开源社区、公司企业，该书提供了这些资深人士的切身经验和实用建议，为创造一个开放的IT部分提供良好的、能够快速得到好的结果的、无与伦比的业务价值。
-英文版：The Open Organization Workbook
-此书直译为中文是：《开放组织工作手记》，该书的编写汇集了30多位专家的真知灼见，他们的角色有企业管理者、教育工作者、技术大拿、咨询师、等等。该书提供了将透明度，包容性，适应性，协作和社区原则付诸实践的具体和可行的战略。
-开源之道推荐短评：
- 请相信我，开源的文化是可以习得的，而且有方法。
- 更多内容，请参考完整版开源之道共读导读与书评：[]()
-英文版：The Open Organization Guide for Educators</description>
     </item>
     
   </channel>
