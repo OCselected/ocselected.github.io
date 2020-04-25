@@ -18,22 +18,7 @@
       <pubDate>Sun, 08 Jan 2017 11:10:40 +0800</pubDate>
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892016-01-08/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 AT&amp;amp;T 现在也成为了开源的拥泵 原文链接：Linux 基金会仍然在适应AT&amp;amp;T拥抱开源的态度
-原文链接：AT&amp;amp;T now an open source believer
-适兕点评：
- 没错，新闻和洞见应该放在一起去看。至于为什么，首先你得能够提出为什么这个问题。否则为什么要去做？
-在NFV／SDN领域，打得最凶的就是这些传统的电信供应商，我们知道在标准的制定、专利的申请方面没有哪个领域有它们那么的发达。现在它们也把思路带到了开源领域。其实，他们都是搅局者，都想一统天下。没有一个是真心解决问题的。最后都是竖井丛林。被新生代的互联网公司取代，如Google、FaceBook、Amazon进军电信供应商已经渐露端倪。
-Linux 基金会表示受宠若惊。一家代表着迂腐、官僚、臃肿的百年公司，竟然寻求开源的合作！是需要慢慢适应一段时间的。
- Hadoop创始人Doug Cutting2017新年寄语：5个让开源项目更加成功的方法 原文链接：5 Ways to Be Successful with Open-Source Software: Hadoop Creator Doug Cutting’s Advice for 2017
-适兕点评：
- 普通大众总是渴望预见未来，Linus在Linux25周年的采访中也表达过类似Doug Cutting在本文开头时表达的观点：总有人们问，下一代牛逼的技术是什么？而他们的回答，往往也令人们失望。因为他们很诚实：不知道。 是的，预测未来是件非常危险的事情。做好当下的事情，比什么都强。但是，可以不妨回顾下历史。
-开源经过了几年的发展，尤其是2016年，已经进入了企业的主流。Hadoop就更不用说了。套用Amazon中国的费总一句话就是：凡有人烟处，皆谈Hadoop（大数据的默认技术）。无论什么行业，制造商、电信、金融。然后可以通过过去做的比较好的事情，将接下来的事情捋一捋：
-  拥抱开源的不断变化和发展 当引进新的技术栈时，小步采用，自上而下的来进行 要防止那些以开源项目为由而绑架用户的公司 对于工作寻找者来说，要放眼整个开源的生态系统，而不要为了一棵树放弃整个森林 在技能的Gap中定位自己   字字珠玑！
- 2016年开源开发的法律界发生的值得记录的7件事 原文链接：7 notable legal developments in open source in 2016
-适兕点评：
- 作为China的范围，看看就好了！没有人当法律是回事。国人需要进化，需要时间，需要伤痛来治愈。雾霾就是最好的例证。
-  Google 赢了在Java API之争 的官司 Patrick McHardy 被谴责 Hellwig诉讼VMWare被驳回 美国政府颁布了联邦源代码政策 Eben Moglen 黯然离开自由软件基金会 Debian 和 Ubuntu 开始交付ZFS apache软件基金会将JSON许可给“毙”了   不要笑，无法就无天。</description>
+      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 AT&amp;amp;T 现在也成为了开源的拥泵 原文链接：Linux 基金会仍然在适应AT&amp;amp;T拥抱开源的态</description>
     </item>
     
   </channel>

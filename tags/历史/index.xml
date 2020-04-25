@@ -18,12 +18,7 @@
       <pubDate>Thu, 12 May 2016 10:39:17 +0800</pubDate>
       
       <guid>http://www.opensourceway.community/posts/opensource/milestones_in_free_and_open_source_software_history/</guid>
-      <description>原文链接：Milestones in Free and Open Source Software History, 1969-2015
-题记 今年是 Linux 内核诞生25周年，非常有必要回顾一下Linux以及相关的开源软件的历史，VAR Guy 斗胆担当起这个责任，以自己的视角切入，回顾这段历史的里程碑：从介绍 Unix 的创建开始到微软拥抱Linux为止。
-1969年，Unix 诞生 Unix，1969年诞生于 AT&amp;amp;T 贝尔实验室的操作系统，永远也不会是自由或开源的操作系统！但是它的代码被 Unix 社区的 Hacker 们自由的共享着，在20世纪80年代早期 AT&amp;amp;T 将之商业化之前，Hacker 们一直在改进它。也因为此，Unix 成为了自由和开源程序员们试图通过开放代码来复制的操作系统。因此，Unix 为开源奠定了非常重要的基础。
-1984：GNU 成立 在1983年的秋天，Richard Stallman ，MIT 人工智能实验室的资深工程师，对于软件闭源日益增长的趋势也越发的不满，于是发起了 GNU 项目。他的目标是仅使用可以自由共享的代码来构建一个 Unix 克隆的操作系统，而且必须永远的公开。绝大多数的 GNU 项目，均是 Stallman 在1984年早些时候开始构建的，它们今天依然处于自由和开源软件生态系统的中心位置。
-1985年，Stallman 创建自由软件基金会 尽管 GNU 项目创建以来，能够提供给人们自由的共享代码库了，但是直到1985年，Stallman 创办了自由软件基金会之后，自由代码的在政治维度上才站稳了脚跟。通过帮助和资助自由软件的开发，FSF 在过去的30年为 GNU 项目以及其它自由软件项目提供了重要的基础。它还是帮助自由代码和具有相同目标的社会和政治之间的纽带。
-1991, BSD Net/2 发布 1991年6月，来自加利福尼亚大学伯克利分校的开发者们发布了一款叫做 Net/2 BSD 的操作系统软件，这款软件是可以自由的重新分发的类 Unix 操作系统。关于 BSD 的开发可以追溯到上世纪70年代，在开始的时候是作为为 AT&amp;amp;T Unix 添加一些增强的功能而发起的，随后在80年代时，AT&amp;amp;T Unix 成为一商业产品，然后，BSD 的团队就开始以自由的 BSD 完全取代 AT&amp;amp;T Unix的工作了，Net/2 是 BSD 的第一个版本，基本上实现了这样一个目的。在1991年的夏天，那时的人们还没有听说过 Linux，而 GNU 的开发人员正忙于努力的创建一个内核。BSD 作为一个免费的类 Uni 操作系统，看起来是一颗冉冉升起的新星！前途无量！然而，在发布以后，由于法律上的麻烦（可以说，许多的条款太过于自由主义），BSD 以及其衍生产品从来都没有获得像 GNU／Linux 那样广泛的追随者。</description>
+      <description>原文链接：Milestones in Free and Open Source Software History, 1969-2015 题记 今年是 Linux 内核诞生25周年，非常有必要回顾一下Linux以及相关的开源软件的历史，VAR Guy 斗</description>
     </item>
     
   </channel>

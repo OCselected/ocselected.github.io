@@ -18,24 +18,7 @@
       <pubDate>Tue, 14 Apr 2020 17:32:37 +0800</pubDate>
       
       <guid>http://www.opensourceway.community/posts/opensource_talking/2020-03-29-online-reading-engineering/</guid>
-      <description>致力于开源相关思想、知识和价值的探究！ 本期值得听 工程学究竟是什么？开源软件项目和工程学的关系，以及如何定位工程师的职能？开源软件工程对于工程学的影响等。将工程学和科学、技术、管理提到并肩的程度也是没谁了！
-关键时刻 2:00 《工程学》是一本非常简单易读的书籍，已经算是精简的内容了。
-9:25 软件工程对工程学的影响和改变
-17:40 从书中读出：工程学原来是就在我的生活当中
-22：00 那些现在常见的招聘岗位是不是真正的工程师？
-29：40 码农与软件工程师的区别是什么？
-30：30 本书和开源有多大关系？开源是否就是工程学？
-40：00 软件的发展飞快，传统的工程根本无法覆盖，开源是一种必然
-45：00 开源之道解答为什么要读这本书？
-46：06 谈论开源，首要就是工程，然后才是其它。
-49：00 软件有太多的未知，工程才是能够解决的，开源被广泛接受的原因
-60：00 开源项目的失败率，具体的项目具体聊，最佳工程实践要筛选
-62:30 《工程学》 的恢弘视野，工程师必读了解的内容！比肩于另外一本经典《匠人》。
-收听  本期人物 适兕（主持人）：开源之道共同体发起人，self-employee，开源社成员，开源布道师，作家，伪开发者。
-庄表伟：华为云 DevCloud 高级产品经理，开源社理事兼执行长。
-周琦：101.camp 总布道官，蟒营™模式创始人以架构师, Pythonic 相关社区创建/运营 18+年
-Python中文社区创始人(之一) / 管理员, 热心于 Python 等等社区的公益事业, 大家熟知的社区”大妈”,O.B.P (Open Book Proj.~中文蟒样开放图书计划) 及 蟒营(PythoniCamp) 工程设计者 /主持人; 参与并主持各种线上 / 线下活动; 主持编撰了 &amp;lt;&amp;lt;可爱的Python&amp;gt;&amp;gt; 坚持用 Pythonic 感化国人进入 FLOSS世界进行学习 / 分享 / 创造…
-龚仪：富麦科技创始人&amp;amp;CEO</description>
+      <description>致力于开源相关思想、知识和价值的探究！ 本期值得听 工程学究竟是什么？开源软件项目和工程学的关系，以及如何定位工程师的职能？开源软件工程对于工程</description>
     </item>
     
     <item>
@@ -44,10 +27,7 @@ Python中文社区创始人(之一) / 管理员, 热心于 Python 等等社区�
       <pubDate>Tue, 14 Apr 2020 13:18:36 +0800</pubDate>
       
       <guid>http://www.opensourceway.community/posts/opensource_talking/2020-done-and-plan-index/</guid>
-      <description>关于【开源之道 Talking】 开源之道 talking 这款播客节目，是开源之道共同体下的一个特别项目，旨在通过 Podcast 的形式，收集、探讨业界关于开源的思想、知识、价值的见解、观点、洞见，能够让更为轻松的谈话、聊天、辩论的方式得以施展，乃布道开源之新优势也。
-除了「鼠年话开源之外」，我们会每个月选一个特别的主题，邀请特定的资深开源嘉宾，欢迎大家将自己感兴趣的主题或内容发给我们，以让我们的话题更为聚焦。
-【鼠年话开源】系列 开源之道 talking，适兕一直都在酝酿，终于在2020年的春节接着 &amp;ldquo;Community Leadership Development&amp;rdquo;的人气，开了一个良好的头：
- 鼠年话开源之一：开源开发者有何特征？ 鼠年话开源之二：商业公司如何拥抱开源共同体（Open Source Community） 鼠年话开源之三：Apache 之道在本土的障碍有哪些？还是无缝的？ 鼠年话开源之四：开源项目商业化理念与路径 鼠年话开源之五：Apache不会给其下的项目开发者发工资，那Apache是如何保证做事的专业性和持续投入的？ 鼠年话开源之六：开源共同体和开源社区是不是一回事？如果不是的话，又有何不同？ 鼠年话开源之七：社群的交流工具  【开源之道 Talking 】系列  类 Google 编程之夏能否在中国被复制？ 开源是一门工程学 ———— 图书共读交流  特别提示：正在寻找赞助商 目前开源之道Talking 仅在“喜马拉雅”开通了主播账号，仅支持Apple podcast， 需要一份资源来将现在和未来的音频放在专业的Podcast 托管平台，如Fireside。有意者请联系开源之道相关成员。</description>
+      <description>关于【开源之道 Talking】 开源之道 talking 这款播客节目，是开源之道共同体下的一个特别项目，旨在通过 Podcast 的形式，收集、探讨业界关于开源的思想、知识</description>
     </item>
     
     <item>
@@ -56,22 +36,7 @@ Python中文社区创始人(之一) / 管理员, 热心于 Python 等等社区�
       <pubDate>Fri, 13 Mar 2020 09:43:29 +0800</pubDate>
       
       <guid>http://www.opensourceway.community/posts/opensource_talking/2020-02-29-gsoc-in-china/</guid>
-      <description>致力于开源相关思想、知识和价值的探究！ 本期人物 周迪之： Synopsys公司 Coverity 程序静态分析工具团队，资深软件工程师；ns-3开发者&amp;amp;GSoC mentor / NUAA 大学暑期讲师 / 维护有“编程之夏”公众号
-欧建深： 鸿蒙开源主管
-黄向东：清华大学助理研究员，Apache IoTDB PMC。
-蒋涛：曾开发出巨人手写电脑、金山词霸、豪杰超级解霸等产品，后创立 CSDN，是全球最大的中文 IT 社区。投资了聚合数据、基调网络、Dcloud、凌云电动车、锤子科技、云中医、IT桔子、批改网、上方网、深圳湾、北京创客空间等多家公司。
-姜宁：华为开源软件中心技术专家，前红帽软件首席软件工程师，Apache软件基金会成员，Apache软件基金孵化器导师，参与了绝大多个中国发起的Apache基金会项目的孵化。本人06年开始加入到Apache社区项目开发，就被社区开放协作的氛围深深吸引，成为开源深度信徒。现在致力于开源社区建设，以及开源文化推广，尽其所能帮助国内开源项目成功。
-适兕（主持人）：开源之道共同体发起人，self-employee，开源社成员，开源布道师，作家，伪开发者。
-本期聚焦 00&amp;rsquo;30&amp;rdquo;&amp;mdash;- 03&amp;rsquo;18&amp;rdquo; 嘉宾介绍及主题敲定
-03&amp;rsquo;22&amp;rdquo;&amp;mdash;&amp;ndash; 23&amp;rsquo;28&amp;rdquo; 周迪之博士介绍 Google 编程之夏的来龙去脉，以及取得辉煌成绩背后机理
-23&amp;rsquo;40&amp;rdquo;&amp;mdash;- 35&amp;rsquo;07&amp;rdquo; 做 GSoC Mentor 是一种什么感受？ 穿插这印度的学生为何参与如此之活跃的原因、国内研究生被导师压榨现象。
-35&amp;rsquo;25&amp;rdquo; &amp;mdash;- 45&amp;rsquo;24&amp;rdquo; 从企业的角度来看 GSoC，本土的企业该如何超越？ （本土的开源现状）
-45&amp;rsquo;30&amp;rdquo; &amp;mdash;- 62&amp;rsquo;10&amp;rdquo; 国内的高校真实现状，学生嗷嗷待哺，对开源有强烈的愿望，可是缺乏必要的指导。高校教师也需要接受开源文化。穿插企业应该思考那部分人群，成功案例。
-62&amp;rsquo;15&amp;rdquo; &amp;mdash;- 67&amp;rsquo;00 没有人承认中国的开源是落后的。都在着急的辩护。
-72&amp;rsquo;25&amp;rdquo; &amp;ndash; 79&amp;rsquo;00 在本土缺乏开源组织的情况下，如何才可能达到GSoC 在企业、开源、高校之间的平衡？
-收听  Apple Podcast 订阅地址：http://www.ximalaya.com/album/32915040.xml
-讨论中的相关链接 暂无
-关于开源之道 Talking 开源之道 talking 这款播客节目，是开源之道共同体下的一个特别项目，旨在通过Podcast的形式，收集、探讨业界关于开源的思想、知识、价值的见解、观点、洞见，能够让更为轻松的谈话、聊天、辩论的方式得以施展，乃布道开源之新优势也。</description>
+      <description>致力于开源相关思想、知识和价值的探究！ 本期人物 周迪之： Synopsys公司 Coverity 程序静态分析工具团队，资深软件工程师；ns-3开发者&amp;amp;G</description>
     </item>
     
     <item>
@@ -80,15 +45,7 @@ Python中文社区创始人(之一) / 管理员, 热心于 Python 等等社区�
       <pubDate>Mon, 10 Feb 2020 11:40:17 +0800</pubDate>
       
       <guid>http://www.opensourceway.community/posts/opensource_talking/2020-02-10-what-is-good-communition-tool/</guid>
-      <description>致力于开源相关思想、知识和价值的探究！ 春节期间，由开源之道共同体旗下 Community Leadeship Development 小组组织了一场「鼠年话开源」系列播客，本期是由开源社理事兼执行长庄表伟发起并主持，开源之道借光发布的第七弹，（「鼠年话开源」最后一期，顺序是大年初七，1.31日，全国疫情隔离整一周零二天）。
-本期话题  工具的演变，是否有某种发展趋势，比如：越是GUI的工具，越是容易替代字符界面的工具？ 工具的演变趋势，是否有可能预测？ 未来的工具，你期望是什么形态的？ 交流工具  收听  Apple Podcast 订阅地址：http://www.ximalaya.com/album/32915040.xml
-讨论中的相关链接 我们的奋起宣言 RouseChina - Woodpecker Wiki for CPUG
-登场人物 庄表伟（主持人）：华为云 DevCloud 高级产品经理，开源社理事兼执行长。
-周琦：101.camp 总布道官，蟒营™模式创始人以架构师, Pythonic 相关社区创建/运营 18+年
-Python中文社区创始人(之一) / 管理员, 热心于 Python 等等社区的公益事业, 大家熟知的社区”大妈”,O.B.P (Open Book Proj.~中文蟒样开放图书计划) 及 蟒营(PythoniCamp) 工程设计者 /主持人; 参与并主持各种线上 / 线下活动; 主持编撰了 &amp;lt;&amp;lt;可爱的Python&amp;gt;&amp;gt; 坚持用 Pythonic 感化国人进入 FLOSS世界进行学习 / 分享 / 创造…
-其余客串或旁听：姜宁、李维、吴晟、适兕等
-关于开源之道 Talking 开源之道 talking 这款播客节目，是开源之道共同体下的一个特别项目，旨在通过Podcast的形式，收集、探讨业界关于开源的思想、知识、价值的见解、观点、洞见，能够让更为轻松的谈话、聊天、辩论的方式得以施展，乃布道开源之新优势也。
-除了「鼠年话开源之外」，我们会每个月选一个特别的主题，邀请特定的资深开源嘉宾，欢迎大家将自己感兴趣的主题或内容发给我们，以让我们的话题更为聚焦。</description>
+      <description>致力于开源相关思想、知识和价值的探究！ 春节期间，由开源之道共同体旗下 Community Leadeship Development 小组组织了一场「鼠年话开源」系列播客，本期是由开源社理事兼执行长庄</description>
     </item>
     
     <item>
@@ -97,16 +54,7 @@ Python中文社区创始人(之一) / 管理员, 热心于 Python 等等社区�
       <pubDate>Sun, 09 Feb 2020 12:31:11 +0800</pubDate>
       
       <guid>http://www.opensourceway.community/posts/opensource_talking/2020-02-09-what-is-open-source-community/</guid>
-      <description>致力于开源相关思想、知识和价值的探究！ 春节期间，由开源之道共同体旗下 Community Leadeship Development 小组组织了一场「鼠年话开源」系列播客，本期是由101.camp 创始人周琦（人称大妈）发起并主持，开源之道借光发布的第六弹，（顺序是大年初六，1.30日，全国疫情隔离整一周零一天）。
-本期话题 本期节目里我们聊到了以下主题：
- 什么是开源共同体？ 请每个人解释一下“开源社区” Open Source Community 翻译为开源共同体是不是新翻译？或发明新名词？ 开源共同体的提出引发了众多人的质疑和反对 中国的语境为何需要沥青？  收听  Apple Podcast 订阅地址：http://www.ximalaya.com/album/32915040.xml
-讨论中的相关链接 Open Organzation workbook 电子版
-拥抱开源，需要跨越那些鸿沟？ ————《Open Life —— 有关开源的哲学》读后感 
-关 乎社群:1 什么是社区? | DevRel | 开发者关系.思考
-关 乎社群:2 什么是技术社区? | DevRel | 开发者关系.思考
-Community Leadership Development 是什么？做什么？
-登场人物 周琦（主持人）：101.camp 总布道官，蟒营™模式创始人以架构师, Pythonic 相关社区创建/运营 18+年
-Python中文社区创始人(之一) / 管理员, 热心于 Python 等等社区的公益事业, 大家熟知的社区”大妈”,O.B.P (Open Book Proj.~中文蟒样开放图书计划) 及 蟒营(PythoniCamp) 工程设计者 /主持人; 参与并主持各种线上 / 线下活动; 主持编撰了 &amp;lt;&amp;lt;可爱的Python&amp;gt;&amp;gt; 坚持用 Pythonic 感化国人进入 FLOSS世界进行学习 / 分享 / 创造…</description>
+      <description>致力于开源相关思想、知识和价值的探究！ 春节期间，由开源之道共同体旗下 Community Leadeship Development 小组组织了一场「鼠年话开源」系列播客，本期是由101.camp 创始</description>
     </item>
     
     <item>
@@ -115,16 +63,7 @@ Python中文社区创始人(之一) / 管理员, 热心于 Python 等等社区�
       <pubDate>Fri, 07 Feb 2020 19:52:00 +0800</pubDate>
       
       <guid>http://www.opensourceway.community/posts/opensource_talking/2020-02-07-motivation-beyond-of-money/</guid>
-      <description>致力于开源相关思想、知识和价值的探究！ 春节期间，由开源之道共同体旗下 Community Leadership Development 小组组织了一场「鼠年话开源」系列播客，本期是由Apache member 姜宁发起并主持，开源之道借光发布的第五弹，（顺序是大年初五，1.29日，全国疫情隔离整一周）。
-话题由来 在开源社区，直接的物质激励的作用很小，在社区中其他的短期长期的非物质激励扮演了很重要的角色，本次夜话就是想结合开源社区运作特点讨论一下这些非物质激励有哪些，为什么这些激励能够长效的支持很多专业人士提供高质量的专业服务。
-本期话题 本期节目里我们聊到了以下主题：
- 开源开发者的内在激励与外在激励有哪些？ 长期激励与短期激励结合下带来的后果是怎样？ 如何强化这些正向的激励？ 同级评审，（peer review）未来的职业提升 开源社区的评价体系 Meritocracy 学习共同体 软件开发可以通过开源而更容易获得反馈。  收听  ​ Apple Podcast 订阅地址：http://www.ximalaya.com/album/32915040.xml
-讨论中的相关链接  姜宁在主持之前提纲: https://shimo.im/docs/V6dvygpYhR3JYjDx 开源之道图书共读《开放与共享》书评 更多Apache的哲学请访问：Apache 之道，开源可持续成功的籍。  登场人物 姜宁（主持人）：华为开源软件中心技术专家，前红帽软件首席软件工程师，Apache软件基金会成员，Apache软件基金孵化器导师，参与了绝大多个中国发起的Apache基金会项目的孵化。本人06年开始加入到Apache社区项目开发，就被社区开放协作的氛围深深吸引，成为开源深度信徒。现在致力于开源社区建设，以及开源文化推广，尽其所能帮助国内开源项目成功。
-堵俊平：腾讯开源联盟主席，有近十年的开源社区项目的开发和管理经验。目前是Apache软件基金会Member, 担任多个项目（包括：Hadoop, Incubator, Submarine等）的PMC以及多个项目（如TubeMQ, YuniKorn）的导师，他同时还是Linux AI基金会技术委员会（TAC）委员，以及ACUMOS项目的TSC技术顾问。
-适兕：开源之道共同体发起人，self-employee，开源社成员，开源布道师，作家，伪开发者。
-其余客串或旁听：Peter 陈哲、刘洁、李维、吴晟等
-关于开源之道 Talking 开源之道 talking 这款播客节目，是开源之道共同体下的一个特别项目，旨在通过Podcast的形式，收集、探讨业界关于开源的思想、知识、价值的见解、观点、洞见，能够让更为轻松的谈话、聊天、辩论的方式得以施展，乃布道开源之新优势也。
-除了「鼠年话开源之外」，我们会每个月选一个特别的主题，邀请特定的资深开源嘉宾，欢迎大家将自己感兴趣的主题或内容发给我们，以让我们的话题更为聚焦。</description>
+      <description>致力于开源相关思想、知识和价值的探究！ 春节期间，由开源之道共同体旗下 Community Leadership Development 小组组织了一场「鼠年话开源」系列播客，本期是由Apache member 姜宁发</description>
     </item>
     
     <item>
@@ -133,30 +72,7 @@ Python中文社区创始人(之一) / 管理员, 热心于 Python 等等社区�
       <pubDate>Fri, 07 Feb 2020 09:42:46 +0800</pubDate>
       
       <guid>http://www.opensourceway.community/posts/opensource_talking/2020-02-06-business-and-open-source/</guid>
-      <description>致力于开源相关思想、知识和价值的探究！ 春节期间，由开源之道共同体旗下 Community Leadeship Development 小组组织了一场「鼠年话开源」系列播客，本期是由社会人科技评论主持并剪辑发布，开源之道借光发布的第四弹，（社会人科技评论第二期，顺序是大年初八最后一夜）。
-本期话题 本期节目里我们聊到了以下主题：
- 现实世界中证明过可行的开源项目商业化
- 在中国互联网中可行的开源项目商业化
- 一般初创开源团队值得尝试的商业化路径
- 投资人的视角下是如何看待开源与技术公司的？
- 希望国际化的开源项目有哪些 Tips？
- 反思: 为什么中国互联网世界中, 几乎没有开源商业化成功的案例?
- 2020 年投资人都在看哪方面的开源项目？
-   《社会人科技评论》网址：http://techreview.social
-讨论中的相关链接 晨兴资本
-CSDN
-极客帮创投
-GAAS GitHub
-We Want to Invite You to Build Flying Cars with Us, No Kidding
-OSS.captial
-PingCAP
-apisix
-微服务 API 管理平台 iResty
-涛思数据
-本期登场人物 陈哲 Peter：晨兴资本副总裁，曾就职于Google，BlackBerry，担任高级工程师。专注智能制造、人工智能及黑科技领域。
-蒋涛：曾开发出巨人手写电脑、金山词霸、豪杰超级解霸等产品，后创立 CSDN，是全球最大的中文 IT 社区。投资了聚合数据、基调网络、Dcloud、凌云电动车、锤子科技、云中医、IT桔子、批改网、上方网、深圳湾、北京创客空间等多家公司。
-温铭：支流科技联合创始人，Apache APISIX PPMC。
-汉洋：《社会人科技评论》主播，开源全自主飞行软件 GAAS 创始人：https://github.</description>
+      <description>致力于开源相关思想、知识和价值的探究！ 春节期间，由开源之道共同体旗下 Community Leadeship Development 小组组织了一场「鼠年话开源」系列播客，本期是由社会人科技评论主持并</description>
     </item>
     
     <item>
@@ -165,13 +81,7 @@ apisix
       <pubDate>Wed, 05 Feb 2020 21:42:46 +0800</pubDate>
       
       <guid>http://www.opensourceway.community/posts/opensource_talking/2020-02-05-is-apache-way-worked-in-china/</guid>
-      <description>致力于开源相关思想、知识和价值的探究！ 欢迎大家来到开源之道 talking，本次节目也是鼠年话开源第三期，参与者来自 Apache 资深成员，本期的话题是apache之道和本土文化是否有冲突？还是无缝融合？亦或是中间存在Gap，需要我们去搭桥或弥补？
-开源之道 talking 这款播客节目除了鼠年话开源之外，我们会每个月选一个特别的主题，邀请特定的资深开源嘉宾，欢迎大家将自己感兴趣的主题或内容发给我们，以让我们的话题更为聚焦。
-本期话题概述 2019年初，Apache 基金会终于发布了一篇关于诠释Aapche之道的文章，开源之道也第一时间认领了翻译的任务，并首发开源社，并得到了很多关心Apache 之道的开源圈的人的呼应和反馈，文章的题目是：Apache 之道，开源可持续成功的秘籍。基于这个再看Apache 20年的年度报告，对于它的成绩也就没什么大惊小怪。
-另外一个就是一名来自印度的研究生 Sharan Foga 的论文：《Transmission of Values and Culture in Open Source 》，用大数据分析邮件列表的方式说明中国的文化是完全适应Apache Way的。这个结论对于我来说是有违直觉的，看年度报告，中国是下载量最大的地方，但是贡献者和 commiter 是不成比例的。
-基于这样一个话题，我们请来了资深的 Apache Member ，听听有什么真知灼见！Apache 之道究竟是否符合本土？
-登场人物 姜宁：华为开源软件中心技术专家，前红帽软件首席软件工程师，有十五年企业级开源中间件开发经验，有丰富的 Java 开发和使用经验，函数式编程爱好者。从 2006 年开始一直从事 Apache 开源中间件项目的开发工作，先后参与 Apache CXF， Apache Camel，Apache ServiceMix，以及Apache ServiceComb的开发。对微服务架构，WebServices，Enterprise Integration Pattern，SOA， OSGi 有比较深入的研究。
-吴晟：Founding Engineer at Tetrate. And lead the Apache open source APM/Observability analysis platform project, SkyWalking, which has been included in cncf cloud native landscape.</description>
+      <description>致力于开源相关思想、知识和价值的探究！ 欢迎大家来到开源之道 talking，本次节目也是鼠年话开源第三期，参与者来自 Apache 资深成员，本期的话题是a</description>
     </item>
     
     <item>
@@ -180,10 +90,7 @@ apisix
       <pubDate>Tue, 04 Feb 2020 11:22:48 +0800</pubDate>
       
       <guid>http://www.opensourceway.community/posts/opensource_talking/2020-02-03-business-embrave-osc/</guid>
-      <description>本期简介 登场人物 汉洋：航空类开源项目 GAAS 创始人：https://github.com/generalized-intelligence/GAAS
-堵俊平：腾讯开源联盟主席，有近十年的开源社区项目的开发和管理经验。目前是Apache软件基金会Member, 担任多个项目（包括：Hadoop, Incubator, Submarine等）的PMC以及多个项目（如TubeMQ, YuniKorn）的导师，他同时还是Linux AI基金会技术委员会（TAC）委员，以及ACUMOS项目的TSC技术顾问。
-姜宁：华为开源软件中心技术专家，前红帽软件首席软件工程师，有十五年企业级开源中间件开发经验，有丰富的 Java 开发和使用经验，函数式编程爱好者。从 2006 年开始一直从事 Apache 开源中间件项目的开发工作，先后参与 Apache CXF， Apache Camel，Apache ServiceMix，以及Apache ServiceComb的开发。对微服务架构，WebServices，Enterprise Integration Pattern，SOA， OSGi 有比较深入的研究。
-吴晟：Founding Engineer at Tetrate. And lead the Apache open source APM/Observability analysis platform project, SkyWalking, which has been included in cncf cloud native landscape. Be a PMC member of Apache Incubator. Take part in Zipkin Apache and ShardingSphere as a PMC member.</description>
+      <description>本期简介 登场人物 汉洋：航空类开源项目 GAAS 创始人：https://github.com/generalized-intelligence/GAA</description>
     </item>
     
     <item>
@@ -192,11 +99,7 @@ apisix
       <pubDate>Sun, 02 Feb 2020 21:05:45 +0800</pubDate>
       
       <guid>http://www.opensourceway.community/posts/opensource_talking/2020-02-02-open-source-developer/</guid>
-      <description>为什么要聊这个话题？ 在疫情肆虐的中华大地，实行了隔离，春节期间不可以走街串坊，于是 Community Leadership Development 小组的人们自动发起了这个“鼠年话开源”节目，开源之道作者适兕发起了第一期，聊聊开源的开发者有何特征，如果这些改变世界的人有什么文化特色的话，我们是不是可以培养更多？或者是寻找到更多?进而融入这个开源的滚滚大潮之中！
-听！这些资深的开源圈的人能聊出点啥。
- Shownote 本次 talking 探讨了以下几点内容：
- 主持人为什么要发起这个话题？ 鸿蒙开源主管对于开源开发者的调查与发现 DevCloud 产品经理又对开源开发者有何观点? 是不是开源的开发者在价值观上有一些可以挖掘的个性？ 从“社会学”的角度是否能够得出一些宏观上的数据？  订阅 Apple Podcost 用户请复制RSS 种子：http://www.ximalaya.com/album/32915040.xml
-其它平台，敬请期待。</description>
+      <description>为什么要聊这个话题？ 在疫情肆虐的中华大地，实行了隔离，春节期间不可以走街串坊，于是 Community Leadership Development 小组的人们自动发起了这个“鼠年话开源”节目，开源之道</description>
     </item>
     
   </channel>

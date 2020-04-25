@@ -18,16 +18,7 @@
       <pubDate>Thu, 11 Apr 2019 15:09:55 +0800</pubDate>
       
       <guid>http://www.opensourceway.community/posts/opensource_and_university/the_story_of_opensource_in_high_school/</guid>
-      <description>引言 我去年分别在苏州大学和郑州大学做过演讲分享，试图从就业方向入手来向同学们解释，开源有助于他们的就业。这是我主观的以为现在的学生比较关心未来的就业，因为这是媒体经常称道，也是和同学们打交道的时候，被问的最多的问题。但是演讲之后，并没有同学和我作交流，所以也就没有收集到任何有用的反馈。
-布道这件事，恐慌的莫过于，没人搭理。正负的反馈均有效，最糟糕的情况就是没有人搭理。
-今年索性就驻扎在高校，尽可能的布道开源，让学生们有一个选择的机会。这不，又要开始在高校搞开源相关的活动了，我这次该布道点什么了呢？
- 「人在教中學習。」—羅馬哲學家 塞尼加
- 恰好近期读到了关于CROSS的故事，于是灵机一动，不妨就谈下大学里的开源故事。每个人都喜欢好的故事，好的故事不仅容易让人理解，而且可能会引起人们的兴趣。
-既然是故事，不妨一个一个来讲：
-FreeBSD 和 Bill Joy 上世纪60年代，Unix诞生于Bell实验室，在1973年11月，Ken Thompson 和 Dennis Ritchie 在操作系统原理研讨会上发表了关于Unix的第一篇论文，当时也在会场的Bob Fabry 对该系统非常的感兴趣，并将之带回伯克利。并在伯克利开始了Unix的开发，随后，1975年 Ken Thompson决定在他的母校加州大学伯克利分校担任客座教授，为期一年。 Thompson和Jeff Schriebman以及Bob Kridle在新安装的11/70上推出了最新的Unix版本 6。
-同年秋天，伯克利来了两名研究生，即Bill Joy 和 Chuck Haley，开始Unix 6 下工作，如Pascal编译器、ed编辑器等，在1976年，Thompson 离开了伯克利，Bill Joy 也转向了 Unix的内核。之后，他们专门为自己改进的Unix版叫“Berkeley Software Distribution”，即伯克利软件分发版，简称BSD，从此便落地生根了，直到现在，BSD 仍然是很多领域重要的操作系统，如 MacOS、Juniper交换机等。
-这个故事的主人翁便是 Bill Joy，被人们称之为天才的开发者，1971年，Joy 以优异的成绩考取了密西根大学，那时他只有17岁，Joy 在这一年迷上了计算机，在整个大学生涯中，Joy都在学习编程，用他自己的话说就是：
- I lived in the north campus, and the Computer Center was in the north campus, How much time did I spend there?</description>
+      <description>引言 我去年分别在苏州大学和郑州大学做过演讲分享，试图从就业方向入手来向同学们解释，开源有助于他们的就业。这是我主观的以为现在的学生比较关心未</description>
     </item>
     
   </channel>
