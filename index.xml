@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 14 Apr 2020 17:32:37 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2020 09:41:42 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源哲学在开放城市中的良好应用 ———— 2020 世界阅读日读后感</title>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/review_the_foundation_of_open_source_city/</link>
+      <pubDate>Sat, 25 Apr 2020 09:41:42 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/review_the_foundation_of_open_source_city/</guid>
+      <description>引言 笔者在读到《重塑发现：网络化科学的新时代》一书时，被一句话震撼到了，那就是我经常引用的：
+ 维基百科不是一部百科全书。它是一座虚拟城市，这座城市对世界的主要贡献就是上面的百科文章，不过这座城市本身也有自己的内部生活。这所有的页面——交流页面、&amp;hellip;&amp;hellip;、共同体页面和文章页面——都反映了维基百科内部的关键任务，并帮助运行一部百科全书这样庞大的工作拆分成了许多更小的任务。而且，正如一座运转良好的真实城市一样，这种分工并不是某个中央委员会能够提前决定的，它是根据维基百科”居民“——维基百科的编辑者们——的需要和欲望而有组织地涌现出来的。
+​ ———— [美]迈克尔·尼尔森（Michael Nielsen）
+ 进而想到，构建一个专业的共同体，不就是在打造一个适宜人居住的”城市“吗？在这方面的想象力呈现的绝佳代表之作，就是动画电影《无敌破坏王2：大闹互联网》。
+于是，开源共同体的轮廓就慢慢的在我的脑海中开始呈现了，这里有分工、有协作、有沟通、有议事、有决策、有财务、有用户、有坏蛋、有目标、有原则，这是一个简化了的社会，一个由专业的、特定的个人组成的群体，他们经常聚会到互联网世界的”城市”，这个城市的“建筑”有：GitHub、Slack、Mail-list、YouTube、Twitter、StackOverflow&amp;hellip;&amp;hellip;
+那么它的原则是？这正是本文所要描述的这本：《The foundation for an open source city》，开源的哲学思想在城市的应用。
+作者介绍 我们可以适当使用较为正式的格式来介绍下作者，作者的名字叫做Jason Hibbets，在开源圈内很少有人不知道他的，他最为让人熟知（笔者臆断）的应该是在opensource.com做 Community Manger，非常活跃的开源倡导者。
+Jason 于 2003年加入红帽，到现在仍然在红帽工作，在Corporate Marketin部做项目经理，也非常的能写，经常撰稿。他毕业于北卡罗莱纳州立大学，住在北卡罗莱纳的 Raleigh，在那里他已经将开源原则应用于 Raleigh 的共同体组织好几年了，强调了透明度、协作和共同体建设的重要性。在他的业余时间，他喜欢冲浪、园艺、看足球、为本地政府做事、在southwestraleigh.com 上写博客、将他的边境牧羊犬训练成叼盘侠。他会在每年的飓风季节前往北卡罗莱纳州海滩—— 乘风破浪。
+和所有开源人一样，联系方式不介意公开：
+ Website: http://hibbets.net/ Twitter: @jhibbets Email: jason@hibbets.net  图书内容梗概 本书内容浅显易懂，其中涵盖了不少作者原来发表在opensource.com上的文章，然后类似于串珍珠的方式将之串起来，颇有娓娓道来叙述故事的感觉。
+全书分为7章，下面笔者就其内容分别做些介绍：
+介绍 作者交待了本书的思想源头，以及目的，言简意赅的说明了本书：笔者自身的经历——软件、共同体、政府，利用开源的思想原则获得了什么！尤其是开放城市 —— Raleigh 的经历，并分享给大家。
+第一章：定义 本章内容清晰明了：什么是开源？什么是开放数据？什么是开放政府？诠释开源时使用的比喻和说明非常的到位，值得大家学习和借鉴。
+不过这章除了诠释这些概念之外还有贯穿全书的一个开源原则：
+ For me, open source is more that just software development. It’s a philosophy, a culture, and a framework for how to work collaboratively.</description>
+    </item>
     
     <item>
       <title>Episode 9:开源是一门工程学 ———— 图书共读交流</title>
@@ -2114,23 +2137,6 @@ Michale Young 在1958年创造了“Meritocracy”这个词，他可能从来没
 开源开发者的治理能力重要否？ 作者在书中最后给出了乐观的结论：“几乎所有人都能变成优秀的匠人”，并论证了一些能力的培养，其中一段话，我比较有感慨：
  托马斯.杰斐逊认为美国的农民或者熟练工匠可以成为民主的中坚，也是出于相同的理由；这些劳动人民能够判断政府建设的好不好，因为他们明白建设是怎么回事。
  2019年5月底，由于美国政府签署制裁华为事件，导致中国的开发者一阵恐慌，其实去年的中兴事件也恐慌过一阵子，这不得不引出有心人的深思。开源让中国的现代化具备了同步的条件，这点我在历史的维度 —— 开源、拿来主义与自主可控的历史对比一文中作为深刻的总结，但是，本土的开发者并不在乎开源本身的治理问题，诸如社区建设、基金会治理、法律完善、商业生态、可持续性等等进行积极的探讨与推进，而是将开放源代码视为成熟的制品，刻舟求剑的使用和fork，完全没有将自己置为一个世界中，而仍然处于乾隆时期的堂堂中华上国的自我欺骗当中。</description>
-    </item>
-    
-    <item>
-      <title>中国的开发者非常惧怕毛衣战会让他们失去开源；Kubernetes 5周年，总结下其五大成就；Google 投资开源硬件lowRISC；GitHub 推出赞助商计划，可以让用户以现金的方式回馈开源项目；Linux基金会组织了城市计算基金会以支持智慧城市；Google 暂停与华为的一切业务往来；Juniper 是如何拥抱开源的；无处不在的开源，你的维护策略是什么？企业开源的优势背后是什么？在数据库领域，开源改变甚大，但是云计算对其的影响更大；卡内基梅隆大规模开源计划背后的领导者的采访；</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-26/</link>
-      <pubDate>Sun, 26 May 2019 11:38:05 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-26/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！
-文章点评 中国的开发者非常惧怕毛衣战会让他们失去开源 原文链接：Chinese developers fear losing open source tech to trade war
-适兕点评：
- 来自 Abacus 的驻香港记者Masha Borak报道了近日发生在国内的开发者集体恐惧事件。一叶落而知天下秋，可知道当今的开发者对于开源项目的依赖程度是有多么的严重。但是从另外一个角度来讲，中国的开发者严重的自信不足！ 要知道参与开源，具备Fork的能力才是立足之本、谈判之本，这个时候我想引用极真空手道的创始人大山倍达总裁的话：Without power，Justice is just word。
-身为亲身经历者，我能感受到开发者们那种发自内心的恐惧！！ 这篇文章基本上是中肯的，尽管它错误的引用了一些根本不懂开源的人的话。
- GitHub 推出赞助商计划，可以让用户以现金的方式回馈开源项目 原文链接：GITHUB ‘SPONSORS’ NOW LETS USERS BACK OPEN SOURCE PROJECTS
-原文链接：GitHub Sponsors wants to see open source developers get paid, but there&amp;rsquo;s a better way
-适兕点评：
- 来自《连线》的社论，文章结构非常的精彩，开源之道向来推崇。 该文从GitHub CEO的宣讲讲起，并引用了RedMonk分析师James Governor 和 著名Vim开发者Fatih Arslan的评价，进而评述整个事件。这个赞助很关键，也许铜臭味道重了些，但是是可持续性的不错的尝试。正如文中所言，它不仅仅是个道德的问题：Making sure open source developers get paid isn&amp;rsquo;t just a moral issue.</description>
     </item>
     
   </channel>
