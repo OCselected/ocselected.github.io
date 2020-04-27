@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 14 Apr 2020 12:58:53 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2020 10:43:25 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如何采用复制粘贴开源代码大法被辞掉的方法；Drupal 创始人谈开源；等，开源之道一周精选2020 04 26</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-04-26/</link>
+      <pubDate>Tue, 21 Apr 2020 10:43:25 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-04-26/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 文章点评 ![]() 重新思考数字化转型 原文链接：RETHINKING DIGITAL TRANSFORMATION：New Data Examines the Culture</description>
+    </item>
     
     <item>
       <title>开源之道已被证明是开发软件的最佳解决方式；开源的四大发明，等开源之道一周精选2020 04 19</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-15/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 为什么人们不喜欢只有一家供应商运营的开源项目 原文链接：Why you really don&amp;rsquo;t want just one vendor running an open source project 适兕</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 07 08)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-08/</link>
-      <pubDate>Tue, 10 Jul 2018 08:40:26 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-08/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 SUSE 再易主，这次价值达25亿美金 原文链接：Micro Focus sells off chunk of business to EQT for $2.5bn 适兕点评： 开源是如</description>
     </item>
     
   </channel>
