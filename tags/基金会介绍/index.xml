@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 07 Apr 2020 11:43:19 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 11:43:45 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%8B%E7%BB%8D/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>商业公司主导下的非营利开源软件基金会之 ———— Eclipse 的成长和发展</title>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/eclipse-introduce/</link>
+      <pubDate>Tue, 07 Apr 2020 11:43:45 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/eclipse-introduce/</guid>
+      <description>成为由个人和组织所组成的共同体通力协作打造商业友好的开源项目的领导者。 ​ ———— Eclipse 愿景 Eclipse Theia 1.0 发布，剑指微软 VS Code 前一阵子，Eclipse 基金会</description>
+    </item>
     
     <item>
       <title>专注于开源数据科学软件的非营利基金会—— NumFOCUS 的来龙去脉</title>
