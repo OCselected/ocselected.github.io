@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 14 Feb 2020 12:16:15 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 11:12:02 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%85%B1%E5%90%8C%E4%BD%93%E9%A2%86%E5%AF%BC%E5%8A%9B%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CHAOSS 成立亚太地区共同体及探讨周期公布</title>
+      <link>http://www.opensourceway.community/posts/community_leadership_development/establish-asia-pacific-chaoss-community/</link>
+      <pubDate>Thu, 30 Apr 2020 11:12:02 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/community_leadership_development/establish-asia-pacific-chaoss-community/</guid>
+      <description>引言 去年开源之道的适兕，写了一篇文章：开源软件项目的定性和定量分析指标 ———— CHAOSS 指标解析](posts/community_leadersh</description>
+    </item>
     
     <item>
       <title>Community Leadership Development 日常探讨之：如何吸引运营人员参与开源社区？</title>

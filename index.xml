@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 25 Apr 2020 09:41:42 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 11:12:02 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CHAOSS 成立亚太地区共同体及探讨周期公布</title>
+      <link>http://www.opensourceway.community/posts/community_leadership_development/establish-asia-pacific-chaoss-community/</link>
+      <pubDate>Thu, 30 Apr 2020 11:12:02 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/community_leadership_development/establish-asia-pacific-chaoss-community/</guid>
+      <description>引言 去年开源之道的适兕，写了一篇文章：开源软件项目的定性和定量分析指标 ———— CHAOSS 指标解析](posts/community_leadersh</description>
+    </item>
     
     <item>
       <title>开源哲学在开放城市中的良好应用 ———— 2020 世界阅读日读后感</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-09/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 微软不再是开源的敌人，已经赢得了怀疑论者的信任 原文链接：Open-Source ‘Grea</description>
-    </item>
-    
-    <item>
-      <title>打造精英式开放组织：知易行难</title>
-      <link>http://www.opensourceway.community/posts/the_way_of_open_source/build_a_positive_meritocracy/</link>
-      <pubDate>Fri, 07 Jun 2019 16:19:08 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/the_way_of_open_source/build_a_positive_meritocracy/</guid>
-      <description>引言 著名基于开源项目做商业的公司红帽，其首席执行官前几年写了一本书叫做《开放式组织》，而且由此书而延伸出一系列的实践，试图在开放源代码社区、</description>
     </item>
     
   </channel>

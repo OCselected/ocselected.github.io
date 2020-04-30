@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 25 Apr 2020 09:41:42 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 11:12:02 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CHAOSS 成立亚太地区共同体及探讨周期公布</title>
+      <link>http://www.opensourceway.community/posts/community_leadership_development/establish-asia-pacific-chaoss-community/</link>
+      <pubDate>Thu, 30 Apr 2020 11:12:02 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/community_leadership_development/establish-asia-pacific-chaoss-community/</guid>
+      <description>引言 去年开源之道的适兕，写了一篇文章：开源软件项目的定性和定量分析指标 ———— CHAOSS 指标解析](posts/community_leadersh</description>
+    </item>
     
     <item>
       <title>开源哲学在开放城市中的良好应用 ———— 2020 世界阅读日读后感</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/paper_or_book_reading/the-craftsman-book-review/</guid>
       <description>何以解忧？唯有工作。 &amp;ndash; 《匠人》一书的扉页上如是写 引言 Linux 操作系统和分布式版本控制系统Git的创始人Linus Torvalds 在 Ted 的访谈中，当谈及代码的坏味道</description>
-    </item>
-    
-    <item>
-      <title>中国的开发者非常惧怕毛衣战会让他们失去开源；Kubernetes 5周年，总结下其五大成就；Google 投资开源硬件lowRISC；GitHub 推出赞助商计划，可以让用户以现金的方式回馈开源项目；Linux基金会组织了城市计算基金会以支持智慧城市；Google 暂停与华为的一切业务往来；Juniper 是如何拥抱开源的；无处不在的开源，你的维护策略是什么？企业开源的优势背后是什么？在数据库领域，开源改变甚大，但是云计算对其的影响更大；卡内基梅隆大规模开源计划背后的领导者的采访；</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-26/</link>
-      <pubDate>Sun, 26 May 2019 11:38:05 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-26/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 中国的开发者非常惧怕毛衣战会让他们失去开源 原文链接：Chinese developers fear losing open source tech to trade war 适兕</description>
     </item>
     
   </channel>
