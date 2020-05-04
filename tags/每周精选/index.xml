@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 21 Apr 2020 10:43:25 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2020 18:44:49 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3/5 的开发者为开源做贡献；如何为基于云计算的开源软件服务评估价值；等，开源之道一周精选2020 05 03</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-05-03/</link>
+      <pubDate>Mon, 27 Apr 2020 18:44:49 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-05-03/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 文章点评 如何按照开源的八项（未成文）规则进行 原文链接：How to play by the eight (unwritten) rules of open source 适兕点评： Get to know the community and the</description>
+    </item>
     
     <item>
       <title>如何采用复制粘贴开源代码大法被辞掉的方法；Drupal 创始人谈开源；等，开源之道一周精选2020 04 26</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-22/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 汽车业需要拥抱开源 原文链接：The car industry needs to embrace open source 适兕点评： For developers, finding new ways to work more efficiently by embracing the open source model</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 07 15)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-15/</link>
-      <pubDate>Sun, 15 Jul 2018 09:17:14 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-07-15/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 为什么人们不喜欢只有一家供应商运营的开源项目 原文链接：Why you really don&amp;rsquo;t want just one vendor running an open source project 适兕</description>
     </item>
     
   </channel>
