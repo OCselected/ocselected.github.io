@@ -49,6 +49,15 @@
     </item>
     
     <item>
+      <title>商业公司主导下的非营利开源软件基金会之 ———— Cloud Foundry 基金会简史</title>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/the-brief-history-of-cloud-foundry-foundation/</link>
+      <pubDate>Tue, 14 Apr 2020 12:34:57 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/the-brief-history-of-cloud-foundry-foundation/</guid>
+      <description>为什么 OpenShift 没有成立基金会？ 平台即服务（PaaS)，在容器之前的时代，竞争格局还是非常激烈的，尤其是中间件的市场，那么为什么 Spring 选择了成立基金会，</description>
+    </item>
+    
+    <item>
       <title>商业公司主导下的非营利开源软件基金会之 ———— Eclipse 的成长和发展</title>
       <link>http://www.opensourceway.community/posts/foundation_introduce/eclipse-introduce/</link>
       <pubDate>Tue, 07 Apr 2020 11:43:45 +0800</pubDate>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-07/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 为什么聪明的工程师会写一些坏的代码 原文链接：Why smart engineers write bad code 适兕点评： 微软资深工程师，2</description>
-    </item>
-    
-    <item>
-      <title>开源的黄金时代 —— 《开放与共享》导读与书评</title>
-      <link>http://www.opensourceway.community/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic/</link>
-      <pubDate>Mon, 01 Apr 2019 15:48:15 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic/</guid>
-      <description>导读 在刚刚举办过的“开源领导力峰会2019”的Keynote当中，Linux 基金会执行总监 Jim Zemlin如此说道：开源的黄金时代已经来临。 尽</description>
     </item>
     
   </channel>

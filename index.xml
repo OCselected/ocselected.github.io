@@ -76,6 +76,15 @@
     </item>
     
     <item>
+      <title>商业公司主导下的非营利开源软件基金会之 ———— Cloud Foundry 基金会简史</title>
+      <link>http://www.opensourceway.community/posts/foundation_introduce/the-brief-history-of-cloud-foundry-foundation/</link>
+      <pubDate>Tue, 14 Apr 2020 12:34:57 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/foundation_introduce/the-brief-history-of-cloud-foundry-foundation/</guid>
+      <description>为什么 OpenShift 没有成立基金会？ 平台即服务（PaaS)，在容器之前的时代，竞争格局还是非常激烈的，尤其是中间件的市场，那么为什么 Spring 选择了成立基金会，</description>
+    </item>
+    
+    <item>
       <title>商业公司主导下的非营利开源软件基金会之 ———— Eclipse 的成长和发展</title>
       <link>http://www.opensourceway.community/posts/foundation_introduce/eclipse-introduce/</link>
       <pubDate>Tue, 07 Apr 2020 11:43:45 +0800</pubDate>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/open-source-economic/engineers-marketers-can-learn/</guid>
       <description>开源之道按 你无可否认的是，关于开源的市场功能已经被放大，比如Linux基金会在上海世博中心举办的KubeCon+CNCon+OSS 2019 ，盛况空</description>
-    </item>
-    
-    <item>
-      <title>开源软件商业化背后的公司突破的路径在何方？医药界亦需要拥抱开源；开源之道一周精选(2019-06-16)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-16/</link>
-      <pubDate>Sat, 15 Jun 2019 21:23:30 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-16/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 医药界亦需要拥抱开源 原文链接：Medicine needs to embrace open source 适兕点评： 开源以及开放的数据要好</description>
     </item>
     
   </channel>
