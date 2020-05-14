@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 27 Apr 2020 18:44:49 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2020 10:59:58 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道一周精选2020 05 10</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-05-10/</link>
+      <pubDate>Tue, 05 May 2020 10:59:58 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-05-10/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 文章点评 药物研制是否可以从开源的方法论中学习 原文链接：Can open-source R&amp;amp;D reinvigorate Drug Research? 适兕点评： 这是2006年发表在《自</description>
+    </item>
     
     <item>
       <title>3/5 的开发者为开源做贡献；如何为基于云计算的开源软件服务评估价值；等，开源之道一周精选2020 05 03</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource_and_university/the_story_of_opensource_in_high_school/</guid>
       <description>引言 我去年分别在苏州大学和郑州大学做过演讲分享，试图从就业方向入手来向同学们解释，开源有助于他们的就业。这是我主观的以为现在的学生比较关心未</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 04 07)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-07/</link>
-      <pubDate>Mon, 08 Apr 2019 15:56:56 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-07/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 为什么聪明的工程师会写一些坏的代码 原文链接：Why smart engineers write bad code 适兕点评： 微软资深工程师，2</description>
     </item>
     
   </channel>
