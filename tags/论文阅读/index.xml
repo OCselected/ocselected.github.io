@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 25 Apr 2020 09:41:42 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 16:14:35 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>理解认为开源不可行的重要观点 ———— 《集体行动逻辑》</title>
+      <link>http://www.opensourceway.community/posts/paper_or_book_reading/review_the_logic_of_collective_action/</link>
+      <pubDate>Wed, 13 May 2020 16:14:35 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/review_the_logic_of_collective_action/</guid>
+      <description>开源之道图书共读书友评论 集体行动的逻辑，背后有一个简单的数学模型，向集体贡献公共物品的人，首先计算这是否符合自己的利益。如果他付出的成本大于</description>
+    </item>
     
     <item>
       <title>开源哲学在开放城市中的良好应用 ———— 2020 世界阅读日读后感</title>
