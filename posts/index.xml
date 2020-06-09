@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 28 May 2020 11:26:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 09:58:21 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道两周周精选2020 06 07</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-06-01/</link>
+      <pubDate>Mon, 01 Jun 2020 09:58:21 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-06-01/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 开源软件与“私有集体”创新模式 原文链接：Open Source Software and the “Private-Collec</description>
+    </item>
     
     <item>
       <title>开源之道 Talking Episode #10：开源项目和共同体的定性定量分析探讨</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/contribute_to_community/how-to-participate-ceph-os-community/</guid>
       <description>作者：耿航 中国开源云联盟秘书长、Ceph中国社区联合创始人、腾讯云TVP。 题记 在文章开始之前先给建盛老师道个歉，之前答应写的文章一直拖到了现</description>
-    </item>
-    
-    <item>
-      <title>开源 -- 一部黑客伦理与商业资本相互妥协的融合史（《黑客》读后感）</title>
-      <link>http://www.opensourceway.community/posts/paper_or_book_reading/hackers-book-review/</link>
-      <pubDate>Mon, 01 Jul 2019 20:13:22 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/hackers-book-review/</guid>
-      <description>开源之道2019图书共读历史书评 过去几个月的导读与书评： 《软件悖论:商业软件的崛起与陨落》 Subscribed：为什么说订阅才是塑造贵司的未</description>
     </item>
     
   </channel>

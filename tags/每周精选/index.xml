@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 22 May 2020 17:25:01 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 09:58:21 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道两周周精选2020 06 07</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-06-01/</link>
+      <pubDate>Mon, 01 Jun 2020 09:58:21 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-06-01/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 开源软件与“私有集体”创新模式 原文链接：Open Source Software and the “Private-Collec</description>
+    </item>
     
     <item>
       <title>那些独立的开源开发者在疫情肆虐之下怎么生存？外包给未知的劳力：开源作为一种全球外包战略；等开源之道一周精选2020 05 24</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892018-09-02/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 Linux 基金会：加速开源创新 原文链接：The Linux Foundation: Accelerating Open Source Innovation 适兕点评： Linux 基金会在2018年的发展是</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2018 08 12)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-08-12/</link>
-      <pubDate>Mon, 13 Aug 2018 10:45:12 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892018-08-12/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 为什么说 GNU/Linux 没有在PC桌面有所建树是一件好事情 原文链接：Why the Failure to Conquer the Desktop Was Great for GNU/Linux 适兕点评</description>
     </item>
     
   </channel>
