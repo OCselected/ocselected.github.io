@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 01 Jun 2020 09:58:21 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 09:46:06 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源是如何解锁和改进开发者创造力的；并不是所有的开放源码都是平等的；等开源之道一周精选2020 06 14</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-06-14/</link>
+      <pubDate>Sun, 14 Jun 2020 09:46:06 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-06-14/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 笔者这周没有腾出时间读论文，抱歉！我们下周见。 文章点评 Drupal 的创始人谈如何成为一个高效的软</description>
+    </item>
     
     <item>
       <title>开源的商业模式；开源将会是太空探索的前沿吗？等开源之道两周周精选2020 06 07</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-07-21/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 是什么让Docker是如此的重要？ 原文链接：What Makes Docker So Important 适兕点评： 上周适兕参与了红帽</description>
-    </item>
-    
-    <item>
-      <title>如何让开发者失去兴趣；如何支持开源软件并保持理智 等之开源之道两周精选(20190701~~20190714)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892019-07-14/</link>
-      <pubDate>Sun, 14 Jul 2019 16:16:49 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892019-07-14/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 打隐私安全牌的浏览器，试图从Chrome的阴影中挣脱出来 原文链接：Privacy-fir</description>
     </item>
     
   </channel>

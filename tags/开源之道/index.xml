@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 01 Jun 2020 09:58:21 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 09:46:06 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源是如何解锁和改进开发者创造力的；并不是所有的开放源码都是平等的；等开源之道一周精选2020 06 14</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-06-14/</link>
+      <pubDate>Sun, 14 Jun 2020 09:46:06 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-06-14/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 笔者这周没有腾出时间读论文，抱歉！我们下周见。 文章点评 Drupal 的创始人谈如何成为一个高效的软</description>
+    </item>
     
     <item>
       <title>开源的商业模式；开源将会是太空探索的前沿吗？等开源之道两周周精选2020 06 07</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-28/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 我们应该让中国的间谍来 原文链接：We Should Let China Spy on Us 适兕点评： 请君入瓮！ 开源或许拥有未来，但</description>
-    </item>
-    
-    <item>
-      <title>得开发者得天下 ———— 开发者是如何征服世界的</title>
-      <link>http://www.opensourceway.community/posts/paper_or_book_reading/the_new_kingmaker_review/</link>
-      <pubDate>Tue, 23 Apr 2019 18:05:37 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/the_new_kingmaker_review/</guid>
-      <description>引言 目前市值最高的软件公司——微软，其上一任CEO，Steve Ballmer 曾经在一次大会的演讲中“表演”了一段个人“show”，Ballmer先生几乎</description>
     </item>
     
   </channel>
