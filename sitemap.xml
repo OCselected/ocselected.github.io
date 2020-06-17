@@ -123,6 +123,11 @@
   </url>
   
   <url>
+    <loc>http://www.opensourceway.community/posts/community_leadership_development/what-is-open-source-community/</loc>
+    <lastmod>2020-03-20T20:38:02+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.opensourceway.community/posts/foundation_introduce/how-debian-growing-without-foundation/</loc>
     <lastmod>2020-03-20T20:31:22+08:00</lastmod>
   </url>
@@ -2687,14 +2692,14 @@
   </url>
   
   <url>
-    <loc>http://www.opensourceway.community/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2019-09-12T16:27:21+08:00</lastmod>
+    <loc>http://www.opensourceway.community/topics/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2018-04-27T11:49:36+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.opensourceway.community/topics/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2018-04-27T11:49:36+08:00</lastmod>
+    <loc>http://www.opensourceway.community/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2019-09-12T16:27:21+08:00</lastmod>
     <priority>0</priority>
   </url>
   
