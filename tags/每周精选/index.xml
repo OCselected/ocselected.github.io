@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 18 Jun 2020 19:00:43 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2020 20:43:12 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源共同体是如何工作的；为什么大公司会将他们的技术开源？等开源之道一周精选2020 06 28</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-06-28/</link>
+      <pubDate>Mon, 22 Jun 2020 20:43:12 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-06-28/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 文章点评 知识产权战略必须削弱开放式创新吗？ 原文链接：Does IP Strategy Have to Cripple Open Innovation? 适兕点评： 这是正太分布的两个极</description>
+    </item>
     
     <item>
       <title>开源价值如何塑造公司的文化；为什么说银行应该参与到上游开源共同体；等开源之道一周精选2020 06 21</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/the_way_of_open_source/first_all_about_time/</guid>
       <description>墙上的时钟与中央处理器的时钟 中国历史上的关于时间的描述 现代人为什么注重时间？ 时间就是金钱/价值</description>
-    </item>
-    
-    <item>
-      <title>开源之道两周精选(2018 10 07)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-10-07/</link>
-      <pubDate>Sun, 07 Oct 2018 19:18:25 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-10-07/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 独立的开源项目开发者如何获得报酬? 原文链接：&amp;lsquo;NETFLIX FOR OPEN SOURCE&amp;rsquo; WANTS DEVELOPERS TO GET PAID</description>
     </item>
     
   </channel>
