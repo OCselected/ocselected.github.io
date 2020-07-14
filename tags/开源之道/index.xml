@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 01 Jul 2020 10:55:38 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 20:01:00 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源的成功是因为其创新的本质;开源共同体为更为宽容的语言构建最高法;等开源之道一周精选2020 07 12</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-07-12/</link>
+      <pubDate>Sun, 12 Jul 2020 20:01:00 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-07-12/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 无 文章点评 基于开源技术栈所需要考虑的五件事 原文链接：5 Areas to Consider When Building an Open Source Stack 适兕点评： Choosing the</description>
+    </item>
     
     <item>
       <title>开源之道一周精选2020 07 05</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/all_about_kuosi/</guid>
       <description>基本信息 中文姓名：李建盛 网络标识： 适兕 GitHub: lijiangsheng1 当前所做的事情 ”开源之道共同体” 发起人和主要成员 金融行业开源技术应用社区个人成员 Apache ALC Beijing Member 开源社 执委</description>
-    </item>
-    
-    <item>
-      <title>开源之道需要深度的聊一聊了！</title>
-      <link>http://www.opensourceway.community/posts/opensource_talking/we_need_to_talk/</link>
-      <pubDate>Wed, 08 May 2019 21:50:41 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource_talking/we_need_to_talk/</guid>
-      <description>引言 大家都知道，我加入了X-lab开放实验室，以开源导师的身份，试图帮助实验室的研究生/博士拥抱开源，在未来赢得更多的主动，并帮助实验室进行</description>
     </item>
     
   </channel>
