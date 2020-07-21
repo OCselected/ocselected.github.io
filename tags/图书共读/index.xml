@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>图书共读 on 开源之道</title>
+    <link>http://www.opensourceway.community/tags/%E5%9B%BE%E4%B9%A6%E5%85%B1%E8%AF%BB/</link>
+    <description>Recent content in 图书共读 on 开源之道</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 17 Jul 2020 12:12:05 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.opensourceway.community/tags/%E5%9B%BE%E4%B9%A6%E5%85%B1%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>开源之道书评：开源共同体和开发者关系</title>
+      <link>http://www.opensourceway.community/posts/open-source-book-review/open-source-and-developer-relations/</link>
+      <pubDate>Fri, 17 Jul 2020 12:12:05 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/open-source-book-review/open-source-and-developer-relations/</guid>
+      <description>开源之道图书共读小组成员短评 图书及作者介绍 ![]() 选择来由： 作者简介： 内容简介： 为什么开源会和开发者关系有交集？ 如果开源不能从共同体的角度出发</description>
+    </item>
+    
+  </channel>
+</rss>

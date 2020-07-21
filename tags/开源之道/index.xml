@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 12 Jul 2020 20:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2020 12:12:05 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道书评：开源共同体和开发者关系</title>
+      <link>http://www.opensourceway.community/posts/open-source-book-review/open-source-and-developer-relations/</link>
+      <pubDate>Fri, 17 Jul 2020 12:12:05 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/open-source-book-review/open-source-and-developer-relations/</guid>
+      <description>开源之道图书共读小组成员短评 图书及作者介绍 ![]() 选择来由： 作者简介： 内容简介： 为什么开源会和开发者关系有交集？ 如果开源不能从共同体的角度出发</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选2020 07 19</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-07-19/</link>
+      <pubDate>Fri, 17 Jul 2020 10:33:46 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-07-19/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 开源的创新 原文链接：The Innovations of Open Source 适兕点评： 理解开源的创新，需要从IT技术之外的角度来</description>
+    </item>
     
     <item>
       <title>开源的成功是因为其创新的本质;开源共同体为更为宽容的语言构建最高法;等开源之道一周精选2020 07 12</title>
@@ -892,24 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-05-12/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 微软开源量子计算开发工具 原文链接：Microsoft open-sources its quantum computing development tools 适兕点评： 量子计算是炫头</description>
-    </item>
-    
-    <item>
-      <title>现代开源项目如何实现贡献者增长（译文）</title>
-      <link>http://www.opensourceway.community/posts/community_leadership_development/growing-contributor-base-modern-open-source/</link>
-      <pubDate>Sat, 11 May 2019 14:02:23 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/community_leadership_development/growing-contributor-base-modern-open-source/</guid>
-      <description>引言 很荣幸，你我都经历了一个开源的黄金时代！如今的互联网公司也好，传统企业也罢，甚至是电信运营商、好莱坞制片厂、国家电网等等，都在拥抱和贡献</description>
-    </item>
-    
-    <item>
-      <title>关于适兕的简历</title>
-      <link>http://www.opensourceway.community/all_about_kuosi/</link>
-      <pubDate>Sat, 11 May 2019 11:01:51 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/all_about_kuosi/</guid>
-      <description>基本信息 中文姓名：李建盛 网络标识： 适兕 GitHub: lijiangsheng1 当前所做的事情 ”开源之道共同体” 发起人和主要成员 金融行业开源技术应用社区个人成员 Apache ALC Beijing Member 开源社 执委</description>
     </item>
     
   </channel>

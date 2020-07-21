@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 12 Jul 2020 20:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2020 12:12:05 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道书评：开源共同体和开发者关系</title>
+      <link>http://www.opensourceway.community/posts/open-source-book-review/open-source-and-developer-relations/</link>
+      <pubDate>Fri, 17 Jul 2020 12:12:05 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/open-source-book-review/open-source-and-developer-relations/</guid>
+      <description>开源之道图书共读小组成员短评 图书及作者介绍 ![]() 选择来由： 作者简介： 内容简介： 为什么开源会和开发者关系有交集？ 如果开源不能从共同体的角度出发</description>
+    </item>
+    
+    <item>
+      <title>开源之道一周精选2020 07 19</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-07-19/</link>
+      <pubDate>Fri, 17 Jul 2020 10:33:46 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-07-19/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 开源的创新 原文链接：The Innovations of Open Source 适兕点评： 理解开源的创新，需要从IT技术之外的角度来</description>
+    </item>
     
     <item>
       <title>开源的成功是因为其创新的本质;开源共同体为更为宽容的语言构建最高法;等开源之道一周精选2020 07 12</title>
@@ -892,24 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-18/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 a16z 播客： 软件开发的未来 原文链接：a16z Podcast: The Future of Software Development 适兕点评： a16z在2015年上做的</description>
-    </item>
-    
-    <item>
-      <title>构建可行的Open Core模式；巨头公司控制着绝大多数的开源项目，这是个问题吗？等开源之道一周精选(2019 08 11)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-11/</link>
-      <pubDate>Sat, 10 Aug 2019 00:19:09 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-11/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 开源正在吞噬世界吗？ 原文链接：Is Open Source Eating The World? 适兕点评： 是的，开源之道目前主要贡献者适兕也</description>
-    </item>
-    
-    <item>
-      <title>开放源代码软件的三重境界 ———— 《大教堂与集市》读后感</title>
-      <link>http://www.opensourceway.community/posts/the_way_of_open_source/the_three_realm_of_open_source_software/</link>
-      <pubDate>Sat, 10 Aug 2019 00:14:16 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/the_way_of_open_source/the_three_realm_of_open_source_software/</guid>
-      <description>那时，即便我们黑客不去谈什么意识形态，我们一样会改变这个世界！ ———— Eric S.Raymond 在本书的最后一章中如此说。 开源之道2019图书共读历史书评 过去几个</description>
     </item>
     
   </channel>
