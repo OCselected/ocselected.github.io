@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 May 2020 18:00:47 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2020 15:11:18 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%85%B1%E5%90%8C%E4%BD%93%E9%A2%86%E5%AF%BC%E5%8A%9B%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源项目共同体分析框架概述</title>
+      <link>http://www.opensourceway.community/posts/community_leadership_development/osc-analysis-framework/</link>
+      <pubDate>Wed, 17 Jun 2020 15:11:18 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/community_leadership_development/osc-analysis-framework/</guid>
+      <description>背景 Community 是开源之道在2020年主要的研究任务。并打算花一些时间，将其翻译的问题也给掰扯清楚了。就开源的世界而言，共同体是最为恰当的了，开源之道</description>
+    </item>
     
     <item>
       <title>开源共同体内的角色分析（个人与机构分别来谈论）</title>
