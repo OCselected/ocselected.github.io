@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 21 Jul 2020 16:30:17 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 16:34:03 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道 Talking Episode #11: 本土的 Hacker 哪里寻？ </title>
+      <link>http://www.opensourceway.community/posts/opensource_talking/2020-05-30-where-is-hacker/</link>
+      <pubDate>Thu, 30 Jul 2020 16:34:03 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource_talking/2020-05-30-where-is-hacker/</guid>
+      <description>致力于开源相关思想、知识和价值的探究！ 本期值得听 《大讲堂与集市》中文译者卫Sir 现场告诉你什么是Hacker？本土为什么需要寻找？那么本土有</description>
+    </item>
     
     <item>
       <title>OASIS 提供基金会即服务；破除开源软件不需商业的神话，等开源之道一周精选2020 07 26</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/business_model/open-core-vs-open-perimeter/</guid>
       <description>作者 译者 备注 Ruth Suehle 开源之道：适兕 副标题：API以及基于云计算解决方案的兴起，正在推动商业开源供应商模式的变革 （图片说明：Thomas Hawk 发表在F</description>
-    </item>
-    
-    <item>
-      <title>世界不是零和游戏：自由软件领袖Richard Stallman走进微软总部做演讲；Homebrew 也将MongoDB从核心库中删除 开源之道一周精选(2019 09 08)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-08/</link>
-      <pubDate>Fri, 06 Sep 2019 16:38:56 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-09-08/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 DevOps 帮助企业数字化转型的十大理由 原文链接：10 ways DevOps helps digital transformation 适兕点评： 随着现代社会的分工精细化</description>
     </item>
     
   </channel>

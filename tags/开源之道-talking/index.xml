@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 28 May 2020 11:26:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 16:34:03 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93-talking/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道 Talking Episode #11: 本土的 Hacker 哪里寻？ </title>
+      <link>http://www.opensourceway.community/posts/opensource_talking/2020-05-30-where-is-hacker/</link>
+      <pubDate>Thu, 30 Jul 2020 16:34:03 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource_talking/2020-05-30-where-is-hacker/</guid>
+      <description>致力于开源相关思想、知识和价值的探究！ 本期值得听 《大讲堂与集市》中文译者卫Sir 现场告诉你什么是Hacker？本土为什么需要寻找？那么本土有</description>
+    </item>
     
     <item>
       <title>开源之道 Talking Episode #10：开源项目和共同体的定性定量分析探讨</title>
