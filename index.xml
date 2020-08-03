@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>开源之道一周精选2020 08 02</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-08-02/</link>
+      <pubDate>Tue, 28 Jul 2020 11:56:06 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-08-02/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 Kubernetes 生态现状 原文链接：The State of the Kubernetes Ecosystem! 适兕点评： 想要了解现代IT 基础设施架构，读这本电子</description>
+    </item>
+    
+    <item>
       <title>OASIS 提供基金会即服务；破除开源软件不需商业的神话，等开源之道一周精选2020 07 26</title>
       <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-07-26/</link>
       <pubDate>Tue, 21 Jul 2020 16:30:17 +0800</pubDate>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource_talking/we_and_open_source_software/</guid>
       <description>引言 人们究竟对开源的依赖程度有多大？人们如何从哪里入手才能走进开源的世界？国内的拥抱开源程度大不大？盗版软件对于人们认识开源起到了什么作用？</description>
-    </item>
-    
-    <item>
-      <title>Open Core 和基于 API 的服务，商业软件如何搭上开源的顺风车！</title>
-      <link>http://www.opensourceway.community/posts/business_model/open-core-vs-open-perimeter/</link>
-      <pubDate>Thu, 12 Sep 2019 16:27:21 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/business_model/open-core-vs-open-perimeter/</guid>
-      <description>作者 译者 备注 Ruth Suehle 开源之道：适兕 副标题：API以及基于云计算解决方案的兴起，正在推动商业开源供应商模式的变革 （图片说明：Thomas Hawk 发表在F</description>
     </item>
     
   </channel>
