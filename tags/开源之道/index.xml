@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 23 Aug 2020 11:07:14 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2020 12:54:50 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>在开源界共同体的帽子要大于公司的帽子；Linux Kernel 的历史；等开源之道一周精选2020 08 30</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-08-30/</link>
+      <pubDate>Thu, 27 Aug 2020 12:54:50 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-08-30/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 ![]() ### 原文链接：[]() 适兕点评： 文章点评 在开源界共同体的帽子要大于公司的帽子 原文链接：</description>
+    </item>
     
     <item>
       <title>为什么说开源事关人本身；代码和共同体：打造开源赢家的两个关键因素等；开源之道双周精选2020 08 23</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-02/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 是什么让VMware收购了Bitnami？ 原文链接：Bitnami makes open source so easy, enterprises can do it 适兕</description>
-    </item>
-    
-    <item>
-      <title>开源开发者内在的素质：匠艺 —— 《匠人》书评与导读</title>
-      <link>http://www.opensourceway.community/posts/paper_or_book_reading/the-craftsman-book-review/</link>
-      <pubDate>Mon, 27 May 2019 21:21:04 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/the-craftsman-book-review/</guid>
-      <description>何以解忧？唯有工作。 &amp;ndash; 《匠人》一书的扉页上如是写 引言 Linux 操作系统和分布式版本控制系统Git的创始人Linus Torvalds 在 Ted 的访谈中，当谈及代码的坏味道</description>
     </item>
     
   </channel>
