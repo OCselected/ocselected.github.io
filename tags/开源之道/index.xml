@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 27 Aug 2020 12:54:50 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 14:48:37 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>请保持清醒：开源是和世界同步的唯一机会！</title>
+      <link>http://www.opensourceway.community/posts/the_way_of_open_source/please_calm_down_only_chance_to_sync_world/</link>
+      <pubDate>Tue, 01 Sep 2020 14:48:37 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/the_way_of_open_source/please_calm_down_only_chance_to_sync_world/</guid>
+      <description>引子 近来网上流传了一篇贬损开源的文章，题目非常的污名化：“我们对开源软件最大的误解，就是以为它不会被美国断供”。该篇文章混淆视听，移花接木，</description>
+    </item>
     
     <item>
       <title>在开源界共同体的帽子要大于公司的帽子；Linux Kernel 的历史；等开源之道一周精选2020 08 30</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/the_way_of_open_source/build_a_positive_meritocracy/</guid>
       <description>引言 著名基于开源项目做商业的公司红帽，其首席执行官前几年写了一本书叫做《开放式组织》，而且由此书而延伸出一系列的实践，试图在开放源代码社区、</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019-06-02)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-02/</link>
-      <pubDate>Sun, 02 Jun 2019 11:30:26 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-02/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 是什么让VMware收购了Bitnami？ 原文链接：Bitnami makes open source so easy, enterprises can do it 适兕</description>
     </item>
     
   </channel>

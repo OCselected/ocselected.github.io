@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.opensourceway.community/posts/the_way_of_open_source/please_calm_down_only_chance_to_sync_world/</loc>
+    <lastmod>2020-09-01T14:48:37+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-08-30/</loc>
     <lastmod>2020-08-27T12:54:50+08:00</lastmod>
   </url>
@@ -2673,7 +2678,7 @@
   
   <url>
     <loc>http://www.opensourceway.community/posts/</loc>
-    <lastmod>2020-08-27T12:54:50+08:00</lastmod>
+    <lastmod>2020-09-01T14:48:37+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2762,14 +2767,14 @@
   </url>
   
   <url>
-    <loc>http://www.opensourceway.community/topics/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2018-04-27T11:49:36+08:00</lastmod>
+    <loc>http://www.opensourceway.community/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2019-09-12T16:27:21+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.opensourceway.community/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2019-09-12T16:27:21+08:00</lastmod>
+    <loc>http://www.opensourceway.community/topics/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2018-04-27T11:49:36+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2817,13 +2822,13 @@
   
   <url>
     <loc>http://www.opensourceway.community/</loc>
-    <lastmod>2020-08-27T12:54:50+08:00</lastmod>
+    <lastmod>2020-09-01T14:48:37+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/</loc>
-    <lastmod>2020-08-27T12:54:50+08:00</lastmod>
+    <lastmod>2020-09-01T14:48:37+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2932,6 +2937,12 @@
   <url>
     <loc>http://www.opensourceway.community/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/</loc>
     <lastmod>2017-01-01T07:05:38+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.opensourceway.community/tags/%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2020-09-01T14:48:37+08:00</lastmod>
     <priority>0</priority>
   </url>
   
