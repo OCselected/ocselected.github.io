@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 27 Aug 2020 12:54:50 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 09:17:25 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>公司IT 的开源最佳实践；如何判断开源项目；等开源之道一周精选2020 09 06</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-09-06/</link>
+      <pubDate>Mon, 07 Sep 2020 09:17:25 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-09-06/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 ![]() ### 原文链接：[]() 适兕点评： 文章点评 以色列可以引领开源代码运动吗？ 原文链接：Can</description>
+    </item>
     
     <item>
       <title>在开源界共同体的帽子要大于公司的帽子；Linux Kernel 的历史；等开源之道一周精选2020 08 30</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/planing_and_reflection/2019/planning_and_schedule_of_year/</guid>
       <description>引子 具体事项 一 /2019-01-03 Linux基金会企业开源指南系列之九——公司如何提升开源开发的影响力 来自英文：Improving Your Open Source Development Impact 二 /2019-01-10 Linux基金</description>
-    </item>
-    
-    <item>
-      <title>开源之道一月精选(2018 12 31)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-12-31/</link>
-      <pubDate>Wed, 02 Jan 2019 10:30:15 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2018/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%A4%E5%91%A8%E7%B2%BE%E9%80%892018-12-31/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 2018年开源重大的8个里程碑 原文链接：The 8 biggest open source milestones in 2018 适兕点评： 说实话，以后开源界</description>
     </item>
     
   </channel>
