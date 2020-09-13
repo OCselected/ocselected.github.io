@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 07 Sep 2020 09:17:25 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2020 11:32:01 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scratch 被禁止访问；为什么说云计算架构和开源不总是那么的和谐；Linux 内核历史报告2020 等开源之道一周精选2020 09 13</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-09-13/</link>
+      <pubDate>Sun, 13 Sep 2020 11:32:01 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-09-13/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 Linux 内核历史报告2020 原文链接：the 2020 Linux Kernel History Report 适兕点评： When linux-0.01.tar.Z kernel was released, it consisted of 88 files and 10,239 lines of</description>
+    </item>
     
     <item>
       <title>公司IT 的开源最佳实践；如何判断开源项目；等开源之道一周精选2020 09 06</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-06/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 Linux基金会网络进一步加强开源网络 原文链接：LF Networking Moving Forward to Consolidate Open Source Networking Efforts 适兕点评： 说实话，</description>
-    </item>
-    
-    <item>
-      <title>开源之道2019年计划表</title>
-      <link>http://www.opensourceway.community/posts/planing_and_reflection/2019/planning_and_schedule_of_year/</link>
-      <pubDate>Mon, 07 Jan 2019 15:33:33 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/planing_and_reflection/2019/planning_and_schedule_of_year/</guid>
-      <description>引子 具体事项 一 /2019-01-03 Linux基金会企业开源指南系列之九——公司如何提升开源开发的影响力 来自英文：Improving Your Open Source Development Impact 二 /2019-01-10 Linux基金</description>
     </item>
     
   </channel>

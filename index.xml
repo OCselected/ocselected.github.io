@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 07 Sep 2020 09:17:25 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2020 11:32:01 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scratch 被禁止访问；为什么说云计算架构和开源不总是那么的和谐；Linux 内核历史报告2020 等开源之道一周精选2020 09 13</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-09-13/</link>
+      <pubDate>Sun, 13 Sep 2020 11:32:01 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-09-13/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 Linux 内核历史报告2020 原文链接：the 2020 Linux Kernel History Report 适兕点评： When linux-0.01.tar.Z kernel was released, it consisted of 88 files and 10,239 lines of</description>
+    </item>
     
     <item>
       <title>公司IT 的开源最佳实践；如何判断开源项目；等开源之道一周精选2020 09 06</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/paper_or_book_reading/book_review_of_hosas/</guid>
       <description>远大的志向、疲乏的心身，加上心浮气躁，我已准备好随时可能接踵而至的精神崩溃。 —————— 爱德华.威尔逊《缤纷的生命》 开源之道2019图书共读</description>
-    </item>
-    
-    <item>
-      <title>开源不止是瞎哔哔，拥抱SaaS 还是很厉害的；开源也要打假；等，开源之道一周精选(2019 10 13)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-13/</link>
-      <pubDate>Wed, 09 Oct 2019 22:32:43 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-13/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 Ken Thompson的 Unix 主机密码 原文链接：Ken Thompson&amp;rsquo;s Unix password 适兕点评： 在早几年的BSD 3的源码当</description>
     </item>
     
   </channel>
