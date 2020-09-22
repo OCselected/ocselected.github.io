@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 13 Sep 2020 11:32:01 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2020 20:36:13 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>软件自由是前所未有的重要；什么工具可以当作开源项目的Yelp？等开源之道一周精选2020 09 20</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-09-20/</link>
+      <pubDate>Mon, 14 Sep 2020 20:36:13 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-09-20/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 开放科学、公共文化和女性参与改进科学运动 原文链接：Open science, communal culture, and women&amp;rsquo;s participation in the movement to improve science 适兕</description>
+    </item>
     
     <item>
       <title>Scratch 被禁止访问；为什么说云计算架构和开源不总是那么的和谐；Linux 内核历史报告2020 等开源之道一周精选2020 09 13</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/open-source-economic/engineers-marketers-can-learn/</guid>
       <description>开源之道按 你无可否认的是，关于开源的市场功能已经被放大，比如Linux基金会在上海世博中心举办的KubeCon+CNCon+OSS 2019 ，盛况空</description>
-    </item>
-    
-    <item>
-      <title>开源软件商业化背后的公司突破的路径在何方？医药界亦需要拥抱开源；开源之道一周精选(2019-06-16)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-16/</link>
-      <pubDate>Sat, 15 Jun 2019 21:23:30 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-06-16/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 医药界亦需要拥抱开源 原文链接：Medicine needs to embrace open source 适兕点评： 开源以及开放的数据要好</description>
     </item>
     
   </channel>
