@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 14 Sep 2020 20:36:13 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2020 16:51:50 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Snowflake 是开源的终结吗？如何成为一名好的开源共同体 Cititzen 等开源之道一周精选2020 09 27</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-09-27/</link>
+      <pubDate>Sun, 27 Sep 2020 16:51:50 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-09-27/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 看通过开源转型的各个行业 原文链接：Software-defined vertical industries: transformation through open source 适兕点评</description>
+    </item>
     
     <item>
       <title>软件自由是前所未有的重要；什么工具可以当作开源项目的Yelp？等开源之道一周精选2020 09 20</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-13/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 Ken Thompson的 Unix 主机密码 原文链接：Ken Thompson&amp;rsquo;s Unix password 适兕点评： 在早几年的BSD 3的源码当</description>
-    </item>
-    
-    <item>
-      <title>开源技术可以解决贸易战？Richard Stallman 给微软的十条公开建议，等开源之道一周精选(2019 10 06)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-06/</link>
-      <pubDate>Thu, 03 Oct 2019 10:54:49 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-06/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 RedHat，是什么成就了我们 原文链接：What makes us Red Hat 适兕点评： 对于开源的承诺：坚决不</description>
     </item>
     
   </channel>
