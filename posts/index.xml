@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 27 Sep 2020 16:51:50 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2020 09:20:12 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之问 —— 提出好问题</title>
+      <link>http://www.opensourceway.community/posts/askos/why_we_need_ask/</link>
+      <pubDate>Wed, 30 Sep 2020 09:20:12 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/askos/why_we_need_ask/</guid>
+      <description>缘起 2020.9.19 西邮Linux用户组举办其第17届软件自由日活动，作为布道师的我，代表开源社分享了一个主题。期间我也打开了B站的直播视频，看看同学们的</description>
+    </item>
     
     <item>
       <title>Snowflake 是开源的终结吗？如何成为一名好的开源共同体 Cititzen 等开源之道一周精选2020 09 27</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/paper_or_book_reading/book_review_of_hosas/</guid>
       <description>远大的志向、疲乏的心身，加上心浮气躁，我已准备好随时可能接踵而至的精神崩溃。 —————— 爱德华.威尔逊《缤纷的生命》 开源之道2019图书共读</description>
-    </item>
-    
-    <item>
-      <title>开源不止是瞎哔哔，拥抱SaaS 还是很厉害的；开源也要打假；等，开源之道一周精选(2019 10 13)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-13/</link>
-      <pubDate>Wed, 09 Oct 2019 22:32:43 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-13/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 Ken Thompson的 Unix 主机密码 原文链接：Ken Thompson&amp;rsquo;s Unix password 适兕点评： 在早几年的BSD 3的源码当</description>
     </item>
     
   </channel>
