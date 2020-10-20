@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 30 Sep 2020 09:20:12 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2020 11:48:25 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源参与指南；技术作为良善之源；等开源之道一周精选2020 10 18</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-10-18/</link>
+      <pubDate>Sun, 18 Oct 2020 11:48:25 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-10-18/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 开源参与指南 原文链接：Open source participation guidelines 适兕点评： 红帽出品的一部关于贡献开源共同体的指南，</description>
+    </item>
     
     <item>
       <title>开源之问 —— 提出好问题</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/contribute_to_community/how-to-participate-ceph-os-community/</guid>
       <description>作者：耿航 中国开源云联盟秘书长、Ceph中国社区联合创始人、腾讯云TVP。 题记 在文章开始之前先给建盛老师道个歉，之前答应写的文章一直拖到了现</description>
-    </item>
-    
-    <item>
-      <title>开源 -- 一部黑客伦理与商业资本相互妥协的融合史（《黑客》读后感）</title>
-      <link>http://www.opensourceway.community/posts/paper_or_book_reading/hackers-book-review/</link>
-      <pubDate>Mon, 01 Jul 2019 20:13:22 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/hackers-book-review/</guid>
-      <description>开源之道2019图书共读历史书评 过去几个月的导读与书评： 《软件悖论:商业软件的崛起与陨落》 Subscribed：为什么说订阅才是塑造贵司的未</description>
     </item>
     
   </channel>

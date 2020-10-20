@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 29 Sep 2020 09:52:49 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2020 11:48:25 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源参与指南；技术作为良善之源；等开源之道一周精选2020 10 18</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-10-18/</link>
+      <pubDate>Sun, 18 Oct 2020 11:48:25 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-10-18/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 开源参与指南 原文链接：Open source participation guidelines 适兕点评： 红帽出品的一部关于贡献开源共同体的指南，</description>
+    </item>
     
     <item>
       <title>开源驱动软件定义的一切；为何顶级的开源公司欢迎上游的竞争者；开源之道一周精选2020 10 11</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-03/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 Amazon 开源 SageMaker Neo，在边缘运行机器学习模式 原文链接：Amazon Open Sources SageMaker Neo To Run Machine Learning Models At The Edge 原文</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 01 27)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-27/</link>
-      <pubDate>Sun, 27 Jan 2019 22:55:55 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-01-27/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 Linux 基金会成立了边缘计算子基金会：LF Edge 原文链接：Bringing open-source rhyme and reason to edge computing: LF Edge 原文链</description>
     </item>
     
   </channel>
