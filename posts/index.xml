@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 22 Oct 2020 09:35:42 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2020 06:42:49 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>你确定要将自己的项目开源？开源规则不再适用；等开源之道一周精选2020 10</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-10.31/</link>
+      <pubDate>Sat, 31 Oct 2020 06:42:49 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2020/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892020-10.31/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 文章点评 报告：充满开源代码缺陷的商业软件 原文链接：Report: Commercial Software Riddled With Open Source Code Flaws 适兕点评： Black Duck 在2017</description>
+    </item>
     
     <item>
       <title>开源：为什么说天真才是成功的关键；是时候抛弃开源了吗?等开源之道一周精选2020 10 25</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/community_leadership_development/chaoss_metrics_201908_learning/</guid>
       <description>“科学管理在实质上要求任何一个具体机构或机构中的工人及管理人员进行一场全面的心理革命，没有这样的心理革命，科学管理就不存在。” ———— 泰勒 《</description>
-    </item>
-    
-    <item>
-      <title>如何开源，决定于对开源的认识 ———— 《OpenSources：来自开源革命的呼声》书评</title>
-      <link>http://www.opensourceway.community/posts/paper_or_book_reading/book_review_of_voice_from_the_osr/</link>
-      <pubDate>Thu, 24 Oct 2019 14:01:37 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/book_review_of_voice_from_the_osr/</guid>
-      <description>Where there is a will, there is a way. &amp;ndash; anonymous 开源之道2019图书共读历史书评 过去三个季度的导读与书评： 《软件悖论:商业软件的崛起与陨落》 Subscribed：为什</description>
     </item>
     
   </channel>
