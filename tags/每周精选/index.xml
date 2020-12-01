@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 31 Oct 2020 06:42:49 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 14:09:33 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>死于忙碌：开源之道近期停更文章的缘由</title>
+      <link>http://www.opensourceway.community/posts/the_way_of_open_source/status-of-kuosi-2020-11/</link>
+      <pubDate>Tue, 01 Dec 2020 14:09:33 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/the_way_of_open_source/status-of-kuosi-2020-11/</guid>
+      <description>引言 时间花在哪里，只有时不时的回顾和总结才能知道，否则就是懵然不知，让感觉左右的话，真的就是那么一瞬间、一晃眼的事情。在过去的一个多月里，开</description>
+    </item>
     
     <item>
       <title>你确定要将自己的项目开源？开源规则不再适用；等开源之道一周精选2020 10</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-24/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 微软拥抱 Inner Source 原文链接：Microsoft is going all-in on &amp;lsquo;Inner Source&amp;rsquo; 原文链接：Microsoft embracing Open Source internally,</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 02 17)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-17/</link>
-      <pubDate>Sun, 17 Feb 2019 11:43:33 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-02-17/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 Facebook 工程师 Mark Harman 的采访 原文链接：Q&amp;amp;A With Facebook Engineer Mark Harman 适兕点评： 一位IEEE工程奖得主，从</description>
     </item>
     
   </channel>

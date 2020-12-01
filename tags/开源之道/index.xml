@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 31 Oct 2020 06:42:49 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 14:09:33 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>死于忙碌：开源之道近期停更文章的缘由</title>
+      <link>http://www.opensourceway.community/posts/the_way_of_open_source/status-of-kuosi-2020-11/</link>
+      <pubDate>Tue, 01 Dec 2020 14:09:33 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/the_way_of_open_source/status-of-kuosi-2020-11/</guid>
+      <description>引言 时间花在哪里，只有时不时的回顾和总结才能知道，否则就是懵然不知，让感觉左右的话，真的就是那么一瞬间、一晃眼的事情。在过去的一个多月里，开</description>
+    </item>
     
     <item>
       <title>你确定要将自己的项目开源？开源规则不再适用；等开源之道一周精选2020 10</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-07-28/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 GraphQL 基金会联合 Joint开发基金会一起驱动API consumption 标准 原文链接：GraphQL Foundation and Joint Development Foundation Collaborate</description>
-    </item>
-    
-    <item>
-      <title>中国的技术公司为何对开源很在意；开源学徒计划；等开源之道一周精选(2019 07 21)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-07-21/</link>
-      <pubDate>Mon, 22 Jul 2019 10:12:32 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-07-21/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 是什么让Docker是如此的重要？ 原文链接：What Makes Docker So Important 适兕点评： 上周适兕参与了红帽</description>
     </item>
     
   </channel>

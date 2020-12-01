@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 31 Oct 2020 06:42:49 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 14:09:33 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>死于忙碌：开源之道近期停更文章的缘由</title>
+      <link>http://www.opensourceway.community/posts/the_way_of_open_source/status-of-kuosi-2020-11/</link>
+      <pubDate>Tue, 01 Dec 2020 14:09:33 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/the_way_of_open_source/status-of-kuosi-2020-11/</guid>
+      <description>引言 时间花在哪里，只有时不时的回顾和总结才能知道，否则就是懵然不知，让感觉左右的话，真的就是那么一瞬间、一晃眼的事情。在过去的一个多月里，开</description>
+    </item>
     
     <item>
       <title>你确定要将自己的项目开源？开源规则不再适用；等开源之道一周精选2020 10</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-10-27/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 为什么说应该雇佣 DevOps的拥抱者，而不是所谓的专家 原文链接：Why you should hire DevOps enablers, not experts 适兕</description>
-    </item>
-    
-    <item>
-      <title>开源软件项目的定性和定量分析指标 ———— CHAOSS 指标解析</title>
-      <link>http://www.opensourceway.community/posts/community_leadership_development/chaoss_metrics_201908_learning/</link>
-      <pubDate>Thu, 24 Oct 2019 18:06:47 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/community_leadership_development/chaoss_metrics_201908_learning/</guid>
-      <description>“科学管理在实质上要求任何一个具体机构或机构中的工人及管理人员进行一场全面的心理革命，没有这样的心理革命，科学管理就不存在。” ———— 泰勒 《</description>
     </item>
     
   </channel>
