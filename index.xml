@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 14:09:33 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jan 2021 12:01:24 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>企业拥抱开源的5大优点、5条让你成功的开源策略；等开源之道一周精选2021 1 10</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2021/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892021-1-10/</link>
+      <pubDate>Mon, 11 Jan 2021 12:01:24 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2021/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892021-1-10/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 行动中的文化：符号和策略 原文链接：Culture in Action: Symbols and Strategies 适兕点评： 经典如马克斯·韦伯</description>
+    </item>
     
     <item>
       <title>死于忙碌：开源之道近期停更文章的缘由</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-17/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 什么是开放源代码？ 原文链接：What is open source? 适兕点评： 即使是如红帽这样的上市公司，也要常常</description>
-    </item>
-    
-    <item>
-      <title>在STEM大潮下如何利用开源来吸引学生；未来的创新在于协作，等，开源之道一周精选(2019 11 10)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-10/</link>
-      <pubDate>Sat, 09 Nov 2019 15:40:44 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-10/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 微软声明已经准备好为OpenJDK做出贡献 原文链接：Microsoft Announces It&amp;rsquo;s Ready to Contribute to OpenJDK 适兕</description>
     </item>
     
   </channel>
