@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Jan 2021 12:01:24 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jan 2021 15:05:46 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之书·原创计划暨作者招募</title>
+      <link>http://www.opensourceway.community/posts/open-source-way-community-program/the-book-of-origin-program/</link>
+      <pubDate>Sun, 17 Jan 2021 15:05:46 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/open-source-way-community-program/the-book-of-origin-program/</guid>
+      <description>关于开源之书的一点介绍 在2018年底之时，适兕发起了开源之道图书和文献共读申明，并身体力行，在2019年和2020年保持每月至少一本书籍的活</description>
+    </item>
     
     <item>
       <title>企业拥抱开源的5大优点、5条让你成功的开源策略；等开源之道一周精选2021 1 10</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-03/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 世界上最大的银行正在加速拥抱人工智能 原文链接：The World&amp;rsquo;s Biggest Banks Are Doubling Down On Artificial Intelligence 适兕点评： 这里值得</description>
-    </item>
-    
-    <item>
-      <title>区块链将会如何影响开源</title>
-      <link>http://www.opensourceway.community/posts/opensource_technology/open-source-tokenomics/</link>
-      <pubDate>Sat, 02 Mar 2019 15:31:12 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource_technology/open-source-tokenomics/</guid>
-      <description>特别声明 本文由作者Bilgin Ibryam 发表在Opensource.com上：How blockchain will influence open source。经授权，在开源之道翻译共享。本文在Crea</description>
     </item>
     
   </channel>

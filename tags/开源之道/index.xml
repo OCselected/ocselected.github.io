@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Jan 2021 16:32:39 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jan 2021 15:05:46 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之书·原创计划暨作者招募</title>
+      <link>http://www.opensourceway.community/posts/open-source-way-community-program/the-book-of-origin-program/</link>
+      <pubDate>Sun, 17 Jan 2021 15:05:46 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/open-source-way-community-program/the-book-of-origin-program/</guid>
+      <description>关于开源之书的一点介绍 在2018年底之时，适兕发起了开源之道图书和文献共读申明，并身体力行，在2019年和2020年保持每月至少一本书籍的活</description>
+    </item>
     
     <item>
       <title>开源之书-2021-1：《代码2.0:网络空间中的法律》</title>
@@ -18,7 +27,7 @@
       <pubDate>Mon, 11 Jan 2021 16:32:39 +0800</pubDate>
       
       <guid>http://www.opensourceway.community/posts/book-of-open-source/2021-01-code-2-laws-of-cyberspace/</guid>
-      <description>主题: 法律与开放源代码 书籍名称 作者简介 劳伦斯·莱斯格，现任斯坦福大学法学院教授，是斯坦福大网络与社会研究中心创始人，全球是最负盛名的网络法律</description>
+      <description>感谢 在此特别感谢开源社理事 Richard Lin（林旅强）的推荐。 主题: 法律与开放源代码 书籍名称 作者简介 劳伦斯·莱斯格，现任斯坦福大学法学院教授，是斯坦福</description>
     </item>
     
     <item>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource_of_other_industries/the_story_of_don_berwick/</guid>
       <description>引子 在《软件开发者路线图：从学徒到高手》这本书里，频繁的引用 Atul Gawande 所著的《Better：A Surgeon’s NOtes on performance》一书中</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 08 04)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-04/</link>
-      <pubDate>Mon, 05 Aug 2019 18:51:30 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-08-04/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 开源项目在电影&amp;amp;媒体领域证明了自己的价值 原文链接：Open Source projects are proving their value in Movies &amp;amp; Media 原</description>
     </item>
     
   </channel>
