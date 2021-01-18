@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 17 Jan 2021 15:05:46 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jan 2021 11:13:10 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linux基金会发起开源管理培训课程；Eclipse 基金会声明总部迁移到欧洲等开源之道一周精选2021 1 17</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2021/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892021-1-17/</link>
+      <pubDate>Mon, 18 Jan 2021 11:13:10 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2021/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892021-1-17/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 是什么让开发者成为开源的长期贡献者：开源软件共同体的意愿与机会 原文链接：What Make Long Term</description>
+    </item>
     
     <item>
       <title>开源之书·原创计划暨作者招募</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/the_way_of_open_source/the_three_realm_of_open_source_software/</guid>
       <description>那时，即便我们黑客不去谈什么意识形态，我们一样会改变这个世界！ ———— Eric S.Raymond 在本书的最后一章中如此说。 开源之道2019图书共读历史书评 过去几个</description>
-    </item>
-    
-    <item>
-      <title>软件行业之外的开源故事之一： 医疗界的一则故事</title>
-      <link>http://www.opensourceway.community/posts/opensource_of_other_industries/the_story_of_don_berwick/</link>
-      <pubDate>Fri, 09 Aug 2019 22:20:57 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource_of_other_industries/the_story_of_don_berwick/</guid>
-      <description>引子 在《软件开发者路线图：从学徒到高手》这本书里，频繁的引用 Atul Gawande 所著的《Better：A Surgeon’s NOtes on performance》一书中</description>
     </item>
     
   </channel>

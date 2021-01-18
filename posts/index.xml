@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 17 Jan 2021 15:05:46 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jan 2021 11:13:10 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linux基金会发起开源管理培训课程；Eclipse 基金会声明总部迁移到欧洲等开源之道一周精选2021 1 17</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2021/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892021-1-17/</link>
+      <pubDate>Mon, 18 Jan 2021 11:13:10 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2021/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892021-1-17/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 是什么让开发者成为开源的长期贡献者：开源软件共同体的意愿与机会 原文链接：What Make Long Term</description>
+    </item>
     
     <item>
       <title>开源之书·原创计划暨作者招募</title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-17/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 什么是开放源代码？ 原文链接：What is open source? 适兕点评： 即使是如红帽这样的上市公司，也要常常</description>
-    </item>
-    
-    <item>
-      <title>在STEM大潮下如何利用开源来吸引学生；未来的创新在于协作，等，开源之道一周精选(2019 11 10)</title>
-      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-10/</link>
-      <pubDate>Sat, 09 Nov 2019 15:40:44 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-11-10/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 微软声明已经准备好为OpenJDK做出贡献 原文链接：Microsoft Announces It&amp;rsquo;s Ready to Contribute to OpenJDK 适兕</description>
     </item>
     
   </channel>
