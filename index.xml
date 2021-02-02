@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 21 Jan 2021 09:38:54 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2021 15:39:56 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Facebook 的开源成绩；Drupal 从大学宿舍到十亿美金的长途跋涉；等开源之道两周精选2021 01 31</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2021/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892021-01-31/</link>
+      <pubDate>Mon, 01 Feb 2021 15:39:56 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2021/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892021-01-31/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 ![]() Copyleft: 数字时代的许可证协作 原文链接：Copyleft: Licensing Collaborative Works in the Digital Age 适兕点评： 该论文是开</description>
+    </item>
     
     <item>
       <title>开源之书·共读 2021-2：《培养实践的共同体：知识管理指南》 </title>
@@ -901,15 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/event_analysis/2019_open_source_program_survey_result/</guid>
       <description>引言 开源之道曾经专门关注过有关开源项目办公室的相关内容，并翻译了一下文章，如： 公司如何创建开源项目办公室 每家公司都应设立开源项目部门（OSP</description>
-    </item>
-    
-    <item>
-      <title>近距离看开源是什么？有什么？</title>
-      <link>http://www.opensourceway.community/posts/paper_or_book_reading/book_review_of_mitfoss/</link>
-      <pubDate>Wed, 04 Dec 2019 16:05:27 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/paper_or_book_reading/book_review_of_mitfoss/</guid>
-      <description>你要认识到你的目标是对世界历史上曾有的和现有的社会结构进行充分的比较性理解。要认识到实现这个目标,你必须避免普遍存在的学院科系的武断的专业化</description>
     </item>
     
   </channel>
