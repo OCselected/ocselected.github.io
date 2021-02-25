@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 21 Jan 2021 09:38:54 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 25 Feb 2021 22:45:09 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/tags/%E5%9B%BE%E4%B9%A6%E6%8E%A8%E8%8D%90/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道图书推荐之：Linux：Under the Radar</title>
+      <link>http://www.opensourceway.community/posts/book-of-open-source/2021-03-linux-under-the-radar/</link>
+      <pubDate>Thu, 25 Feb 2021 22:45:09 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/book-of-open-source/2021-03-linux-under-the-radar/</guid>
+      <description>主题: 开源商业模式 书籍名称：《红帽旋风》 英文版：Under the Radar 作者简介 罗伯特・杨（Robert Young） 红帽公司董事长。短短4年内，罗伯特</description>
+    </item>
     
     <item>
       <title>开源之书·共读 2021-2：《培养实践的共同体：知识管理指南》 </title>

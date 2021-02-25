@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 01 Feb 2021 15:39:56 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 25 Feb 2021 22:45:09 +0800</lastBuildDate>
     
 	<atom:link href="http://www.opensourceway.community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源之道图书推荐之：Linux：Under the Radar</title>
+      <link>http://www.opensourceway.community/posts/book-of-open-source/2021-03-linux-under-the-radar/</link>
+      <pubDate>Thu, 25 Feb 2021 22:45:09 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/book-of-open-source/2021-03-linux-under-the-radar/</guid>
+      <description>主题: 开源商业模式 书籍名称：《红帽旋风》 英文版：Under the Radar 作者简介 罗伯特・杨（Robert Young） 红帽公司董事长。短短4年内，罗伯特</description>
+    </item>
+    
+    <item>
+      <title>开源之道三周精选2021 02 23</title>
+      <link>http://www.opensourceway.community/posts/opensource/daily_reading/2021/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892021-02-23/</link>
+      <pubDate>Tue, 23 Feb 2021 08:35:57 +0800</pubDate>
+      
+      <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2021/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%89%E5%91%A8%E7%B2%BE%E9%80%892021-02-23/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 论文阅读心得与体会 开源软件和公司的生产力 原文链接：Open Source Software and Firm Productivity 适兕点评： Frank Nagle 在Learning by c</description>
+    </item>
     
     <item>
       <title>Facebook 的开源成绩；Drupal 从大学宿舍到十亿美金的长途跋涉；等开源之道两周精选2021 01 31</title>
@@ -892,24 +910,6 @@
       
       <guid>http://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-12-08/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 数字化转型员工所面临的三大痛点 原文链接：Digital transformation: 3 people pain points 适兕点评： 很多时候，我会</description>
-    </item>
-    
-    <item>
-      <title>打造归属感的共同体</title>
-      <link>http://www.opensourceway.community/posts/community_leadership_development/the-art-of-community-building-belonging/</link>
-      <pubDate>Fri, 06 Dec 2019 11:00:01 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/community_leadership_development/the-art-of-community-building-belonging/</guid>
-      <description>**“Great things are not done by impulse, but by a series of small things brought together.” ** ​ — Vincent Van Gogh 开源之道按 适兕在年底的时候，也会和大多数人一样，总结一下过去的一</description>
-    </item>
-    
-    <item>
-      <title>开源之道解读 Liunx 基金会开源办公室调查报告</title>
-      <link>http://www.opensourceway.community/posts/event_analysis/2019_open_source_program_survey_result/</link>
-      <pubDate>Fri, 06 Dec 2019 10:56:16 +0800</pubDate>
-      
-      <guid>http://www.opensourceway.community/posts/event_analysis/2019_open_source_program_survey_result/</guid>
-      <description>引言 开源之道曾经专门关注过有关开源项目办公室的相关内容，并翻译了一下文章，如： 公司如何创建开源项目办公室 每家公司都应设立开源项目部门（OSP</description>
     </item>
     
   </channel>
