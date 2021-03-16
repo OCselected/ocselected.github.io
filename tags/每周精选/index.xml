@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 04 Mar 2021 10:58:16 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 15 Mar 2021 15:44:21 +0800</lastBuildDate>
     
 	<atom:link href="https://www.opensourceway.community/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linux 基金会成立新的安全供应链签名项目sigstore；中国的巨头们正在开源上努力赶超等开源之道一周精选2021 03 14</title>
+      <link>https://www.opensourceway.community/posts/opensource/daily_reading/2021/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892021-03-14/</link>
+      <pubDate>Mon, 15 Mar 2021 15:44:21 +0800</pubDate>
+      
+      <guid>https://www.opensourceway.community/posts/opensource/daily_reading/2021/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892021-03-14/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 文章点评 开源软件如何助力数字化创新 原文链接：How Open Source Software Powers Digital Innovation 适兕点评： 人类面对共同的灾难——COVID</description>
+    </item>
     
     <item>
       <title>如果售卖开源软件；开源：创新的绝佳平台；等开源之道一周精选2021 03 07</title>
@@ -901,15 +910,6 @@
       
       <guid>https://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-07/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 为什么聪明的工程师会写一些坏的代码 原文链接：Why smart engineers write bad code 适兕点评： 微软资深工程师，2</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 03 31)</title>
-      <link>https://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-31/</link>
-      <pubDate>Sun, 31 Mar 2019 09:08:17 +0800</pubDate>
-      
-      <guid>https://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-03-31/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 免费为开源做事情的理由 原文链接：There are plenty of good reasons to do open source for free 适兕点评： 这个和志愿者文</description>
     </item>
     
   </channel>
