@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 15 Mar 2021 15:44:21 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Mar 2021 16:16:32 +0800</lastBuildDate>
     
 	<atom:link href="https://www.opensourceway.community/tags/%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源的崛起：疫情、经济、效率与信任；新入行的开发者已经无法想象没有开源的世界了，这背后到底发生了什么？等开源之道一周精选2021 03 21</title>
+      <link>https://www.opensourceway.community/posts/opensource/daily_reading/2021/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892021-03-21/</link>
+      <pubDate>Mon, 22 Mar 2021 16:16:32 +0800</pubDate>
+      
+      <guid>https://www.opensourceway.community/posts/opensource/daily_reading/2021/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892021-03-21/</guid>
+      <description>声明：本文所言论，仅代表适兕个人观点 文章点评 发展中国家的开源轮椅：SafariSeat项目 原文链接：SafariSeat: Open-Source Wheelchair for Developing Countries 适兕点评</description>
+    </item>
     
     <item>
       <title>Linux 基金会成立新的安全供应链签名项目sigstore；中国的巨头们正在开源上努力赶超等开源之道一周精选2021 03 14</title>
@@ -901,15 +910,6 @@
       
       <guid>https://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-14/</guid>
       <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 您应该聘请内部设计师还是承包商？ 原文链接：Should you hire an in-house designer or a contractor? 适兕点评： 来自红帽</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2019 04 07)</title>
-      <link>https://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-07/</link>
-      <pubDate>Mon, 08 Apr 2019 15:56:56 +0800</pubDate>
-      
-      <guid>https://www.opensourceway.community/posts/opensource/daily_reading/2019/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%892019-04-07/</guid>
-      <description>声明：本站言论，仅代表我自己，不管任何其它！ 文章点评 为什么聪明的工程师会写一些坏的代码 原文链接：Why smart engineers write bad code 适兕点评： 微软资深工程师，2</description>
     </item>
     
   </channel>
