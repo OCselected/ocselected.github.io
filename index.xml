@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 30 Mar 2021 16:48:51 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Apr 2021 11:45:02 +0800</lastBuildDate>
     
 	<atom:link href="https://www.opensourceway.community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>「开源之书·共读」2021·5：开源之路2.0</title>
+      <link>https://www.opensourceway.community/posts/book-of-open-source/2021-05-the-open-source-way/</link>
+      <pubDate>Fri, 30 Apr 2021 11:45:02 +0800</pubDate>
+      
+      <guid>https://www.opensourceway.community/posts/book-of-open-source/2021-05-the-open-source-way/</guid>
+      <description>主题：开源方法论/行动指南 书籍名称： 中文：《开源之路2.0：开源共同体管理最佳实践》 英文名：《The Open Source Way 2.0: a way of thinking about how people collaborate within a community to achieve common goals and</description>
+    </item>
     
     <item>
       <title>「开源之书·共读」2021.4月共读：《面向企业的开源：开源软件许可实用指南》</title>
@@ -901,15 +910,6 @@
       
       <guid>https://www.opensourceway.community/posts/paper_or_book_reading/reading-list-of-open-core/</guid>
       <description>引言 书籍 1. 《信息规则：网络经济的策略指导》 推荐理由： 本书会告诉你，信息的商业规则，以及开源为什么是合理的，而且是长久不衰的。 2. 《软件悖论：商</description>
-    </item>
-    
-    <item>
-      <title>Apache 基金会创始成员访谈录 ———— 回顾 Apache 20年历程！</title>
-      <link>https://www.opensourceway.community/posts/foundation_introduce/asf-founders-look-back-on-20-years/</link>
-      <pubDate>Thu, 09 Jan 2020 12:01:53 +0800</pubDate>
-      
-      <guid>https://www.opensourceway.community/posts/foundation_introduce/asf-founders-look-back-on-20-years/</guid>
-      <description>引言 刚刚过去的2019年是 Apache 基金会成立的20周年，来自Apache 基金会的Sally Khudairi搞了一件事，那就是找找当年的创始成员，除</description>
     </item>
     
   </channel>

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016 - 2020, 适兕; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 30 Mar 2021 16:48:51 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Apr 2021 11:45:02 +0800</lastBuildDate>
     
 	<atom:link href="https://www.opensourceway.community/tags/%E5%9B%BE%E4%B9%A6%E5%85%B1%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>「开源之书·共读」2021·5：开源之路2.0</title>
+      <link>https://www.opensourceway.community/posts/book-of-open-source/2021-05-the-open-source-way/</link>
+      <pubDate>Fri, 30 Apr 2021 11:45:02 +0800</pubDate>
+      
+      <guid>https://www.opensourceway.community/posts/book-of-open-source/2021-05-the-open-source-way/</guid>
+      <description>主题：开源方法论/行动指南 书籍名称： 中文：《开源之路2.0：开源共同体管理最佳实践》 英文名：《The Open Source Way 2.0: a way of thinking about how people collaborate within a community to achieve common goals and</description>
+    </item>
     
     <item>
       <title>「开源之书·共读」2021.4月共读：《面向企业的开源：开源软件许可实用指南》</title>
