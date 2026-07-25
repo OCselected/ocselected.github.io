@@ -1,0 +1,30 @@
+name: Discussion → Discord
+on:
+  discussion:
+    types: [created, answered]
+  discussion_comment:
+    types: [created]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send to Discord
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCUSSION_TITLE: ${{ github.event.discussion.title }}
+          DISCUSSION_URL: ${{ github.event.discussion.html_url }}
+          DISCUSSION_BODY: ${{ github.event.discussion.body }}
+          AUTHOR: ${{ github.event.discussion.user.login }}
+          ACTION: ${{ github.action }}
+          COMMENT_BODY: ${{ github.event.comment.body }}
+          COMMENT_AUTHOR: ${{ github.event.comment.user.login }}
+        run: |
+          if [ "${{ github.event_name }}" = "discussion" ]; then
+            MSG="📢 **新讨论**：**[$DISCUSSION_TITLE]($DISCUSSION_URL)**\n作者：$AUTHOR\n\n$DISCUSSION_BODY"
+          else
+            MSG="💬 **新评论**：[$DISCUSSION_TITLE]($DISCUSSION_URL)\n作者：$COMMENT_AUTHOR\n\n$COMMENT_BODY"
+          fi
+          curl -H "Content-Type: application/json" \
+               -d "{\"content\": \"$MSG\"}" \
+               $DISCORD_WEBHOOK
