@@ -12,19 +12,21 @@ jobs:
       - name: Send to Discord
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          DISCUSSION_TITLE: ${{ github.event.discussion.title }}
-          DISCUSSION_URL: ${{ github.event.discussion.html_url }}
-          DISCUSSION_BODY: ${{ github.event.discussion.body }}
-          AUTHOR: ${{ github.event.discussion.user.login }}
-          ACTION: ${{ github.action }}
-          COMMENT_BODY: ${{ github.event.comment.body }}
-          COMMENT_AUTHOR: ${{ github.event.comment.user.login }}
         run: |
           if [ "${{ github.event_name }}" = "discussion" ]; then
-            MSG="📢 **新讨论**：**[$DISCUSSION_TITLE]($DISCUSSION_URL)**\n作者：$AUTHOR\n\n$DISCUSSION_BODY"
+            jq -n \
+              --arg title "${{ github.event.discussion.title }}" \
+              --arg url "${{ github.event.discussion.html_url }}" \
+              --arg author "${{ github.event.discussion.user.login }}" \
+              --arg body "${{ github.event.discussion.body }}" \
+              '{content: "📢 **新讨论**：**[\($title)](\($url))**\n作者：\($author)\n\n\($body)"}' \
+              | curl -H "Content-Type: application/json" -d @- $DISCORD_WEBHOOK
           else
-            MSG="💬 **新评论**：[$DISCUSSION_TITLE]($DISCUSSION_URL)\n作者：$COMMENT_AUTHOR\n\n$COMMENT_BODY"
+            jq -n \
+              --arg title "${{ github.event.discussion.title }}" \
+              --arg url "${{ github.event.discussion.html_url }}" \
+              --arg author "${{ github.event.comment.user.login }}" \
+              --arg body "${{ github.event.comment.body }}" \
+              '{content: "💬 **新评论**：[$\($title)](\($url))\n作者：\($author)\n\n\($body)"}' \
+              | curl -H "Content-Type: application/json" -d @- $DISCORD_WEBHOOK
           fi
-          curl -H "Content-Type: application/json" \
-               -d "{\"content\": \"$MSG\"}" \
-               $DISCORD_WEBHOOK
